@@ -73,10 +73,14 @@
 402540	Tried to make <%s> aide of daimyō <%s>
 402568	Taiko IV
 405198	Ishiyama Townsmen
+4051b8	%s Lv.%y
 4051f0	Ishiyama Townsmen
 405c40	Close the card album?
 405c60	P
 405c68	Go to Page
+405ca0	%2d/%d
+405ca8	%3d/%d
+405cb0	%3d/%d
 4061a0	Japanese Book
 4061b0	Tea Ware
 4061c0	The Ten Braves Arrive
@@ -105,7 +109,7 @@
 406690	Roll
 4066a0	Roll
 4066b0	Coins
-406850	(%d-%d%s)
+406850	(%d-%d %s)
 406c08	Tōhoku
 406c10	Hokuriku
 406c18	Kōshin
@@ -310,8 +314,16 @@
 40cdd8	Unify Reg.
 40cde8	Unite Realm
 40cdf8	Unify Reg.
+40ce08	%s (%s)
+40ce10	%s (%s)
+40ce18	%s (%s)
+40ce20	%s (%s)
+40ce28	%s (%s)
+40ce30	%s (%s)
+40ce38	%s (%s)
 40ce40	Nothing special
 40ce50	Nothing special
+40ce60	%s (%s)
 40cf78	Troops
 40cf80	Rice
 40cf88	War Funds
@@ -648,6 +660,9 @@
 40e868	Ill
 40e870	Age %d
 40e878	Lord of %s
+40e880	%s (%s)
+40e888	%s (%s)
+40e890	%s (%s)
 40e8a0	Clan:
 40e8a8	Lord:
 40e8b0	None
@@ -676,10 +691,10 @@
 40ea48	Province
 40ea50	Region
 40ea58	Buy Price
-40ea70	Unknown
+40ea70	???
 40ea78	Sort
 40ea80	Horse Prices (kan per 10 horses)
-40eaa8	Unknown
+40eaa8	???
 40eab0	Sort
 40eac0	Rice Prices (kan per 1,000 koku)
 40eb40	Food
@@ -790,12 +805,12 @@
 40f0c0	Medium
 40f0c8	Large
 40f0d0	Giant
-40f0d8	Unknown
+40f0d8	???
 40f0e0	None
-40f0e8	Unknown
-40f0f0	Unknown
-40f0f8	Unknown
-40f100	Unknown
+40f0e8	???
+40f0f0	???
+40f0f8	???
+40f100	???
 40f108	Cheap
 40f110	High
 40f118	Normal
@@ -829,7 +844,7 @@
 40f3a8	%2d days left
 40f3b8	Work
 40f3c0	%2d days left
-40f3d0	Mission
+40f3d0	Task
 40f3e0	%2d days left
 40f3f0	No deadline
 40f400	%4d/%2d/%2d
@@ -979,8 +994,9 @@
 412638	Gift
 412640	Sell belongings
 412650	Waylay
-4126e8	Seat
-4126f0	Direct
+4126d8	%s\n%s\n%s%s
+4126e8	's seat
+4126f0	 (direct)
 4126f8	kan
 412700	How much?
 4127e8	Stop waiting
@@ -1353,9 +1369,9 @@
 417318	Buy Rice
 417328	Sell Rice
 417338	%s
-417340	How many thousand koku to sell?
+417340	How many koku to sell?
 417358	koku
-417360	How many thousand koku will you buy?
+417360	How many koku to buy?
 417378	koku
 4173f8	Person Info
 417408	Commission
@@ -1513,7 +1529,7 @@
 4182c0	Result
 4182c8	Merit
 4182d0	kan
-4182d8	kan
+4182d8	 kan
 4182e0	%
 4182f0	%2d%%
 4182f8	Price
@@ -1521,7 +1537,7 @@
 418308	up
 418310	0%% %s
 418318	Rate
-418320	kan
+418320	 kan
 418328	%
 418338	%2d%%
 4183d8	Person Info
@@ -1689,7 +1705,7 @@
 41cb68	Combo
 41cb70	Cards
 41cf00	OK
-41cf08	Atk-Def
+41cf08	Mode
 41cf10	Flee
 41cf20	You can choose 1 special card and 3 attack cards.
 41cf50	Choose up to 3 cards to swap.
@@ -1816,8 +1832,10 @@
 41de88	Villages
 41de90	Daimyō
 41dea0	%s\n%s\n%s\nAttacking %s
-41ded8	Seat
-41dee0	Direct
+41dec8	%s\n%s (%s)
+41ded8	's seat
+41dee0	 (direct)
+41def0	%s\n%s\n%s%s\n%s (%s)
 41df30	Zoom
 41df40	Scroll
 41df50	Show
@@ -2066,10 +2084,24 @@
 4208c8	Diplomacy
 4208d0	Person Info
 4208e0	Free
+4209a8	Foot
+4209b0	Navy
+4209b8	Bow
+4209c0	Strat
+4209c8	Build
+4209d0	Mine
+4209d8	Talk
 420a18	kan
 420a20	How much will you offer?
 420a38	kan
 420a40	How much will you offer?
+420ce8	Army Leader
+420cf0	Unit Cmdr
+420cf8	Rice
+420d00	Troops
+420d08	Horses
+420d10	Guns
+420d18	Cannon
 420d20	men
 420d28	Troops
 420d30	head
@@ -2086,6 +2118,16 @@
 420e10	OK
 420e18	Stop
 420e20	(%s)
+4216f0	Basic formation. Weak to all but Defense types.
+421720	Attack formation Lv.1  ◎Mobile  ×Defense
+421750	Attack formation Lv.2  ◎Mobile  ×Defense
+421780	Attack formation Lv.3  ◎Mobile  ×Defense
+4217b0	Defense formation Lv.1  ◎Attack  ×Mobile
+4217e0	Defense formation Lv.2  ◎Attack  ×Mobile
+421810	Defense formation Lv.3  ◎Attack  ×Mobile
+421840	Mobile formation Lv.1  ◎Defense  ×Attack
+421870	Mobile formation Lv.2  ◎Defense  ×Attack
+4218a0	Mobile formation Lv.3  ◎Defense  ×Attack
 421948	Attack
 421950	Wait
 421958	Orders
@@ -2417,7 +2459,7 @@
 4266b0	Mono
 4266c0	ON
 4266c8	OFF
-4266d0	Detailed
+4266d0	Full
 4266d8	Simple
 4266e0	ON
 4266e8	OFF

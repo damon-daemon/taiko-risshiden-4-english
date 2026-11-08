@@ -11,7 +11,7 @@ What can I do for you today?
 @4
 Which prices would you like to know?
 @5
-We trade in units of a thousand koku. We buy at {02}$d kan and sell at {02}%d kan.
+We trade in units of a thousand koku. You can buy at {02}$d kan and sell at {02}%d kan.
 @6
 Rice prices for this whole region will cost you %m.
 @7

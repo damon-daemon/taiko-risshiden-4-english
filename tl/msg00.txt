@@ -23,7 +23,7 @@ Obtained the {02}{1A}e card!
 @3
 {02}{03}g's %s fell by %u.
 @4
-Obtained %m gold.
+Obtained %m.
 @5
 Obtained {02}{15}d.
 @6

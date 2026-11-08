@@ -56,6 +56,8 @@ def assemble(origin, lines):
             'beqz': lambda: _i(0x04, a[0], 'zero', off(a[1])),
             'bnez': lambda: _i(0x05, a[0], 'zero', off(a[1])),
             'b': lambda: _i(0x04, 'zero', 'zero', off(a[0])),
+            'bgez': lambda: 0x01 << 26 | R[a[0]] << 21 | 1 << 16 | off(a[1]) & 0xFFFF,
+            'bltz': lambda: 0x01 << 26 | R[a[0]] << 21 | off(a[1]) & 0xFFFF,
             'j': lambda: 0x02 << 26 | (tgt(a[0]) >> 2) & 0x3FFFFFF,
             'jr': lambda: _r(a[0], 'zero', 'zero', 0, 0x08),
             'jalr': lambda: _r(a[0], 'zero', 'ra', 0, 0x09),
@@ -73,6 +75,7 @@ def assemble(origin, lines):
             'mult': lambda: _r(a[1], a[2], a[0], 0, 0x18),     # R5900: rd = LO = rs * rt
             'div': lambda: _r(a[0], a[1], 'zero', 0, 0x1A),
             'mflo': lambda: _r('zero', 'zero', a[0], 0, 0x12),
+            'mfhi': lambda: _r('zero', 'zero', a[0], 0, 0x10),
             'pmaxw': lambda: 0x1C << 26 | _r(a[1], a[2], a[0], 3, 0x08),   # R5900 MMI0
             'daddu': lambda: _r(a[1], a[2], a[0], 0, 0x2D),
             'jal': lambda: 0x03 << 26 | (tgt(a[0]) >> 2) & 0x3FFFFFF,

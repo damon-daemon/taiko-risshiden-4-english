@@ -22,7 +22,7 @@ ROOT = elftables.ROOT
 TR5_TERMS = os.path.join(ROOT, 'notes', 'tr5_terms.tsv')
 # literals that are data, not display text (name-entry kana, font code table)
 SKIP_OWNERS = ('gs_strRubyList', 'gs_strRubyCode', 'gs_strNameList', 'g_abyHalfCodeTable')
-FONT_SYMBOLS = set('●○◆◇■□▲△▼▽★☆←→↑↓《》「」『』【】・～×÷±…①②③④⑤⑥⑦⑧⑨')
+FONT_SYMBOLS = set('◎●○◆◇■□▲△▼▽★☆←→↑↓《》「」『』【】・～×÷±…①②③④⑤⑥⑦⑧⑨')
 
 def tr5_terms():
     out = {}

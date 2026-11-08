@@ -13,7 +13,7 @@
 @6
 ●Attack\nChoose normal attack cards (green) from your hand to play, and confirm. The cards are compared, and the side with the higher total attacks. A tie is a draw.\nSpecial sets such as "1-1-1" (Storm) or "7-6-3" (Namusan) make a combo attack. A combo wins whatever the totals; if both sides have one, the stronger combo wins.
 @7
-●Defend\nBlock the enemy's attack and swap unwanted cards. Press [Atk-Def] or R2, pick up to 3 cards to discard and confirm. You defend when the cards are compared.\n●Special\nPick just 1 special card (red, blue or yellow) from your hand and confirm. It takes effect when the cards are compared.
+●Defend\nBlock the enemy's attack and swap unwanted cards. Press [Mode] or R2, pick up to 3 cards to discard and confirm. You defend when the cards are compared.\n●Special\nPick just 1 special card (red, blue or yellow) from your hand and confirm. It takes effect when the cards are compared.
 @8
 ●Flee\nPress [Flee]. You can try this only once per fight, and it often fails.\nIn some situations you cannot flee; then the [Flee] button cannot be pressed.
 @9

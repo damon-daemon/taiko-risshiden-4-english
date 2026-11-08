@@ -45,7 +45,7 @@ Duel lasting card. Reduces the damage the foe deals you. Stronger than "Iron Wal
 @22
 Duel lasting card. Reduces the damage the foe deals you.
 @23
-Duel lasting card. Increases the damage of your attacks. Stronger than "Great Strength".
+Duel lasting card. Increases the damage of your attacks. Stronger than "Great Might".
 @24
 Duel lasting card. Slightly increases the damage of your attacks.
 @25
@@ -53,7 +53,7 @@ Duel lasting card. Restores stamina every turn. Heals more than "Dried Rice".
 @26
 Duel lasting card. Restores a little stamina every turn.
 @27
-Duel lasting card. Drains the foe's stamina every turn. Stronger than "Spring Blossom Art".
+Duel lasting card. Drains the foe's stamina every turn. Stronger than "Spring Bloom Art".
 @28
 Duel lasting card. Drains a little of the foe's stamina every turn.
 @29

@@ -2,9 +2,9 @@
 0	Fire Attack
 1	Pincer
 2	Ride Down
-3	Decoy Charge
+3	Decoy Rush
 4	Red Charge
-5	Archer Charge
+5	Archer Rush
 6	Fire Pots
 7	Fire Arrows
 8	Strong Bow
@@ -12,14 +12,14 @@
 10	Rolling Fire
 11	Triple Volley
 12	Sniping
-13	Decoy Ambush
+13	Lure Ambush
 14	Quick Load
-15	Urge Surrender
+15	Call to Yield
 16	Offer Peace
 17	Tunnelling
 18	Gate Blast
 19	Starve Out
-20	Treason Rumour
+20	Sow Treason
 21	Flooding
 22	Rockfall
 23	Abuse
@@ -27,7 +27,7 @@
 25	Pursuit
 26	Ambush
 27	Woodpecker
-28	Tenfold Ambush
+28	Tenfold Trap
 29	Pitfall
 30	Plan Refill
 31	Rush Repair

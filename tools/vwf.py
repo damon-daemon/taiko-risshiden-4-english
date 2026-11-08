@@ -13,7 +13,8 @@ Stage 2, proportional advance: WIDTH(a0 = byte, a1 = half cell) in the segment
 returns the advance (ASCII 0x20-0x7E: tools/latinfont.py advance, scaled by half/12
 when a list draws at another size; Shift-JIS lead byte: 2 x half; else half). It
 uses only v0/v1/at/a0, so callers can keep state in t registers. Sites:
-- CTextAreaBase::strDrawText: the wrap test (0x38C834, x + advance > right edge) and
+- CTextAreaBase::strDrawText: the wrap test (0x38C834, x + advance > right edge; word
+  wrap: at a word start the whole word's width is tested, see text_wrap) and
   the horizontal advance (0x38CC80; s0 = kanji flag, s4 already past the char);
 - CFontPrimContainer::bPuts: the half-width advance (0x3831D0, sp+0x48 = half cell);
 - ptGetTextSize (box sizing): uiStrLen2 (longest line in bytes) is replaced by a
@@ -21,9 +22,12 @@ uses only v0/v1/at/a0, so callers can keep state in t registers. Sites:
   and the multiply by (half + spacing) at 0x38CDC0 by a move;
 - CPersonInfoWin::DrawWindow (officer bio, 22x24 cells): half-width x += 11 at
   0x21EF1C (it still wraps per character at x >= 242: bios are wrapped at build time);
-- CMesWin::PersonMes nameplate: centred as (W - strlen x 12) / 2 at 0x2599BC; uiStrLen
-  is replaced by STR_PX (pixel width of a string at half cell 12, kanji = 24), the x 12
-  by a move;
+- strlen x 12 pixel measures (STRLEN12: speaker nameplates CMesWin::PersonMes & co, person
+  info name, help titles, save-file buttons, name entry, list pages...): `jal uiStrLen; ds;
+  sll v1,v0,1; addu x,v1,v0; sll R,x,2` -> `jal STR_PX; ds; addu R,v0,zero; nop; nop`
+  (STR_PX = pixel width at half cell 12, kanji 24: identical for Japanese text). Not
+  patched (other arithmetic): CPersonButton 0x1CF884.. (10-px cells), DrawCheckMessage
+  0x3D54D0, CEnvironmentWin 0x3E1730/0x3E1B78;
 - DrawHelpMessage (help window): half-width x += 12 at 0x3D59F8; the original also
   advanced the string a second time there, skipping the byte after every half-width
   character (Japanese help text has none), which is dropped.
@@ -115,7 +119,11 @@ SIZE_MUL = 0x38CDC0           # mult a1, v1, a0
 IS_KANJI, STRLEN2 = 0x385F80, 0x385C40
 BIO_ADV = 0x21EF1C            # lw v1,0x438(sp); addiu v1,v1,11; sw v1,0x438(sp)
 HELP_ADV = 0x3D59F8           # addiu s0,s0,1; lw v1,0x90(sp); addiu v1,v1,12; sw v1,0x90(sp)
-NAMEPLATE = 0x2599BC          # jal uiStrLen; nop; sll v1,v0,1; addu v0,v1,v0; sll v1,v0,2 (CMesWin::PersonMes)
+STRLEN12 = [0x1A5E4C, 0x1E17E0, 0x1EB710, 0x1EB798, 0x1EB820, 0x21C840, 0x23D32C, 0x2579E4,
+            0x257DB8, 0x258474, 0x258858, 0x258EAC, 0x2591AC, 0x2594CC, 0x259714, 0x2599BC,
+            0x25A0B4, 0x25A3A4, 0x25A5DC, 0x25A7E4, 0x25AD1C, 0x25AF54, 0x25B14C, 0x25B5FC,
+            0x2F0684, 0x3C8874, 0x3C9008, 0x3CBDA4, 0x3CC0B0, 0x3CC6B8, 0x3CCEB8, 0x3D27C8,
+            0x3D379C, 0x3D3B48, 0x3D4634]
 STRLEN = 0x385F30
 
 def widths():
@@ -160,8 +168,69 @@ def width_fn(org, table):
         ('addu', 'v0', 'a1', 'zero'),
     ])
 
+def text_wrap(org, w):
+    """strDrawText wrap test width (v0; the caller tests x + v0 > right edge and breaks
+    the line there). Word wrap: a space never breaks (it may hang past the edge); the
+    first character after a space returns the width of the whole word (up to a space,
+    newline, end or kanji; ESC x y skipped; + positive area spacing per character), so a
+    word that does not fit moves to the next line. A word wider than the area, and any
+    other character, returns its own advance (as before: mid-word breaks)."""
+    return assemble(org, [
+        ('addu', 't9', 'ra', 'zero'),
+        ('lbu', 'a0', 0, 's4'),
+        ('jal', w),
+        ('addu', 'a1', 's1', 'zero'),
+        ('addu', 't5', 'v0', 'zero'),          # own advance
+        ('addiu', 'at', 'zero', 0x20),
+        ('lbu', 't8', 0, 's4'),
+        ('beq', 't8', 'at', 'space'),
+        ('lbu', 't8', -1, 's4'),
+        ('bne', 't8', 'at', 'own'),            # not the start of a word
+        ('addu', 't7', 's4', 'zero'),
+        ('addu', 't6', 'zero', 'zero'),
+        'loop:',
+        ('lbu', 'a0', 0, 't7'),
+        ('beqz', 'a0', 'done'),
+        ('addiu', 'at', 'zero', 0x20),
+        ('beq', 'a0', 'at', 'done'),
+        ('addiu', 'at', 'zero', 0x0A),
+        ('beq', 'a0', 'at', 'done'),
+        ('addiu', 'at', 'zero', 0x1B),
+        ('bne', 'a0', 'at', 'char'),
+        ('nop',),
+        ('b', 'loop'),
+        ('addiu', 't7', 't7', 3),
+        'char:',
+        ('jal', w),
+        ('addu', 'a1', 's1', 'zero'),
+        ('sll', 'at', 's1', 1),
+        ('beq', 'v0', 'at', 'done'),           # kanji: Japanese has no word spaces
+        ('addu', 't6', 't6', 'v0'),
+        ('lw', 'at', 0x18, 's5'),
+        ('bgez', 'at', 'pos'),
+        ('nop',),
+        ('addu', 'at', 'zero', 'zero'),
+        'pos:',
+        ('addu', 't6', 't6', 'at'),
+        ('b', 'loop'),
+        ('addiu', 't7', 't7', 1),
+        'done:',
+        ('lw', 'at', 8, 's5'),                 # area width
+        ('slt', 'at', 'at', 't6'),
+        ('bnez', 'at', 'own'),                 # longer than a line: break inside it
+        ('nop',),
+        ('jr', 't9'),
+        ('addu', 'v0', 't6', 'zero'),
+        'space:',
+        ('jr', 't9'),
+        ('addu', 'v0', 'zero', 'zero'),
+        'own:',
+        ('jr', 't9'),
+        ('addu', 'v0', 't5', 'zero'),
+    ])
+
 def text_adv(org, w):
-    """strDrawText advance: v1 = s0 ? s2 : WIDTH(s4[-1], s1)."""
+    """strDrawText advance: v1 = s0 ? s2 : WIDTH(s4[-1], s1) - min(spacing, 0)."""
     return assemble(org, [
         ('bnez', 's0', 'kanji'),
         ('addu', 'v1', 's2', 'zero'),
@@ -169,15 +238,22 @@ def text_adv(org, w):
         ('lbu', 'a0', -1, 's4'),
         ('jal', w),
         ('addu', 'a1', 's1', 'zero'),
+        ('lw', 'at', 0x18, 's5'),              # the caller adds the area's spacing: a negative
+        ('bgez', 'at', 'done'),                # one (edged labels: -1) is cancelled, the
+        ('addu', 'v1', 'v0', 'zero'),          # proportional advance has its own gap
+        ('subu', 'v1', 'v1', 'at'),
+        'done:',
         ('jr', 't9'),
-        ('addu', 'v1', 'v0', 'zero'),
+        ('nop',),
         'kanji:',
         ('jr', 'ra'),
         ('nop',),
     ])
 
 def puts_adv(org, w):
-    """bPuts: v1 = WIDTH(s0[-1], sp+0x48); v0 (loaded in the jal delay slot) kept."""
+    """bPuts: v1 = WIDTH(s0[-1], sp+0x48), + 1 for a single-byte glyph when the list (s2) is
+    edged (CFontPrimList+0x3C mode 3/4: the outline closes 1-px gaps, 'Build' read 'Buld');
+    v0 (loaded in the jal delay slot) kept."""
     return assemble(org, [
         ('addu', 't9', 'ra', 'zero'),
         ('addu', 't8', 'v0', 'zero'),
@@ -185,6 +261,13 @@ def puts_adv(org, w):
         ('jal', w),
         ('lw', 'a1', 0x48, 'sp'),
         ('addu', 'v1', 'v0', 'zero'),
+        ('lw', 'at', 0x48, 'sp'),
+        ('sll', 'at', 'at', 1),
+        ('beq', 'v1', 'at', 'done'),           # kanji
+        ('lw', 'at', 0x3C, 's2'),
+        ('sltu', 'at', 'zero', 'at'),
+        ('addu', 'v1', 'v1', 'at'),
+        'done:',
         ('jr', 't9'),
         ('addu', 'v0', 't8', 'zero'),
     ])
@@ -226,15 +309,19 @@ def text_size(org, w):
         ('jal', w),
         ('addu', 'a1', 't2', 'zero'),
         ('addu', 't4', 't4', 'v0'),
-        ('addu', 't4', 't4', 't3'),
         ('sll', 'at', 't2', 1),
-        ('bne', 'v0', 'at', 'loop'),
-        ('nop',),
+        ('bne', 'v0', 'at', 'half'),
+        ('addu', 't4', 't4', 't3'),
         ('lbu', 'at', 0, 't7'),                # kanji: skip the trail byte, 2 columns
         ('beqz', 'at', 'loop'),
         ('addu', 't4', 't4', 't3'),
         ('b', 'loop'),
         ('addiu', 't7', 't7', 1),
+        'half:',                               # single byte: negative spacing cancelled
+        ('bgez', 't3', 'loop'),                # (as in text_adv)
+        ('nop',),
+        ('b', 'loop'),
+        ('subu', 't4', 't4', 't3'),
         'newline:',
         ('slt', 'at', 't5', 't4'),
         ('movn', 't5', 't4', 'at'),
@@ -306,8 +393,8 @@ def apply_vwf(elf, seg):
     w = _fn(seg, width_fn, table)
     assert _word(elf, TEXT_WRAP + 4) == 0x0C000000 | IS_KANJI >> 2
     _put(elf, TEXT_WRAP, assemble(TEXT_WRAP, [
-        ('lbu', 'a0', 0, 's4'), ('jal', w), ('addu', 'a1', 's1', 'zero'),
-        ('addu', 'a0', 'v0', 'zero'), ('nop',)]))
+        ('jal', _fn(seg, text_wrap, w)), ('nop',),
+        ('addu', 'a0', 'v0', 'zero'), ('nop',), ('nop',)]))
     assert _word(elf, TEXT_ADV + 4) == 0x0250180B, 'movn v1, s2, s0'
     _put(elf, TEXT_ADV, assemble(TEXT_ADV, [('jal', _fn(seg, text_adv, w)), ('nop',)]))
     assert _word(elf, PUTS_ADV) == 0x8FA30048
@@ -319,9 +406,17 @@ def apply_vwf(elf, seg):
     assert _word(elf, BIO_ADV) == 0x8FA30438 and _word(elf, BIO_ADV + 4) == 0x2463000B
     _put(elf, BIO_ADV, assemble(BIO_ADV, [
         ('jal', _fn(seg, slot_adv, w, 's0', 11, 0x438)), ('nop',), ('nop',)]))
-    assert _word(elf, NAMEPLATE) == 0x0C000000 | STRLEN >> 2 and _word(elf, NAMEPLATE + 8) == 0x00021840
-    _put(elf, NAMEPLATE, assemble(NAMEPLATE, [
-        ('jal', _fn(seg, str_px, w)), ('nop',), ('addu', 'v1', 'v0', 'zero'), ('nop',), ('nop',)]))
+    px = _fn(seg, str_px, w)
+    for va in STRLEN12:
+        j, ds, a, b, c = (_word(elf, va + 4 * k) for k in range(5))
+        assert j == 0x0C000000 | STRLEN >> 2 and a == 0x00021840, hex(va)        # sll v1,v0,1
+        assert b in (0x00621021, 0x00621821), hex(va)                             # addu x,v1,v0
+        x = (b >> 11) & 31
+        assert (c & 0xFFFF07FF) == (x << 16 | 0x80), hex(va)                    # sll R,x,2
+        r = (c >> 11) & 31
+        _put(elf, va, assemble(va, [('jal', px), ('nop',)]))
+        _put(elf, va + 4, struct.pack('<I', ds))
+        _put(elf, va + 8, struct.pack('<III', 0x00400021 | r << 11, 0, 0))       # addu R,v0,zero
     assert _word(elf, HELP_ADV) == 0x26100001 and _word(elf, HELP_ADV + 8) == 0x2463000C
     _put(elf, HELP_ADV, assemble(HELP_ADV, [
         ('jal', _fn(seg, slot_adv, w, 's0', 12, 0x90)), ('nop',), ('nop',), ('nop',)]))

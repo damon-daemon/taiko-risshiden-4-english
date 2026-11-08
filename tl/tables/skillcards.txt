@@ -1,12 +1,12 @@
 # skillcards: index<TAB>English (tools/elftables.py)
 0	Tengu Scroll
 1	Iron Wall
-2	Vajra Strength
-3	Great Strength
+2	Vajra Might
+3	Great Might
 4	Remedy
 5	Dried Rice
-6	Dragon Smoke
-7	Spring Blossom
+6	Dragon Haze
+7	Spring Bloom
 8	Ninja Monkey
 9	Ninja Dog
 10	Shadow Pin
@@ -24,14 +24,14 @@
 22	Fleet Foot
 23	Assault
 24	Sword Saint
-25	No-Mind Sword
+25	No-Mind Cut
 26	Floating Boat
-27	Go-Board Cut
+27	Goban Cut
 28	Leaf Clash
 29	Two Swords
 30	Swallow Cut
-31	No-Sword Seize
-32	The One Sword
+31	Mutō-dori
+32	One Sword
 33	Pot Lid
 34	Demon Gale
 35	Clone

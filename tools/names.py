@@ -8,7 +8,8 @@ CPersonElement::LoadScenario 0x3048B0 reads them into this+0x1883C (the table is
 and loaded as one 0x5BE0-byte block); person+4 points to the record (CPerson::Initialize).
 Ids: 0-649 officers (CBushou), 650-707 other people (CPersonNormal), 708-734 roles
 (gatekeeper, innkeeper...). Readings: subfile 9, 708 x 48 bytes, family reading[9] |
-given reading[9] (half-width kana) | data; person+8 points to it (kept Japanese).
+given reading[9] (half-width kana) | data; person+8 points to it (kept Japanese; the display
+getter CPersonNormal::strGetFullNameRuby returns "").
 
 English layout: family at +0 (15 bytes + NUL), the rank u16 at +16 untouched, given at
 **+18** (13 bytes + NUL, the unused bytes). (Until 2026-11-08 the given name sat at +16
@@ -54,6 +55,9 @@ CHANGE_LEN = [(0x1C1234, 9), (0x1C124C, 7)]  # addiu a2, zero, n: szStrNCpy fami
 FULL_NAME = 0x304110                 # CPerson::strGetFullName, 0x304110-0x3041AC
 FULL_END = 0x3041B0
 RING, GET_BUFFER, STRCAT = 0x53F470, 0x36BD20, 0x385DA0
+FULL_RUBY = 0x303A40                 # CPersonNormal::strGetFullNameRuby (virtual): kana reading
+RUBY_SPRINTF = [0x21C8F8, 0x1E1890]  # beqz v0 (family reading empty -> getter): CPersonInfoWin /
+                                     # CMakePersonParamWindow::DrawWindow Sprintf the readings
 
 def field(b):
     return b.split(b'\0')[0].decode('cp932', 'replace')
@@ -301,6 +305,13 @@ def apply(elf, data, seg):
     code = full_name_code(space)
     assert len(code) <= FULL_END - FULL_NAME
     _put(elf, FULL_NAME, code.ljust(FULL_END - FULL_NAME, b'\0'))
+    # the kana reading printed under names: empty (the readings stay in RAM for sorting)
+    assert _word(elf, FULL_RUBY) == 0x27BDFFD0, 'strGetFullNameRuby moved'     # addiu sp,-0x30
+    empty = space + 1
+    for va in RUBY_SPRINTF:
+        assert _word(elf, va) >> 16 == 0x1040, hex(va)                       # beqz v0 -> b
+        _put(elf, va, struct.pack('<I', _word(elf, va) & 0xFFFF | 0x10000000))
+    _put(elf, FULL_RUBY, assemble(FULL_RUBY, [('lui', 'v0', hi(empty)), ('jr', 'ra'), ('addiu', 'v0', 'v0', lo(empty))]))
     tl = load_tl()
     changes, errors = {}, []
     for s, ent in enumerate(SCENARIOS):

@@ -199,6 +199,8 @@ def render(size):
                 break
             f *= 0.96
         adv = (max(ink) + 2 - MARGIN + (c in WIDE) - (c in TIGHT)) if ink else round(GLYPHS[c][0] * s + 1)
+        if c == '.':
+            adv += 1        # TR4: '...' read as '..' on screen with a 1-px gap
         out[c] = (rows, min(adv, cw - 1))
     return out
 

@@ -29,6 +29,12 @@ R_32, R_HI16, R_LO16, R_GPREL16 = 2, 5, 6, 7
 # ASCII-only literals that still need English (not found by _is_text)
 ASCII_LITERALS = {
     0x40F418,          # "%d00" status-bar money remainder (x 100 mon), followed by a fixed "文"
+    # "%s(%s)" formats (province(region), ...): a space before the parenthesis
+    0x40CE08, 0x40CE10, 0x40CE18, 0x40CE20, 0x40CE28, 0x40CE30, 0x40CE38, 0x40CE60,
+    0x40E880, 0x40E888, 0x40E890, 0x41DEC8, 0x41DEF0,
+    0x405CA0, 0x405CA8, 0x405CB0,   # card album "%2d %d" / "%3d %d" (collected / total, page)
+    0x4051B8,          # skill card label "%sLv.%y" (negotiation, duel...): space before Lv.
+    0x4126D8,          # map balloon "%s\n%s\n%s %s": castle, clan, person + Seat/Direct label
 }
 FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?[a-zA-Z]')
 
@@ -150,11 +156,14 @@ def export():
     import bisect
     E = Elf(open(CLEAN, 'rb').read())
     tl = load_tl()
-    named = sorted((va, n) for n, va, size in E.syms if va and not n.startswith('@') and not n.startswith('.'))
-    keys = [va for va, _ in named]
-    def owner(off):
+    named = sorted((va, n, size) for n, va, size in E.syms if va and not n.startswith('@') and not n.startswith('.'))
+    keys = [va for va, _, _ in named]
+    def owner(off):     # the named symbol holding the reference; '~name' = past its end (unnamed data)
         k = bisect.bisect(keys, off) - 1
-        return named[k][1] if k >= 0 else '?'
+        if k < 0:
+            return '?'
+        va, n, size = named[k]
+        return n if not size or off < va + size else '~' + n
     rows = []
     for i, va, size, s in E.literals():
         refs = E.refs.get(i, [])

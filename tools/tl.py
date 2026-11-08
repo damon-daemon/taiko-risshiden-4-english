@@ -238,6 +238,27 @@ def wrap(toks, width):
         out.append(join(line))
     return out
 
+def blank(line):
+    return not any(k == 'soft' or (k != 'text' and t) or t.strip() for k, t in line)
+
+def page_breaks(lines, page):
+    """Message window: the Japanese uses blank lines only to pad a page (all 48 window
+    units with blank lines, checked 2026-11-08; tutorials pace pages with them). An
+    interior blank English line is a page break: pad the current page with empty lines
+    (none at the top of a page). Leading and trailing blank lines are kept as written."""
+    first = next((i for i, l in enumerate(lines) if not blank(l)), len(lines))
+    last = max((i for i, l in enumerate(lines) if not blank(l)), default=-1)
+    if first >= last:
+        return lines
+    out = lines[:first]
+    for i in range(first, last + 1):
+        if blank(lines[i]):
+            while len(out) % page:
+                out.append([])
+        else:
+            out.append(lines[i])
+    return out + lines[last + 1:]
+
 class Box:
     def __init__(self, n, rows):
         self.n = n
@@ -447,6 +468,14 @@ def build_entry(jp, units_en, box, tag, log):
             continue
         width, max_lines, page = box.limits(toks[a:z], int(tag.split('@')[1]))
         lines = wrap(et, width)
+        shown = lines
+        if page and box.fixed and len(box.fixed) == 2:
+            # message window: the game word-wraps by pixels (vwf.text_wrap) with the real
+            # widths of inserted names, so only forced breaks are written; units with page
+            # breaks keep the build-time wrap (the padding depends on the line count)
+            padded = page_breaks(lines, page)
+            shown = padded if padded != lines else lines_of(et)
+            lines = padded
         for i, l in enumerate(lines):
             px, nb = measure(l)
             if px > width:
@@ -474,7 +503,7 @@ def build_entry(jp, units_en, box, tag, log):
             continue
         for w in warns:
             log('%s.%d warn  %s' % (tag, u, w), False)
-        new = join_lines(lines)
+        new = join_lines(shown)
         for i in range(a, z):
             out[i] = b''
         out[a] = new

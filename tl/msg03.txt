@@ -17,13 +17,13 @@ But an attack by a special card beats ordinary attack cards.\n\nSo if you play "
 @8
 Besides "Assault," there are several other special cards that attack.\n\nSince special cards have no numbers, which beats which is fixed for each.\n\nYou will learn such things in time, in real fights.
 @9
-Some cards behave a little differently.\n\nThis "Great Strength" is one of them: a lasting card.
+Some cards behave a little differently.\n\nThis "Great Might" is one of them: a lasting card.
 @10
 Lasting cards are not attack cards. If the enemy plays attack cards, you are attacked without fail.\nWhen your stamina is low, you had better not play lasting cards.
 @11
 At this point, the lasting card has finally been played.\n\nYou can keep one lasting card at the top right.
 @12
-And unless it is somehow removed, or you play a different lasting card...\nit keeps working!\nIn the case of this "Great Strength," it keeps adding +5 to your attack damage.\nBy the way, when you play cards, point the cursor at a card and its effect is explained at the bottom of the screen.
+And unless it is somehow removed, or you play a different lasting card...\nit keeps working!\nIn the case of this "Great Might," it keeps adding +5 to your attack damage.\nBy the way, when you play cards, point the cursor at a card and its effect is explained at the bottom of the screen.
 @13
 The last kind of special card is the automatic card. Let me explain this "Counter."\n\nAutomatic cards cannot be played.\n\n\nInstead, as long as you hold one, its effect works by itself.\n\nHaving explained this much, it is quicker to see it. Just watch a moment.\n
 @14

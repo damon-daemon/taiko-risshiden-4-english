@@ -1,11 +1,11 @@
 @0
 ◆What does higher Infantry do?\nYou fight better leading infantry in battle, and are more likely to be put in charge of infantry.\n◆How to train\nChoose [Skill Training] then [Infantry] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Infantry is higher than yours.
 @1
-◆Training begins!\nFight a mock battle. A win gives a lot of experience; even in defeat you gain experience by how well you did. [Attack] or [Fire] opens the combat screen.\n◆Abilities that matter\nLeadership: the higher, the stronger your attacks.\n◆Cards you can get\n"Ambush", "Tenfold Ambush", "Pursuit"
+◆Training begins!\nFight a mock battle. A win gives a lot of experience; even in defeat you gain experience by how well you did. [Attack] or [Fire] opens the combat screen.\n◆Abilities that matter\nLeadership: the higher, the stronger your attacks.\n◆Cards you can get\n"Ambush", "Tenfold Trap", "Pursuit"
 @2
 ◆What does higher Cavalry do?\nYou fight better leading cavalry in battle, and are more likely to be put in charge of cavalry.\n◆How to train\nChoose [Riding Training] at a stable.
 @3
-◆Training begins!\nRace your teacher on horseback. A win gives a lot of experience; even if you lose, you gain experience by how well you did.\n◆Abilities that matter\nValor: the higher, the less risk of falling from your horse.\n\n◆Cards you can get\n"Ride Down", "Red Charge", "Archer Charge"
+◆Training begins!\nRace your teacher on horseback. A win gives a lot of experience; even if you lose, you gain experience by how well you did.\n◆Abilities that matter\nValor: the higher, the less risk of falling from your horse.\n\n◆Cards you can get\n"Ride Down", "Red Charge", "Archer Rush"
 @4
 ◆What does higher Gunnery do?\nYou fight better leading gunners in battle, and are more likely to be put in charge of gunners.\n◆How to train\nChoose [Gunnery Training] at a smithy.
 @5
@@ -21,7 +21,7 @@
 @10
 ◆What does higher Swordsmanship do?\nYou get more cards in hand in duels.\n◆How to train\nChoose [Sword Training] at a dojo in a castle town.
 @11
-◆Training begins!\nChoose cards to play; the side with the higher total attacks. Repeat this; whoever drops to 0 stamina first loses. You gain experience by how the bout went.\n◆Abilities that matter\nValor: the higher, the stronger your attacks.\nSwordsmanship: the higher, the more cards in hand.\n◆Cards you can get\n"Counter Cut", "Vajra Strength", "Body Blow"
+◆Training begins!\nChoose cards to play; the side with the higher total attacks. Repeat this; whoever drops to 0 stamina first loses. You gain experience by how the bout went.\n◆Abilities that matter\nValor: the higher, the stronger your attacks.\nSwordsmanship: the higher, the more cards in hand.\n◆Cards you can get\n"Counter Cut", "Vajra Might", "Body Blow"
 @12
 ◆What does higher Tactics do?\n[Separate Soldiers] and [Train] give better results. Training Tactics also teaches you formations.\n◆How to train\nChoose [Skill Training] then [Tactics] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Tactics is higher than yours.
 @13
