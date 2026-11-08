@@ -7,7 +7,7 @@ One of the Three Great Falls. Water from Lake Chuzenji plunges over a lava cliff
 @3
 Japan's greatest peak. Revered as sacred and loved since before history, it is the symbol of Japan.
 @4
-Japan's largest lake, called "Omi" in ancient times. It gives drinking water, shipping and much more.
+Japan's largest lake, called "Ōmi" in ancient times. It gives drinking water, shipping and much more.
 @5
 One of the Three Views of Japan: a 3 km sandbar of white sand and green pines jutting from Miyazu Bay.
 @6
@@ -29,7 +29,7 @@ A lagoon formed as silt from the Yoneshiro and Omono rivers joined the Oga penin
 @14
 With Koya and Hiei, one of Japan's three great holy sites: a sacred peak revered since the Heian era.
 @15
-A cliff coast on the Etchu-Echigo border, so perilous that parent and child can't watch out for each other.
+A cliff coast on the Etchū-Echigo border, so perilous that parent and child can't watch out for each other.
 @16
 Columnar cliffs facing the Sea of Japan. Legend says the wicked monk Tojinbo of Heisenji was pushed off here.
 @17
@@ -135,7 +135,7 @@ Tea title. Charm +15\nFor one who grasps the heart of tea and earns a place in i
 @67
 Tea title. Charm +10\nFor one like Hechikan, a tea master steeped in wabi tea and Zen.
 @68
-Tea title. Charm +6\nFor one with the skill of a tea master serving a daimyo.
+Tea title. Charm +6\nFor one with the skill of a tea master serving a daimyō.
 @69
 Tea title. Charm +3\nFor a cultured lover of refinement and tea: a sukisha.
 @70
@@ -169,11 +169,11 @@ Has completed over half the training in the Kurohabaki village; a seasoned ninja
 @84
 A Kurohabaki ninja who has only just begun training: still green, at the bottom.
 @85
-A title for a senior ninja who has completed all training in the Fuma village.
+A title for a senior ninja who has completed all training in the Fūma village.
 @86
-Has completed over half the training in the Fuma village; a seasoned ninja.
+Has completed over half the training in the Fūma village; a seasoned ninja.
 @87
-A Fuma ninja who has only just begun training: still green, at the bottom.
+A Fūma ninja who has only just begun training: still green, at the bottom.
 @88
 A title for a senior ninja who has completed all training in the Suppa village.
 @89
@@ -193,11 +193,11 @@ Has completed over half the training in the Nokizaru village; a seasoned ninja.
 @96
 A Nokizaru ninja who has only just begun training: still green, at the bottom.
 @97
-A title for a senior ninja who has completed all training in the Koga village.
+A title for a senior ninja who has completed all training in the Kōga village.
 @98
-Has completed over half the training in the Koga village; a seasoned ninja.
+Has completed over half the training in the Kōga village; a seasoned ninja.
 @99
-A Koga ninja who has only just begun training: still green, at the bottom.
+A Kōga ninja who has only just begun training: still green, at the bottom.
 @100
 A title for a senior ninja who has completed all training in the Togiki village.
 @101
@@ -211,7 +211,7 @@ Has completed over half the training in the Yamakuguri village; a seasoned ninja
 @105
 A Yamakuguri ninja who has only just begun training: still green, at the bottom.
 @106
-Title of a merchant proven in Kyoto. You get a shop of your own.\nCapacity +10000
+Title of a merchant proven in Kyōto. You get a shop of your own.\nCapacity +10000
 @107
 Title of a merchant proven in {02}{0B}d. You get a shop of your own.\nCapacity +10000
 @108
@@ -413,7 +413,7 @@ A wide network of merchants and craftsmen. Raises the effect of "Expand Castle".
 @206
 A clear line between warriors and farmers. Raises the effect of "Soldier-Farmer Split".
 @207
-The speech of Kyoto's court nobles. Raises the effect of "Court Lobbying".
+The speech of Kyōto's court nobles. Raises the effect of "Court Lobbying".
 @208
 The heart of tea. Holding tea ceremonies greatly raises your guests' friendship.
 @209
@@ -423,59 +423,59 @@ A merciful heart that treats everyone alike. Recruiting succeeds more often.
 @211
 When bandits attack you on the road, you can call on a skilled helper.
 @212
-Lets you check rice prices in every town of the Tohoku region at any time.
+Lets you check rice prices in every town of the Tōhoku region at any time.
 @213
 Lets you check rice prices in every town of the Hokuriku region at any time.
 @214
-Lets you check rice prices in every town of the Koshin region at any time.
+Lets you check rice prices in every town of the Kōshin region at any time.
 @215
-Lets you check rice prices in every town of the Kanto region at any time.
+Lets you check rice prices in every town of the Kantō region at any time.
 @216
-Lets you check rice prices in every town of the Tokai region at any time.
+Lets you check rice prices in every town of the Tōkai region at any time.
 @217
 Lets you check rice prices in every town of the Kinki region at any time.
 @218
-Lets you check rice prices in every town of the Chugoku region at any time.
+Lets you check rice prices in every town of the Chūgoku region at any time.
 @219
 Lets you check rice prices in every town of the Shikoku region at any time.
 @220
-Lets you check rice prices in every town of the Kyushu region at any time.
+Lets you check rice prices in every town of the Kyūshū region at any time.
 @221
-Lets you check horse prices in every town of the Tohoku region at any time.
+Lets you check horse prices in every town of the Tōhoku region at any time.
 @222
 Lets you check horse prices in every town of the Hokuriku region at any time.
 @223
-Lets you check horse prices in every town of the Koshin region at any time.
+Lets you check horse prices in every town of the Kōshin region at any time.
 @224
-Lets you check horse prices in every town of the Kanto region at any time.
+Lets you check horse prices in every town of the Kantō region at any time.
 @225
-Lets you check horse prices in every town of the Tokai region at any time.
+Lets you check horse prices in every town of the Tōkai region at any time.
 @226
 Lets you check horse prices in every town of the Kinki region at any time.
 @227
-Lets you check horse prices in every town of the Chugoku region at any time.
+Lets you check horse prices in every town of the Chūgoku region at any time.
 @228
 Lets you check horse prices in every town of the Shikoku region at any time.
 @229
-Lets you check horse prices in every town of the Kyushu region at any time.
+Lets you check horse prices in every town of the Kyūshū region at any time.
 @230
-Lets you check trade goods prices in the towns of the Tohoku region at any time.
+Lets you check trade goods prices in the towns of the Tōhoku region at any time.
 @231
 Lets you check trade goods prices in the towns of the Hokuriku region at any time.
 @232
-Lets you check trade goods prices in the towns of the Koshin region at any time.
+Lets you check trade goods prices in the towns of the Kōshin region at any time.
 @233
-Lets you check trade goods prices in the towns of the Kanto region at any time.
+Lets you check trade goods prices in the towns of the Kantō region at any time.
 @234
-Lets you check trade goods prices in the towns of the Tokai region at any time.
+Lets you check trade goods prices in the towns of the Tōkai region at any time.
 @235
 Lets you check trade goods prices in the towns of the Kinki region at any time.
 @236
-Lets you check trade goods prices in the towns of the Chugoku region at any time.
+Lets you check trade goods prices in the towns of the Chūgoku region at any time.
 @237
 Lets you check trade goods prices in the towns of the Shikoku region at any time.
 @238
-Lets you check trade goods prices in the towns of the Kyushu region at any time.
+Lets you check trade goods prices in the towns of the Kyūshū region at any time.
 @239
 Proof of a stay at an inn in Hirosaki, Mutsu. The inn seal shows a swan.
 @240
@@ -491,11 +491,11 @@ Proof of a stay at an inn in Kashima, Hitachi. The inn seal shows a skylark.
 @245
 Proof of a stay at an inn in Ashikaga, Shimotsuke. The inn seal shows meadowsweet.
 @246
-Proof of a stay at an inn in Umayabashi, Kozuke. The inn seal shows grilled manju.
+Proof of a stay at an inn in Umayabashi, Kōzuke. The inn seal shows grilled manju.
 @247
 Proof of a stay at an inn in Kisarazu, Kazusa. The inn seal shows a bunting.
 @248
-Proof of a stay at an inn in Sakura, Shimosa. The inn seal shows a yam.
+Proof of a stay at an inn in Sakura, Shimōsa. The inn seal shows a yam.
 @249
 Proof of a stay at an inn in Edo, Musashi. The inn seal shows primroses.
 @250
@@ -503,7 +503,7 @@ Proof of a stay at an inn in Odawara, Sagami. The inn seal shows a gull.
 @251
 Proof of a stay at an inn in Naoetsu, Echigo. The inn seal shows a snow camellia.
 @252
-Proof of a stay at an inn in Toyama, Etchu. The inn seal shows firefly squid.
+Proof of a stay at an inn in Toyama, Etchū. The inn seal shows firefly squid.
 @253
 Proof of a stay at an inn in Wajima, Noto. The inn seal shows a golden eagle.
 @254
@@ -515,11 +515,11 @@ Proof of a stay at an inn in Komoro, North Shinano. The inn seal shows wild fern
 @257
 Proof of a stay at an inn in Suwa, South Shinano. The inn seal shows an eel.
 @258
-Proof of a stay at an inn in Kofu, Kai. The inn seal shows hoto noodles.
+Proof of a stay at an inn in Kōfu, Kai. The inn seal shows hoto noodles.
 @259
 Proof of a stay at an inn in Sunpu, Suruga. The inn seal shows "first Fuji, second a hawk, third an eggplant".
 @260
-Proof of a stay at an inn in Hamamatsu, Totomi. The inn seal shows an eel.
+Proof of a stay at an inn in Hamamatsu, Tōtōmi. The inn seal shows an eel.
 @261
 Proof of a stay at an inn in Okazaki, Mikawa. The inn seal shows a scops owl.
 @262
@@ -531,13 +531,13 @@ Proof of a stay at an inn in Matsukura, Hida. The inn seal shows a ptarmigan.
 @265
 Proof of a stay at an inn in Tsu, Ise. The inn seal shows a spiny lobster.
 @266
-Proof of a stay at an inn in a town of North Omi. The inn seal shows ears of rice.
+Proof of a stay at an inn in a town of North Ōmi. The inn seal shows ears of rice.
 @267
-Proof of a stay at an inn in a town of South Omi. The inn seal shows a rhododendron.
+Proof of a stay at an inn in a town of South Ōmi. The inn seal shows a rhododendron.
 @268
 Proof of a stay at an inn in Nara, Yamato. The inn seal shows a robin.
 @269
-Proof of a stay at an inn in Kyoto, Yamashiro, from the physician Manase Dosan. The seal shows a weeping cherry.
+Proof of a stay at an inn in Kyōto, Yamashiro, from the physician Manase Dōsan. The seal shows a weeping cherry.
 @270
 Proof of a stay at an inn in Kameyama, Tanba. The inn seal shows matsutake mushrooms.
 @271
@@ -551,7 +551,7 @@ Proof of a stay at an inn in Saika, Kii. The inn seal shows a tuna.
 @275
 Proof of a stay at an inn in Tottori, Inaba. The inn seal shows a flounder.
 @276
-Proof of a stay at an inn in Akasaki, Hoki. The inn seal shows mandarin ducks.
+Proof of a stay at an inn in Akasaki, Hōki. The inn seal shows mandarin ducks.
 @277
 Proof of a stay at an inn in Matsue, Izumo. The inn seal shows a peony.
 @278
@@ -563,7 +563,7 @@ Proof of a stay at an inn in Matsuyama, Mimasaka. The inn seal shows a yuzu.
 @281
 Proof of a stay at an inn in Osafune, Bizen. The inn seal shows a Japanese sword.
 @282
-Proof of a stay at an inn in Kurashiki, Bitchu. The inn seal shows peach blossoms.
+Proof of a stay at an inn in Kurashiki, Bitchū. The inn seal shows peach blossoms.
 @283
 Proof of a stay at an inn in Mihara, Bingo. The inn seal shows an octopus.
 @284
@@ -591,9 +591,9 @@ Proof of a stay at an inn in Kokura, Buzen. The inn seal shows Kokura Gion drums
 @295
 Proof of a stay at an inn in Funai, Bungo. The inn seal shows a kabosu.
 @296
-Proof of a stay at an inn in Obi, Hyuga. The inn seal shows a crinum lily.
+Proof of a stay at an inn in Obi, Hyūga. The inn seal shows a crinum lily.
 @297
-Proof of a stay at an inn in Nejime, Osumi. The inn seal shows sand lances.
+Proof of a stay at an inn in Nejime, Ōsumi. The inn seal shows sand lances.
 @298
 Proof of a stay at an inn in Kagoshima, Satsuma. The inn seal shows a Lidth's jay.
 @299
@@ -603,7 +603,7 @@ Proof of your wedding to Sae, a flower blooming in the warring age.
 @301
 Proof of your wedding to Hatsu, a flower blooming in the warring age.
 @302
-Proof of your wedding to Tsu, a flower blooming in the warring age.
+Proof of your wedding to Tsū, a flower blooming in the warring age.
 @303
 Proof of your wedding to Kinu, a flower blooming in the warring age.
 @304

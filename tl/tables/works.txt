@@ -1,0 +1,15 @@
+# works: index<TAB>English (tools/elftables.py)
+0	Buy Goods
+1	Buy Curio
+2	Ship Goods
+3	Send Curio
+4	Collection
+5	Survey
+6	Find Rōnin
+7	Spy Castle
+8	Sabotage
+9	Rumours
+10	Arson
+11	Attack
+12	Murder
+13	Battles

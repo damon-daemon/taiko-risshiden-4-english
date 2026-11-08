@@ -1,0 +1,21 @@
+# placecards: index<TAB>English (tools/elftables.py)
+0	Matsushima
+1	Kegon Falls
+2	Mt. Fuji
+3	Lake Biwa
+4	Amanohashidate
+5	Nachi Falls
+6	Miyajima
+7	Off Cape Muroto
+8	Mt. Aso
+9	Sakurajima
+10	Fukuroda Falls
+11	Chusonji Hall
+12	Lake Hachiro
+13	Mt. Osore
+14	Oyashirazu
+15	Tojinbo
+16	Zenkoji
+17	Tottori Dunes
+18	Shuhodo Cave
+19	Kotohira Shrine

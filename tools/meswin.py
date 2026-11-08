@@ -26,14 +26,31 @@ import struct
 from asm import assemble
 
 BASE, FOFF = 0x100000, 0x80
-VTABLE = 0x45BF60                       # __vt__16CMesTextFontList
-VT_ADDCHAR, VT_CLEAR = VTABLE + 8, VTABLE + 0xC
-ADDCHAR, CLEAR = 0x25C3E0, 0x25C360
-NEW, LINK_CT, SET_DATA = 0x100510, 0x25C1E0, 0x383E80
+NEW, SET_DATA = 0x100510, 0x383E80
 ADD_LINK_END, REMOVE_LINK = 0x389940, 0x389880
-LINK_SIZE, INLINE, ARRAY, COUNT = 0x28, 72, 0x40, 0xB80
+LINK_SIZE, ARRAY = 0x28, 0x40
 
-def add_char(org):
+class FontList:
+    """A CFontPrimList subclass with an inline link array: vtable, original bAddChar /
+    Clear, link constructor, inline capacity, offset of the s16 count."""
+    def __init__(self, name, vtable, addchar, clear, link_ct, inline, count):
+        self.name, self.vtable, self.addchar, self.clear = name, vtable, addchar, clear
+        self.link_ct, self.inline, self.count = link_ct, inline, count
+
+LISTS = [
+    # dialogue text: 72 links (3 lines x 24 full-width characters)
+    FontList('CMesTextFontList', 0x45BF60, 0x25C3E0, 0x25C360, 0x25C1E0, 72, 0xB80),
+    # speaker nameplate (CMesWin+0xC70): only 7 inline links (+0x40..+0x158, count at
+    # +0x158), but the original bAddChar (copied from the text list) allows 72. Japanese
+    # names have <= 7 characters; an English 8th character overwrote the count and then
+    # CMesWin+0xDCC (the speaker id: no portrait, no nameplate) and more of the window
+    # (found 2026-11-08: "Kinoshita Tokichiro" in the Kiyosu castle tutorial, the
+    # castle-town screen then ignored the pad).
+    FontList('CMesNameFontList', 0x45BEF0, 0x25C2B0, 0x25C230, 0x25C0E0, 7, 0x158),
+]
+
+def add_char(L, org):
+    COUNT, INLINE, ADDCHAR, LINK_CT = L.count, L.inline, L.addchar, L.link_ct
     return assemble(org, [
         ('addiu', 'sp', 'sp', -0x60),
         ('sq', 'ra', 0x40, 'sp'),
@@ -80,7 +97,8 @@ def add_char(org):
         ('addiu', 'sp', 'sp', 0x60),
     ])
 
-def clear(org):
+def clear(L, org):
+    COUNT, INLINE = L.count, L.inline
     return assemble(org, [
         ('addiu', 'sp', 'sp', -0x30),
         ('sq', 'ra', 0x20, 'sp'),
@@ -126,8 +144,10 @@ def _code(seg, fn):
 def apply(elf, seg):
     def word(va):
         return struct.unpack_from('<I', elf, va - BASE + FOFF)[0]
-    assert word(VT_ADDCHAR) == ADDCHAR and word(VT_CLEAR) == CLEAR
-    assert word(ADDCHAR + 0x14) == 0x84820B80, 'bAddChar: lh v0, 0xB80(a0)'
-    assert word(ADDCHAR + 0x18) == 0x28410048, 'bAddChar: slti at, v0, 72'
-    struct.pack_into('<I', elf, VT_ADDCHAR - BASE + FOFF, _code(seg, add_char))
-    struct.pack_into('<I', elf, VT_CLEAR - BASE + FOFF, _code(seg, clear))
+    for L in LISTS:
+        vt_add, vt_clear = L.vtable + 8, L.vtable + 0xC
+        assert word(vt_add) == L.addchar and word(vt_clear) == L.clear, L.name
+        assert word(L.addchar + 0x14) == 0x84820000 | L.count, L.name + ': lh v0, count(a0)'
+        assert word(L.addchar + 0x18) == 0x28410048, L.name + ': slti at, v0, 72'
+        struct.pack_into('<I', elf, vt_add - BASE + FOFF, _code(seg, lambda o, L=L: add_char(L, o)))
+        struct.pack_into('<I', elf, vt_clear - BASE + FOFF, _code(seg, lambda o, L=L: clear(L, o)))

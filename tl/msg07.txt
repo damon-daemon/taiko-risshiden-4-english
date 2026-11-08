@@ -5,7 +5,7 @@ Oh, who might you be?
 @2
 Pleased to meet you.\nI am {02}{01}g.
 @3
-A ronin, are you?\nAnyway, I look forward to knowing you.
+A rōnin, are you?\nAnyway, I look forward to knowing you.
 @3.1
 Oho, so you're...\nI look forward to knowing you.
 @3.2

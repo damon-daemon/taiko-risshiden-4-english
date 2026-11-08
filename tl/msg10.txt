@@ -65,15 +65,15 @@ From now on, {02}{01}g's home\nmoves to %s.
 @28
 With {01}C+{00} gone,\nI have no attachment to the {02}{06}e...
 @29
-{02}{01}g became a ronin.\nFrom now on, {02}{01}g's home\nmoves to %s.
+{02}{01}g became a rōnin.\nFrom now on, {02}{01}g's home\nmoves to %s.
 @30
-Those who served {02}{03}g\nbecame ronin.
+Those who served {02}{03}g\nbecame rōnin.
 @31
 {02}{02}g,\n{02}{03}g, head of the {02}{06}e,\nhas passed away.
 @32
 {02}{03}g seems to have\nsucceeded as head of the house.
 @33
-I see...... so {01}C+{00}\nhas finally become a daimyo......
+I see...... so {01}C+{00}\nhas finally become a daimyō......
 @34
 I see...... understood.
 @35
@@ -97,17 +97,17 @@ Ugh...
 @44
 {01}C*{00}!!
 @45
-{02}{01}g, Sengoku daimyo of %s,\nended a stormy life\nat the age of {02}{01}{7B}...
+{02}{01}g, Sengoku daimyō of %s,\nended a stormy life\nat the age of {02}{01}{7B}...
 @46
 {02}{02}g has succeeded\n{02}{01}g.
 @47
-A daimyo at last...\nI must work hard from now on,\nif only to provide for my retainers!
+A daimyō at last...\nI must work hard from now on,\nif only to provide for my retainers!
 @47.1
-So {01}C+{00} is a daimyo at last...
+So {01}C+{00} is a daimyō at last...
 @48
 {01}C+{00} as heir?\nI can never accept that!
 @49
-{02}{01}g declared independence\nwith {02}{0B}d as their base\nand became a daimyo.
+{02}{01}g declared independence\nwith {02}{0B}d as their base\nand became a daimyō.
 @50
 {02}{02}g and others followed {02}{01}g\nand left the {02}{06}e.
 @51
@@ -207,15 +207,15 @@ Merit rose by %d!
 @92.2
 {02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas betrayed the {02}{08}e\nand defected to the {02}{09}e!
 @93
-{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas rebelled against our house\nand become a daimyo!
+{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas rebelled against our house\nand become a daimyō!
 @93.1
-{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas rebelled against the {02}{08}e\nand become a daimyo!
+{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas rebelled against the {02}{08}e\nand become a daimyō!
 @94
 {02}{02}g,\nthanks to {02}{03}g's work,\nyou have been made %s %s!\nCongratulations!
 @94.1
 {02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Fujiwara no Ason {02}{02}f is raised to\nSenior First Rank and made Regent!"\nCongratulations indeed!!
 @94.2
-{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Minamoto no Ason {02}{02}f\nis made Shogun!" are the words.\nCongratulations indeed!!
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Minamoto no Ason {02}{02}f\nis made Shōgun!" are the words.\nCongratulations indeed!!
 @94.3
 {02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Taira no Ason {02}{02}f is made\nChancellor of Senior First Rank!"\nCongratulations indeed!!
 @94.4
@@ -235,7 +235,7 @@ Our lord... ill-fated in war,\nhas fallen in battle, they say!
 @100
 What!!\nOur lord?!\nWhat... what should I do...
 @101
-{02}{02}g!\nCarry on our late lord's will\nand become daimyo yourself!
+{02}{02}g!\nCarry on our late lord's will\nand become daimyō yourself!
 @102
 What?! Me...?!
 @103
@@ -245,7 +245,7 @@ Surely no one will object\nto {02}{02}f succeeding!
 @105
 Yes!\nGracious words!
 @106
-{02}{03}g succeeded\n{02}{04}g and\nbecame daimyo.
+{02}{03}g succeeded\n{02}{04}g and\nbecame daimyō.
 @107
 Our army, led by {01}C,{00},\nhas taken {02}{0B}d\nfrom the {02}{06}e!
 @107.1
@@ -261,8 +261,8 @@ Our army has taken\n{02}{0B}d from the {02}{06}e!
 @110
 {02}{02}g,\nwe paid the {02}{06}e\na war levy of {02}$d kan.
 @111
-{02}{02}g, we paid war levies of {02}%d kan in all to the {02}$d daimyo houses we supply, the {02}{06}e among them.
+{02}{02}g, we paid war levies of {02}%d kan in all to the {02}$d daimyō houses we supply, the {02}{06}e among them.
 @112
 {02}{02}g,\nwe couldn't pay the war levy to the {02}{06}e,\nso we've been dismissed as purveyor.
 @113
-{02}{02}g,\nwe couldn't pay the war levy to the {02}$d\ndaimyo houses we serve as purveyor,\nstarting with the {02}{06}e. So those houses\nhave dismissed us as purveyor.
+{02}{02}g,\nwe couldn't pay the war levy to the {02}$d\ndaimyō houses we serve as purveyor,\nstarting with the {02}{06}e. So those houses\nhave dismissed us as purveyor.

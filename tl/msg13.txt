@@ -1123,9 +1123,9 @@ Four or more right and you pass the trial.\nReady?
 @261
 Within the time limit, find the picture\non the right that matches the one at left.
 @262
-You show real promise, {02}{02}e.\nBut the hard part starts now.\nFail at this speed and you'll never be Jonin.
+You show real promise, {02}{02}e.\nBut the hard part starts now.\nFail at this speed and you'll never be Jōnin.
 @263
-Your Ninjutsu is now at Jonin level, {02}{02}e.\nBut you must not neglect your training.\nFail at this speed and you're no ninja.
+Your Ninjutsu is now at Jōnin level, {02}{02}e.\nBut you must not neglect your training.\nFail at this speed and you're no ninja.
 @264
 Now, begin!
 @264.1

@@ -331,4 +331,4 @@ Yes, I'm serious.\nI leave {02}){B6} to you.\n\nFrom now on you are master\nof {
 @88
 Very well...\nI'll take charge of {02}){B6}.\n\nTo chase your dream, master,\nyou'll need money too. I'll send\nsome of the takings every month.\nSo this is really goodbye...\nPlease take good care of yourself.\nThank you for everything... farewell.
 @89
-The daimyo houses our {02}){B6} serves as purveyor are the following {02}$d.
+The daimyō houses our {02}){B6} serves as purveyor are the following {02}$d.

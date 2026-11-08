@@ -141,11 +141,11 @@ Yes, sorry. It was just a little joke.
 @19.2
 ...You gave me quite a scare. One never knows who might be listening. Please mind your words.
 @20
-I would not joke about such a thing. I will become a daimyo here and aim for the realm!
+I would not joke about such a thing. I will become a daimyō here and aim for the realm!
 @20.1
-I would not joke about such a thing. I will become a daimyo here and aim for the realm!
+I would not joke about such a thing. I will become a daimyō here and aim for the realm!
 @20.2
-I don't joke about such things. I will become a daimyo here and aim for the realm!
+I don't joke about such things. I will become a daimyō here and aim for the realm!
 @21
 {01}C*{00}!!
 @22
@@ -169,9 +169,9 @@ You are that determined... Very well. Then I will share my fate with you, {01}C*
 @25.2
 .........Yes, sir!
 @26
-From this moment on, I proclaim myself a daimyo before the realm! This is a new beginning.
+From this moment on, I proclaim myself a daimyō before the realm! This is a new beginning.
 @27
-{02}*e, month {02}*f: {02}{01}g, lord of {02}{0B}d, rose in rebellion and became a daimyo...
+{02}*e, month {02}*f: {02}{01}g, lord of {02}{0B}d, rose in rebellion and became a daimyō...
 @28
 From now on, the {02}{01}g and {02}{02}g clans are enemies.
 @28.1
@@ -983,15 +983,15 @@ I ask you to carry out %s at {02}{0B}d.
 @197.2
 I order you to carry out %s at {02}{0B}d. I'm expecting much of you.
 @198
-I ask you to carry out %s on the ronin {02}{03}g.
+I ask you to carry out %s on the rōnin {02}{03}g.
 @198.1
 I ask you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}.
 @198.2
-I ask you to carry out %s on the ronin {02}{03}g.
+I ask you to carry out %s on the rōnin {02}{03}g.
 @198.3
 I ask you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}.
 @198.4
-I order you to carry out %s on the ronin {02}{03}g. I'm expecting much of you.
+I order you to carry out %s on the rōnin {02}{03}g. I'm expecting much of you.
 @198.5
 I order you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}. I'm expecting much of you.
 @199
@@ -1123,11 +1123,11 @@ If you see this line, it's a bug.
 @208.40
 If you see this line, it's a bug.
 @208.41
-{01}C*{00}, please find at least one ronin.
+{01}C*{00}, please find at least one rōnin.
 @208.42
-{01}C*{00}, please find at least one ronin.
+{01}C*{00}, please find at least one rōnin.
 @208.43
-{01}C*{00}, go and find at least one ronin.
+{01}C*{00}, go and find at least one rōnin.
 @208.44
 {01}C*{00}, please obtain detailed information.
 @208.45

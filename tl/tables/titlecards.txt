@@ -1,0 +1,82 @@
+# titlecards: index<TAB>English (tools/elftables.py)
+0	Sword Saint
+1	Swordsman
+2	Fencer
+3	Swordfighter
+4	God of War
+5	Wise General
+6	Strategist
+7	Schemer
+8	Tea Saint
+9	Tea Sage
+10	Tea Master
+11	Tea Lover
+12	Diplomatist
+13	Silver Tongue
+14	Persuader
+15	Orator
+16	Wise Lord
+17	Great Minister
+18	Top Magistrate
+19	Able Official
+20	Master Ninja
+21	Undefeated
+22	Top Gambler
+23	Unrivalled
+24	Habaki Jōnin
+25	Habaki Chunin
+26	Habaki Genin
+27	Fūma Jōnin
+28	Fūma Chunin
+29	Fūma Genin
+30	Suppa Jōnin
+31	Suppa Chunin
+32	Suppa Genin
+33	Iga Jōnin
+34	Iga Chunin
+35	Iga Genin
+36	Noki Jōnin
+37	Noki Chunin
+38	Noki Genin
+39	Kōga Jōnin
+40	Kōga Chunin
+41	Kōga Genin
+42	Togiki Jōnin
+43	Togiki Chunin
+44	Togiki Genin
+45	Kuguri Jōnin
+46	Kuguri Chunin
+47	Kuguri Genin
+48	Kyōto Burgher
+49	Ōsaka Burgher
+50	Sakai Burgher
+51	Hakata Burgher
+52	Head Clerk
+53	Clerk
+54	Apprentice
+55	Manslayer
+56	Wicked Vassal
+57	Ruthless Lord
+58	Wanderer
+59	Guild Master
+60	Shinobi Master
+61	Racing King
+62	Musket King
+63	Archery King
+64	Sugoroku King
+65	Picture King
+66	Search King
+67	Flip King
+68	Hauling King
+69	Stroke King
+70	Gold Vein King
+71	Bingo King
+72	Memory King
+73	Sentence King
+74	Tea Carry King
+75	Medicine King
+76	Mini-Game King
+77	Merchant King
+78	Appraiser
+79	Arts Patron
+80	New Duke Zhou

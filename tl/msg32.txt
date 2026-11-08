@@ -51,7 +51,7 @@
 @25
 ◆Abilities that matter\nBuilding: the higher, the more times you can use the chisel in the mini-game.\nTrade Network card: more uses of the chisel in the mini-game.
 @26
-●Outline\nFind ronin you have not met and get acquainted. The more ronin you find, the more merit.\n◆Procedure\nVisit houses to look for ronin. When you find one you have not met, call at the house and talk to him.\nOr talk to unknown ronin on the travel screen, in taverns and so on, and get acquainted.\nFinally, return to the castle and report.
+●Outline\nFind rōnin you have not met and get acquainted. The more rōnin you find, the more merit.\n◆Procedure\nVisit houses to look for rōnin. When you find one you have not met, call at the house and talk to him.\nOr talk to unknown rōnin on the travel screen, in taverns and so on, and get acquainted.\nFinally, return to the castle and report.
 @27
 ●Outline\nCarry out a castle survey at the drill ground of the castle named. It shows you that castle's information.\n◆Procedure\nSneak into the drill ground. If you get in, choose the castle survey and what to survey. For detailed information you must survey repeatedly. If you are spotted, sneak in again.\nFinally, return to the castle and report.\nThe more detailed the information, the more merit.
 @28
@@ -69,14 +69,14 @@
 @34
 ◆Abilities that matter\nNinjutsu: the higher, the fewer castles in the mini-game.\nCastle size: the bigger, the faster the castles move.\nGunpowder Handling card: better results.
 @35
-●Outline\nDiplomacy covers Alliance, Break, Rule, War, Peace, Goodwill and Court.\n◆Procedure\nExcept for the court, meet the daimyo in his castle and choose Diplomacy. Offering money improves the odds.\nFor the court, go to a noble's house in the town of Kyoto. Choose [Put in a Word] and enter the money to offer the court. If it succeeds, court standing rises, and the daimyo may be granted a court rank.
+●Outline\nDiplomacy covers Alliance, Break, Rule, War, Peace, Goodwill and Court.\n◆Procedure\nExcept for the court, meet the daimyō in his castle and choose Diplomacy. Offering money improves the odds.\nFor the court, go to a noble's house in the town of Kyōto. Choose [Put in a Word] and enter the money to offer the court. If it succeeds, court standing rises, and the daimyō may be granted a court rank.
 @36
 ◆Abilities that matter\nSpeech, Etiquette: the higher, the more likely to succeed.\nSelfless Heart card: more likely to succeed.\nCourt Speech card: more likely to succeed (court only).
 @37
 ●Outline\nVisit the person you were told to recruit and recruit him. If you succeed, he becomes an officer of your clan.\n◆Procedure\nFirst find the person. On the travel screen, set a destination and choose the mission's base to travel to the base where he is. When you find him, talk to him and choose Recruit.
 @38
-◆Abilities that matter\nCloseness: the higher, the more likely to succeed.\nCharm, Speech: the higher, the more likely to succeed.\nVirtuous Heart card: more likely to succeed even if he is not close to you.\nBewilder card: more likely to succeed even with a loyal officer.
+◆Abilities that matter\nBond: the higher, the more likely to succeed.\nCharm, Speech: the higher, the more likely to succeed.\nVirtuous Heart card: more likely to succeed even if he is not close to you.\nBewilder card: more likely to succeed even with a loyal officer.
 @39
-●Outline\nConquer the target castle, province or daimyo. You receive this mission once you are a castle lord or higher.\n◆Procedure\nTake the target castle, province or daimyo in battle, or bring it into alliance or under your rule through diplomacy.\nA castle taken in battle becomes your clan's. A clan brought under rule through diplomacy joins your side whole.
+●Outline\nConquer the target castle, province or daimyō. You receive this mission once you are a castle lord or higher.\n◆Procedure\nTake the target castle, province or daimyō in battle, or bring it into alliance or under your rule through diplomacy.\nA castle taken in battle becomes your clan's. A clan brought under rule through diplomacy joins your side whole.
 @40
-◆Procedure (cont.)\n<<Conquest by battle>>\nAttack the target castle, province or daimyo and win.\n<<Conquest by diplomacy>>\nGo to the castle of the daimyo who holds the target, choose Diplomacy and persuade him.\nAn alliance voids the mission itself and earns no merit. Bringing the clan under your rule counts as taking it and earns merit.
+◆Procedure (cont.)\n<<Conquest by battle>>\nAttack the target castle, province or daimyō and win.\n<<Conquest by diplomacy>>\nGo to the castle of the daimyō who holds the target, choose Diplomacy and persuade him.\nAn alliance voids the mission itself and earns no merit. Bringing the clan under your rule counts as taking it and earns merit.

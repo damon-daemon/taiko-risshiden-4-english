@@ -483,7 +483,7 @@ Farewell
 @195
 Oh, you want to become a merchant? Shall I explain the merchant's world?
 @196
-Then let me explain the merchant's world briefly.\n\nMerchants have four ranks, from lowest: "Apprentice," "Clerk," "Head Clerk" and "Townsman."\nChoosing [Enrol] at a guild makes you an "Apprentice," and then you can [Enrol] at a merchant house.\nJoin a merchant house, train under your master and rise in rank; as a "Townsman" you are a full merchant.\nWhile you are an "Apprentice," "Clerk" or "Head Clerk," unless you are training under a master, you are no different from a ronin.
+Then let me explain the merchant's world briefly.\n\nMerchants have four ranks, from lowest: "Apprentice," "Clerk," "Head Clerk" and "Townsman."\nChoosing [Enrol] at a guild makes you an "Apprentice," and then you can [Enrol] at a merchant house.\nJoin a merchant house, train under your master and rise in rank; as a "Townsman" you are a full merchant.\nWhile you are an "Apprentice," "Clerk" or "Head Clerk," unless you are training under a master, you are no different from a rōnin.
 @197
 If you tire of training under your master, go to him and say [Quit].\nEven as a "Townsman," you can quit being a merchant any time by declaring [Quit] at your own shop.\nBut if you quit after becoming a "Townsman," you can never become a merchant again, so be careful.\nWell, that's about it.
 @198

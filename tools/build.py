@@ -5,9 +5,10 @@ usage: .venv/bin/python tools/build.py [clean.bin] [out.bin]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import cdimage, datafile, disc, elfseg, elfstr, elftables, meswin, msgbuf, msgfile, names, setup, text, vwf
+import cdimage, datafile, disc, elfseg, elfstr, elftables, meswin, msgbuf, msgfile, names, setup, statusbar, text, vwf
 
 ROOT = disc.ROOT
+SKIP = set(filter(None, os.environ.get('TR4_SKIP', '').split(',')))   # bisecting: names,tables,elfstr
 
 def build_messages(data, elf):
     blocks = msgfile.blocks(datafile.entry(data, elf, setup.MSG_ENTRY), elf)
@@ -32,15 +33,19 @@ def main():
     seg = elfseg.Segment()
     vwf.apply(elf, seg)
     meswin.apply(elf, seg)
+    statusbar.apply(elf, seg)
     offs = msgfile.offsets(elf)
     msgbuf.apply(elf, seg, max(b - a for a, b in zip(offs[1:], offs[2:])))
     vwf.apply_vwf(elf, seg)
     changes = {setup.MSG_ENTRY: msg,
                vwf.FONT_ENTRY: vwf.build_font(datafile.entry(data, elf, vwf.FONT_ENTRY), elf)}
-    changes.update(names.apply(elf, data, seg))
+    if 'names' not in SKIP:
+        changes.update(names.apply(elf, data, seg))
     clean_elf = img.read_file(disc.ELF, recs)
-    print('tables:', elftables.apply(elf, clean_elf, seg))
-    print('ELF strings: %d (%d moved)' % elfstr.apply(elf, seg, clean_elf))
+    if 'tables' not in SKIP:
+        print('tables:', elftables.apply(elf, clean_elf, seg))
+    if 'elfstr' not in SKIP:
+        print('ELF strings: %d (%d moved)' % elfstr.apply(elf, seg, clean_elf))
     heap = elfseg.apply(elf, seg)
     print('English segment: %d bytes, heap from 0x%X' % (len(seg.data), heap))
     datafile.apply(data, elf, changes)

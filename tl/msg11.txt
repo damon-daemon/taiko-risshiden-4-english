@@ -563,7 +563,7 @@ Well done, all of you.
 @154
 With the fighting dragging on,\nthe men seem to be wearing out.\nIt may be best to return to the castle.
 @155
-{02}{03}g has become a ronin.
+{02}{03}g has become a rōnin.
 @156
 {02}{02}g, I have something to say to you.\nI'll be brief: will you serve our house?
 @157
@@ -591,7 +591,7 @@ A message from our lord:\n"One who holds no castle may not attend\n the Grand Co
 @168
 {02}{0B}d becomes the new seat.
 @169
-It seems the former daimyo\n{02}{03}g has gone into retirement.
+It seems the former daimyō\n{02}{03}g has gone into retirement.
 @170
 {02}{02}g, our {02}{0B}d\nhas become our new main castle.
 @171
@@ -686,13 +686,13 @@ I can't trust\nmere fine words.
 @213.2
 I don't mind having\nmy ability appreciated.
 @214
-Even as a ronin,\nthere's no saying you'll find service.\nDo you mean to end up on the streets?
+Even as a rōnin,\nthere's no saying you'll find service.\nDo you mean to end up on the streets?
 @215
 When one door closes, another opens.\nAll I can say is,\nwhat will be, will be.
 @215.1
 As I am now,\nI have nowhere to go.
 @215.2
-To cast off all ties\nand live as a simple ronin\nisn't so bad either.
+To cast off all ties\nand live as a simple rōnin\nisn't so bad either.
 @216
 I will surely give you an important post.\nYou won't regret it!
 @217
@@ -760,7 +760,7 @@ I'm sorry, but\nI have no wish to enter service.
 @235
 Your mind is made up...\nIt can't be helped.\nGo wherever you please.
 @236
-{02}{02}g,\n{02}{03}g, lord of {02}{0B}d Castle,\nhas declared independence as a daimyo!
+{02}{02}g,\n{02}{03}g, lord of {02}{0B}d Castle,\nhas declared independence as a daimyō!
 @237
 Well done, all of you!\nSpend your time as you like until the next council.\nDismissed!
 @238

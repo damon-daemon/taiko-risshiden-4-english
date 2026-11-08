@@ -1,0 +1,124 @@
+# cards: index<TAB>English (tools/elftables.py)
+0	Agate Mining
+1	Crystal Mining
+2	Sugar Refining
+3	Melon Seeds
+4	Free Markets
+5	Hirado Letter
+6	Sakai Letter
+7	Sailing Scroll
+8	Swift Run
+9	Silent Step
+10	Disguise
+11	Gunpowder
+12	Stone Pull
+13	Beguile
+14	Better Tools
+15	Nanban Refine
+16	Split Works
+17	Connoisseur
+18	Debt Amnesty
+19	Trade Network
+20	Sword Hunt
+21	Court Speech
+22	Wabi-Sabi
+23	Selfless Heart
+24	Virtuous Heart
+25	Strong Helper
+26	Tōhoku Rice
+27	Hokuriku Rice
+28	Kōshin Rice
+29	Kantō Rice
+30	Tōkai Rice
+31	Kinki Rice
+32	Chūgoku Rice
+33	Shikoku Rice
+34	Kyūshū Rice
+35	Tōhoku Horse
+36	Hokuriku Horse
+37	Kōshin Horse
+38	Kantō Horse
+39	Tōkai Horse
+40	Kinki Horse
+41	Chūgoku Horse
+42	Shikoku Horse
+43	Kyūshū Horse
+44	Tōhoku Trade
+45	Hokuriku Trade
+46	Kōshin Trade
+47	Kantō Trade
+48	Tōkai Trade
+49	Kinki Trade
+50	Chūgoku Trade
+51	Shikoku Trade
+52	Kyūshū Trade
+53	Hirosaki Seal
+54	Sendai Seal
+55	Tsuchizaki
+56	Sakata Seal
+57	Aizu Seal
+58	Kashima Seal
+59	Ashikaga Seal
+60	Umayabashi
+61	Kisarazu Seal
+62	Sakura Seal
+63	Edo Seal
+64	Odawara Seal
+65	Naoetsu Seal
+66	Toyama Seal
+67	Wajima Seal
+68	Kanazawa Seal
+69	Tsuruga Seal
+70	Komoro Seal
+71	Suwa Seal
+72	Kōfu Seal
+73	Sunpu Seal
+74	Hamamatsu Seal
+75	Okazaki Seal
+76	Kiyosu Seal
+77	Mino Seal
+78	Matsukura Seal
+79	Tsu Seal
+80	North Ōmi Seal
+81	South Ōmi Seal
+82	Nara Seal
+83	Kyōto Seal
+84	Kameyama Seal
+85	Miyazu Seal
+86	Sakai Seal
+87	Naniwa Seal
+88	Saika Seal
+89	Tottori Seal
+90	Akasaki Seal
+91	Matsue Seal
+92	Hamada Seal
+93	Himeji Seal
+94	Matsuyama Seal
+95	Osafune Seal
+96	Kurashiki Seal
+97	Mihara Seal
+98	Miyajima Seal
+99	Akamaseki Seal
+100	Marugame Seal
+101	Imabari Seal
+102	Naruto Seal
+103	Urado Seal
+104	Hakata Seal
+105	Yanagawa Seal
+106	Hirado Seal
+107	Yatsushiro
+108	Kokura Seal
+109	Funai Seal
+110	Obi Seal
+111	Nejime Seal
+112	Kagoshima Seal
+113	Okuni of Izumo
+114	Sae
+115	Hatsu
+116	Tsū
+117	Kinu
+118	Shino
+119	Aya
+120	Suzu
+121	Yae
+122	Ito

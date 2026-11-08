@@ -8,4 +8,4 @@ D=$(cd "$(dirname "$0")" && pwd)
 "$D/hpress.sh" /dev/null X w w X w w X w w w w X w w w              # intro, 可, hero list, details
 "$D/hpress.sh" /dev/null X w w X w w w w w X w w w         # abilities, confirm 可
 "$D/hpress.sh" /dev/null X w w w w X w w w X w w w w w w w w w w w w   # settings, OK, 可
-"$D/hshot.sh" "$2"
+[ "$2" = /dev/null ] || "$D/hshot.sh" "$2"

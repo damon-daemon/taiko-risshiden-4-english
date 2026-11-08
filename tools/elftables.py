@@ -13,7 +13,7 @@ tl/tables/<table>.txt: "index<TAB>English" lines; missing indexes keep the Japan
 import json, os, struct, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import elfseg
+import elfseg, text
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'tables')
@@ -38,6 +38,11 @@ TABLES = {
     'tradeareas':  (0x41F3F0, 25, 15, 0, None),    # s_asTradeAreaData (商業圏)
 }
 FOOTHOLD_RUBY = 0x1D1020    # CFootHoldElement::strGetNameRuby
+# tables whose names are only read through getters that return a pointer: the English
+# goes to the segment (any length) and the getters read a pointer table.
+# CCountryElement::strGetPureName returns the name, strGetName formats "%s国" with it.
+LONG = {'provinces': [(0x1AB710, 'v0', 6, 'c0100500'),     # whole getter (sll v0,a1,3 ...)
+                      (0x1AB748, 'a2', 7, 'c0100500')]}     # sll..addiu a2 before strFormat
 
 def _f(va):
     return va - BASE + FOFF
@@ -69,7 +74,7 @@ def load_tl(name):
     path = os.path.join(TL, name + '.txt')
     out = {}
     if os.path.exists(path):
-        for line in open(path, encoding='ascii').read().splitlines():
+        for line in open(path, encoding='utf-8').read().splitlines():
             if line.strip() and not line.startswith('#'):
                 k, _, v = line.partition('\t')
                 out[int(k)] = v
@@ -84,8 +89,12 @@ def apply(elf, clean_elf, seg):
             continue
         end = text_end(clean_elf, name)
         room = end - no - 1
+        if name in LONG:
+            _apply_long(elf, clean_elf, seg, name, tl)
+            done[name] = len(tl)
+            continue
         for i, en in tl.items():
-            b = en.encode('ascii')
+            b = text.fold(en).encode('ascii')
             if len(b) > room:
                 errors.append('%s %d: %r is %d bytes, room %d' % (name, i, en, len(b), room))
                 continue
@@ -102,6 +111,22 @@ def apply(elf, clean_elf, seg):
         elfseg.patch(elf, FOOTHOLD_RUBY, asm.assemble(FOOTHOLD_RUBY, [
             ('lui', 'v0', asm.hi(empty)), ('jr', 'ra'), ('addiu', 'v0', 'v0', asm.lo(empty))]))
     return done
+
+def _apply_long(elf, clean_elf, seg, name, tl):
+    import asm
+    for i, en in tl.items():
+        text.fold(en).encode('ascii')
+    ptrs = [seg.add(text.fold(tl[i]).encode('ascii') + b'\0', 1) if i in tl else
+            TABLES[name][0] + i * TABLES[name][1] + TABLES[name][3] for i in range(TABLES[name][2])]
+    table = seg.add(struct.pack('<%dI' % len(ptrs), *ptrs), 4)
+    for va, reg, n, first in LONG[name]:
+        assert clean_elf[_f(va):_f(va) + 4] == bytes.fromhex(first), '%s getter moved' % name
+        code = [('lui', reg, asm.hi(table)), ('sll', 'v1', 'a1', 2), ('addu', reg, reg, 'v1'),
+                ('lw', reg, asm.lo(table), reg)]
+        if reg == 'v0':
+            code += [('jr', 'ra'), ('nop',)]
+        code += [('nop',)] * (n - len(code))
+        elfseg.patch(elf, va, asm.assemble(va, code))
 
 def export(elf):
     os.makedirs(SCRIPT, exist_ok=True)

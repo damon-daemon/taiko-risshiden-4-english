@@ -1,19 +1,22 @@
 """Person names: Japanese from the disc, English from tl/names_persons.json.
 
 Runtime names live in the scenario files (TR4DATA 62-68 = scenarios 1-7, ILNK subfile
-10): 735 x 32 bytes, family[9] | given[9] | 14 bytes unused (zero in every scenario).
+10): 735 x 32 bytes, family[9] | given[7] | u16 at +16 = person rank and flags
+(CPerson::eGetPersonRank / CBushou::SetPersonRank) | 14 bytes unused (zero in every
+scenario and at game start).
 CPersonElement::LoadScenario 0x3048B0 reads them into this+0x1883C (the table is saved
 and loaded as one 0x5BE0-byte block); person+4 points to the record (CPerson::Initialize).
 Ids: 0-649 officers (CBushou), 650-707 other people (CPersonNormal), 708-734 roles
 (gatekeeper, innkeeper...). Readings: subfile 9, 708 x 48 bytes, family reading[9] |
 given reading[9] (half-width kana) | data; person+8 points to it (kept Japanese).
 
-English layout: family at +0 and given at **+16**, 15 bytes + NUL each (the given name
-moves into the unused bytes). Every reader of the given name at +9 is patched (found by
+English layout: family at +0 (15 bytes + NUL), the rank u16 at +16 untouched, given at
+**+18** (13 bytes + NUL, the unused bytes). (Until 2026-11-08 the given name sat at +16
+and overwrote every rank: the hero showed as "@okichiro" once the game set his rank.) Every reader of the given name at +9 is patched (found by
 scanning for `lw x,4(obj)` .. `addiu y,x,9` and `jal getter; lw v0,4(v0); addiu y,v0,9`;
 the other +9 hits are lord flag bytes):
   NewExtractMessageCore 0x1ADE00 (event text), ActChangeName 0x1C1248 (event rename,
-  copy lengths 9/7 -> 16/16), MakeNewBushouName 0x1DE234 / 0x1DE33C, save header
+  copy lengths 9/7 -> 16/14), MakeNewBushouName 0x1DE234 / 0x1DE33C, save header
   SetScenarioData 0x1EBB48, CMPHouse::SelectMPCommand 0x2E3398, message field
   dwGetPersonParam 0x36E380; CPerson::strGetFullName 0x304110 is rewritten in place:
   family + ' ' + given (no space when a part is empty).
@@ -23,13 +26,15 @@ until the events are translated.
 tl/names_persons.json: [{"id": n, "en": [family, given], "s3": [..] override}, ...]
 (s1-s7 = scenarios 1-7). `init` builds it once from TR5's English (exact pairs, then
 parts) and the readings (Hepburn, long vowels short); edit it by hand afterwards.
+Macrons (ō ū Ō Ū) were added later by tools/dev/macronize.py; the encoder folds them to the
+spare ASCII codes of the font (text.FOLD, latinfont.MACRONS).
 
 usage: names.py export | init
 """
 import collections, json, os, re, struct, sys, unicodedata
 
 sys.path.insert(0, os.path.dirname(__file__))
-import datafile
+import datafile, text
 from asm import assemble, hi, lo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -39,8 +44,9 @@ TR5 = os.path.expanduser('~/Projects/taiko_risshiden_5_translation')
 SCENARIOS = range(62, 69)            # TR4DATA entries of scenarios 1-7
 SUB, REC, COUNT = 10, 32, 735
 READ_SUB, READ_REC, READ_COUNT = 9, 48, 708
-GIVEN = 16                           # new offset of the given name in a record
-ROOM = 15                            # bytes per part (+ NUL)
+GIVEN = 18                           # new offset of the given name in a record
+RANK = 16                            # u16 person rank / flags, kept from the scenario
+ROOM_FAMILY, ROOM_GIVEN = 15, 13     # bytes per part (+ NUL)
 
 BASE, FOFF = 0x100000, 0x80
 GIVEN_SITES = [0x1ADE00, 0x1C1248, 0x1DE234, 0x1DE33C, 0x1EBB48, 0x2E3398, 0x36E380]
@@ -60,7 +66,7 @@ def ilnk_sub(entry, k):
 def scenario_names(entry):
     a, b = ilnk_sub(entry, SUB)
     assert b - a == COUNT * REC
-    return [(field(entry[a + i * REC:a + i * REC + 9]), field(entry[a + i * REC + 9:a + i * REC + 18]))
+    return [(field(entry[a + i * REC:a + i * REC + 9]), field(entry[a + i * REC + 9:a + i * REC + RANK]))
             for i in range(COUNT)]
 
 def readings(entry):
@@ -140,7 +146,7 @@ MANUAL = {
     668: ['', 'Lady Yodo'], 670: ['', 'Emperor'], 673: ['', 'Sanboshi'], 674: ['', 'Nene'],
     675: ['', 'Naka'], 676: ['', 'Oichi'], 677: ['', 'Matsu'], 678: ['Izumo no', 'Okuni'],
     679: ['', 'Ginchiyo'], 680: ['', 'Megohime'], 681: ['', 'Yoshihime'], 682: ['', 'Gohime'],
-    683: ['', 'Tama'], 684: ['', 'Kicho'], 685: ['', 'Lady Tsukiyama'], 686: ['', 'Tokuhime'],
+    683: ['', 'Tama'], 684: ['', 'Kicho'], 685: ['', 'Tsukiyama'], 686: ['', 'Tokuhime'],
     687: ['', 'Sae'], 688: ['', 'Hatsu'], 689: ['', 'Tsu'], 690: ['', 'Kinu'], 691: ['', 'Shino'],
     692: ['', 'Aya'], 693: ['', 'Suzu'], 694: ['', 'Yae'], 695: ['', 'Ito'],
     696: ['Kurohabaki', 'Jonin'], 697: ['Fuma', 'Jonin'], 698: ['Suppa', 'Jonin'],
@@ -270,13 +276,16 @@ def records(entry, scen, tl):
     for i, (f, g) in enumerate(scenario_names(entry)):
         if i in tl:
             ef, eg = english(tl[i], scen)
-            bf, bg = ef.encode('ascii'), eg.encode('ascii')
+            bf, bg = text.fold(ef).encode('ascii'), text.fold(eg).encode('ascii')
         else:
             bf, bg = f.encode('cp932'), g.encode('cp932')
-        for b in (bf, bg):
-            if len(b) > ROOM:
-                errors.append('person %d s%d: %r is %d bytes > %d' % (i, scen, b, len(b), ROOM))
-        e[a + i * REC:a + (i + 1) * REC] = bf[:ROOM].ljust(GIVEN, b'\0') + bg[:ROOM].ljust(REC - GIVEN, b'\0')
+        for b, room in ((bf, ROOM_FAMILY), (bg, ROOM_GIVEN)):
+            if len(b) > room:
+                errors.append('person %d s%d: %r is %d bytes > %d' % (i, scen, b, len(b), room))
+        o = a + i * REC
+        rank = e[o + RANK:o + GIVEN]
+        assert not any(e[o + GIVEN:o + REC]), 'person %d s%d: bytes +18.. not zero' % (i, scen)
+        e[o:o + REC] = bf[:ROOM_FAMILY].ljust(RANK, b'\0') + rank + bg[:ROOM_GIVEN].ljust(REC - GIVEN, b'\0')
     return bytes(e), errors
 
 def apply(elf, data, seg):
@@ -285,9 +294,9 @@ def apply(elf, data, seg):
         w = _word(elf, va)
         assert w >> 26 == 0x09 and w & 0xFFFF == 9, hex(va)
         _put(elf, va, struct.pack('<I', (w & 0xFFFF0000) | GIVEN))
-    for va, n in CHANGE_LEN:
+    for (va, n), room in zip(CHANGE_LEN, (ROOM_FAMILY, ROOM_GIVEN)):
         assert _word(elf, va) == 0x24060000 | n, hex(va)
-        _put(elf, va, assemble(va, [('addiu', 'a2', 'zero', ROOM + 1)]))
+        _put(elf, va, assemble(va, [('addiu', 'a2', 'zero', room + 1)]))
     space = seg.add(b' \0', 4)
     code = full_name_code(space)
     assert len(code) <= FULL_END - FULL_NAME

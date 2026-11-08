@@ -473,7 +473,7 @@ Then please choose again.
 @87.2
 Then choose again.
 @88
-Really leave your post and become a ronin?
+Really leave your post and become a rōnin?
 @89
 I'm drawing up the next strategy now. It will be decided by the next council.
 @90
@@ -529,11 +529,11 @@ Our clan's present goal is %s: %s. Keep that in mind as you act.
 @99.2
 ...What are you suddenly saying?
 @100
-You have the makings of a daimyo. It would be a great waste to end your life a mere castle lord.
+You have the makings of a daimyō. It would be a great waste to end your life a mere castle lord.
 @100.1
-You have the makings of a daimyo. It would be a great waste to end your life a mere castle lord.
+You have the makings of a daimyō. It would be a great waste to end your life a mere castle lord.
 @100.2
-Forgive me, but you have the makings of a daimyo. It would be a great waste to end your life a mere castle lord.
+Forgive me, but you have the makings of a daimyō. It would be a great waste to end your life a mere castle lord.
 @101
 ...What are you trying to say? Speak plainly.
 @101.1
@@ -541,11 +541,11 @@ Forgive me, but you have the makings of a daimyo. It would be a great waste to e
 @101.2
 ...What are you trying to say? Speak plainly.
 @102
-{01}C*{00}, now is the time to rebel here and become a daimyo.
+{01}C*{00}, now is the time to rebel here and become a daimyō.
 @102.1
-{01}C*{00}, now is the time to rebel here and become a daimyo.
+{01}C*{00}, now is the time to rebel here and become a daimyō.
 @102.2
-Yes, then I'll say it. {01}C*{00}, now is the time to rebel here and become a daimyo.
+Yes, then I'll say it. {01}C*{00}, now is the time to rebel here and become a daimyō.
 @103
 What! ...You would have me become a traitor?
 @103.1
@@ -711,7 +711,7 @@ Pleased to meet you. My name is {02}{01}g.
 @135
 Ah, {01}C*{00}. Hmm, against {01}C!{00}, the gate guards are useless.
 @135.1
-A ronin? Insolent wretch! But you did well to get into this castle. I'll praise you for that much.
+A rōnin? Insolent wretch! But you did well to get into this castle. I'll praise you for that much.
 @135.2
 ...Oho, you did well to get into this castle. I'll praise you for that.
 @135.3
@@ -817,7 +817,7 @@ Raise defense by {02}%d
 @173.13
 Expand the castle
 @173.14
-Look into one ronin
+Look into one rōnin
 @173.15
 Gather some information
 @173.16
@@ -847,7 +847,7 @@ Capture a castle
 @173.28
 Conquer a province
 @173.29
-Defeat a daimyo
+Defeat a daimyō
 @175
 Lord {02}{02}f! Grave news! Grave news, my lord!
 @176
@@ -891,13 +891,13 @@ I've heard that the old lord is in poor health at present. You'd best refrain fr
 @185.3
 Rumour has it that the old lord is in poor health. Please refrain from battle.
 @186
-My lord, you speak of battle, but no daimyo is hostile to our clan.
+My lord, you speak of battle, but no daimyō is hostile to our clan.
 @186.1
-You speak of battle, but no daimyo remains hostile to our clan.
+You speak of battle, but no daimyō remains hostile to our clan.
 @186.2
-You speak of battle, but no daimyo remains hostile to our clan.
+You speak of battle, but no daimyō remains hostile to our clan.
 @186.3
-My lord, you speak of battle, but no daimyo is hostile to our clan.
+My lord, you speak of battle, but no daimyō is hostile to our clan.
 @187
 I've already given {01}C!{00} enough aides. Please spare me any more.
 @187.1

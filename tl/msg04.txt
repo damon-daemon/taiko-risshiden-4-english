@@ -33,7 +33,7 @@ Remove {02}{0B}d from the register?
 @15
 You know no one.
 @16
-You don't belong to a daimyo house.
+You don't belong to a daimyō house.
 @17
 You have no subordinates.
 @18
@@ -313,7 +313,7 @@ I travel the provinces every day to master the way of the sword.
 @79.1
 Come to think of it, they say Lord {02}{03}g of Minowa Castle uses a sword technique called {02}{1A}e.
 @79.2
-Come to think of it, they say Lord {02}{03}g of Konodai Castle uses a sword technique called {02}{1A}e.
+Come to think of it, they say Lord {02}{03}g of Kōnodai Castle uses a sword technique called {02}{1A}e.
 @79.3
 Come to think of it, they say Lord {02}{03}g uses a sword technique called {02}{1A}e.
 @80

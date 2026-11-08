@@ -181,7 +181,7 @@ What, one of the {02}{02}{A1}! How dare you show your face! Draw! Let's fight!!
 @90
 Oho, Lord {02}{02}g...... Well, well, a pleasure. My name is {02}{01}g.
 @90.1
-Oho...... a ronin, is it? A pleasure.
+Oho...... a rōnin, is it? A pleasure.
 @90.2
 Oh, forgive my rudeness. {01}C*{00}, pleased to meet you. My name is {02}{01}g.
 @90.3
@@ -355,7 +355,7 @@ Oh, who might you be?
 @152
 Pleased to meet you. I am {02}{01}g.
 @153
-Oho...... a ronin, are you? Welcome to my home.
+Oho...... a rōnin, are you? Welcome to my home.
 @153.1
 You're with the {02}{02}{A1}? Welcome to my home.
 @154
@@ -431,13 +431,13 @@ Pleased to meet you. I am {02}{01}g.
 @179
 Coming home so suddenly, you gave me a fright! Well, come on, come in.
 @179.1
-Oh, so you are......\nI've heard about you from Tokichiro. Thank you for always looking after him.
+Oh, so you are......\nI've heard about you from Tōkichirō. Thank you for always looking after him.
 @179.2
 Oh, you're a samurai, aren't you? Welcome to a place like this.
 @180
 Oh, welcome home.
 @180.1
-Oh, {01}C*{00}, welcome. Thank you for always looking after Tokichiro.
+Oh, {01}C*{00}, welcome. Thank you for always looking after Tōkichirō.
 @180.2
 Oh, isn't that {01}C*{00}? Welcome.
 @181
@@ -447,7 +447,7 @@ What can I do for you today?
 @182
 {01}C*{00}, maybe I'm worrying too much, but shouldn't you be working instead of loafing around here?
 @182.1
-Is Tokichiro working properly? Even at his age, I still worry......
+Is Tōkichirō working properly? Even at his age, I still worry......
 @182.2
 Do you have a dream?
 @182.3
@@ -457,7 +457,7 @@ Oh, who might you be?
 @184
 Pleased to meet you. I am {02}{01}g.
 @185
-A ronin, are you? Well, I look forward to knowing you.
+A rōnin, are you? Well, I look forward to knowing you.
 @185.1
 So you're with the {02}{06}e. I hope for your patronage from now on.
 @186
@@ -621,7 +621,7 @@ Oh, who might you be?
 @254
 Pleased to meet you. I am {02}{01}g.
 @255
-A ronin, are you? May the Buddha protect you.
+A rōnin, are you? May the Buddha protect you.
 @255.1
 You're with the {02}{02}{A1}? May the Buddha protect you.
 @256
@@ -659,7 +659,7 @@ Oh, who are you?
 @268
 Pleased to meet you. I am {02}{01}g.
 @269
-A ronin? If it's smithing you want, ask me.
+A rōnin? If it's smithing you want, ask me.
 @269.1
 You're with the {02}{02}{A1}? Thanks for coming all this way.
 @270
@@ -851,7 +851,7 @@ We are glad of your loyal service. We therefore appoint {02}{03}g as %s. We coun
 @347.1
 We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Fujiwara no Ason {02}{03}f as Regent. Continue to uphold this land and the court.
 @347.2
-We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Minamoto no Ason {02}{03}f as Shogun. Continue to uphold this land and the court.
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Minamoto no Ason {02}{03}f as Shōgun. Continue to uphold this land and the court.
 @347.3
 We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Taira no Ason {02}{03}f as Chancellor. Continue to uphold this land and the court.
 @347.4
@@ -861,7 +861,7 @@ We are glad of your loyal service. We therefore appoint you as %s. We count on y
 @348.1
 We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Fujiwara no Ason {02}{02}f as Regent. Continue to uphold this land and the court.
 @348.2
-We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Minamoto no Ason {02}{02}f as Shogun. Continue to uphold this land and the court.
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Minamoto no Ason {02}{02}f as Shōgun. Continue to uphold this land and the court.
 @348.3
 We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Taira no Ason {02}{02}f as Chancellor. Continue to uphold this land and the court.
 @348.4
@@ -899,7 +899,7 @@ Oh, who might you be?
 @363
 Pleased to meet you. I am {02}{01}g.
 @364
-A ronin, are you? Well, I look forward to knowing you.
+A rōnin, are you? Well, I look forward to knowing you.
 @364.1
 You're with the {02}{02}{A1}? Well, well, welcome.
 @365

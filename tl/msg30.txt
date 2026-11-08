@@ -13,7 +13,7 @@
 @6
 ●Outline\nGo to the towns of the region named and choose [Market Prices] or [Talk] at the guild. When you have surveyed every town, return to the guild that hired you and report.\n◆Tips\nSet a destination on the travel screen and choose the job's base to see where the towns of the region are.
 @7
-●Outline\nVisit houses to look for ronin. When you find one you have not met, call at the house and talk to him. Or talk to unknown ronin on the travel screen, in taverns and so on, and get acquainted. Finally, return to the ninja village and report.\nThe more ronin you find, the higher the reward.
+●Outline\nVisit houses to look for rōnin. When you find one you have not met, call at the house and talk to him. Or talk to unknown rōnin on the travel screen, in taverns and so on, and get acquainted. Finally, return to the ninja village and report.\nThe more rōnin you find, the higher the reward.
 @8
 ●Outline\nCarry out a castle survey at the drill ground of the castle named.\n◆Procedure\nSneak into the drill ground. If you get in, choose the castle survey and what to survey.\nFinally, return to the ninja village and report. The more information you gather, the higher the reward.
 @9

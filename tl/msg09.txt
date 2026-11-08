@@ -159,7 +159,7 @@ I see......
 @18.2
 ......I spoke out of turn.
 @19
-......You would serve me,\nwho am not even a daimyo?
+......You would serve me,\nwho am not even a daimyō?
 @20
 I wish to work under you\nand no one else.
 @21
@@ -325,7 +325,7 @@ That was quite a match.\nLet's have another bout any time.
 @68.2
 You still have a long way to go.\nLet's have another bout any time.
 @69
-Do you really want to become a ronin?
+Do you really want to become a rōnin?
 @70
 {01}C*{00}, I have something\nimportant to discuss.
 @70.1
@@ -403,7 +403,7 @@ Why are you dawdling?!\nYou're an enemy now, get out!\nNever show your face to m
 @83.2
 Yes, sir! I'll take my leave!
 @84
-{01}C*{00}!\nIs it true\nthat you're becoming a ronin?
+{01}C*{00}!\nIs it true\nthat you're becoming a rōnin?
 @85
 Yes, I'm sorry.\nI have my reasons.\nIt's a long story...
 @86
@@ -411,7 +411,7 @@ No, {01}C*{00}, I won't pry\ninto your reasons...\n...But!
 @87
 But?
 @88
-I too will return to being a ronin\nand share your lot for now...\n\nAnd should you, {01}C*{00}, enter service again,\nI wish to serve you once more.\nI beg you!
+I too will return to being a rōnin\nand share your lot for now...\n\nAnd should you, {01}C*{00}, enter service again,\nI wish to serve you once more.\nI beg you!
 @89
 Yes, I gratefully accept\nyour feelings.\n{01}C*{00}, take care.
 @90
@@ -607,7 +607,7 @@ I'll come straight to the point.\n{01}C+{00} would very much like\nto welcome yo
 @172
 I'll come straight to the point.\nWould you put your strength to use\nin the service of Lord {02}{03}f?
 @173
-What!\nYou want me, a mere ronin...\nIs this true?
+What!\nYou want me, a mere rōnin...\nIs this true?
 @173.1
 What!\nYou want me, an officer of the {02}{06}e...\nIs this true?
 @174
@@ -639,7 +639,7 @@ Eh?\nN-no, it's nothing.
 @187
 I'll come straight to the point.\n{01}C*{00}, would you consider\njoining our side?
 @188
-What!\nYou want me, a mere ronin...\n{01}C*{00}, are you serious?
+What!\nYou want me, a mere rōnin...\n{01}C*{00}, are you serious?
 @188.1
 What!\nYou want me, an officer of the {02}{06}e...\n{01}C*{00}, are you serious?
 @189
@@ -795,15 +795,15 @@ Hm, I'll take it without ceremony.\n{01}C*{00}, I shall welcome you\nwith the be
 @256.10
 ...I see.\nThen I'll take it.
 @257
-I have grown utterly tired\nof being a daimyo.\nWould you become a daimyo?\nIf you hand over all\nthe wealth stored in your house,\nI will hand over my castle.
+I have grown utterly tired\nof being a daimyō.\nWould you become a daimyō?\nIf you hand over all\nthe wealth stored in your house,\nI will hand over my castle.
 @258
 If you hand your castle to me,\nwhat will you do, my lord?
 @259
-Once I lay down the burden of daimyo,\nI will serve you as chief retainer.
+Once I lay down the burden of daimyō,\nI will serve you as chief retainer.
 @260
 I am serious.\nWhat do you say?
 @261
-Heavens, no!\nI could never serve\nas a daimyo.
+Heavens, no!\nI could never serve\nas a daimyō.
 @262
 I see, what a pity.
 @263
@@ -821,21 +821,21 @@ Then I'll go and fetch him.\nPlease wait a moment.
 @269
 Master!\nWhatever has happened?!
 @270
-Well, you see...\nfor these reasons,\nI am to become a daimyo.
+Well, you see...\nfor these reasons,\nI am to become a daimyō.
 @271
 Is that true?!\nThen congratulations, sir.\nBut what will become of {02}){B6}?
 @272
 I mean to entrust {02}){B6} to you.\nFrom now on you're the master of {02}){B6}.\nTake good care of it.\nAnd while you're at it,\nwould you tell my wife how things stand,\nand that she should come to {02}{0B}d?
 @273
-I understand...\nI'll tell the mistress myself.\nAnd I'll take charge of {02}){B6}.\n...Master, even as a daimyo\nyou'll surely need money.\nI'll send some from the shop's takings every month.\nMaster, so this is truly farewell.\nPlease take good care of yourself.\nThank you for everything... I'll take my leave.
+I understand...\nI'll tell the mistress myself.\nAnd I'll take charge of {02}){B6}.\n...Master, even as a daimyō\nyou'll surely need money.\nI'll send some from the shop's takings every month.\nMaster, so this is truly farewell.\nPlease take good care of yourself.\nThank you for everything... I'll take my leave.
 @274
 I mean to entrust {02}){B6} to you.\nFrom now on you're the master of {02}){B6}.\nTake good care of it.
 @275
-I understand...\nAnd I'll take charge of {02}){B6}.\n\n...Master, even as a daimyo\nyou'll surely need money.\nI'll send some from the shop's takings every month.\nMaster, so this is truly farewell.\nPlease take good care of yourself.\nThank you for everything... I'll take my leave.
+I understand...\nAnd I'll take charge of {02}){B6}.\n\n...Master, even as a daimyō\nyou'll surely need money.\nI'll send some from the shop's takings every month.\nMaster, so this is truly farewell.\nPlease take good care of yourself.\nThank you for everything... I'll take my leave.
 @276
 Sorry to keep you waiting.\nWell then...
 @277
-From now on, you are the daimyo.\nI am at your service.
+From now on, you are the daimyō.\nI am at your service.
 @278
 You are too kind.\nI ask for your guidance\nfrom now on.
 @279

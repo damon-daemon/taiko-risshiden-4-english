@@ -13,11 +13,11 @@
 @6
 ●Other cards\n<<How to get>>\nKeep training your skills. Some are obtained in events.\n\n<<Effect>>\nVarious, such as better mission results or more specialities.
 @7
-●Age\nCurrent age (counted the traditional way).\n●Rank\nDaimyo, Province Lord, Castle Lord, Chief Retainer, Commander, Samurai General, Ashigaru General, Ashigaru Captain or Ronin. The higher the rank, the more troops a unit can have in battle.\n●Court rank\nThe rank granted by the court (the highest, if several). A daimyo holding several ranks can recommend vassals for those below his highest.
+●Age\nCurrent age (counted the traditional way).\n●Rank\nDaimyō, Province Lord, Castle Lord, Chief Retainer, Commander, Samurai General, Ashigaru General, Ashigaru Captain or Rōnin. The higher the rank, the more troops a unit can have in battle.\n●Court rank\nThe rank granted by the court (the highest, if several). A daimyō holding several ranks can recommend vassals for those below his highest.
 @8
-●Affiliation\nThe clan you belong to. At Chief Retainer or below you can leave service and become a ronin. A ronin can serve an officer of another clan or join a ninja village. Castle and Province Lords can rebel and become daimyo.\n●Lord\nThe officer you serve.\n●Base\nThe castle or town where your home or residence is. A ronin can change his base town by moving house.
+●Affiliation\nThe clan you belong to. At Chief Retainer or below you can leave service and become a rōnin. A rōnin can serve an officer of another clan or join a ninja village. Castle and Province Lords can rebel and become daimyō.\n●Lord\nThe officer you serve.\n●Base\nThe castle or town where your home or residence is. A rōnin can change his base town by moving house.
 @9
-●Merit\nHow much merit you have earned. It affects promotion and rises with mission results and the like.\n●Stipend\nPay received every month. The higher the rank, the more you get.\n●Closeness\nHow close the person is to you. It rises with gifts, tea and the like.
+●Merit\nHow much merit you have earned. It affects promotion and rises with mission results and the like.\n●Stipend\nPay received every month. The higher the rank, the more you get.\n●Bond\nHow close the person is to you. It rises with gifts, tea and the like.
 @10
 ●Leadership\nThe higher, the stronger your attacks in battle, and the better you do when training Tactics, Mining, Infantry and Navy.\n●Valor\nThe higher, the stronger your attacks in duels and the less likely you are to be wounded in battle, and the better you do when training Cavalry, Gunnery, Archery, Swordsmanship and Ninjutsu.\n●Politics\nThe higher, the better you do when training Building, Farming, Mining and Accounting.
 @11
@@ -35,17 +35,17 @@
 @17
 ●Tea\nThe higher, the greater the effect of tea parties and tea. Train it at a tea master's house.\n●Medicine\nThe higher, the more you recover in duels. Train it at a physician's house.
 @18
-●Head\nThe head of the clan.\n●Court rank\nThe rank the daimyo was granted by the court (the highest, if several). A daimyo holding several ranks can recommend vassals for those below his highest.\n●Seat\nThe castle where the daimyo resides.
+●Head\nThe head of the clan.\n●Court rank\nThe rank the daimyō was granted by the court (the highest, if several). A daimyō holding several ranks can recommend vassals for those below his highest.\n●Seat\nThe castle where the daimyō resides.
 @19
-●Power\nThe clan's strength, set by the number of castles it rules, their yield, popular support and so on. A main castle counts for more power than an ordinary castle.\n●Court Standing\nWith high court standing and power, a daimyo is granted higher court ranks. It rises when you ask a noble's house to put in a word and donate to the court.
+●Power\nThe clan's strength, set by the number of castles it rules, their yield, popular support and so on. A main castle counts for more power than an ordinary castle.\n●Court Standing\nWith high court standing and power, a daimyō is granted higher court ranks. It rises when you ask a noble's house to put in a word and donate to the court.
 @20
 ●Diplomatic relations\nAlliance: allied.\nVassal: ruled by the other clan.\nRule: rules the other clan.\nFeeling, from worst to best: Broken < Hostile < Unfriendly < Normal < Good < Friendly < Close Allies
 @21
-●Main castle\nA main castle is marked "Main" ([M] in lists). It is the central castle of a province; ruling it raises the daimyo's power.\n●Affiliation (clan)\nThe clan that rules the castle.
+●Main castle\nA main castle is marked "Main" ([M] in lists). It is the central castle of a province; ruling it raises the daimyō's power.\n●Affiliation (clan)\nThe clan that rules the castle.
 @22
 ●Castle size\nFour levels: Small, Medium, Large and Huge. It affects the castle's maximum defense, troop growth and so on, and rises with Expand Castle. A mountain castle can only reach "Large".\n●Castle site\nThree kinds: flatland, mountain and harbour castles. The site affects the maximum castle size.
 @23
-●Castle lord\nThe officer appointed lord of the castle by the daimyo. The daimyo is lord of his own direct-rule castles, so direct-rule castles other than his residence have no lord.\n●Rice\nPaid by the people every September, used up by battles and the like. The higher the yield and popular support, the more is paid. (max 9999999)
+●Castle lord\nThe officer appointed lord of the castle by the daimyō. The daimyō is lord of his own direct-rule castles, so direct-rule castles other than his residence have no lord.\n●Rice\nPaid by the people every September, used up by battles and the like. The higher the yield and popular support, the more is paid. (max 9999999)
 @24
 ●War funds\nIncome comes in every month according to yield, mines and popular support. Spent on missions, vassals' stipends and so on. The higher the yield, mines, support and population, the more income. (max 9999999)\n●Population\nThe number of people living in the castle town. The larger it is, the more troops and funds you get. (max 250,000)
 @25
@@ -63,6 +63,6 @@
 @31
 ●Investment\nThe money now invested in the town. More investment makes the town bigger and may produce finer specialities.\n●Speciality\nThe town's speciality goods. They cost less here than in towns where they are not a speciality.\n●Facilities\nThe facilities in the town.
 @32
-●Chief\nThe ninja chief who runs the village.\n●Backed daimyo\nThe clan the village supports: whichever invested in it most. If you belong to a clan hostile to it, you cannot enter the village, and it will not take jobs that hurt its daimyo.\n●Village size\nRises when you invest in the village. As it grows, training grounds are added and secret arts can be learned.
+●Chief\nThe ninja chief who runs the village.\n●Backed daimyō\nThe clan the village supports: whichever invested in it most. If you belong to a clan hostile to it, you cannot enter the village, and it will not take jobs that hurt its daimyō.\n●Village size\nRises when you invest in the village. As it grows, training grounds are added and secret arts can be learned.
 @33
-●Investment\nThe money now invested in the village. More investment makes the village bigger and lets you learn secret arts. The daimyo who invests most becomes its backed daimyo.\n●Troops\nThe village's soldiers. The bigger the village, the more there are.\n●Training\nHow well drilled the soldiers are. It rises with training at the drill ground.
+●Investment\nThe money now invested in the village. More investment makes the village bigger and lets you learn secret arts. The daimyō who invests most becomes its backed daimyō.\n●Troops\nThe village's soldiers. The bigger the village, the more there are.\n●Training\nHow well drilled the soldiers are. It rises with training at the drill ground.

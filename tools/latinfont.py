@@ -132,6 +132,13 @@ GLYPHS = {
 }
 GLYPHS['&'] = (6.2, [[(6.2, 0)] + [(1.4, 6.4)] + arc(2.6, 8.2, 1.4, 1.8, 215, -35)[1:] +
                      [(0.8, 3.2)] + arc(2.4, 2.2, 2.4, 2.2, 150, 280)[1:] + [(5.6, 3.8)]])
+# Macron vowels in the unused ASCII codes (text.FOLD maps the letters to them): the vowel
+# with a bar above (lowercase at ascender height, capitals just above the cap height).
+MACRONS = {'ō': '^', 'ū': '`', 'Ō': '|', 'Ū': '_'}
+for _v, _code in MACRONS.items():
+    _w, _st = GLYPHS[{'ō': 'o', 'ū': 'u', 'Ō': 'O', 'Ū': 'U'}[_v]]
+    _y = 9.15 if _v.islower() else 12.6      # on pixel rows 5 / 0-1 of the 24-px cell
+    GLYPHS[_code] = (_w, _st + [[(0.5, _y), (_w - 0.5, _y)]])
 CHARS = ''.join(chr(c) for c in range(0x20, 0x7F))
 assert set(CHARS) <= set(GLYPHS), set(CHARS) - set(GLYPHS)
 

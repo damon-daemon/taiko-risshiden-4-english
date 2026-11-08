@@ -1,0 +1,38 @@
+# battlecards: index<TAB>English (tools/elftables.py)
+0	Fire Attack
+1	Pincer
+2	Ride Down
+3	Decoy Charge
+4	Red Charge
+5	Archer Charge
+6	Fire Pots
+7	Fire Arrows
+8	Strong Bow
+9	Steady Rain
+10	Rolling Fire
+11	Triple Volley
+12	Sniping
+13	Decoy Ambush
+14	Quick Load
+15	Urge Surrender
+16	Offer Peace
+17	Tunnelling
+18	Gate Blast
+19	Starve Out
+20	Treason Rumour
+21	Flooding
+22	Rockfall
+23	Abuse
+24	Godspeed
+25	Pursuit
+26	Ambush
+27	Woodpecker
+28	Tenfold Ambush
+29	Pitfall
+30	Plan Refill
+31	Rush Repair
+32	Attack
+33	Charge
+34	Fire
+35	Rally
+36	See Through

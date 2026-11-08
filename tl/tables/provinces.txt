@@ -1,0 +1,61 @@
+# provinces: index<TAB>English (tools/elftables.py)
+0	Mutsu
+1	Rikuzen
+2	Ugo
+3	Uzen
+4	Iwashiro
+5	Hitachi
+6	Shimotsuke
+7	Kōzuke
+8	Kazusa-Awa
+9	Shimōsa
+10	Musashi
+11	Sagami-Izu
+12	Echigo
+13	Etchū
+14	Noto
+15	Kaga
+16	Echizen
+17	North Shinano
+18	South Shinano
+19	Kai
+20	Suruga
+21	Tōtōmi
+22	Mikawa
+23	Owari
+24	Mino
+25	Hida
+26	Ise-Shima
+27	North Ōmi
+28	South Ōmi
+29	Yamato-Iga
+30	Yamashiro
+31	Tanba
+32	Tango
+33	Kawachi-Izumi
+34	Settsu
+35	Kii
+36	Inaba-Tajima
+37	Hōki
+38	Izumo
+39	Iwami
+40	Harima
+41	Mimasaka
+42	Bizen
+43	Bitchū
+44	Bingo
+45	Aki
+46	Suō-Nagato
+47	Sanuki
+48	Iyo
+49	Awa-Awaji
+50	Tosa
+51	Chikuzen
+52	Chikugo
+53	Hizen
+54	Higo
+55	Buzen
+56	Bungo
+57	Hyūga
+58	Ōsumi
+59	Satsuma

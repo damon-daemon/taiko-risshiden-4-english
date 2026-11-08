@@ -147,7 +147,7 @@ Why, Lord {02}{02}f. I've heard the news. You left your post, they say...
 @24.1
 Why, Lord {02}{02}f. I've heard the news. You left your post, they say...
 @24.2
-I've heard the news. I never thought I'd meet you again as a ronin.
+I've heard the news. I never thought I'd meet you again as a rōnin.
 @25
 Yes, my post didn't suit me.
 @25.1
@@ -691,7 +691,7 @@ This is where ninja ranks are granted. You are unskilled and not fit for the tes
 @133.1
 This is where ninja ranks are granted. You are unskilled and not fit for the test. Train first.
 @134
-This place is for becoming Jonin. You are still a Genin. Train somewhere else.
+This place is for becoming Jōnin. You are still a Genin. Train somewhere else.
 @135
 Here we teach arts only to those who hold a ninja rank. Train at Training Ground 2 first.
 @136

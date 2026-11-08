@@ -17,7 +17,7 @@ must match the Japanese.
 import collections, json, os, re, struct, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import elfseg
+import elfseg, text
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'elfstr.txt')
@@ -26,6 +26,10 @@ CLEAN = os.path.join(ROOT, 'extract', 'SLPM_621.05')
 BASE, FOFF = 0x100000, 0x80
 DATA_LO, DATA_HI = 0x3E2F90, 0x462980          # end of code .. end of the loaded image
 R_32, R_HI16, R_LO16, R_GPREL16 = 2, 5, 6, 7
+# ASCII-only literals that still need English (not found by _is_text)
+ASCII_LITERALS = {
+    0x40F418,          # "%d00" status-bar money remainder (x 100 mon), followed by a fixed "文"
+}
 FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?[a-zA-Z]')
 
 def _f(va):
@@ -61,7 +65,7 @@ class Elf:
             if name.startswith('@') and DATA_LO <= va < DATA_HI and size:
                 b = self.data[_f(va):_f(va) + size]
                 s = b.split(b'\0')[0]
-                if _is_text(s):
+                if _is_text(s) or va in ASCII_LITERALS:
                     out.append((i, va, size, s))
         return out
 
@@ -113,7 +117,7 @@ def apply(elf, seg, clean=None):
             errors.append('elfstr %x: not a string literal' % va)
             continue
         i, size, jp = lits[va]
-        b = en.encode('cp932')
+        b = text.fold(en).encode('cp932')
         if FMT.findall(b) != FMT.findall(jp):
             errors.append('elfstr %x: conversions %s, Japanese has %s' % (va, FMT.findall(b), FMT.findall(jp)))
             continue

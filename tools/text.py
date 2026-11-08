@@ -7,6 +7,13 @@ lossless for any input: encode(decode(b)) == b.
 """
 import re
 
+# macron vowels -> the spare ASCII codes drawing them (tools/latinfont.py MACRONS)
+FOLD = {'ō': '^', 'ū': '`', 'Ō': '|', 'Ū': '_'}
+
+def fold(s):
+    """English text -> the characters the game font has (macron vowels to their codes)."""
+    return ''.join(FOLD.get(c, c) for c in s)
+
 def _char(b, i):
     c = b[i]
     if c == 0x0A:
@@ -47,7 +54,7 @@ def encode(s):
         elif m.group() == '\n':
             out.append(0x0A)
         else:
-            ch = m.group()
+            ch = FOLD.get(m.group(), m.group())
             if ch == '\\':
                 out.append(0x5C)
                 continue

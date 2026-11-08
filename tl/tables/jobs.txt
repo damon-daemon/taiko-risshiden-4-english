@@ -1,0 +1,34 @@
+# jobs: index<TAB>English (tools/elftables.py)
+0	Study
+1	Sell Rice
+2	Raise Funds
+3	Win Hearts
+4	New Fields
+5	Mine Work
+6	Supplies
+7	Buy Rice
+8	Buy Horses
+9	Buy Guns
+10	Buy Cannon
+11	Train
+12	Sep.Soldier
+13	Repair
+14	Expand
+15	Find Rōnin
+16	Spy Castle
+17	Sabotage
+18	Sab: Castle
+19	Sab: Rumour
+20	Sab: Arson
+21	Diplomacy
+22	Dip: Ally
+23	Dip: Break
+24	Dip: Rule
+25	Dip: War
+26	Dip: Peace
+27	Dip: Amity
+28	Dip: Court
+29	Recruit
+30	Take Castle
+31	Take Prov.
+32	Take Daimyō

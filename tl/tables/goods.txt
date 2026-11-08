@@ -1,0 +1,61 @@
+# goods: index<TAB>English (tools/elftables.py)
+0	Kelp
+1	Nori
+2	Bonito
+3	Sardines
+4	Taro
+5	Burdock
+6	Soy Sauce
+7	Vinegar
+8	Salt
+9	Natto
+10	Kōji
+11	Sugar
+12	Lobster
+13	Sea Bream
+14	Sesame
+15	Konnyaku
+16	Daikon
+17	Mandarins
+18	Chestnuts
+19	Persimmons
+20	Watermelons
+21	Grapes
+22	Pears
+23	Timber
+24	Firewood
+25	Candles
+26	Straw Mats
+27	Oil
+28	Tatami
+29	Combs
+30	Ceramics
+31	Castings
+32	Lacquerware
+33	Paper
+34	Ink Sticks
+35	Inkstones
+36	Seto Ware
+37	Shigaraki
+38	Bizen Ware
+39	Hagi Ware
+40	Wajima Ware
+41	Torinoko
+42	Sugihara
+43	Mino Paper
+44	Lacquer
+45	Gromwell
+46	Madder
+47	Tobacco
+48	Tea
+49	Oysters
+50	Hemp
+51	Cotton Yarn
+52	Cotton Cloth
+53	Silk
+54	Nishijin
+55	Hakata Weave
+56	Agate
+57	Crystal
+58	Iron
+59	Sulphur

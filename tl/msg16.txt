@@ -97,7 +97,7 @@ Why, Lord {02}{02}f. Our lord told us of you. Please, go through.
 @26
 (Now, how shall I get them to let me through?)
 @27
-What's a mere ronin saying? Go home, go home!
+What's a mere rōnin saying? Go home, go home!
 @27.1
 No one from {02}{02}{A1} passes. Begone.
 @28

@@ -1,0 +1,11 @@
+# formations: index<TAB>English (tools/elftables.py)
+0	None
+1	Fish Scale
+2	Wild Geese
+3	Arrowhead
+4	Crane Wing
+5	Circle
+6	Crescent
+7	Long Snake
+8	Yoke
+9	Wheel

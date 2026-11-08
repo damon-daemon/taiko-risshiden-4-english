@@ -3,13 +3,13 @@ I wanted to be of use to you, dear,\nso I looked into the controls and rules.
 @1
 What is the goal of the game?
 @2
-The final goal is to achieve one of the following:\n- Become a daimyo and unite all castles, or reach Senior First Rank.\n- See the daimyo you serve unite all castles or reach Senior First Rank.\nIf your daimyo starts at Senior First Rank, or you serve one, the only goal is to unite every castle in the land.
+The final goal is to achieve one of the following:\n- Become a daimyō and unite all castles, or reach Senior First Rank.\n- See the daimyō you serve unite all castles or reach Senior First Rank.\nIf your daimyō starts at Senior First Rank, or you serve one, the only goal is to unite every castle in the land.
 @3
 When is the game over?
 @4
 It seems the game ends if any of the following happens:\n- The hero dies.\n- The clan you serve is destroyed.\n- The year 1616 arrives.\nYou die if you are cut down, or if you are captured in battle\nand take your own life.
 @5
-A clan is destroyed when all its castles fall, or when its daimyo is captured in battle and killed... Let me see: that is when the daimyo's seat falls, none of his castles border it, and all the remaining castles are under his direct rule. ...But I pray nothing so dreadful ever happens.
+A clan is destroyed when all its castles fall, or when its daimyō is captured in battle and killed... Let me see: that is when the daimyō's seat falls, none of his castles border it, and all the remaining castles are under his direct rule. ...But I pray nothing so dreadful ever happens.
 @6
 How do I play as another officer?
 @7
@@ -43,9 +43,9 @@ Well, ask me anything.\nDon't worry, I won't laugh. Ha ha ha...
 @21
 About ranks
 @22
-From the top, the ranks of a clan's vassals are: Province Lord, Castle Lord, Chief Retainer, Commander, Samurai General, Ashigaru General and Ashigaru Captain. Pile up merit, and even you or I have a chance to rise.\nWhat? How to become a daimyo? Bold words. Ask somewhere else about such dangerous talk. Ha ha ha...
+From the top, the ranks of a clan's vassals are: Province Lord, Castle Lord, Chief Retainer, Commander, Samurai General, Ashigaru General and Ashigaru Captain. Pile up merit, and even you or I have a chance to rise.\nWhat? How to become a daimyō? Bold words. Ask somewhere else about such dangerous talk. Ha ha ha...
 @23
-As a rule, the higher your rank, the higher your stipend. If you want details on stipends, I'll tell you another time.\nThose who belong to no clan are ronin. One can also live as a merchant or a ninja. Of course, I have no intention of leaving my clan... nor do you, eh?
+As a rule, the higher your rank, the higher your stipend. If you want details on stipends, I'll tell you another time.\nThose who belong to no clan are rōnin. One can also live as a merchant or a ninja. Of course, I have no intention of leaving my clan... nor do you, eh?
 @24
 About stipends
 @25
@@ -55,31 +55,31 @@ But if you are Chief Retainer or lower and have retainers, their stipends come o
 @27
 Direct vassals and rear vassals?
 @28
-A direct vassal serves the daimyo himself.\nA rear vassal serves one of the daimyo's men, that is, someone of Province Lord rank or below.\nDirect vassals attend council at the daimyo's seat and get missions from him. But rear vassals serving a castle or province lord get their missions from that lord.
+A direct vassal serves the daimyō himself.\nA rear vassal serves one of the daimyō's men, that is, someone of Province Lord rank or below.\nDirect vassals attend council at the daimyō's seat and get missions from him. But rear vassals serving a castle or province lord get their missions from that lord.
 @29
-A rear vassal can rise no higher than Commander. But by urging his lord to rebel, he can raise his lord to daimyo. Then he becomes a direct vassal.
+A rear vassal can rise no higher than Commander. But by urging his lord to rebel, he can raise his lord to daimyō. Then he becomes a direct vassal.
 @30
 I want retainers
 @31
-To get more retainers, recruit ronin.\nIf there's a promising ronin at a Common Home, go and recruit him. If you can't find any, try talking to the townsfolk at the inn. You may hear rumours.\nWhen a castle falls and a clan is destroyed, ronin grow in nearby towns. Men who served that clan and escaped punishment move there.
+To get more retainers, recruit rōnin.\nIf there's a promising rōnin at a Common Home, go and recruit him. If you can't find any, try talking to the townsfolk at the inn. You may hear rumours.\nWhen a castle falls and a clan is destroyed, rōnin grow in nearby towns. Men who served that clan and escaped punishment move there.
 @32
-When recruiting, don't forget that your retainers' stipends come out of your own. For the same stipend, you'd surely rather have a capable man.\nOnce you hold a castle, you can have the daimyo's direct vassals placed under you. These are called aides. Go to the daimyo's castle to request an aide.
+When recruiting, don't forget that your retainers' stipends come out of your own. For the same stipend, you'd surely rather have a capable man.\nOnce you hold a castle, you can have the daimyō's direct vassals placed under you. These are called aides. Go to the daimyō's castle to request an aide.
 @33
 How do I dismiss a retainer?
 @34
-You cannot dismiss a retainer once taken on without cause.\nYou can, however, recommend a retainer to your daimyo. He then becomes the daimyo's direct vassal and is no longer yours.\nTo recommend one, go to the daimyo's seat yourself.
+You cannot dismiss a retainer once taken on without cause.\nYou can, however, recommend a retainer to your daimyō. He then becomes the daimyō's direct vassal and is no longer yours.\nTo recommend one, go to the daimyō's seat yourself.
 @35
 I want my own castle
 @36
 You want a castle!? ...I see, so that's it.\nTo hold a castle you must rise to Chief Retainer and then be appointed Castle Lord. Carry out missions and earn merit, and you'll reach Chief Retainer without trouble.\nBut to get a castle lord's seat, a castle must be free. After that, all you can do is pray to be appointed.
 @37
-Even if someone gets there first, don't give up. Earn merit and take castles in battle, and your chance will come some day.\nBut a rear vassal, that is, one serving the daimyo's men, can rise no higher than Commander and so cannot hold a castle. If you want to be a castle lord, you must somehow become a direct vassal.
+Even if someone gets there first, don't give up. Earn merit and take castles in battle, and your chance will come some day.\nBut a rear vassal, that is, one serving the daimyō's men, can rise no higher than Commander and so cannot hold a castle. If you want to be a castle lord, you must somehow become a direct vassal.
 @38
 How do I get a court rank?
 @39
 A court rank? You care even about such things?\nCourt ranks are granted by the court. A rank or office doesn't mean you actually do that job... it's a status, you might say.\nTo be granted one you need real strength: your clan's power, that is.
 @40
-You must also pay money to the court and raise your standing. A warrior who goes to the court gets nowhere, so visit a Noble's House in Kyoto and ask them to put in a word. Raise your court standing that way, and in time you'll be granted an audience. Not the likes of you, of course. Only a daimyo can see the court, and only a daimyo is granted ranks.
+You must also pay money to the court and raise your standing. A warrior who goes to the court gets nowhere, so visit a Noble's House in Kyōto and ask them to put in a word. Raise your court standing that way, and in time you'll be granted an audience. Not the likes of you, of course. Only a daimyō can see the court, and only a daimyō is granted ranks.
 @41
 Some officers won't see me...
 @42
@@ -133,7 +133,7 @@ How should I spend my free time?
 @66
 A vassal has no free time. When your mission is done, devote yourself to training until the next council. Pay for lessons at a dojo or stable, or ask an officer you're close to.\nWhen you have more time, travel to distant bases to gather news. Get castle news at the drill ground, or visit Samurai Homes to learn about the enemy.
 @67
-In Kyoto and Sakai, merchant houses, Nanban trading houses and other rare buildings stand side by side. They say you can get most things there. Stocking up gifts for officers who help you matters too. Hmph, beyond your stipend? Then earn money doing guild jobs, or trade goods. But if you lose your head over money and are late for council, don't come to me.
+In Kyōto and Sakai, merchant houses, Nanban trading houses and other rare buildings stand side by side. They say you can get most things there. Stocking up gifts for officers who help you matters too. Hmph, beyond your stipend? Then earn money doing guild jobs, or trade goods. But if you lose your head over money and are late for council, don't come to me.
 @68
 May I oppose policy at council?
 @69
@@ -145,11 +145,11 @@ A castle lord bears a heavy responsibility.\nListen well.
 @72
 What does a castle lord do?
 @73
-A castle lord governs a castle on the daimyo's behalf, but he may not rule as he pleases. Even as castle lord you get missions from the daimyo, no longer small tasks but great charges such as taking castles.\nThe daimyo's envoy brings your missions, so you need not go to him. The same goes when you complete one: word of your results reaches the daimyo.
+A castle lord governs a castle on the daimyō's behalf, but he may not rule as he pleases. Even as castle lord you get missions from the daimyō, no longer small tasks but great charges such as taking castles.\nThe daimyō's envoy brings your missions, so you need not go to him. The same goes when you complete one: word of your results reaches the daimyō.
 @74
 Now to the work itself. First, hold council and hand out missions. Those who receive missions each do their work and come back to report. To those who have finished, give new missions in turn.\nI'll tell you about council in detail another time.
 @75
-Battle is another important duty. Decide on war in the Council Chamber, form an army and march out. The castle lord leads it as army commander. Take the castle, and happily it becomes your clan's. But it falls under the daimyo's direct rule, so your own castles don't grow. For a province lord it's another story...
+Battle is another important duty. Decide on war in the Council Chamber, form an army and march out. The castle lord leads it as army commander. Take the castle, and happily it becomes your clan's. But it falls under the daimyō's direct rule, so your own castles don't grow. For a province lord it's another story...
 @76
 Personnel is also a castle lord's job. Retainers who earn merit must be promoted. Promotion costs more stipend, but widens the missions you can give them and raises the troops they can lead in battle. Appointing a strategist matters too, for you can leave things to him.\n...And so, running the castle is the castle lord's duty.
 @77
@@ -167,7 +167,7 @@ Missions are split into Domestic, Arms, Plots and Diplomacy, but you may mix the
 @83
 Some missions can't be ordered
 @84
-Most likely your retainer's rank is too low. Just as when you got missions from your lord, the missions you give are limited by rank.\nBuy Cannon can't be ordered without a letter from the Nanban Temple, though you can buy them yourself at a smithy. Diplomacy is the same; a daimyo, though, can order his men to do it...
+Most likely your retainer's rank is too low. Just as when you got missions from your lord, the missions you give are limited by rank.\nBuy Cannon can't be ordered without a letter from the Nanban Temple, though you can buy them yourself at a smithy. Diplomacy is the same; a daimyō, though, can order his men to do it...
 @85
 I'm short of war funds
 @86
@@ -181,9 +181,9 @@ Moreover, always make sure missions get the most out of their budgets. For insta
 @90
 How do I get more retainers?
 @91
-More retainers means more missions you can give. From Castle Lord up, retainers matter greatly. There are three ways to get more.\nFirst, recruit ronin. Ronin live in Common Homes, so visit one and choose Recruit... but don't rush. First give gifts, serve tea, and grow close.
+More retainers means more missions you can give. From Castle Lord up, retainers matter greatly. There are three ways to get more.\nFirst, recruit rōnin. Rōnin live in Common Homes, so visit one and choose Recruit... but don't rush. First give gifts, serve tea, and grow close.
 @92
-Able men are very hard to find, but watch for when another clan falls. Men who escaped punishment may move to nearby towns.\nSecond, get aides. An aide is a direct vassal of the daimyo lent to you as a retainer. Go to the daimyo's castle and choose Request Aide. A castle lord may have up to 4, a province lord up to 8.
+Able men are very hard to find, but watch for when another clan falls. Men who escaped punishment may move to nearby towns.\nSecond, get aides. An aide is a direct vassal of the daimyō lent to you as a retainer. Go to the daimyō's castle and choose Request Aide. A castle lord may have up to 4, a province lord up to 8.
 @93
 Last, take castles in battle and bring enemy officers into your service. When you take an enemy castle, officers left inside with no castle to flee to are captured. Win a captive over, and you can take him on.
 @94
@@ -201,31 +201,31 @@ How should I spend my free time?
 @100
 Free time? Nonsense. A castle or province lord can't leave everything to his men.\n...Is domestic rule in order? You can carry out domestic policy in the castles you rule.\n...Is your army ready? At the drill ground of your castles you can separate soldiers from farmers and train them yourself. When your men are busy, rush about buying guns and horses or trading rice.
 @101
-...How are relations with other provinces? Go to another daimyo's seat yourself and you can conduct diplomacy.\n...Have you honed your own abilities? If you lack confidence, go home and use Train Abilities to hone Leadership, Valor, Politics, Intellect and Charm.\n\nWell? Still say you have time on your hands?
+...How are relations with other provinces? Go to another daimyō's seat yourself and you can conduct diplomacy.\n...Have you honed your own abilities? If you lack confidence, go home and use Train Abilities to hone Leadership, Valor, Politics, Intellect and Charm.\n\nWell? Still say you have time on your hands?
 @102
 I look forward to hearing what you'll say.\nCome, speak up!
 @103
-How do I become daimyo?
+How do I become daimyō?
 @104
-Ho, an amusing thing to say. Eyeing the realm after I'm gone? ...Well, never mind.\nWhen a daimyo dies, someone succeeds him and becomes daimyo: a blood relative, or failing that, the vassal with the most merit. But whether the chance will ever come your way...
+Ho, an amusing thing to say. Eyeing the realm after I'm gone? ...Well, never mind.\nWhen a daimyō dies, someone succeeds him and becomes daimyō: a blood relative, or failing that, the vassal with the most merit. But whether the chance will ever come your way...
 @105
-Or do you want a quicker way? A castle or province lord can decide on rebellion in the Council Chamber and become a daimyo at once. The castles held from the daimyo become his own. His retainers will choose for themselves whether to follow the rebellion or flee...\n...I warn you, though: show any sign of rebellion and I'll show no mercy.
+Or do you want a quicker way? A castle or province lord can decide on rebellion in the Council Chamber and become a daimyō at once. The castles held from the daimyō become his own. His retainers will choose for themselves whether to follow the rebellion or flee...\n...I warn you, though: show any sign of rebellion and I'll show no mercy.
 @106
-What does a daimyo do?
+What does a daimyō do?
 @107
-The aim is to unite the realm. Destroy the clans that defy you and bring every castle in the land under your rule.\nFor that, give orders to province and castle lords at council to take castles, provinces and daimyo. Sending aides to each castle matters too. Send able officers to the castles on the front.
+The aim is to unite the realm. Destroy the clans that defy you and bring every castle in the land under your rule.\nFor that, give orders to province and castle lords at council to take castles, provinces and daimyō. Sending aides to each castle matters too. Send able officers to the castles on the front.
 @108
-In castles under direct rule, you must also do the duties of a castle or province lord; ask others about those.\nDon't forget diplomacy. As daimyo you can order your men to carry it out.
+In castles under direct rule, you must also do the duties of a castle or province lord; ask others about those.\nDon't forget diplomacy. As daimyō you can order your men to carry it out.
 @109
 Appoint a lord or rule directly?
 @110
 The merit of appointing a castle lord is that with fewer castles to govern, you can focus on expanding your domain.\nAlso, the castle becomes harder to take when attacked. In a direct-rule castle nameless soldiers become army commander and unit commanders, but where there is a castle lord, he leads as army commander and his officers as unit commanders.
 @111
-But direct rule has a merit too: you can transport the castle's supplies freely. Appoint a castle lord, and the castle's income is in effect his. Even a daimyo can't touch it unless he dismisses that lord.
+But direct rule has a merit too: you can transport the castle's supplies freely. Appoint a castle lord, and the castle's income is in effect his. Even a daimyō can't touch it unless he dismisses that lord.
 @112
 How do I dismiss a lord?
 @113
-To dismiss a castle or province lord, go to the Council Chamber and choose Personnel, then Appoint Castle Lord. Choose the castle whose lord you'll dismiss, then the officer to make its new lord. If you choose yourself, the daimyo, it comes under direct rule. If you put a new lord in a province lord's seat, all the castles that province lord ruled come under the daimyo's direct rule.
+To dismiss a castle or province lord, go to the Council Chamber and choose Personnel, then Appoint Castle Lord. Choose the castle whose lord you'll dismiss, then the officer to make its new lord. If you choose yourself, the daimyō, it comes under direct rule. If you put a new lord in a province lord's seat, all the castles that province lord ruled come under the daimyō's direct rule.
 @114
 A dismissed castle or province lord is demoted to Chief Retainer.\nNo mercy for those who bring no results.
 @115
@@ -339,7 +339,7 @@ Price info is shown as follows:\n- Green: specialities (trade goods); the town y
 @169
 How do I become a merchant?
 @170
-Well, well, so you've come aiming to be a merchant.\nFirst you must become a ronin. If you've joined a ninja village, you must leave it. Then you serve an apprenticeship at a merchant house.\nFirst go to a guild and ask to be apprenticed. Next choose the merchant house to join and move to its town. Then visit the house and enrol properly.
+Well, well, so you've come aiming to be a merchant.\nFirst you must become a rōnin. If you've joined a ninja village, you must leave it. Then you serve an apprenticeship at a merchant house.\nFirst go to a guild and ask to be apprenticed. Next choose the merchant house to join and move to its town. Then visit the house and enrol properly.
 @171
 The master of the house sets you tasks, and when you finish them there's a test. Pass, and you become a Clerk. Pass the next tasks and test and you become Head Clerk, then a townsman. Then at last you're recognised as a full merchant and allowed your own shop. You may then move to another town and do business there.
 @172
@@ -347,17 +347,17 @@ What does a merchant gain?
 @173
 As a merchant, you can set up your own shop. Not that you stand at the counter yourself: set up trade routes, and each month the profits are saved into your safe.\nBesides that, you can sell your belongings to people you meet on the map, and when you do guild jobs, the same sum as your pay is invested in the guild of your home town.
 @174
-You can also form ties with clans. You may enter castles freely and meet castle lords.\nInvest your profits in a clan and in time you become its purveyor. A purveyor buys trade goods cheaply in provinces where that clan holds the main castle. You can even speak on the clan's policy and pull the daimyo's strings from the shadows.
+You can also form ties with clans. You may enter castles freely and meet castle lords.\nInvest your profits in a clan and in time you become its purveyor. A purveyor buys trade goods cheaply in provinces where that clan holds the main castle. You can even speak on the clan's policy and pull the daimyō's strings from the shadows.
 @175
-Even if you close your shop and go back to being a ronin, having been a merchant helps. You can pay money when you enter service to get a better rank. But it's also true that you'll rise more slowly than other officers.
+Even if you close your shop and go back to being a rōnin, having been a merchant helps. You can pay money when you enter service to get a better rank. But it's also true that you'll rise more slowly than other officers.
 @176
 Once you have your own shop...
 @177
 First, set trade routes. I'll tell you about routes another time.\nProfits are saved into your safe, so check it now and then. Invest the savings in a guild to bring forth new specialities, and you'll make another fortune.\nInvesting in clans matters too. Keep investing and you can become a purveyor.
 @178
-As a purveyor you pay a war levy each January, and in return you buy trade goods cheaply in provinces where that clan holds the main castle. You can also hear the daimyo's strategy at his seat, and even give your opinion on it. You can be purveyor to 10 clans at once.
+As a purveyor you pay a war levy each January, and in return you buy trade goods cheaply in provinces where that clan holds the main castle. You can also hear the daimyō's strategy at his seat, and even give your opinion on it. You can be purveyor to 10 clans at once.
 @179
-They say that with a vast fortune, a daimyo might even hand over his position to you...
+They say that with a vast fortune, a daimyō might even hand over his position to you...
 @180
 Which trade routes pay?
 @181
@@ -377,7 +377,7 @@ What if I invest in the village?
 @188
 We accept investment to grow the village. As it grows we add training grounds and can perfect our arts. Of course, we can't refuse a clan that invests in us. Even if we back another clan, a large enough investment may win us over. We neither serve nor obey any clan.
 @189
-If you are a ronin, taking village jobs also counts as investment. Part of the pay is yours and the rest goes to the village.\nRonin may also train at the new training grounds. But then you'll be one of our village's ninja and must obey our village's laws.
+If you are a rōnin, taking village jobs also counts as investment. Part of the pay is yours and the rest goes to the village.\nRōnin may also train at the new training grounds. But then you'll be one of our village's ninja and must obey our village's laws.
 @190
 I want to learn secret arts
 @191
@@ -385,9 +385,9 @@ Secret arts are learnt at training grounds 2 to 4. Grounds 3 and 4 are added as 
 @192
 How do I become a ninja?
 @193
-To live as a ninja, first master Ninjutsu. Train at ground 1 and raise your Ninjutsu to level 3. You must also give up your rank as an officer: leave your lord and come as a ronin. If you're a merchant, close your shop and come.\nThen I'll let you train at ground 2. That is where a ninja's training truly begins.
+To live as a ninja, first master Ninjutsu. Train at ground 1 and raise your Ninjutsu to level 3. You must also give up your rank as an officer: leave your lord and come as a rōnin. If you're a merchant, close your shop and come.\nThen I'll let you train at ground 2. That is where a ninja's training truly begins.
 @194
-Finish ground 2 and you are Genin, ground 3 Chunin, ground 4 Jonin.\nBut grounds 3 and 4 are only added when the village grows. To grow it, invest in the village or do its jobs, for the pay for a job, less your share, goes to the village.
+Finish ground 2 and you are Genin, ground 3 Chunin, ground 4 Jōnin.\nBut grounds 3 and 4 are only added when the village grows. To grow it, invest in the village or do its jobs, for the pay for a job, less your share, goes to the village.
 @195
 What does a ninja gain?
 @196
@@ -427,11 +427,11 @@ What if I waylay someone?
 @213
 Waylaying, eh... If you meet an officer of another clan and waylay him, it becomes a duel. Win and you can take his money, but the man you attacked won't let it rest.\nIf you still have reason to strike, I won't stop you... but you must judge your strength against his. Waylay someone called a Sword Saint, and you're finished.
 @214
-What is ronin life like?
+What is rōnin life like?
 @215
 Unlike a clan's vassals, you get no monthly stipend. You must find work and earn your keep yourself.\nYou can't have a house in a castle, so you live in a Common Home. Not comfortable, but not bad. If you don't get on with the townsfolk, you're free to move. Above all, the best part is spending your time freely on your own aims.
 @216
-Yes, ronin they may be, but each has his own aim. Some look for a lord to serve, some apprentice as merchants, some train in ninja villages. As for me, I mean neither to serve a daimyo nor to go into trade. I live for the sword alone.\nI seek out stronger men, challenge them and steal their arts. Some day I hope to win the title of Sword Saint.
+Yes, rōnin they may be, but each has his own aim. Some look for a lord to serve, some apprentice as merchants, some train in ninja villages. As for me, I mean neither to serve a daimyō nor to go into trade. I live for the sword alone.\nI seek out stronger men, challenge them and steal their arts. Some day I hope to win the title of Sword Saint.
 @217
 I've time on my hands anyway.\nHow about I keep you company for a chat?
 @218

@@ -1,0 +1,211 @@
+# items: index<TAB>English (tools/elftables.py)
+0	Matsukaze
+1	Taishaku
+2	Hōjō Tsukige
+3	Shiroishi
+4	Kurokumo
+5	Hoshizaki
+6	Tsukumo Nasu
+7	Matsushima
+8	Hiragumo
+9	Matsumoto
+10	Juko Nasu
+11	Mikazuki Jar
+12	Hatsuhana
+13	Narashiba
+14	Nitta Caddy
+15	Fujisan Bowl
+16	Shichiri Bowl
+17	Joo Nasu
+18	Otogoze
+19	Yamanoi Caddy
+20	Asakura Caddy
+21	Star Temmoku
+22	Hayabune Bowl
+23	Tsutsuizutsu
+24	Sogō Nasu
+25	Plover Censer
+26	Aoido Shibata
+27	Hashidate Jar
+28	Kitano Nasu
+29	Hachibiraki
+30	Fuji Nasu
+31	Uchigumori
+32	Nitari Nasu
+33	Inaba Temmoku
+34	Karatsu Bowl
+35	Hashihime
+36	Korean Bowl
+37	Tanba Tea Jar
+38	Oido Kaga
+39	Hail Kettle
+40	Cochin Caddy
+41	White Temmoku
+42	Ashiya Kettle
+43	Kiseto Bowl
+44	Kiseto Vase
+45	Tenmyo Kettle
+46	Black Raku
+47	Red Raku
+48	Celadon Vase
+49	Four Seasons
+50	Cranes & Waka
+51	Flower & Waka
+52	Pine and Hawk
+53	Nachi Falls
+54	Ink Bamboo
+55	Wind and Rain
+56	Sunset View
+57	Village Dusk
+58	Flower & Bird
+59	Bamboo & Fowl
+60	China Scroll
+61	Kyōto Scenes
+62	Pine Forest
+63	Chinese Lions
+64	Chishakuin
+65	Cypresses
+66	Maple Viewing
+67	Merrymaking
+68	Chrysanthemum
+69	Genji Scenes
+70	Sun Tzu Lore
+71	Wu Zi Lore
+72	Art of War
+73	Wu Zi
+74	Mencius
+75	3 Strategies
+76	Six Teachings
+77	Mengde Book
+78	Zhanguo Ce
+79	Han Feizi
+80	Shiji
+81	Five Rings
+82	3 Kingdoms
+83	Water Margin
+84	Taiheiki
+85	Tale of Heike
+86	Book of Han
+87	Tongjian
+88	Gukansho
+89	Kojiki
+90	Nihon Shoki
+91	Tale of Genji
+92	Pillow Book
+93	Kokin Wakashu
+94	Man'yoshu
+95	Hojoki
+96	Tsurezuregusa
+97	Tales of Ise
+98	Bamboo Cutter
+99	Kagero Diary
+100	Eiga Tales
+101	World Map
+102	Chime Clock
+103	Gold Watch
+104	Silver Watch
+105	Glass Jar
+106	Luzon Jar
+107	Jewel Box
+108	Music Box
+109	Pocket Watch
+110	Rosary
+111	Telescope
+112	Globe
+113	Cross
+114	Star Globe
+115	Harpsichord
+116	Flute
+117	Carpet
+118	Perfume
+119	Bible
+120	Encyclopedia
+121	Wine Glass
+122	China Tea
+123	Black Tea
+124	Coffee
+125	Cigar
+126	Peacock
+127	Parrot
+128	Western Dog
+129	Cloak
+130	Pipe
+131	Honey
+132	Konpeito
+133	Castella
+134	Glass Beads
+135	Bolo Biscuits
+136	Butter
+137	Biscuits
+138	Murakumo
+139	Murasame
+140	Bakuya
+141	Oracion
+142	Muramasa
+143	Masamune
+144	Onimaru
+145	Honebami
+146	Sadamune
+147	Nihongō
+148	Dojigiri
+149	Kanemitsu
+150	Kikuichimonji
+151	Munechika
+152	Heshikiri
+153	Kagehide
+154	Sadatoshi
+155	Kagemitsu
+156	Odenta
+157	Daihannya
+158	Tonbogiri
+159	Amakuni
+160	Fukuoka Blade
+161	Nagamitsu
+162	Kunimitsu
+163	Kikuchi Spear
+164	Osafune Sword
+165	Ōmi Wakizashi
+166	Red Spear
+167	Plain Spear
+168	Wakizashi
+169	Paladin Mail
+170	Chiyou Armour
+171	Black Domaru
+172	Haramaki
+173	Black Gomaido
+174	Gold Lamellar
+175	Gold Armour
+176	Silver Armour
+177	Red O-Yoroi
+178	Sugake Armour
+179	Fern Armour
+180	Red Haramaki
+181	Hanada Armour
+182	Nanban Armour
+183	Chain Armour
+184	Jewel Crown
+185	Diamond
+186	Ruby Ring
+187	Jade Necklace
+188	Gold Nugget
+189	Great Pearl
+190	Iwami Silver
+191	Sado Gold
+192	Gold Grains
+193	Doburoku
+194	Kiku Sake
+195	Nerizake
+196	Temple Sake
+197	Fine Sake
+198	Clear Sake
+199	Red Wine
+200	Araki Spirits
+201	Beer
+202	Rikyū Sake
+203	Grape Wine
+204	Wonder Drug
+205	Cold Medicine
+206	Sojintan
+207	Saibatan
+208	Raikiri
+209	Setsuyoshu

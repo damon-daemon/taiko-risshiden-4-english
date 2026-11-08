@@ -45,7 +45,7 @@ Pleased to meet you.\nI am {02}{01}g.
 @17.2
 Pleased to meet you.\nI am {02}{01}g.
 @18
-Oho... a ronin, is it? A pleasure.
+Oho... a rōnin, is it? A pleasure.
 @18.1
 Oh? {01}C*{00}... of the {02}{06}e, are you? A pleasure.
 @18.2

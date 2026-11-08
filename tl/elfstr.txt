@@ -1,0 +1,2427 @@
+# ELF string literals: vaddr<TAB>English (tools/elfstr.py; \n = line break)
+3f71f0	Land
+3ffbc8	Infantry
+3ffbd0	Cavalry
+3ffbd8	Gunners
+3ffbe0	Cannon
+3ffbe8	Mounted Gunners
+3ffc58	Size: Small
+3ffc68	Size: Medium
+3ffc78	Size: Large
+3ffcd8	Unit
+400340	Attackers
+400348	Defenders
+400350	Attacker Allies
+400360	Defender Allies
+400668	Attack
+400670	Charge
+400678	Fire
+400680	Attack
+400688	Wait
+400788	None
+400790	Scale
+400798	Geese
+4007a0	Arrow
+4007a8	Crane
+4007b0	Circle
+4007b8	Crescent
+4007c0	Snake
+4007c8	Yoke
+4007d0	Wheel
+400900	Give your orders.
+400920	Choose a formation.
+400940	Which unit will you command?
+400960	Which unit will you attack?
+400980	Which unit should attack?
+4009a0	Choose how to intercept.
+4009c0	Choose a plan.
+4009f0	%14s Unit
+400a10	Unit
+400a18	Army
+400a30	Unit
+400a38	Army
+400a50	%4d/%2d/%2d
+400a60	Day %2d
+400a70	%4d/%2d/%2d
+400a80	Day %2d
+401728	Wait
+401730	Attack %s
+401738	Any
+401740	--
+4018e0	Attacker Army
+4018f0	Defender Army
+401900	Attacker Allies
+401910	Defender Allies
+401920	Army Info
+401930	Cards
+4019c8	Officer
+4019d0	Stop
+4019d8	%s %s Army
+4019e0	%s Army
+401cf8	Mock Battle
+402140	Choose a card.
+402160	Choose a card to discard.
+402180	Our Unit
+402190	Enemy Unit
+4021a0	Cards
+4024f0	Arms
+4024f8	Art
+402500	Books
+402508	Nanban
+402510	None
+402520	The player can't be an aide
+402540	Tried to make <%s> aide of daimyō <%s>
+402568	Taiko IV
+405198	Ishiyama Townsmen
+4051f0	Ishiyama Townsmen
+405c40	Close the card album?
+405c60	P
+405c68	Go to Page
+4061a0	Japanese Book
+4061b0	Tea Ware
+4061c0	The Ten Braves Arrive
+406358	Try to recruit
+406368	Release
+406378	Allow seppuku
+406388	Ask for help
+406398	Stir up fears
+4063a8	Promise favour
+4063b8	Praise
+4063c0	Threaten
+4063c8	Soothe
+4063d8	Speak of ambition
+4063e8	Beg
+4063f8	Speak of prospects
+406548	Roll Dice
+4065b0	Yes
+4065b8	No
+4065c0	How to Play
+4065c8	%2d coins
+4065d0	%2d coins
+4065d8	%2d coins
+406660	coins
+406670	How many coins will you bet?
+406688	%2d coins
+406690	Roll
+4066a0	Roll
+4066b0	Coins
+406850	(%d-%d%s)
+406c08	Tōhoku
+406c10	Hokuriku
+406c18	Kōshin
+406c20	Kantō
+406c28	Tōkai
+406c30	Kinki
+406c38	Chūgoku
+406c40	Shikoku
+406c48	Kyūshū
+406c58	%s
+406e60	army
+407370	Nothing special
+407380	No results
+40aee0	%s
+40aef0	%s
+40aef8	%s
+40af00	%s
+40af08	%s Castle
+40af18	%s Manor
+40af20	%s
+40af28	%s Village
+40b230	Continue
+40b238	Stop
+40b2f0	1 kan per coin
+40b300	5 kan per coin
+40b310	10 kan per coin
+40b320	How many coins will you buy?
+40b338	coins
+40b4b8	All People
+40b4c0	Clan Officers
+40b4d0	Subordinates
+40b4e0	Items
+40b4f0	Trade Goods
+40b4f8	Castle
+40b500	Town
+40b508	Ninja Village
+40b518	Hero
+40b520	People
+40b528	Daimyō
+40b530	Power Map
+40b538	Bases
+40b540	Title
+40b548	Cards
+40b550	Belongings
+40b558	Rice Prices
+40b560	Horse Prices
+40b568	Trade Prices
+40b578	Save
+40b580	Load
+40b588	Settings
+40b598	Record
+40b5a0	Quit
+40b5e0	People: Subordinates
+40b600	People: Clan Officers
+40b618	People
+40b6e0	Enter the new officer's age.
+40b700	yrs
+40b708	Age
+40b710	Choose a scenario.
+40b730	Choose your hero.
+40b750	Set the abilities.
+40b770	Choose a phrase that describes the new officer.
+40b7c0	Choose the new officer's face.
+40b7f0	You may choose up to 5 cards.
+40b818	Free Edit
+40b828	Bonus: %d
+40b838	Change
+40b840	OK
+40b848	Default
+40b850	Back
+40b9f0	You can play this game without saving, but to save data\nyou need a memory card (PS2) with at least\n%w KB of free space.
+40ba70	Only MEMORY CARD slot 1 is supported.
+40bab0	Start like this?
+40bad0	Retry saving the system data?
+40bb00	Checking the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+40bb70	Loading from the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+40bbe0	Saving to the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+40bc50	Formatting the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+40bcc0	Creating data on the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+40bd30	The memory card (PS2) was removed\nfrom MEMORY CARD slot %w.
+40bd80	The memory card (PS2) in\nMEMORY CARD slot %w\nhas no data that can be loaded.
+40bde0	Format it?
+40be00	Create data?
+40be20	Save to file %w.\nIs that all right?
+40be50	Load file %w.\nIs that all right?
+40be80	Saving is complete.
+40bea0	Save the results so far\nto the system data?
+40bee0	Really continue without saving?
+40bf10	Create data and\nsave the system data.\nIs that all right?
+40bf60	The system data has been saved.
+40bfd0	No memory card (PS2) is\ninserted in\nMEMORY CARD slot 1.
+40c020	Load
+40c028	Save
+40c030	Creating data
+40c040	Saving system data
+40c060	Formatting
+40c070	The memory card (PS2) was removed\nfrom MEMORY CARD slot 1,\nso %s failed.
+40c0d0	The memory card (PS2) in\nMEMORY CARD slot 1\nis not formatted.
+40c130	The memory card (PS2) in\nMEMORY CARD slot 1\nhas no data.
+40c180	The memory card (PS2) in\nMEMORY CARD slot 1 does not have\nenough free space to save data.
+40c1f0	The data on the memory card (PS2)\nin MEMORY CARD slot 1\nis corrupted and cannot be used.
+40c258	Load
+40c260	Save
+40c268	Creating data
+40c280	Saving system data
+40c2a0	Formatting
+40c2b0	%s failed.
+40c380	Continue saving?
+40c3a0	Continue loading?
+40c3c0	Choose the file to save to.
+40c3f0	Choose the file to load.
+40c420	Cancel saving?
+40c440	Cancel loading?
+40c460	Loading is complete.\nResuming the game.
+40c490	Saving failed.
+40c4b0	The data is corrupted.
+40c4d0	No data.
+40c528	(%3dh %2dm)
+40c538	(     %2dm)
+40c790	Person Info
+40c7a0	Daimyō Info
+40c7b0	Castle Info
+40c830	Confirm
+40c838	List
+40c840	Sort
+40c848	List
+40c850	Info
+40c860	Confirm
+40c868	List
+40c870	Sort
+40c878	List
+40c880	Info
+40c890	None
+40c898	Free
+40c8a8	%3d,000 koku
+40c8b0	%5d kan
+40c8c0	War Funds
+40c8c8	Rice
+40c8d0	Troops
+40c8d8	Horses
+40c8e0	Guns
+40c8e8	Cannon
+40c8f0	%7d kan
+40c8f8	%7d koku
+40c900	%7d men
+40c908	%5d head
+40c910	%5d guns
+40c918	%5d cann.
+40c920	Confirm
+40c928	List
+40c930	Sort
+40c938	List
+40c940	Info
+40c948	None
+40c950	%3d,000 koku
+40c958	%5d kan
+40c978	Free
+40c988	None
+40c998	Rice to Sell
+40c9a8	koku
+40c9b0	Budget
+40c9c0	kan
+40ca28	Strategist
+40ca40	Officer
+40ca48	Mission
+40ca50	Site
+40ca58	Capital
+40ca60	Confirm
+40ca68	List
+40ca70	Sort
+40ca78	List
+40ca80	Info
+40ca90	No strategist has been appointed.
+40cab0	The strategist is away.
+40cb40	Mine Work
+40cb50	Recruit
+40cb58	Envoy
+40cb60	Form Alliance
+40cb70	Break Alliance
+40cb80	Rule
+40cb88	Make Peace
+40cb90	Goodwill
+40cb98	Expand
+40cc60	View on policy
+40cc70	View on plans
+40cc80	Say nothing
+40cc90	Aim to unite the realm
+40ccb0	Aim to unite the region
+40ccc8	Fight battles
+40ccd8	Use plots
+40cce8	Build arms
+40ccf8	Develop lands
+40cd08	Give your view
+40cd18	Say nothing
+40cd28	Favour lands
+40cd38	Favour arms
+40cd48	Favour plots
+40cd58	Favour battle
+40cd70	On second thought, say nothing
+40cd90	Merit
+40cdc8	Unite Realm
+40cdd8	Unify Reg.
+40cde8	Unite Realm
+40cdf8	Unify Reg.
+40ce40	Nothing special
+40ce50	Nothing special
+40cf78	Troops
+40cf80	Rice
+40cf88	War Funds
+40cf90	Horses
+40cf98	Guns
+40cfa0	Cannon
+40cfa8	men
+40cfb0	Troops to send
+40cfc0	koku
+40cfc8	Rice to send
+40cfd8	kan
+40cfe0	War funds to send
+40cff0	head
+40cff8	Horses to send
+40d008	guns
+40d010	Guns to send
+40d020	cannon
+40d028	Cannon to send
+40d058	OK
+40d060	Stop
+40d068	Rice
+40d070	War Funds
+40d078	Horses
+40d080	Guns
+40d088	Cannon
+40d090	Troops
+40d098	Morale
+40d0a0	Training
+40d0a8	%7d koku
+40d0b0	%7d kan
+40d0b8	%7d head
+40d0c0	%7d guns
+40d0c8	%7d cann.
+40d0d0	%5d men
+40d158	Hero
+40d160	Sights
+40d168	Duels
+40d170	Titles
+40d178	Battles
+40d180	Battles
+40d188	Other
+40d190	Skills
+40d1d8	Name
+40d1e0	Type
+40d1f0	All
+40d1f8	Other
+40d200	Titles
+40d208	Skills
+40d210	Duels
+40d218	Battles
+40d220	Sights
+40d228	All
+40d230	Other
+40d238	Titles
+40d240	Skills
+40d248	Duels
+40d250	Battles
+40d258	Sights
+40d260	>
+40d268	Sort
+40d270	Select
+40d278	Details
+40d280	OK
+40d288	%d left
+40d2c0	Card List
+40d2d0	Card List
+40d2e0	Card List
+40d2f0	Sort
+40d2f8	Details
+40d328	OK
+40d410	Chief
+40d418	Backed Daimyō
+40d428	None
+40d430	---
+40d438	Size
+40d448	Investment
+40d460	---
+40d468	Troops
+40d478	---
+40d480	Training
+40d490	---
+40d498	Map
+40d4a0	Size
+40d4b0	Trade Area
+40d4c0	Unknown
+40d4c8	Investment
+40d4e0	Specialty
+40d4e8	None
+40d4f0	Unknown
+40d4f8	Facilities
+40d500	Unknown
+40d508	Map
+40d510	Main
+40d518	At War
+40d520	Clan:
+40d528	Lord:
+40d530	Daimyō Seat
+40d540	Prov. Seat
+40d550	Direct
+40d558	---
+40d560	Size
+40d570	Site
+40d580	Harbour
+40d588	Flatland
+40d590	Mountain
+40d598	Rice
+40d5a0	Unknown
+40d5a8	%d koku
+40d5b0	Plenty
+40d5b8	Normal
+40d5c0	Few
+40d5d0	War Funds
+40d5d8	Unknown
+40d5e0	%d kan
+40d5e8	Plenty
+40d5f0	Normal
+40d5f8	Few
+40d608	Population
+40d610	Unknown
+40d618	%dk men
+40d620	Many
+40d628	Normal
+40d630	Few
+40d640	Yield
+40d648	Unknown
+40d650	%d/%dk koku
+40d660	Many
+40d668	Normal
+40d670	Low
+40d680	Mine
+40d688	Unknown
+40d698	Plenty
+40d6a0	Normal
+40d6a8	Few
+40d6b8	Support
+40d6c8	Unknown
+40d6d8	High
+40d6e0	Normal
+40d6e8	Low
+40d6f8	Defense
+40d700	Unknown
+40d710	High
+40d718	Normal
+40d720	Low
+40d730	Troops
+40d738	Unknown
+40d740	%d men
+40d748	Many
+40d750	Normal
+40d758	Few
+40d768	Morale
+40d770	Unknown
+40d780	High
+40d788	Normal
+40d790	Low
+40d7a0	Training
+40d7a8	Unknown
+40d7b8	High
+40d7c0	Normal
+40d7c8	Low
+40d7d8	Horses
+40d7e0	Unknown
+40d7e8	%d
+40d7f0	Many
+40d7f8	Normal
+40d800	Few
+40d810	Guns
+40d818	Unknown
+40d820	%d
+40d828	Many
+40d830	Normal
+40d838	Few
+40d848	Cannon
+40d850	Unknown
+40d858	%d
+40d860	Many
+40d868	Normal
+40d870	Few
+40d880	Map
+40d888	Small
+40d890	Medium
+40d898	Large
+40d8a0	Giant
+40d960	???
+40d968	Unappraised
+40d970	Price
+40d980	?
+40d988	Value
+40d998	?
+40d9a0	Owned
+40d9b8	???
+40d9c0	OK
+40da78	Close
+40da80	No results
+40da90	Bought %s
+40daa0	Bought %s x%y
+40dab0	Bought %s
+40dac0	Bought %s x%y
+40dad0	Delivered %s safely
+40dae8	Handed over %s safely
+40db00	Collected %y kan of debt
+40db20	Surveyed everything
+40db38	Surveyed only %s
+40db50	Surveyed some towns
+40db68	Surveyed %s
+40db80	Surveyed %y officers
+40db98	No results
+40dbb0	Learned everything in detail
+40dbd0	Learned some of the details
+40dbf0	Lowered defense by %y
+40dc10	Lowered support by %y
+40dc30	Cut supplies at %s by %y percent
+40dc50	Raid on %s succeeded
+40dc70	Assassinated %s
+40dc88	Took part in a battle
+40dcd8	None:
+40dce0	%s x%y
+40dcf8	%s  Qty: %y
+40dd28	%s (Rōnin)
+40dd48	Unknown
+40dd68	Job
+40dd78	Location
+40dd88	Site
+40dd90	Results
+40dda0	Deadline
+40dda8	Expired
+40ddb8	Last day
+40ddc8	No deadline
+40ddd8	%d days left
+40dde8	Close
+40ddf0	Impossible
+40de00	No results
+40de10	No results
+40de20	Some results
+40de30	Balance 0 kan
+40de40	Balance +%d kan
+40de50	Balance -%d kan
+40de60	Raised support by %y
+40de80	Raised yield by %y,000 koku
+40de98	Raised mining by %y
+40deb0	Bought %y,000 koku of rice
+40ded0	Bought %y horses
+40def0	Bought %y guns
+40df10	Bought %y cannon
+40df30	Raised training by %y
+40df50	Added %y troops
+40df70	Raised defense by %y
+40df90	Expanded the castle
+40dfa8	Surveyed %s
+40dfc0	Surveyed %y officers
+40dfd8	No results
+40dfe8	No results
+40e000	Learned everything in detail
+40e020	Learned some of the details
+40e040	Lowered defense by %y
+40e060	Lowered support by %y
+40e080	Damaged military supplies
+40e0a0	Alliance talks succeeded
+40e0c0	Alliance talks failed
+40e0d8	Talks succeeded
+40e0e8	Talks failed
+40e0f8	Relations improved
+40e110	Relations unchanged
+40e128	Was granted %s
+40e140	Raised court standing by %y
+40e158	Recruiting succeeded
+40e168	Recruiting failed
+40e178	Attack succeeded
+40e188	No results
+40e198	Captured
+40e1b0	Capturing (%y castles left)
+40e1c8	Allied
+40e1d8	Brought under rule
+40e1e8	Captured
+40e200	Capturing (%y castles left)
+40e2a8	Budget Left
+40e2b8	%d,000 koku
+40e2c0	0 koku
+40e2c8	Capital
+40e2d0	%d kan
+40e2d8	Budget Left
+40e2e8	%d kan
+40e2f8	%s (Rōnin)
+40e308	Job
+40e318	Deadline
+40e320	Site
+40e328	Goal
+40e338	Results
+40e348	Expired
+40e358	Last day
+40e368	No deadline
+40e378	%d days left
+40e388	Close
+40e440	Clan
+40e468	Power
+40e488	Relation
+40e4a8	Feeling
+40e4e8	None
+40e4f0	Alliance
+40e4f8	Vassal
+40e500	Rule
+40e508	Broken
+40e510	Hostile
+40e518	Unfriendly
+40e520	Normal
+40e528	Good
+40e530	Friendly
+40e538	Close Allies
+40e540	Name
+40e568	Head
+40e588	Power
+40e5c8	Daimyō List
+40e5e0	Sort
+40e5e8	Details
+40e5f0	OK
+40e5f8	Head:
+40e600	Title:
+40e610	None
+40e618	Seat:
+40e620	Power:
+40e630	Court Standing:
+40e648	Relations
+40e658	OK
+40e668	Sort
+40e670	%s: Relations
+40e738	Court Title
+40e748	Owner
+40e750	Daimyō
+40e760	Rank
+40e770	Court Titles
+40e788	None
+40e790	Sort
+40e850	Hero List
+40e868	Ill
+40e870	Age %d
+40e878	Lord of %s
+40e8a0	Clan:
+40e8a8	Lord:
+40e8b0	None
+40e8b8	None
+40e8c0	Base:
+40e8c8	Unknown
+40e8d0	Merit:
+40e8e0	Fief:
+40e8e8	%d kan
+40e8f0	%d kan
+40e8f8	None
+40e900	Likes:
+40e908	Base:
+40e910	Unknown
+40e918	Bond:
+40e940	OK
+40e9b8	Cheap
+40e9c0	Normal
+40e9c8	High
+40ea10	Town
+40ea18	Province
+40ea20	Region
+40ea28	Sell Price
+40ea30	Buy Price
+40ea40	Town
+40ea48	Province
+40ea50	Region
+40ea58	Buy Price
+40ea70	Unknown
+40ea78	Sort
+40ea80	Horse Prices (kan per 10 horses)
+40eaa8	Unknown
+40eab0	Sort
+40eac0	Rice Prices (kan per 1,000 koku)
+40eb40	Food
+40eb48	Seasonal
+40eb50	Sundries
+40eb58	Crafts
+40eb60	Dyes
+40eb68	Textiles
+40eb70	Luxuries
+40eb78	Ores
+40ebc0	Name
+40ebe8	Unit Price
+40ec08	Type
+40ec28	Weight
+40ec48	Stock
+40ec68	Owned
+40eca8	All
+40ecb0	Food
+40ecb8	Sundries
+40ecc0	Crafts
+40ecc8	Dyes
+40ecd0	Textiles
+40ecd8	Luxuries
+40ece0	Ores
+40ed00	Sort
+40ed08	Details
+40ed10	Capacity
+40ed20	Load
+40ed60	Trade Goods
+40ed70	Weight
+40ed80	Owned
+40ed90	OK
+40ee48	Town
+40ee58	Province
+40ee60	Region
+40ee68	Size
+40ee70	Trade Area
+40ee80	Specialty
+40ee88	Price
+40ee90	Kelp
+40ee98	Nori
+40eea0	Bonito
+40eea8	Sardines
+40eeb0	Taro
+40eeb8	Burdock
+40eec0	Soy Sauce
+40eec8	Vinegar
+40eed0	Salt
+40eed8	Natto
+40eee0	Kōji
+40eee8	Sugar
+40eef0	Lobster
+40ef00	Sea Bream
+40ef08	Oysters
+40ef10	Sesame
+40ef18	Konnyaku
+40ef20	Daikon
+40ef28	Mandarins
+40ef30	Chestnuts
+40ef38	Persimmons
+40ef40	Watermelon
+40ef48	Grapes
+40ef50	Pears
+40ef58	Timber
+40ef60	Charcoal
+40ef68	Candles
+40ef70	Straw Mats
+40ef78	Oil
+40ef80	Tatami
+40ef88	Combs
+40ef90	Ceramics
+40ef98	Castings
+40efa0	Lacquerware
+40efa8	Paper
+40efb0	Ink
+40efb8	Inkstones
+40efc0	Seto Ware
+40efc8	Shigaraki
+40efd0	Bizen Ware
+40efd8	Hagi Ware
+40efe0	Wajima
+40efe8	Torinoko
+40eff8	Sugihara
+40f000	Mino Paper
+40f008	Lacquer
+40f010	Gromwell
+40f018	Madder
+40f020	Hemp
+40f028	Cotton Yarn
+40f030	Cotton Cloth
+40f038	Silk
+40f040	Nishijin
+40f048	Hakata
+40f050	Tobacco
+40f058	Tea
+40f060	Agate
+40f068	Crystal
+40f070	Iron
+40f078	Sulphur
+40f080	Basic
+40f088	Food
+40f090	Seasonal
+40f098	Sundries
+40f0a0	Crafts
+40f0a8	Textiles
+40f0b0	Other
+40f0b8	Small
+40f0c0	Medium
+40f0c8	Large
+40f0d0	Giant
+40f0d8	Unknown
+40f0e0	None
+40f0e8	Unknown
+40f0f0	Unknown
+40f0f8	Unknown
+40f100	Unknown
+40f108	Cheap
+40f110	High
+40f118	Normal
+40f150	Sort
+40f158	Details
+40f160	??
+40f168	??
+40f170	??
+40f178	??
+40f180	??
+40f188	??
+40f190	Trade Basics
+40f1a0	Trade Prices
+40f1d0	Trade Area
+40f1e0	Unknown
+40f1e8	Specialty
+40f1f0	None
+40f1f8	Unknown
+40f200	Goods
+40f208	Unit Price
+40f210	Weight
+40f218	Stock
+40f220	Unknown
+40f230	Unknown
+40f238	Unknown
+40f248	Cheap
+40f250	High
+40f258	Normal
+40f278	Unknown
+40f3a0	Work
+40f3a8	%2d days left
+40f3b8	Work
+40f3c0	%2d days left
+40f3d0	Mission
+40f3e0	%2d days left
+40f3f0	No deadline
+40f400	%4d/%2d/%2d
+40f410	%6d kan
+40f418	%d00 mon
+40f420	 
+40f428	Sea
+40f488	Weapon
+40f490	Armour
+40f498	Horse
+40f4a0	Tea Ware
+40f4a8	Scroll
+40f4b0	Screen
+40f4b8	Art of War
+40f4c0	War Tale
+40f4c8	Japanese Book
+40f4d8	Nanban Goods
+40f4e0	Treasure
+40f4e8	Cheap Sake
+40f4f0	Fine Sake
+40f4f8	Foreign Drink
+40f500	Cold Remedy
+40f508	Tonic
+40f510	Arms
+40f518	Art
+40f520	Books
+40f528	Nanban Goods
+40f530	Treasure
+40f538	Sake
+40f540	Medicine
+410868	Support
+410878	Yield
+410880	Mining
+410888	Training
+410890	Troops
+410898	Defense
+4108a8	Castle Size
+4108b0	Defense
+4108c0	Support
+4108d0	Supplies
+4108d8	Defense
+4108e0	Support
+4108f0	Yield
+4108f8	Mine
+410900	Defense
+410908	Defense
+410910	Defense
+410918	Support
+410928	Nothing special
+410938	None
+4109c8	Win Hearts
+4109d0	New Fields
+4109e0	Mine Work
+4109f0	Repair Castle
+4109f8	Expand Castle
+410a00	Wreck Castle
+410a08	Rumours
+410a10	Arson
+410a20	You cannot do this while ill.
+410a40	This requires 3,000 kan.
+410a60	Now, what to do?
+410c58	Buta
+410c60	Inketsu
+410c70	Nitako
+410c78	Santa
+410c80	Shini
+410c88	Goke
+410c90	Roppo
+410ca0	Naki
+410ca8	Oicho
+410cb8	Kabu
+410cc0	Shippin
+410cd0	Kuppin
+410ce0	Arashi
+410cf0	Once more
+410d00	Enough
+410d10	Play
+410d18	Pass
+410d20	How to Play
+410de0	coins
+410df0	How many coins will you bet?
+410e10	Once more
+410e20	Showdown
+410e28	%2d coins
+410e40	Hand
+410ef8	Change View
+410f78	Battles
+410f80	Arms
+410f88	Plots
+410f90	Domestic
+410f98	Unify Prov.
+410fa8	Unify Reg.
+410fb8	Unite Realm
+410fc8	To Kyōto
+410fd0	Develop
+410fe0	Defend
+410ff0	Take Castle
+410ff8	Crush Daimyō
+411008	Unify Prov.
+411018	Guard Prov.
+411028	Unify Reg.
+411038	Hold Region
+411048	Unite Realm
+411058	Officer List
+411070	Hongan-ji
+411078	%s
+411080	Unknown
+411088	Undecided
+411090	Undecided
+411c10	Castle
+411c18	Samurai Home
+411c20	Dojo
+411c28	Drill Ground
+411c30	Rice Shop
+411c38	Stable
+411c40	Tavern
+411c48	Inn
+411c50	House
+411c58	Merchant
+411c60	Physician
+411c68	Tea Master
+411c70	Temple
+411c78	Smithy
+411c80	Craftsman
+411c88	Nanban Temple
+411c90	Nanban House
+411ca0	Noble's House
+411ca8	Palace
+411cb0	Guild
+411cb8	Ninja House
+411cc8	Drill Ground
+411cd0	Training 1
+411ce0	Training 2
+411cf0	Training 3
+411d00	Training 4
+412580	Hand it over
+412590	Persuade with money
+4125a0	Call for help
+4125b0	Fight yourself
+4125d8	Mission base
+4125e8	Job base
+4125f8	Client base
+412608	Ninja Village
+412618	All bases
+412620	Person Info
+412630	Talk
+412638	Gift
+412640	Sell belongings
+412650	Waylay
+4126e8	Seat
+4126f0	Direct
+4126f8	kan
+412700	How much?
+4127e8	Stop waiting
+4127f8	Stop moving
+412808	kan
+412810	How much will you pay?
+412828	days
+412830	How many days will you wait?
+412c18	Up
+412c20	Down
+413200	Calm
+413208	 
+413210	Tail
+413220	m
+413228	Head
+413238	m
+413240	Calm
+413248	 
+413250	Left
+413260	m
+413268	Right
+413278	m
+413590	Land: Small
+4135b0	Land: Medium
+4135d0	Land: Large
+413c88	Peach Pit
+413c90	Citrus Peel
+413c98	Rhubarb
+413ca0	Licorice
+413ca8	Kudzu
+413cb0	Mint
+413cb8	Gentian
+413cc0	Bupleurum
+413e20	Mock Battle
+414598	Pinkoro
+4145b0	%dW %dL
+4145c0	Win rate: %d.%d%%
+4145d0	Winnings: %d kan
+4145e0	Winnings: %s%d.%d kan
+414608	(Best: %d kan)
+414620	(Best: %s%d.%d kan)
+414648	Oicho-Kabu
+414660	%dW %dL %dD
+414670	Win rate: %d.%d%%
+414680	Winnings: %d kan (%d chips)
+4146a0	Winnings: %s%d.%d kan (%d chips)
+4146d0	Chinchirorin
+4146e8	%dW %dL %dD
+4146f8	Win rate: %d.%d%%
+414710	Winnings: %d kan (%d chips)
+414730	Winnings: %s%d.%d kan (%d chips)
+414760	Medicine Mixing
+414768	(Medical Training)
+414780	Right %d Wrong %d
+414790	Accuracy: %d.%d%%
+4147a0	Perfect: %d times
+4147b0	Tea Carrying
+4147c0	(Tea Training)
+4147d8	Success %d Fail %d
+4147e8	Success rate: %d.%d%%
+4147f8	Perfect: %d times
+414808	Sentence Match
+414818	(Speech Training)
+414830	Right %d Wrong %d
+414840	Accuracy: %d.%d%%
+414850	Perfect: %d times
+414860	Concentration
+414870	(Etiquette Training)
+414888	%dW %dL
+414898	Win rate: %d.%d%%
+4148a8	Perfect: %d times
+4148b8	Bingo Duel
+4148c8	(Accounting Training)
+4148e0	%dW %dL %dD
+4148f0	Win rate: %d.%d%%
+414900	Avg. bingos: %d.%d
+414918	Gold Vein Amida
+414928	(Mining Training)
+414940	Big %d Mid %d Small %d Miss %d
+414960	Jackpot rate: %d.%d%%
+414978	One-Stroke Drawing
+414988	(Farming Training)
+4149a0	Avg. cleared: %d.%d%%
+4149b8	Perfect: %d times
+4149c8	Stone Hauling
+4149d0	(Building Training)
+4149f0	Avg. miss from target: %d.%d
+414a08	Perfect: %d times
+414a18	Farmer Flip
+414a28	(Win Hearts etc.)
+414a40	%dW %dL
+414a50	Win rate: %d.%d%%
+414a60	Avg. farmers won: %d.%d
+414a78	Ninja Search
+414a88	(Sabotage)
+414aa0	Accuracy: %d.%d%%
+414ab0	Avg. picks to find: %d.%d
+414ad0	Picture Match
+414ad8	(Ninjutsu Training)
+414af0	Right %d Wrong %d
+414b00	Accuracy: %d.%d%%
+414b10	Perfect: %d times
+414b20	March Sugoroku
+414b30	(Tactics Training)
+414b50	Avg. distance to goal: %d.%d
+414b70	Perfect: %d times
+414b80	Bow Target
+414b88	(Archery Training)
+414ba0	Hits %d Misses %d
+414bb0	Hit rate: %d.%d%%
+414bc0	Perfect: %d times
+414bd0	Gun Target
+414be0	(Gunnery Training)
+414c00	Hits %d Misses %d
+414c10	Hit rate: %d.%d%%
+414c20	Perfect: %d times
+414c30	Horse Race
+414c40	(Riding Training)
+414c58	%dW %dL
+414c68	Win rate: %d.%d%%
+414c80	Avg. gap to teacher: %d.%d
+414ca0	Mock Battle
+414ca8	(Infantry Training etc.)
+414cc0	%dW %dL %dD
+414cd0	%dW %dL
+414ce0	Win rate: %d.%d%%
+414cf0	Duel
+414d00	%dW %dL
+414d10	Win rate: %d.%d%%
+414d20	Best streak: %d (now %d%s)
+414d40	 in a row
+414d48	Best streak: %d
+415058	Calm
+415060	 
+415068	Tail
+415078	m
+415080	Head
+415090	m
+415098	Calm
+4150a0	 
+4150a8	Left
+4150b8	m
+4150c0	Right
+4150d0	m
+415190	Repair
+415198	Expand
+415340	Rumours
+415348	Arson
+415350	Wreck Castle
+415358	Difficulty: Low
+415368	Difficulty: Medium
+415378	Difficulty: High
+415388	Difficulty: Extreme
+415778	Oicho-Kabu
+415788	Chinchirorin
+415798	Pinkoro
+4157a8	Use Stop the Bar
+4157b8	Leave it to chance
+4157d0	Play the mini-game
+415940	Gamble
+415948	Drink
+415958	Neri Sake
+415960	Fine Sake
+415968	Temple Sake
+415970	Chrysanthemum Sake
+415978	Clear Sake
+415980	Doburoku
+415990	pcs
+4159a0	How many will you buy?
+415a90	Go outside?
+415b58	Person Info
+415b68	Career
+415b70	Take leave
+415b78	Recruit as vassal
+415b88	Ask Advice
+415b98	Recruit
+415ba0	Attack
+415ba8	Gift
+415bb0	Tea
+415bb8	Bout
+415bc8	Rumours of officers
+415bd8	Skill Training
+415ca0	Person Info
+415cb0	Request Aide
+415cc0	Present
+415cc8	Gift
+415cd0	Tea
+415cd8	Leave service
+415ce0	Ask strategy
+415cf0	Urge rebellion
+415d00	Recommend retainer
+415d10	Person Info
+415d20	Gift
+415d28	Tea
+415d30	Bout
+415d40	Unite
+415d48	Defend
+415d50	Unite
+415d58	Defend
+415db8	Report
+415dc0	Council
+415dc8	Support
+415dd8	Yield
+415de0	Mine cap
+415df0	Rice
+415df8	,000 koku
+415e00	Horses
+415e08	head
+415e10	Guns
+415e18	guns
+415e20	Cannon
+415e28	cannon
+415e30	Training
+415e38	Troops
+415e40	Defense
+415e48	Defense
+415e50	Support
+415ee0	How much tribute will you pay?
+415ef8	kan
+415f78	Break Alliance
+415f88	Alliance
+415f90	Declare War
+415f98	Make Peace
+415fa0	Rule
+415fa8	Goodwill
+415fb0	Demand Surrender
+415fc0	War Funds
+415fc8	Rice
+415fd0	Horses
+415fd8	Guns
+415fe0	Cannon
+415fe8	Policy
+415ff0	Goal
+415ff8	Nothing
+416008	Unite Realm
+416018	Unify Reg.
+416028	Take Daimyō
+416038	Take Castle
+416040	Hold Region
+416050	Guard Prov.
+416060	Defend
+416070	Develop
+416080	Person Info
+416090	Diplomacy
+416098	Recruit
+4160a0	Career
+4160a8	Attack
+4160b0	Gift
+4160b8	Tea
+4160c0	Bout
+4160d0	Person Info
+4160e0	Career
+4160e8	Gift
+4160f0	Tea
+4160f8	Bout
+416108	Invest
+416110	Ask strategy
+416160	Unite Realm
+416170	Unify Reg.
+4161a8	kan
+4161b0	How much will you invest?
+4161f0	How much will you give?
+416210	How much will you give?
+4162e8	Person Info
+4162f8	Buy Tea Ware
+416308	Sell Tea Ware
+416318	Tea Training
+416328	Appraise Tea Ware
+416338	pcs
+416340	How many will you sell?
+416358	pcs
+416360	How many will you buy?
+4163f0	Person Info
+416400	Farming Training
+416410	Donate
+416420	kan
+416430	How much will you donate?
+4164c0	Train
+4164c8	Separate Soldiers
+4164d8	Alms
+4164e0	Talk
+4164e8	Land Info
+4164f8	Force Info
+416508	Supply Info
+416518	kan
+416520	Alms
+416530	Separate Soldiers
+416540	Train
+416600	Quit
+416610	Officer　　　　　 Last year's results
+416640	Officer　　　　　 Last year's results
+4166e0	Person Info
+4166f0	Sword Training
+416700	Bout
+416710	Appraise Arms
+4167e0	Negotiate
+4167e8	Accept
+4167f0	Officer
+4167f8	Rank
+416800	Fief
+416808	%4d kan
+416810	%4d kan
+416818	(Vassal stipends)
+416828	(%d men)
+416838	%5d kan
+416840	%4d kan
+416848	Your share
+416858	%4d kan
+416860	Stop resting
+416960	Market Prices
+416970	Riding Training
+416980	Buy Horses
+416990	%s
+4169a0	How many tens of horses?
+4169b8	head
+416aa8	Officer
+416ab0	Before
+416ab8	After
+416ac0	Quit
+416ac8	None
+416b88	Recover
+416b98	Set days
+416bb0	Hand over a gift in silence
+416bd0	Oh no, I have nothing to give...
+416bf8	Never mind
+416c08	Propose
+416c20	Oh no, I have nothing to give...
+416c48	Never mind
+416c60	Hand over a gift in silence
+416c80	Nod in silence
+416c90	Gaze ardently
+416ca8	Scratch your head
+416cb8	days
+416cc0	How many nights will you stay?
+416e08	Person Info
+416e18	Treatment
+416e28	Buy medicine
+416e38	Medical Training
+416e48	pcs
+416e50	How many will you buy?
+416f20	Person Info
+416f30	Gift
+416f38	Tea
+416f40	Put in a Word
+416f50	How much will you donate?
+417020	Person Info
+417030	Recruit
+417038	Attack
+417040	Gift
+417048	Tea
+417050	Bout
+417060	Skill Training
+417070	Person Info
+417080	Gift
+417088	Talk
+4170b0	Recruit as my retainer
+4170d0	Urge to serve %s
+417160	Person Info
+417170	Buy Nanban Goods
+417180	Sell Goods
+417190	Appraise Nanban
+4171a0	Buy Cannon
+4171b0	cannon
+4171c0	How many cannon will you buy?
+4171d8	pcs
+4171e0	How many you sell, yes?
+4171f8	pcs
+417200	How many will you buy?
+417308	Market Prices
+417318	Buy Rice
+417328	Sell Rice
+417338	%s
+417340	How many thousand koku to sell?
+417358	koku
+417360	How many thousand koku will you buy?
+417378	koku
+4173f8	Person Info
+417408	Commission
+417418	Appraise Items
+4174a0	Person Info
+4174b0	Buy Goods
+4174c0	Sell Goods
+4174d0	Accounting Training
+4174e0	Buy Guns
+4174f0	Enrol
+417500	Quit
+417530	guns
+417540	How many will you purchase?
+417558	pcs
+417560	How many will you sell?
+417578	pcs
+417580	How many will you buy?
+417610	Person Info
+417620	Gunnery Training
+417630	Buy Guns
+417640	Buy Cannon
+417650	Guns
+417658	guns
+417660	Guns
+417668	guns
+417670	Guns
+417678	guns
+417680	Cannon
+417688	cannon
+417690	Cannon
+417698	cannon
+4176a0	Cannon
+4176a8	cannon
+4176b0	cannon
+4176c0	How many will you order?
+4176d8	guns
+4176e0	How many will you order?
+417848	Person Info
+417858	Etiquette Training
+417868	Appraise Books
+417938	Until council
+417948	Recover
+417958	Until next month
+417968	Set days
+417978	One night
+417988	Withdraw
+417990	Deposit
+417998	From savings
+4179a8	From war funds
+4179b8	To savings
+4179c0	To war funds
+4179d0	Council Chamber
+4179e0	Rest
+4179f0	Safe
+4179f8	Appraise Items
+417a08	Tea Party
+417a10	Move House
+417a20	Talk to wife
+417a30	Go to shop
+417a40	Ability Training
+417a50	Talk to %s
+417a60	Go to %s-ya
+417a98	kan
+417aa0	How much will you deposit?
+417ab8	kan
+417ac0	How much will you deposit?
+417ad8	kan
+417ae0	How much will you withdraw?
+417af8	kan
+417b00	How much will you withdraw?
+417b18	days
+417b20	How many days will you rest?
+417bf0	Promotion
+417bf8	Appoint
+417c00	Aides
+417c08	Court Office
+417c10	Castle Lord
+417c18	Strategist
+417c20	Dispatch
+417c28	Recall
+417c30	Court Title
+417c48	Take Castle
+417c50	Take Province
+417c58	Take Daimyō
+417c68	None
+417c70	Orders
+417c78	Give Missions
+417c88	Personnel
+417c90	Transport
+417c98	Move Base
+417ca8	Rebellion
+417cb0	Battle
+417ce0	That castle has enough supplies.
+417d00	Merit  %d
+417d10	Office
+417d20	None
+417da8	Trade Routes
+417db8	Purveyor
+417dc8	Quit
+417dd0	kan
+417de0	How much will you give?
+417e70	Name yourself boldly
+417e80	Pose as a merchant
+417e90	Give a bribe
+417ea0	Go in the front way
+417eb0	Sneak in
+417ec8	kan
+417ed0	How much will you give?
+417fe8	Training (%s)
+417ff8	Training
+418000	%d kan
+418008	Buy Rice
+418018	%d,000 koku
+418020	Buy Horses
+418030	%d horses
+418038	Buy Guns
+418048	%d guns
+418050	Buy Cannon
+418060	%d cannon
+418068	%s support
+418078	+%d
+418080	%s mine
+418090	+%d
+418098	%s training
+4180a8	+%d
+4180b0	%s defense
+4180c0	+%d
+4180c8	%s yield
+4180d8	+%d,000 koku
+4180e8	%s troops
+4180f8	+%d
+418100	Survey %s
+418110	Wreck %s
+418120	-%d
+418128	Rumours in %s
+418138	-%d
+418140	Arson in %s
+418150	-%d%d%%
+418160	-%d%%
+418170	Found %s
+418180	Alliance with %s
+418190	End alliance with %s
+4181a0	Conquer %s
+4181b0	War on %s
+4181c0	Peace with %s
+4181d0	Goodwill with %s
+4181e0	Court Lobbying
+4181f0	Success
+4181f8	Standing +%d
+418208	Recruit %s
+418218	Impossible
+418228	Failed
+418230	Success
+4182b8	Officer
+4182c0	Result
+4182c8	Merit
+4182d0	kan
+4182d8	kan
+4182e0	%
+4182f0	%2d%%
+4182f8	Price
+418300	off
+418308	up
+418310	0%% %s
+418318	Rate
+418320	kan
+418328	%
+418338	%2d%%
+4183d8	Person Info
+4183e8	Work
+4183f0	Request Scheme
+418400	Invest
+418408	Leave
+418410	Find Talent
+418420	Survey
+418428	Wreck Castle
+418430	Rumours
+418438	Arson
+418440	kan
+418450	How much will you invest?
+418468	Defense
+418470	Support
+4184a8	Talent
+4184b0	Search
+4184e0	Defense
+4184e8	Support
+418598	Market Prices
+4185a8	Work
+4185b0	Buy Trade Goods
+4185c0	Sell Trade Goods
+4185d0	Invest
+4185d8	Talk
+4185e0	Enrol
+418630	Buy now
+418640	Sell now
+418650	Fair price
+418660	kan
+418670	How much will you invest?
+418688	pcs
+418690	How many will you sell?
+4186a8	pcs
+4186b0	How many will you buy?
+418888	Person Info
+418898	Talk
+4188a0	Gift
+4188a8	Waylay
+418908	Senior 6th, Lower
+418918	Junior 5th, Lower
+418928	Junior 5th, Upper
+418938	Senior 5th, Lower
+418948	Senior 5th, Upper
+418958	Junior 4th, Lower
+418968	Junior 4th, Upper
+418978	Senior 4th, Lower
+418988	Senior 4th, Upper
+418998	Junior 3rd Rank
+4189a0	Senior 3rd Rank
+4189a8	Junior 2nd Rank
+4189b0	Senior 2nd Rank
+4189b8	Junior 1st Rank
+4189c0	Senior 1st Rank
+419138	Rōnin
+419140	A. Captain
+419150	A. General
+419160	S. General
+419168	Cmdr.
+419170	Elder
+419178	Castle Lord
+419180	Prov. Lord
+419188	Daimyō
+419190	Emperor
+419198	Noble
+4191a0	Samurai
+4191a8	Farmer
+4191b0	Townsman
+4191b8	Artisan
+4191c0	Merchant
+4191c8	Tea Master
+4191d0	Monk
+4191d8	Master
+4191e0	Nanban
+4191e8	Traveller
+4191f0	Owner
+4191f8	Hostess
+419200	Doctor
+419208	Smithy
+419210	Guard
+419218	Servant
+419220	Page
+419228	Ninja
+419230	Girl
+419238	Bandit
+419240	LDR
+419248	VAL
+419250	POL
+419258	DIP
+419260	CHA
+419268	Foot
+419270	Cav.
+419278	Guns
+419280	Navy
+419288	Bow
+419290	Sword
+419298	Strat
+4192a0	Ninja
+4192a8	Build
+4192b0	Farm
+4192b8	Mine
+4192c0	Math
+4192c8	Rites
+4192d0	Talk
+4192d8	Tea
+4192e0	Medic
+419640	Roll Dice
+419648	Stop
+419650	Yes
+419658	No
+419660	How to Play
+419668	%12d kan
+419670	%12d kan
+419678	%12d kan
+419680	%12d kan
+419688	%12d kan
+419690	%12d kan
+419698	%12d kan
+4196a0	%12d kan
+4196a8	%d kan
+4196b8	%12d kan
+41c4c8	Enemy attack -10
+41c4d8	Enemy attack -5
+41c4e8	Attack +10
+41c4f8	Attack +5
+41c510	Stamina +10 each turn
+41c530	Stamina +5 each turn
+41c550	Enemy stamina -10 each turn
+41c570	Enemy stamina -5 each turn
+41c590	Attack roll +5
+41c5b0	Attack roll +3
+41c5d0	Enemy cards -1
+41c5e8	Cancels enemy combos
+41c5f8	Big heal at 0 stamina
+41c608	Small heal at 0 stamina
+41c618	Blocks enemy attack
+41c630	Blocks attack, then big attack
+41c650	Big counterattack
+41c668	Counterattack
+41c680	Removes enemy lasting cards
+41c698	Swaps lasting cards
+41c6a8	Big stamina heal
+41c6b8	Small stamina heal
+41c6d0	Sure escape
+41c6f0	Priority 10/10. Sure hit
+41c710	Priority 9/10. Strong attack
+41c730	Priority 7/10. Strong attack
+41c750	Priority 6/10. Strong attack
+41c770	Priority 5/10. Strong attack
+41c790	Priority 4/10. Strong attack
+41c7b0	Priority 3/10. Strong attack
+41c7d0	Priority 2/10. Strong attack
+41c7f0	Always dodges special attacks
+41c810	Priority 8/10. Strong attack
+41c830	Fully blocks counterattacks
+41c850	Priority 1/10. Strong attack, removes all lasting cards
+41c880	Better dodging when defending
+41c8a0	Normal attack card
+41ca80	184  Heal       Focus the mind to restore stamina
+41cab0	111  Storm      Stronger than Hell
+41cae0	259  Hell       Stronger than Namusan
+41cb10	763  Namusan    Stronger than a normal attack
+41cb40	929  Desperate  Stronger the longer the fight
+41cb68	Combo
+41cb70	Cards
+41cf00	OK
+41cf08	Atk-Def
+41cf10	Flee
+41cf20	You can choose 1 special card and 3 attack cards.
+41cf50	Choose up to 3 cards to swap.
+41d660	At sea
+41d8f0	Castle
+41d8f8	Clan
+41d908	Prov.
+41d910	Size
+41d918	Pop.
+41d920	Yield
+41d928	Mine
+41d930	Support
+41d940	Defense
+41d950	Castle
+41d958	Clan
+41d968	Troops
+41d970	Morale
+41d978	Training
+41d980	Rice
+41d988	Funds
+41d990	Guns
+41d998	Horses
+41d9a0	Cannon
+41d9b0	All
+41d9b8	Ours
+41d9c0	Village
+41d9c8	Prov.
+41d9d0	Size
+41d9e0	Ninja Villages
+41d9f0	Ninja Villages
+41da00	Small
+41da08	Med.
+41da10	Large
+41da18	Giant
+41da20	Sort
+41da28	Details
+41da30	OK
+41da38	Castles
+41da40	---
+41da48	Small
+41da50	Med.
+41da58	Large
+41da60	Giant
+41da68	???
+41da70	%dk men
+41da78	Many
+41da80	Normal
+41da88	Few
+41da90	???
+41da98	???
+41daa0	%dk koku
+41daa8	Many
+41dab0	Normal
+41dab8	Low
+41dac0	???
+41dac8	???
+41dad8	Plenty
+41dae0	Normal
+41dae8	Few
+41daf0	???
+41daf8	???
+41db08	High
+41db10	Normal
+41db18	Low
+41db20	???
+41db28	???
+41db38	High
+41db40	Normal
+41db48	Low
+41db50	 ???
+41db58	???
+41db60	%d
+41db68	Many
+41db70	Normal
+41db78	Few
+41db80	???
+41db88	???
+41db98	High
+41dba0	Normal
+41dba8	Low
+41dbb0	???
+41dbb8	???
+41dbc8	High
+41dbd0	Normal
+41dbd8	Low
+41dbe0	???
+41dbe8	???
+41dbf8	Plenty
+41dc00	Normal
+41dc08	Few
+41dc10	???
+41dc18	???
+41dc28	Plenty
+41dc30	Normal
+41dc38	Few
+41dc40	???
+41dc48	???
+41dc50	%d
+41dc58	Many
+41dc60	Normal
+41dc68	Few
+41dc70	???
+41dc78	???
+41dc80	%d
+41dc88	Many
+41dc90	Normal
+41dc98	Few
+41dca0	???
+41dca8	???
+41dcb0	%d
+41dcb8	Many
+41dcc0	Normal
+41dcc8	Few
+41dcd0	???
+41dd28	Sort
+41dd30	Details
+41dd38	OK
+41dd88	Basic
+41dd90	Military
+41de58	Confirm Appointment
+41de68	Cancel Appointment
+41de78	Castles
+41de80	Towns
+41de88	Villages
+41de90	Daimyō
+41dea0	%s\n%s\n%s\nAttacking %s
+41ded8	Seat
+41dee0	Direct
+41df30	Zoom
+41df40	Scroll
+41df50	Show
+41df58	Daimyō
+41df68	Bases
+41df78	Zoom
+41df88	Scroll
+41df98	Zoom
+41dfa8	Scroll
+41dfb8	OK
+41dfc0	Bases
+41dfd0	Zoom
+41dfe0	Scroll
+41dff0	Bases
+41e0b0	Name
+41e0b8	Base
+41e0c0	Daimyō
+41e0d0	Likes
+41e0d8	Close
+41e0e0	Rank
+41e0f0	Name
+41e0f8	Foot
+41e100	Cav.
+41e108	Guns
+41e110	Navy
+41e118	Bow
+41e120	Sword
+41e128	Strat
+41e130	Ninja
+41e138	Build
+41e140	Farm
+41e148	Mine
+41e150	Math
+41e158	Rites
+41e160	Talk
+41e168	Tea
+41e170	Medic
+41e180	Name
+41e188	LDR
+41e190	VAL
+41e198	POL
+41e1a0	DIP
+41e1a8	CHA
+41e1b8	Name
+41e1c0	Base
+41e1c8	Rank
+41e1d0	Merit
+41e1d8	Tea
+41e1e0	Gift
+41e1f0	Name
+41e1f8	Base
+41e200	Rank
+41e208	Fief
+41e210	Merit
+41e218	Job
+41e230	Name
+41e238	Met
+41e240	Tea
+41e248	Gift
+41e250	Likes
+41e258	Close
+41e268	Name
+41e270	Daimyō
+41e280	Rank
+41e288	Base
+41e298	Name
+41e2a0	Rank
+41e2a8	Merit
+41e2b0	Court Title
+41e2d0	->
+41e2d8	%s's Home
+41e2e0	*
+41e2e8	Lord of %s
+41e2f0	Castle Lord
+41e2f8	???
+41e300	None
+41e308	None
+41e310	-
+41e318	O
+41e320	X
+41e338	-
+41e340	O
+41e348	X
+41e360	-
+41e368	O
+41e370	X
+41e378	-
+41e380	O
+41e388	X
+41e390	%4d kan
+41e398	None
+41e3b0	None
+41e448	Sort
+41e450	Details
+41e458	Visit
+41e460	Select
+41e468	OK
+41e470	OK
+41e508	Meet
+41e510	March
+41e518	House
+41e520	Vassals
+41e528	Office
+41e530	Info
+41e538	Skills
+41e540	Ability
+41e5f8	Town
+41e600	Prov.
+41e608	Region
+41e610	Size
+41e618	Buy Rice
+41e620	Sell Rice
+41e628	Horses
+41e638	Town
+41e640	Merchant
+41e648	Physician
+41e650	Tea Master
+41e658	Temple
+41e660	Smithy
+41e668	Artisan
+41e670	Church
+41e678	Nanban House
+41e688	Noble
+41e690	Palace
+41e6a0	Cheap
+41e6a8	Normal
+41e6b0	High
+41e6b8	???
+41e6c0	Towns
+41e6c8	Towns
+41e6d0	Small
+41e6d8	Med.
+41e6e0	Large
+41e6e8	Giant
+41e6f0	--
+41e700	--
+41e710	--
+41e720	???
+41e728	O
+41e730	X
+41e788	Sort
+41e790	Details
+41e798	OK
+41e7e8	Basic
+41e7f0	Buildings
+41e868	Work
+41e870	Target
+41e878	Client
+41e8b0	Work
+41e8b8	Reward
+41e8c0	Details
+41e8c8	%3u kan
+41e8d0	%s x%u (budget %3u kan)
+41e8f0	%s x%u (budget %3u kan)
+41e908	To %s: %s x%u
+41e918	To Lord %s: %s
+41e928	From %s: %u kan
+41e938	%s
+41e958	Buy Supplies
+41e968	Rice
+41e970	Horses
+41e978	Guns
+41e980	Cannon
+41e988	---
+41e990	---
+41e998	Talk
+41e9a0	Math/Talk
+41e9b0	Farm
+41e9b8	Military skills
+41e9c8	Strat/Talk
+41e9d8	Build
+41e9e0	Ninja
+41ea98	Mission
+41eaa0	Site
+41eaa8	Rank
+41eab8	Key Skill
+41eb18	Army Leader
+41eb20	Unit 2
+41eb28	Unit 3
+41eb30	Unit 4
+41eb38	Unit 5
+41ec28	Infantry
+41ec30	Cavalry
+41ec38	Gunners
+41ec40	Cannon
+41ec48	Mtd. Gunners
+41ec88	men
+41ec90	How many soldiers?
+41eca8	%s Army (%s)
+41ecb8	%s Army (%s)
+41ecc8	OK
+41ed20	Troops
+41ed28	Type
+41edb0	Invalid option in item sort
+41ede0	Invalid option in castle sort
+41ee50	Invalid option in base sort
+41ee80	Invalid option in person sort
+41efb0	%4d kan
+41efc0	%d00 mon
+41efc8	  0 mon
+41f140	Rōnin
+41f620	Become a rōnin
+41f630	Stay as you are
+41f648	Follow %s
+41f658	Serve %s
+41f770	Genin
+41f778	Chunin
+41f780	Jōnin
+41f790	%sya
+41f7c0	Merit
+420638	Name
+420640	Class
+420648	Type
+420650	Value
+420658	Price
+420660	Owned
+420670	All
+420678	Arms
+420680	Art
+420688	Books
+420690	Nanban
+420698	Treasure
+4206a0	Sake
+4206a8	Medicine
+4206b0	Item List
+4206c0	Item List
+4206d0	Item List
+4206e0	???
+4206e8	?
+4206f8	?
+420728	Sort
+420730	Details
+420840	Skills%w
+420848	 Stats 
+420850	Skills%w
+420858	 Stats 
+420860	Officer
+420868	Rank
+420870	Skills%w
+420878	 Stats 
+4208a0	Training
+4208a8	None
+4208b0	Domestic
+4208b8	Arms
+4208c0	Plots
+4208c8	Diplomacy
+4208d0	Person Info
+4208e0	Free
+420a18	kan
+420a20	How much will you offer?
+420a38	kan
+420a40	How much will you offer?
+420d20	men
+420d28	Troops
+420d30	head
+420d38	Horses
+420d40	guns
+420d48	Guns
+420d50	cannon
+420d58	Cannon
+420d60	koku
+420d68	Rice
+420d90	(%s)
+420d98	(%s)
+420e00	%s Army (%s)
+420e10	OK
+420e18	Stop
+420e20	(%s)
+421948	Attack
+421950	Wait
+421958	Orders
+421960	Retreat
+421968	Attack
+421970	Charge
+421978	Fire
+4219a0	LDR:
+4219a8	Troops:
+4219b0	Train:
+4219b8	Morale:
+4219c0	%s Unit
+421b38	OK
+421b40	Plan
+421b48	Wait
+421b50	Fall Back
+421b58	Stop
+422180	Normal attack card
+422190	Normal attack card
+4221a0	Normal attack card
+4221b0	Cures confusion, raises morale
+4221d0	Removes enemy lasting cards
+4221f0	Priority 1/15. Normal attack, castle defense -3
+422220	Priority 5/15. Damage +50%
+422240	Priority 3/15. Damage +50%
+422260	Priority 11/15. 3 charges in a row, confuses enemy
+422290	Priority 8/15. 2 charges in a row
+4222b0	Priority 14/15. Gun attack, then 2 charges
+4222e0	Priority 12/15. Double damage, castle defense -5
+422310	Priority 2/15. Damage +50%, castle defense -3
+422350	Priority 7/15. Double damage
+422370	Priority 9/15. 3 volleys in a row
+422390	Priority 13/15. 4 volleys in a row
+4223b0	Priority 10/15. 3 volleys in a row
+4223d0	Priority 4/15. Normal attack, wounds enemy commander
+422400	Attack +50%
+422410	Priority 6/15. 2 volleys in a row
+422430	If it works, enemy unit retreats
+422450	If it works, the siege is won
+422470	Castle defense -3 every turn
+422488	Castle defense -10
+4224a0	Enemy morale -3 every turn
+4224b8	Enemy morale -20
+4224d0	Enemy morale -5, castle defense -2 every turn
+422500	Enemy troops take losses every turn
+422518	Enemy morale -15
+422530	Priority 15/15. One-sided first strike
+422550	Can attack even if struck first
+422568	Defense +20%
+422578	Attack +20%
+422588	Defense +50%
+4225a0	Enemy takes losses when it attacks directly
+4225c0	Refills 1 secret plan
+4225d8	Restores castle defense
+423c50	Is "%sya" all right?
+423c70	No shop name entered.
+423c90	Stop entering the name?
+423cb0	"%s %s (%s %s)"\nIs this all right?
+423ce0	, 
+423ce8	Family name
+423cf0	, 
+423cf8	Family reading
+423d08	, 
+423d10	Given name
+423d18	, 
+423d20	Given reading
+423d30	 not entered.
+423d50	Enter the new officer's name.
+423d70	Switch Input
+423ef0	Job Info
+423f00	Mission Info
+423f10	Help
+423f18	Functions
+423f20	Info
+423f28	OK
+423f30	Cancel
+423f40	Job Info
+423f50	Mission Info
+423f60	Select Person
+423f70	Select Person
+423f80	Help
+423f88	Functions
+423f90	Info
+423f98	Log
+423fa0	OK
+423fa8	Cancel
+423fc0	Zoom Map
+423fe0	Zoom Map
+423ff8	Scroll
+424008	Scroll
+424018	Help
+424020	Bases
+424030	Change View
+424040	OK
+424048	Cancel
+424060	Cycle Left
+424078	Atk/Def
+424090	Cycle Right
+4240a8	Help
+4240b0	Play Card
+4240c0	Info
+4240d0	Cursor to OK
+4240f0	OK/Select Card
+424108	Cancel
+424120	Cycle Left
+424140	Cycle Right
+424158	Help
+424160	Info
+424168	OK
+424170	Cancel
+424180	Cycle Left
+424198	Secret Plan
+4241b0	Cycle Right
+4241c8	Help
+4241d0	Play Card
+4241e0	Info
+4241f0	Cursor to OK
+424210	OK/Select Card
+424228	Cancel
+424360	Screens and Controls
+424378	Data Guide
+424390	Learning Skills
+4243b0	Succeeding at Missions
+4243d0	Doing Jobs Well
+4243f0	Mini-Game Rules
+424408	Advice Corner
+424418	Officer Diagnosis
+4244d0	OK
+4244d8	Do
+4244e0	Menu
+4244f0	Back
+424520	Advice Corner
+424530	Advice Corner
+424620	Screens and Controls
+424640	Base/Indoor Screen
+424658	Travel Screen
+424668	Base Select Screen
+424678	Duel Screen
+424688	War Status Screen
+424698	Battle Screen
+4246a8	Data Guide
+4246b8	Cards
+4246c0	People
+4246c8	Daimyō
+4246d0	Castles
+4246d8	Towns
+4246e0	Ninja Village
+4246f0	Learning Skills
+424708	Infantry
+424710	Cavalry
+424718	Gunnery
+424720	Navy
+424728	Bow
+424730	Sword
+424738	Strat
+424740	Ninja
+424748	Building
+424750	Farm
+424758	Mine
+424760	Math
+424768	Rites
+424770	Talk
+424778	Tea
+424780	Medic
+424790	Succeeding at Missions
+4247a8	Training
+4247b0	Sell Rice
+4247c0	Raise Funds
+4247d0	Win Hearts
+4247d8	New Fields
+4247e8	Mine Work
+4247f8	Buy Supplies
+424808	Train
+424810	Separate Soldiers
+424820	Repair Castle
+424828	Expand Castle
+424830	Seek Talent
+424840	Survey Castle
+424848	Sabotage (Castle)
+424858	Sabotage (Rumours)
+424868	Sabotage (Arson)
+424878	Diplomacy
+424880	Recruit
+424890	Castles/Provinces/Clans
+4248b0	Doing Jobs Well
+4248c8	Buy Trade Goods
+4248d8	Buy Treasure
+4248e8	Deliver Trade Goods
+4248f8	Deliver Treasure
+424908	Debt Collection
+424918	Survey Specialties
+424928	Seek Talent
+424938	Survey Castle
+424940	Wreck Castle
+424948	Rumours
+424950	Arson
+424958	Raid
+424960	Battles
+424970	Mini-Game Rules
+424988	Horse Race
+424998	Bow Target
+4249a0	March Sugoroku
+4249b0	Picture Match
+4249b8	Stone Hauling
+4249c0	One Stroke
+4249d0	Gold Vein Amida
+4249e0	Bingo Duel
+4249f0	Concentration
+424a00	Sentence Match
+424a10	Medicine Mixing
+424a18	Farmer Flip
+424a28	Ninja Search
+424a38	Mock Battle
+424a40	Gun Target
+424a50	Tea Carrying
+424a60	Advice Corner
+424a70	Rules and Controls
+424a90	Clans and Relationships
+424ab0	A Vassal's Duties
+424ad0	Castle and Province Lords
+424af0	A Daimyō's Conquest
+424b08	Battles
+424b18	The Merchant Spirit
+424b30	Ninja Villages
+424b50	Wandering Life and Duels
+424b70	Private Worries
+424dd0	Officer Diagnosis
+425d98	Give money
+425da8	Beg for life
+425db8	Die bravely
+425f78	My Castle Town
+425f88	Hope in My Heart
+425f98	Small for Now
+425fa8	A Heart of Brocade
+425fb0	To War
+425fb8	The Capital
+425fc0	Foreign Winds
+425fd0	Assassin in the Dark
+425fe0	Repose
+425ff0	Tenka Fubu
+426000	Prayer
+426008	Spirit of Tea
+426010	Dreams of Heroes
+426020	Make Your Name
+426030	At the Risk of Life
+426040	Waylay
+426048	Sad News
+426050	Good News
+426058	Resolve
+426060	Backs to the Wall
+426070	Conqueror in Peril
+426080	The Road to Success
+426090	Dreams' End
+4260a0	Unite Realm
+4260b0	Though Wishes Fail
+4260c0	With My Partner
+4260d0	Days of Training
+4260e0	Name
+4260e8	LDR
+4260f0	VAL
+4260f8	POL
+426100	DIP
+426108	CHA
+426110	Foot
+426118	Cav.
+426120	Guns
+426128	Navy
+426130	Bow
+426138	Sword
+426140	Strat
+426148	Ninja
+426150	Build
+426158	Farm
+426160	Mine
+426168	Math
+426170	Rites
+426178	Talk
+426180	Tea
+426188	Medic
+426198	Horse Race
+4261a8	Gun Target
+4261b8	Bow Target
+4261c0	March Sugoroku
+4261d0	Picture Match
+4261d8	Ninja Search
+4261e8	Farmer Flip
+4261f8	Stone Hauling
+426200	One Stroke
+426210	Gold Vein Amida
+426220	Bingo Duel
+426230	Concentration
+426240	Sentence Match
+426250	Tea Carrying
+426260	Medicine Mixing
+426268	CD Player
+426278	Mini-Games
+426290	Duel: Peerless
+4262b0	Choose an officer.
+4262d0	Set the abilities.
+4262e8	Challenger
+4262f0	Wins
+4262f8	Score
+426328	Challenger
+426330	Wins
+426338	Score
+426360	Choose an officer.
+426380	Set the abilities.
+4263a0	Which mini-game will you play?
+426400	Registered Officers
+426490	Sort
+426498	Details
+426500	Mono
+426510	Stereo
+426520	Volume
+426528	OK
+426530	Quit
+4265e8	Music
+4265f0	Sound FX
+4265f8	Sound Output
+426608	Vibration
+426610	Ninja Reports
+426620	Mini-Game Help
+426630	Are these settings all right?
+426678	Settings
+426688	OK
+426690	Back
+426698	Stop
+4266a0	Stereo
+4266b0	Mono
+4266c0	ON
+4266c8	OFF
+4266d0	Detailed
+4266d8	Simple
+4266e0	ON
+4266e8	OFF
+4266f0	Settings
+426700	OK
+426708	Back
+426710	Stop

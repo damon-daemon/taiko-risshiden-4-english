@@ -1,5 +1,5 @@
 @0
-Daimyo
+Daimyō
 @0.1
 Province Lord
 @0.2
@@ -15,7 +15,7 @@ Ashigaru General
 @0.7
 Ashigaru Captain
 @0.8
-Ronin
+Rōnin
 @1
 Obtained the {02}{1A}e card!
 @2
@@ -39,13 +39,13 @@ The "Miyoshi Triumvirate" set is complete!\nYou obtain the "{02}{03}g" card.
 @11
 The "Three Elders of the Ukita" set is complete!\nYou obtain the "{02}{03}g" card.
 @12
-The "Three Hojo Elders" set is complete!\nYou obtain the "{02}{03}g" card.
+The "Three Hōjō Elders" set is complete!\nYou obtain the "{02}{03}g" card.
 @13
 The "Four Shimazu Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
 @14
 The "Four Elders of the Kiyosu Conference" set is complete!\nYou obtain the "{02}{03}g" card.
 @15
-The "Four Hojo Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
+The "Four Hōjō Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
 @16
 The "Five Toyotomi Commissioners" set is complete!\nYou obtain the "{02}{03}g" card.
 @17
@@ -55,9 +55,9 @@ The "Three Toyotomi Middle Elders" set is complete!\nYou obtain the "{02}{03}g" 
 @19
 The "Seven Spears of Shizugatake" set is complete!\nYou obtain the "{02}{03}g" card.
 @20
-The "Four Heavenly Kings of Ryuzoji" set is complete!\nYou obtain the "{02}{03}g" card.
+The "Four Heavenly Kings of Ryūzōji" set is complete!\nYou obtain the "{02}{03}g" card.
 @21
-The "Three Otomo Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
+The "Three Ōtomo Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
 @22
 The "Three Generals: Sea, Red, Rain" set is complete!\nYou obtain the "{02}{03}g" card.
 @23
@@ -181,7 +181,7 @@ this one
 @37
 my lord
 @37.1
-Shogun
+Shōgun
 @37.2
 Your Highness
 @37.3

@@ -21,6 +21,9 @@ uses only v0/v1/at/a0, so callers can keep state in t registers. Sites:
   and the multiply by (half + spacing) at 0x38CDC0 by a move;
 - CPersonInfoWin::DrawWindow (officer bio, 22x24 cells): half-width x += 11 at
   0x21EF1C (it still wraps per character at x >= 242: bios are wrapped at build time);
+- CMesWin::PersonMes nameplate: centred as (W - strlen x 12) / 2 at 0x2599BC; uiStrLen
+  is replaced by STR_PX (pixel width of a string at half cell 12, kanji = 24), the x 12
+  by a move;
 - DrawHelpMessage (help window): half-width x += 12 at 0x3D59F8; the original also
   advanced the string a second time there, skipping the byte after every half-width
   character (Japanese help text has none), which is dropped.
@@ -112,6 +115,8 @@ SIZE_MUL = 0x38CDC0           # mult a1, v1, a0
 IS_KANJI, STRLEN2 = 0x385F80, 0x385C40
 BIO_ADV = 0x21EF1C            # lw v1,0x438(sp); addiu v1,v1,11; sw v1,0x438(sp)
 HELP_ADV = 0x3D59F8           # addiu s0,s0,1; lw v1,0x90(sp); addiu v1,v1,12; sw v1,0x90(sp)
+NAMEPLATE = 0x2599BC          # jal uiStrLen; nop; sll v1,v0,1; addu v0,v1,v0; sll v1,v0,2 (CMesWin::PersonMes)
+STRLEN = 0x385F30
 
 def widths():
     adv = latinfont.render('large')
@@ -252,6 +257,31 @@ def text_size(org, w):
         ('addiu', 'sp', 'sp', 0x10),
     ])
 
+def str_px(org, w):
+    """v0 = pixel width of the string a0 at half cell 12 (one line, no spacing)."""
+    return assemble(org, [
+        ('addu', 't9', 'ra', 'zero'),
+        ('addu', 't7', 'a0', 'zero'),
+        ('addu', 't4', 'zero', 'zero'),
+        'loop:',
+        ('lbu', 'a0', 0, 't7'),
+        ('beqz', 'a0', 'end'),
+        ('addiu', 't7', 't7', 1),
+        ('jal', w),
+        ('addiu', 'a1', 'zero', 12),
+        ('addu', 't4', 't4', 'v0'),
+        ('addiu', 'at', 'zero', 24),
+        ('bne', 'v0', 'at', 'loop'),
+        ('lbu', 'at', 0, 't7'),                # kanji: skip the trail byte
+        ('beqz', 'at', 'loop'),
+        ('nop',),
+        ('b', 'loop'),
+        ('addiu', 't7', 't7', 1),
+        'end:',
+        ('jr', 't9'),
+        ('addu', 'v0', 't4', 'zero'),
+    ])
+
 def slot_adv(org, w, ptr, half, slot):
     """x at slot(sp) of the caller += WIDTH(ptr[-1], half)."""
     return assemble(org, [
@@ -289,6 +319,9 @@ def apply_vwf(elf, seg):
     assert _word(elf, BIO_ADV) == 0x8FA30438 and _word(elf, BIO_ADV + 4) == 0x2463000B
     _put(elf, BIO_ADV, assemble(BIO_ADV, [
         ('jal', _fn(seg, slot_adv, w, 's0', 11, 0x438)), ('nop',), ('nop',)]))
+    assert _word(elf, NAMEPLATE) == 0x0C000000 | STRLEN >> 2 and _word(elf, NAMEPLATE + 8) == 0x00021840
+    _put(elf, NAMEPLATE, assemble(NAMEPLATE, [
+        ('jal', _fn(seg, str_px, w)), ('nop',), ('addu', 'v1', 'v0', 'zero'), ('nop',), ('nop',)]))
     assert _word(elf, HELP_ADV) == 0x26100001 and _word(elf, HELP_ADV + 8) == 0x2463000C
     _put(elf, HELP_ADV, assemble(HELP_ADV, [
         ('jal', _fn(seg, slot_adv, w, 's0', 12, 0x90)), ('nop',), ('nop',), ('nop',)]))
