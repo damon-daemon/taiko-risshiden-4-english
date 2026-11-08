@@ -1,0 +1,47 @@
+"""Rebuild the disc image with the translated text and produce a patch.
+
+usage: .venv/bin/python tools/build.py [clean.bin] [out.bin]
+"""
+import json, os, subprocess, sys
+
+sys.path.insert(0, os.path.dirname(__file__))
+import cdimage, datafile, disc, msgfile, setup, text
+
+ROOT = disc.ROOT
+
+def build_messages(data, elf):
+    blocks = msgfile.blocks(datafile.entry(data, elf, setup.MSG_ENTRY), elf)
+    changed = 0
+    for n in range(len(blocks)):
+        for row in json.load(open(setup.msg_json(n), encoding='utf-8')):
+            new = text.encode(row['en'] or row['jp'])
+            if new != blocks[n][row['id']]:
+                blocks[n][row['id']] = new
+                changed += 1
+    return msgfile.pack(blocks, elf), changed
+
+def main():
+    clean = sys.argv[1] if len(sys.argv) > 1 else disc.CLEAN
+    out = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, 'build', 'taiko_risshiden_4_en.bin')
+    img = cdimage.Image(clean)
+    recs = img.records()
+    elf = bytearray(img.read_file(disc.ELF, recs))
+    data = bytearray(img.read_file(disc.DATA, recs))
+    msg, changed = build_messages(data, elf)
+    print('messages: %d strings changed' % changed)
+    changes = {setup.MSG_ENTRY: msg}
+    datafile.apply(data, elf, changes)
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    n = cdimage.write_image(clean, out, {disc.ELF: bytes(elf), disc.DATA: bytes(data)})
+    cdimage.write_cue(out)
+    print('rebuilt %s (%d sectors re-encoded)' % (out, n))
+    patch = os.path.splitext(out)[0] + '.xdelta'
+    try:
+        subprocess.run(['xdelta3', '-e', '-f', '-9', '-S', 'djw', '-B', str(1 << 30),
+                        '-s', clean, out, patch], check=True)
+        print('patch %s (%d bytes)' % (patch, os.path.getsize(patch)))
+    except FileNotFoundError:
+        print('xdelta3 not installed; skipped patch')
+
+if __name__ == '__main__':
+    main()
