@@ -1,0 +1,66 @@
+@0
+Please click the mouse.
+@1
+Is that all right?
+@2
+Please choose a scenario.
+@3
+Start the game with this hero?
+@4
+Cancel the ability settings?\nIs that all right?
+@5
+Not all bonus points have been assigned.\nIs that all right?
+@6
+Reset the abilities to their initial values?\nIs that all right?
+@7
+Are these settings all right?
+@8
+Please enter the new officer's name.
+@9
+Family name: up to 4 characters; given name: up to 3.
+@10
+The reading may be up to 8 half-width kana.
+@11
+The family name is too long!
+@12
+The given name is too long!
+@13
+The family name's reading is too long!
+@14
+The given name's reading is too long!
+@15
+%s has not been entered.
+@16
+%s contains characters\nthat cannot be used.
+@17
+Please choose the new officer's face.
+@18
+Please enter an age (15 to 45).
+@19
+Choose the verse that fits\nthe new officer's character.
+@20
+If it won't sing,
+@21
+cuckoo
+@22
+kill it.
+@23
+make it sing.
+@24
+wait until it sings.
+@25
+sing in its place.
+@26
+leave it be.
+@27
+look for another.
+@28
+forget about it.
+@29
+"If it won't sing, %s, cuckoo."\nIs that all right?
+@30
+Then let the game begin.
+@31
+Load the game?\nIs that all right?
+@32
+Save the game?\nIs that all right?

@@ -5,7 +5,7 @@ usage: .venv/bin/python tools/build.py [clean.bin] [out.bin]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import cdimage, datafile, disc, msgfile, setup, text
+import cdimage, datafile, disc, elfseg, meswin, msgfile, names, setup, text, vwf
 
 ROOT = disc.ROOT
 
@@ -29,7 +29,15 @@ def main():
     data = bytearray(img.read_file(disc.DATA, recs))
     msg, changed = build_messages(data, elf)
     print('messages: %d strings changed' % changed)
-    changes = {setup.MSG_ENTRY: msg}
+    seg = elfseg.Segment()
+    vwf.apply(elf, seg)
+    meswin.apply(elf, seg)
+    vwf.apply_vwf(elf, seg)
+    changes = {setup.MSG_ENTRY: msg,
+               vwf.FONT_ENTRY: vwf.build_font(datafile.entry(data, elf, vwf.FONT_ENTRY), elf)}
+    changes.update(names.apply(elf, data, seg))
+    heap = elfseg.apply(elf, seg)
+    print('English segment: %d bytes, heap from 0x%X' % (len(seg.data), heap))
     datafile.apply(data, elf, changes)
     os.makedirs(os.path.dirname(out), exist_ok=True)
     n = cdimage.write_image(clean, out, {disc.ELF: bytes(elf), disc.DATA: bytes(data)})

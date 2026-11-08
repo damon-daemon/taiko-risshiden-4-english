@@ -1,8 +1,9 @@
-"""TAI5MSG message grammar: split a message into text and control codes.
+"""Message grammar (TR4, entry 57): split a message into text and control codes.
 
-Worked out from the message interpreter (0x347940 reads a character, 0x347A60
-handles bytes < 0x20) and the expression evaluator of the game's message object
-(vtable 0x64C940). Bytes >= 0x20 are text, except where a code consumes them as
+Ported from TR5 and checked against TR4's interpreter (symbols): CMessageManager::
+isDoCommand 0x256030 (bytes < 0x20 and '%'), byCheckIfMark 0x255CB0 (05 05 xx),
+isExtraCommand 0x255690 (01 x), dwGetParam 0x256D90 (expr), CTK4MessageManager::
+dwGetParamSub 0x36C9E0 / dwGetParamType 0x36EDE0 (terms). Bytes >= 0x20 are text, except where a code consumes them as
 arguments:
 
   0A                  newline              08 09        passed to the renderer
@@ -12,7 +13,7 @@ arguments:
   01 J lo hi          continue with that message instead
   01 S expr           pick variant number expr of the following END-terminated variants
   01 M 02 x expr      register x = expr     01 R expr     return value
-  01 F x [expr]       expr only if x = 'd'  01 other      that byte only
+  01 F x [expr]       expr only if x = 00 (wait)  01 other  that byte only
   05 05 04 cond       IF: when cond is false skip to the matching END
   05 05 05            END: return from the message (or from the current IF body)
   05 (anything else)  end of message
@@ -22,9 +23,11 @@ arguments:
 
   expr = term (03 op term)*        cond = cmp (06 &| cmp)*
   cmp  = expr (04 op expr)?        op = = ! < > { }
-  term = 02 x [field]   x = 01-84 (persons, castles, items, registers...): field
-                        is the next byte if it is >= 0x20
-       | 02 C8 f args   function f (0x64-0x96): 1 or 2 expression arguments
+  term = 02 x [field]   x = 01-2A (01-05 persons, 06-0A lords, 0B-0F footholds,
+                        10-14 countries, 15-19 items, 1A-1E cards, 1F-23 trade
+                        goods, 24-28 values, 29 user, 2A world): field is the next
+                        byte if it is >= 0x20
+       | 02 d expr | 02 e expr   chance(expr) / random(expr)
        | 02 x           any other x
        | % digits  |  digit digits     a number (at most 10 more digits)
        | any other byte (consumed, value 0)
@@ -37,13 +40,10 @@ A message is a block: (IF cond block)* text END. Text runs between structural co
 class ParseError(ValueError):
     pass
 
-# functions 02 C8 f: number of expression arguments (handler 0x2F7710, table 0x5914F0)
-FUNC_ARGS = {**{f: 2 for f in range(0x6E, 0x92)}, 0x64: 1, 0x65: 1, 0x8B: 1, 0x96: 1}
-
 def _var_cat(x):
-    if 1 <= x <= 0x82 or x in (0x83, 0x84):
+    if 1 <= x <= 0x2A:
         return 'var'
-    return 'func' if x == 0xC8 else None
+    return 'func' if x in (0x64, 0x65) else None
 
 class _Reader:
     def __init__(self, b):
@@ -74,10 +74,7 @@ class _Reader:
                 if (c := self.peek()) is not None and c >= 0x20:
                     self.i += 1
             elif cat == 'func':
-                if (f := self.peek()) is not None and f >= 0x20:
-                    self.i += 1
-                    for _ in range(FUNC_ARGS.get(f, 0)):
-                        self.expr()
+                self.expr()
         elif c == 0x25 or 0x30 <= c <= 0x39:
             self.number(c)
 
@@ -157,7 +154,7 @@ def tokens(b):
                 r.get()
                 r.expr()
             elif x == 0x46:                # F
-                if r.get() == 0x64:
+                if r.get() == 0x00:
                     r.expr()
             add('cmd', s)
         elif c == 0x05:
