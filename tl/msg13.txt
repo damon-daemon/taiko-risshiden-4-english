@@ -1,0 +1,1652 @@
+@0
+Used the "{02}{1A}e" card.
+@1
+Could not raise the %s of {02}{0B}d.
+@1.1
+The %s of {02}{0B}d rose by {02}$d.
+@2
+Could not raise the %s of {02}{0B}d.
+@2.1
+The %s of {02}{0B}d rose by {02}$d,000 koku.
+@3
+Expanded {02}{0B}d successfully.
+@3.1
+Failed to expand {02}{0B}d.
+@4
+Could not lower the %s of {02}{0B}d.
+@4.1
+Lowered the %s of {02}{0B}d by {02}$d.
+@5
+The officers of {02}{0B}d, too,\nseem to have grown suspicious of one another.
+@6
+Could not burn any of the supplies of {02}{0B}d.
+@6.1
+Burned {02}$d{03}%%10% of the supplies of {02}{0B}d.
+@6.2
+Burned {02}$d{03}/%10/10 of the supplies of {02}{0B}d.
+@6.3
+Burned {02}$d{03}/%10{02}$d{03}%%10% of the supplies of {02}{0B}d.
+@7
+View the game's explanation?
+@8
+Well then, show me your skill, {01}C*{00}.\nLet us begin at once.
+@9
+This game is a race between you and me.\nYour goal is to beat me.
+@9.1
+This game is a race between you and me, {01}C*{00}.\nYour goal is to beat {01}C{1C}{00}.
+@10
+As you ride, press the Circle button with good timing\nand your horse speeds up by that much.\nThe further the meter fills, the greater the burst.
+@10.1
+As you ride, press the Circle button with good timing\nand your horse speeds up by that much.\nThe further the meter fills, the greater the burst.
+@11
+But press it in the red part of the meter\nand obstacles will slow you down,\nor with bad luck, you may even fall off.
+@11.1
+But if you press it in the red part of the meter,\nobstacles will slow you down,\nor with bad luck, you may even fall off.
+@12
+And the far right end is "Brute Force".\nIt speeds you up far more than usual...\nbut danger lies right beside it.
+@12.1
+And the far right end is "Brute Force".\nIt speeds you up far more than usual...\nbut danger lies right beside it.
+@13
+As your speed rises, the meter grows\nshorter and shorter... beware.\nAnd when you are ahead of me, the red part grows.
+@13.1
+As your speed rises, the meter\ngradually grows shorter... And when you are\nahead of me, the red part grows larger.
+@14
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@14.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@15
+Now I shall put you to a trial.\nA ninja must be skilled\nin horsemanship.
+@16
+Beat me in a horse race\nand I shall grant you a new rank.
+@17
+Now, begin!
+@18
+I will speed up at a steady pace,\nso ride fast enough not to lose.\nCatch up with me and you pass.
+@19
+If your horse goes too fast,\nyou risk falling off,\nso be careful.
+@20
+With your Valor, {01}C*{00},\nyou risk falling off.\nPlease take care.
+@20.1
+With your Valor, {01}C*{00},\nthere is some risk of falling off.\nTake care and do your best.
+@20.2
+Your Valor is quite good, {01}C*{00}.\nYou shouldn't fall off easily.\nDo your best.
+@20.3
+Your Valor is considerable, {01}C*{00},\nso there is little risk of falling off.\nDo your best.
+@21
+Lord {02}{02}e, you seem to have\ngrown quite used to horses.
+@22
+Today I will ride in earnest.\nIf you can beat me,\nyou will earn full mastery.
+@23
+With your Valor, {01}C*{00},\nyou may barely keep up with me,\nbut do your best.
+@23.1
+With your Valor, {01}C*{00},\nyou may just manage to keep up.\nNow then, let us begin.
+@23.2
+Your Valor is quite good, {01}C*{00}.\nYou might even beat me.\nNow then, let us begin.
+@23.3
+Your Valor is considerable, {01}C*{00}.\nI may not be able to win.\nNow then, let us begin.
+@24
+Lord {02}{02}e, your horsemanship\nis truly splendid.
+@25
+But I too have my pride as\nmaster of the stables... I cannot lose.
+@26
+With your Valor, {01}C*{00},\nyou may barely keep up with me,\nbut do your best.
+@26.1
+With your Valor, {01}C*{00},\nyou may just manage to keep up.\nNow then, let us begin.
+@26.2
+Your Valor is quite good, {01}C*{00}.\nYou might even beat me.\nNow then, let us begin.
+@26.3
+Your Valor is considerable, {01}C*{00}.\nI may not be able to win.\nNow then, let us begin.
+@27
+But the faster you ride,\nthe easier it is to fall off.\nIf you fall, it ends right there.
+@28
+When you are going too fast, don't push it:\nchoose "Hold Pace".\nYou will then slow down gradually.
+@29
+Well then, let us begin.
+@30
+F-fast...\nI'm going to fall off...
+@30.1
+Th-this is getting really shaky...
+@30.2
+I can still go faster!
+@30.3
+Come on, faster and faster!
+@31
+Come, press the Circle button!
+@31.1
+Come, press the Circle button\nto speed up your horse.
+@31.2
+This is the last one.
+@31.3
+This is the last one!
+@31.4
+Next!
+@31.5
+Come on, do your best!
+@32
+No good!\nYou're not speeding up at all.
+@32.1
+Your horse isn't moving.\nPlease press the Circle button.
+@32.2
+What are you playing at?\nYou're not speeding up.
+@32.3
+If you don't ride faster,\nit won't be much of a lesson.
+@32.4
+Give no command and you fall behind.\nIs that what you want?
+@32.5
+If you give no command, you'll fall behind.
+@33
+Go, go! Faster!
+@33.1
+Go on, go on! Keep going!
+@33.2
+Hiyah! Go!
+@34
+Wh-whoa!!!
+@35
+You fell off, eh?\nThen we are done.
+@35.1
+Oh dear, you fell off...\nThen let us finish here.
+@36
+Blast! I tripped on a stone!
+@37
+Whoa! A hole!\n...Here goes! Jump!
+@38
+Yes, I managed to clear it!
+@39
+D-damn it!
+@40
+Now! Windmill Whip!\nHyaaaaaaaah!
+@41
+Come on, horse!\nThere's a carrot in it for you!
+@42
+Falling off? Pathetic.\nCall yourself a ninja?
+@42.1
+First you must ride to the end...\nIf you fall off, all is lost.
+@43
+Not good enough yet.\nYou need more training.
+@43.1
+You still need more training.
+@43.2
+Not bad, but\nnot enough for a new rank.
+@43.3
+A fair result,\nbut you need a little more effort.
+@43.4
+A pity.\nYou were so close.
+@43.5
+What a pity.\nStill, that was quite skilful.
+@43.6
+Splendid! You pass!
+@43.7
+Splendidly done, Lord {02}{02}e.\nHorse and rider truly as one.
+@44
+In this game, {01}C*{00} and I\nwill play Concentration.
+@45
+The basic rules are the same as Concentration,\nbut there is also a high-scoring picture.\nTaking it earns you more experience.
+@46
+The high-scoring picture is hidden at the top right\nduring the game and revealed once all are open.\nWhat it shows is down to luck.
+@47
+So, naturally,\nfirst you must take more cards than I do.\nThat also raises your odds of a high score.
+@48
+The higher your Diplomacy and Charm,\nthe slower I turn the cards,\nso you can remember them better.
+@49
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@51
+Then let us begin.
+@52
+To improve your Etiquette,\nyou must study many books.\nFind the books laid face down here.
+@53
+With your Diplomacy, {01}C*{00},\nit may be difficult,\nbut do your best.
+@53.1
+With your Diplomacy, {01}C*{00},\nyou should learn a fair amount.\nDo your best.
+@53.2
+Your Diplomacy is quite good, {01}C*{00}.\nYou should be able to judge the books.\nDo your best.
+@53.3
+Your Diplomacy is considerable, {01}C*{00}.\nI may be no match for you,\nbut do your best.
+@54
+Lord {02}{02}e, you seem to have\nmastered a good deal of etiquette.\nToday I shall try in earnest.
+@55
+With your Diplomacy, {01}C*{00},\nit may be quite difficult,\nbut do your best.
+@55.1
+With your Diplomacy, {01}C*{00},\nit may be a little difficult,\nbut do your best.
+@55.2
+Your Diplomacy is quite good, {01}C*{00},\nbut now see me in earnest.\nLet us begin.
+@55.3
+Your Diplomacy is considerable, {01}C*{00}.\nI too shall learn with a fresh mind.\nLet us begin.
+@56
+Lord {02}{02}e, you have gained\nconsiderable knowledge of etiquette.\nI too shall face you with all my strength.
+@57
+I won't let you win so easily.\nLet us begin.
+@58
+Find the matching books\namong these, two at a time.
+@59
+The book face down at the top right is today's task.\nIf you can find it,\nyou will learn all the more.
+@60
+Now then, you choose first.
+@63
+The tea ceremony begins with tea ware.\nYou would do well to know\nat least what each piece is.
+@64
+With your Charm, {01}C*{00},\nit may be difficult,\nbut do your best.
+@64.1
+With your Charm, {01}C*{00},\nyou should learn a fair amount.\nDo your best.
+@64.2
+Your Charm is quite good, {01}C*{00}.\nYou should be able to judge tea ware.\nDo your best.
+@64.3
+Your Charm is considerable, {01}C*{00}.\nI may be no match for you,\nbut do your best.
+@65
+Lord {02}{02}e, you seem to have grasped\nmuch of the spirit of tea.\nToday too, let us deepen our understanding.
+@66
+With your Charm, {01}C*{00},\nit may be quite difficult,\nbut do your best.
+@66.1
+With your Charm, {01}C*{00},\nthis time may be difficult,\nbut do your best.
+@66.2
+Your Charm is quite good, {01}C*{00}.\nThis time may be a little difficult,\nbut do your best.
+@66.3
+Your Charm is considerable, {01}C*{00}.\nTry to judge every piece of tea ware.\nDo your best.
+@67
+Lord {02}{02}e, you have come to\nunderstand the tea ceremony well.
+@68
+Then let us enjoy tea together.\nThis time I will not hold back.\nNow, shall we begin?
+@69
+Find the matching tea ware\namong these, two at a time.
+@70
+The tea ware at the top right is today's task.\nIf you can take it, you will come\none step closer to the profound.
+@71
+Now then, please choose.
+@72
+Good.
+@72.1
+Yes.
+@73
+No good...
+@73.1
+Missed...
+@73.2
+Huh?
+@74
+Oh.
+@74.1
+Well played.
+@74.2
+Hmm.
+@75
+A complete victory this time.
+@75.1
+This time I must admit defeat.
+@75.2
+Ahead for now, but then again...
+@75.3
+Hmm, behind... now what?
+@75.4
+Even, but who knows...
+@75.5
+I can see how this will end...
+@75.6
+...Now, the result?
+@75.7
+...Well, well, how will it go?
+@76
+Yes.
+@76.1
+Good, good.
+@76.2
+Yes!
+@76.3
+Blast... missed?
+@76.4
+Sigh...
+@77
+Splendid.
+@77.1
+Quite well done.
+@77.2
+You are in luck.
+@77.3
+What a pity.
+@77.4
+Still not good enough.
+@78
+In this game you guide a tea-serving\nautomaton to the goal by working the panels.\nYour Charm decides the doll's speed.
+@79
+The panels the doll walks on hold many tricks.\nArrow panels turn the doll that way.\nThey also hint at the path to take.
+@80
+A blue panel turns the doll 90 degrees right,\na red one 90 degrees left.
+@80.1
+You can switch these panels with the Circle button.
+@81
+Red turns to blue and blue to red, so use\nthem well to guide the doll to the goal.
+@82
+There are also panels that change every panel,\nchange the speed, send the doll elsewhere,\nor widen the right temperature range.
+@83
+Each step the doll takes cools the tea by 1 degree.\nAdjust the steps to reach the set temperature.\nNow then, shall we begin?
+@84
+In this game you guide a tea-serving\nautomaton to the goal by working the panels.
+@85
+First, the thermometer at left shows the target.\nThe tea cools 1 degree with every step,\nso arrive within the set range.
+@86
+To guide the doll, you must work the panels.\nThere are two kinds you can work: red and blue.
+@87
+I shall explain the panels\nwhile moving the doll.\nWatch closely.
+@88
+A panel with an arrow turns the doll\nto face the way the arrow points.
+@89
+Here, the doll will turn to face up.
+@90
+Pressing the button does not change arrows.\nArrows also hint at the path\nthe doll should take... watch carefully.
+@91
+Next, the red and blue panels.
+@92
+Blue turns the doll 90 degrees right,\nred 90 degrees left.
+@93
+Pressing the Circle button turns\nred to blue and blue to red.\nThis is how you guide the doll to the goal.
+@94
+Think carefully and don't let\nthe doll walk off the board.
+@95
+A panel with a star widens the range\njudged as the right temperature.\nA helper panel: it forgives small mistakes.
+@96
+A panel marked "Chaos" reverses every\nred/blue panel and arrow panel.\nStay calm and think about the result.
+@97
+But the Chaos effect can\nchange the arrows' direction\nand make the goal reachable.
+@98
+In this example, you need the Chaos effect\nto reach the goal... so don't just avoid it:\nuse it well.
+@99
+There, the doll reached the goal safely.\nIf the temperature now matches the target,\nthe result is perfect.
+@100
+Besides the panels explained,\nthere are bomb panels that move the doll\nat random, and panels that change its speed.
+@101
+Read these tricks well\nand carry the tea nicely.\nNow, let us actually begin.
+@102
+Let us begin the test.\nToday's subject is the tea ceremony.
+@103
+Carry the tea within the right\ntemperature range and you pass.
+@104
+The way of tea is deep and difficult.\nHere are panels showing its hardships.\nUse your skill to carry the tea well.
+@105
+With your Charm, {01}C*{00},\nthe doll's pace may be harsh.\nBe prepared.
+@105.1
+Your Charm is quite good, {01}C*{00}.\nMind the temperature and do your best.
+@105.2
+Your Charm is considerable, {01}C*{00}.\nDo your best to get the right temperature.
+@106
+Lord {02}{02}e, you seem to have grasped\nmuch of the spirit of tea...\nGuide the doll well today too.
+@107
+With your Charm, {01}C*{00},\nit may be quite difficult,\nbut do your best.
+@107.1
+With your Charm, {01}C*{00},\nit may be a little difficult,\nbut do your best.
+@107.2
+Your Charm is quite good, {01}C*{00}.\nBut don't let your guard down.\nDo your best.
+@107.3
+Your Charm is considerable, {01}C*{00}.\nDo your best to get the right temperature.
+@108
+Lord {02}{02}e, you have come to\nunderstand the tea ceremony well.
+@109
+Then let us enjoy tea together.\nThis one is difficult, but do your best.\nNow, shall we begin?
+@110
+Today I'd like it lukewarm, {02}$d degrees.\nIt will take quite a few steps.\nNow then, please begin.
+@110.1
+Today I'd like it lukewarm, {02}$d degrees.\nIt will take a fair number of steps.\nNow then, please begin.
+@110.2
+Today I'd like it hot, {02}$d degrees.\nIt will take relatively few steps.\nNow then, please begin.
+@111
+Careful!\nAll the panels are changing!
+@112
+Good! The temperature range has widened.
+@113
+The panels can no longer be changed.
+@114
+A bomb!\nPlease, land somewhere good!
+@115
+The speed is.........\ngoing up!
+@115.1
+The speed is.........\ngoing down!
+@116
+Yes!\nI got it to the right temperature!
+@116.1
+Hmm... It arrived,\nbut not at the right temperature.
+@116.2
+Blast... It's gone stone cold...
+@116.3
+Blast...\nIt walked off the board...
+@117
+Splendid!\nExactly the temperature I wanted!
+@117.1
+Hmm, a little hotter than I wanted,\nbut it was delicious.
+@117.2
+Hmm, a little cooler than I wanted,\nbut it was delicious.
+@117.3
+Ow, ow, hot! This is far too hot.\nIt needed a little more patience.
+@117.4
+Hmm... This is far too lukewarm.\nIt should have arrived a little sooner.
+@117.5
+Hmm... The tea has gone stone cold.\nI can't drink this...
+@117.6
+It walked off the board...\nYou need a little more ingenuity.
+@117.7
+It walked off the board...\nPlease try a little harder.
+@117.8
+It walked off the board so easily...\nYou still need much more training.
+@118
+This game, you follow the amida ladder\nand dig up the biggest gold nugget, yes.
+@118.1
+In this game, you follow the amida ladder\nand dig up the largest gold nugget you can.
+@118.2
+In this game, you follow the amida ladder\nand dig up the largest gold nugget you can.
+@119
+First, you choose where\nto start digging the vein, please.
+@119.1
+First, choose where to start\ndigging the vein within the time limit.\nThe time depends on Politics and Leadership.
+@119.2
+First, choose where to start\ndigging the vein within the time limit.\nThe time depends on your Mining skill.
+@120
+Then, from that spot,\nyou go down toward gold vein.\nOn the way, there are obstacles.
+@120.1
+Once chosen, you head from that spot\ndown toward the gold vein,\nbut there are obstacles on the way.
+@120.2
+Once chosen, you head from that spot\ndown toward the gold vein,\nbut there are obstacles on the way.
+@121
+When you come to obstacle,\na hanafuda card is shown.\nYou choose, face-down card is high or low, please.
+@121.1
+When you reach an obstacle,\na hanafuda card is shown, so choose\nwhether the face-down card is higher or lower.
+@121.2
+When you reach an obstacle,\na hanafuda card is shown, so choose\nwhether the face-down card is higher or lower.
+@122
+If right, you break obstacle and go on.\nIf wrong, you turn back and go.
+@122.1
+Guess right and you gain more gold there,\nbut guess wrong and you must turn back.
+@122.2
+Guess right and you gain more gold there,\nbut guess wrong and you must turn back.
+@123
+Well, anyway, we start.\nYou do your best, please.
+@123.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@123.2
+Well, whatever I say,\ntrying it yourself is best.\nNow then, you had best begin.
+@124
+Now, let's strike the vein!\nWith my Mining skill,\nI should strike it easily.
+@124.1
+Now, let's strike the vein!\nWith my Mining skill,\nI should get a fairly good result.
+@124.2
+Now, let's strike the vein!\nMy Mining skill is a little shaky,\nbut I'll manage somehow.
+@124.3
+Now, let's strike the vein!\nMy Mining skill is shaky,\nbut well, I'll manage somehow.
+@125
+A bonus is added to the results.
+@126
+Now, we start.
+@127
+You dig up big gold nugget, please.
+@128
+Now I shall teach you the secrets.\nThat said, in this\nexperience is what counts most.
+@129
+With your Politics and Leadership,\nsome parts may be a little shaky,\nbut do your best.
+@129.1
+With your Politics and Leadership,\nyou should get a fairly good result.\nDo your best.
+@129.2
+With your Politics and Leadership,\nyou should get quite a good result.\nDo your best.
+@129.3
+With your Politics and Leadership,\nthis much should be easy.\nDo your best.
+@130
+{01}C*{00}, you seem to have\nreally got the knack of finding veins.\nSo this time I've made it a little harder.
+@131
+With your Politics and Leadership,\nsome parts may be shaky,\nbut do your best.
+@131.1
+With your Politics and Leadership,\nsome parts may be a little shaky,\nbut do your best.
+@131.2
+With your Politics and Leadership,\nyou should get a good result.\nDo your best.
+@131.3
+With your Politics and Leadership,\nyou should manage it with ease.\nDo your best.
+@132
+There is nothing left\nfor me to teach you, {01}C*{00}.\nSo this time it will be quite hard.
+@133
+With your Politics and Leadership,\nsome parts may be shaky,\nbut do your best.
+@133.1
+With your Politics and Leadership,\nsome parts may be a little shaky,\nbut do your best.
+@133.2
+With your Politics and Leadership,\nyou should get a good result.\nDo your best.
+@133.3
+With your Politics and Leadership,\nit shouldn't be that hard.\nDo your best.
+@134
+Now, where shall I start?
+@135
+Now, you choose\nwhere to start, please.
+@135.1
+Now then, choose\nwhere to start.
+@136
+Hm, a rock...
+@137
+Which should I choose here?
+@138
+Oh, a gold nugget!\nWhat a find.
+@139
+Whoa! A cave-in!!
+@140
+Ugh... What a mess.\nWho'd have thought I'd fall...
+@141
+Hmm, it won't budge.\nNo help for it, I'll turn back.
+@142
+Yes! A superb gold vein!
+@142.1
+Oh, quite a good vein.\nNot bad at all.
+@142.2
+All this way for this little...\nWell, it beats nothing.
+@142.3
+Argh, nothing at all...
+@143
+Oh! Great gold vein!\nVery splendid, yes!
+@143.1
+Splendid! A great gold vein!
+@143.2
+Hmm... So close.\nOne more try, yes.
+@143.3
+Fair enough, I suppose.
+@143.4
+Hmm... This is no good, yes.
+@143.5
+Well, at least it\npaid for the labour.
+@143.6
+Hmm... No good at all, yes.
+@143.7
+You still need more training, it seems.
+@144
+This game, you and me,\nwe play with bingo cards.
+@144.1
+In this game, you and I\nwill play a match with bingo cards.
+@145
+But a little different from normal bingo.\nWe say each other's numbers\nand complete our own lines, yes.
+@145.1
+But unlike normal bingo,\nwe call out each other's numbers\nand complete our own lines.
+@146
+For example, you name my number 7,\nthen my 7 and your 7\nopen at same time.
+@146.1
+For example, if you name my number 7,\nyour number 7 opens\nat the same time as mine.
+@147
+You name places so other player\ncannot make line. This is basic of game.
+@147.1
+The basis of the game is to name places\nwhere I can't complete a line... You must\ncomplete a set number, based on your skill.
+@148
+Also, at start of game, there is bonus.\nI give bonus by your Politics,\nso this makes it easier.
+@148.1
+Also, there is a bonus at the start.\nThe higher your Politics, the bigger it is,\nso lines should be easier to complete.
+@149
+So, simple explanation is over.\nFirst, we try it!
+@149.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@150
+So, we start.
+@150.1
+Now then, let us begin the test.
+@151
+If you make more lines than me,\nyou win, yes.
+@151.1
+Complete two or more lines and beat me,\nand you pass.
+@152
+Lord {02}{02}e,\nthe secret of Accounting, and so of trade,\nis to see through the numbers.
+@153
+Name numbers that make it hard for me\nto complete lines, and complete at least one.\nShall we begin?
+@154
+You seem to be grasping\nthe secrets of Accounting.
+@155
+Today the requirement is two or more lines.\nNow then, let us do our best.
+@156
+Lord {02}{02}e, your Accounting\nnow rivals that of a merchant.
+@157
+Today the requirement is three or more lines.\nLet us both strive our hardest.
+@158
+Now, I give you bonus.\nThis makes it easier.
+@158.1
+Well, it's dull if lines never complete,\nso to make it easier,\nshall we open a few to start?
+@159
+With your Politics...\nwe each take {02}%{CB} places.
+@159.1
+...Let me see, for today's test\nwe'll each open {02}%{CB} places.
+@159.2
+...Let me see, with your Politics,\nwe'll each open {02}%{CB} places.
+@160
+Now, I give bonus.
+@160.1
+Then I'll open them now.\nThat should make lines a little easier.
+@161
+Now, I go first.
+@161.1
+Then I'll open first.
+@161.2
+My turn, yes.
+@161.3
+My turn, then.
+@161.4
+Your turn, yes.\nYou decide where to open, please.
+@161.5
+It is your turn.\nPlease name a place to open.
+@162
+First, here.
+@162.1
+First, here, I think.
+@162.2
+And last... here.
+@162.3
+And last... here, I think.
+@162.4
+I choose here.
+@162.5
+I'll open here.
+@163
+Now, where to open first?
+@163.1
+This is the last one. Where shall it be...
+@163.2
+Now, where to open?
+@164
+I did it! Many lines at once!
+@164.1
+Good, several lines at once.
+@165
+One more line, yes.
+@165.1
+Good, one more line.
+@166
+First, one line, yes.
+@166.1
+There, one line complete.
+@167
+Somehow, one line complete.
+@167.1
+I just managed one line.
+@168
+So, first line, yes.
+@168.1
+There, my first line.
+@169
+Heh heh heh, another line.
+@169.1
+Another line complete, I'm afraid.
+@170
+Oh! Double reach, yes.
+@170.1
+Oh my, two lines are one away.
+@171
+So, I make many lines.
+@171.1
+Now, the lines will keep coming.
+@172
+Oh! I messed up...
+@172.1
+Hmm, I misjudged the numbers...
+@173
+Good, several lines at once.
+@174
+Good, my first line.
+@175
+Hm, finally one line.
+@176
+Good, one more line.
+@177
+Good, just one more.
+@178
+Good, my chances are widening.
+@179
+Blast, the same number...
+@180
+I see, I see...
+@180.1
+I see...
+@180.2
+Oho...
+@181
+Oh! Very good, yes.\nI give up.
+@181.1
+A wonderful result.\nI concede.
+@181.2
+Beating me is quite something.\nKeep up your training like this.
+@181.3
+Sadly, you fell short of the requirement.\nJust one step away.
+@181.4
+Hmm, a draw, but it is good, yes.
+@181.5
+Hmm, not yet good enough, yes.
+@181.6
+You met the requirement.\nA fine result.
+@181.7
+Sadly, you missed the requirement,\nbut a fairly good result.
+@181.8
+A little more effort is needed, I'd say.
+@181.9
+You still need more training.
+@181.10
+Hmm, it was close,\nso it is good, yes.
+@181.11
+Hmm, not yet good enough, yes.
+@181.12
+You met the requirement.\nA decent result.
+@181.13
+A little more effort is needed, I'd say.
+@181.14
+You still need more training.
+@182
+In this game, you shoot arrows at targets\nwhile watching the strength of the wind.
+@182.1
+In this game, you shoot arrows at targets\nwhile watching the strength of the wind.
+@183
+To shoot, first take aim.\nMove the sight with the left stick or D-pad\nand press the X button to fix your aim.
+@183.1
+To shoot, first take aim.\nMove the sight with the left stick or D-pad\nand press the X button to fix your aim.
+@184
+But once your aim is fixed,\nthe sight wavers by your Valor.\nThe sway changes with your Valor.
+@184.1
+But once your aim is fixed,\nthe sight wavers.\nThe sway changes with your Valor.
+@185
+Shoot with the Circle button within the time.\nTaking aim again resets the time...\nso you can retry as often as you like.
+@185.1
+Press the Circle button in time to shoot.\nTaking aim again resets the time...\nso you can retry as often as you like.
+@186
+The wind's effect matches its strength.\nJudging the wind and its effect well\nis the road to never missing.
+@186.1
+The wind's effect matches its strength.\nJudging the wind and its effect well\nis the road to never missing.
+@187
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@187.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@188
+In this game, you shoot a gun at targets\nwhile watching the strength of the wind.
+@189
+To take aim,\nmove the cursor near a target.\nThe sight will then appear.
+@190
+But once your aim is fixed,\nthe sight wavers by your Valor,\nand you must fire within the time limit.
+@191
+There's a time limit for firing,\nbut taking aim again\nstarts the countdown afresh.
+@192
+Then... the knack is to check\nthe wind's effect with your own eyes.\nCompare where you aimed and where it hit.
+@193
+Well, whatever I say,\nyou won't hit if you don't shoot.\nLet's get started.
+@194
+Now I shall put you to a trial.\nArchery too is a ninja's art.\nYou must hit the target true.
+@195
+I allow only one miss.\nHit the target five times\nand I shall grant you a new rank.
+@196
+The knack of archery is to know the target's\nposition exactly and allow for the wind.
+@197
+Don't let your hand shake as you shoot.\nTake aim calmly.
+@198
+Your archery has improved greatly.\nSo this time, trusting your skill,\nI've made the target a little smaller.
+@199
+Now then, do your best.
+@200
+With your skill, {01}C*{00},\nyou could shoot down the fan on the boat.\nThis time the target matches your skill.
+@201
+Keep training and hone your skill.
+@204
+The knack of gunnery is\nto hold the gun steady\nand aim well before you fire.
+@205
+And when you fire,\nkeep the wind in mind.
+@206
+You seem good with a gun,\nso I've made the target smaller.
+@207
+Try your best to hit them all.
+@208
+Given your skill with a gun,\nI've made the targets smaller this time.\nOtherwise it wouldn't be practice.
+@209
+Well, shoot as often as you like\nand hone your skill.
+@210
+Now, begin!
+@210.1
+Last one!
+@210.2
+This is the last one!
+@210.3
+Next!
+@211
+All right, begin!
+@211.1
+Last one!
+@211.2
+Next!
+@212
+Blast...
+@212.1
+Hmm... missed?
+@212.2
+It won't hit...
+@213
+Yes!
+@213.1
+Right!
+@213.2
+Got it!
+@214
+Wonderful! Perfect!
+@214.1
+Quite well done.\nHitting this many is impressive.
+@214.2
+Fair enough, I'd say.\nKeep up your practice.
+@214.3
+You still need more training, it seems.\nPractise harder.
+@214.4
+Even with your eyes shut,\nyou'd hit a few...
+@215
+Splendid! You pass!
+@215.1
+With skill like that,\nI cannot possibly pass you.
+@216
+Every shot a hit? Not bad at all!\nImpressive!
+@216.1
+Hmm, so close.\nStill, if you can do this much, it's enough.
+@216.2
+Well, fair enough, I'd say.
+@216.3
+You still need more training.
+@216.4
+What are you doing?!\nYou've got no talent!
+@217
+In this game, you shoot at targets\nthat appear one after another.
+@217.1
+In this game, you shoot at targets\nthat appear one after another.
+@217.2
+In this game, you shoot at targets\nthat appear one after another.
+@217.3
+In this game, you shoot at targets\nthat appear one after another.
+@218
+First, firing takes time.\nHow long depends on Valor and Leadership.\nWhen the gauge at left is full, you can fire.
+@218.1
+First, firing takes time.\nHow long depends on Valor and Leadership.\nWhen the gauge at left is full, you can fire.
+@218.2
+First, firing takes time.\nHow long depends on Valor and Leadership.\nWhen the gauge is full, you can fire.
+@218.3
+First, firing takes time.\nHow long depends on Valor and Leadership.\nWhen the gauge at left is full, you can fire.
+@219
+When you can fire, the sight appears.\nOnce it appears,\naim at the moving targets.
+@219.1
+When you can fire, the sight appears.\nOnce it appears,\nplease aim at the moving targets.
+@219.2
+When you can fire, the sight appears.\nOnce it appears,\naim at the moving targets.
+@219.3
+When you can fire, the sight appears.\nOnce it appears,\naim at the moving targets.
+@220
+When you fire, think of the wind.\nIt changes partway, so beware.\nShoot without thinking and you won't hit.
+@220.1
+When you fire, think of the wind too.\nIt changes partway, so be careful.\nShoot without thinking and you won't hit.
+@220.2
+When you fire, think of the wind too.\nIt changes partway, so be careful.\nThink well before you shoot.
+@220.3
+When you fire, think of the wind too.\nIt changes partway, so watch out.\nShoot without thinking and you won't hit.
+@221
+After firing, wait until you can fire\nand quickly aim at the next target.\nDawdle and the target vanishes.
+@221.1
+After firing, wait until you can fire\nand quickly aim at the next target.\nIf you dawdle, the target vanishes.
+@221.2
+After firing, wait until you can fire\nand quickly aim at the next target.\nIf you dawdle, the target vanishes.
+@221.3
+After firing, wait until you can fire\nand quickly aim at the next target.\nDawdle and the target's gone.
+@222
+Well, whatever I say,\nyou cannot hit without shooting.\nNow then, shall we begin?
+@222.1
+Well, whatever I say,\nyou cannot hit without shooting.\nNow then, shall we begin?
+@222.2
+Well, whatever I say,\nwhat matters is to try shooting.\nNow then, begin.
+@222.3
+Well, whatever I say,\nyou won't hit if you don't shoot.\nLet's get started.
+@223
+Now I shall put you to a trial.\nThe gun too is a ninja's art.\nYou must hit the target true.
+@223.1
+The knack of shooting is, once you can fire,\nto watch the moving targets well\nand shoot quickly.
+@224
+I allow only four misses.\nShoot down sixteen targets\nand I shall grant you a new rank.
+@224.1
+And when you fire,\nkeep the wind in mind.
+@225
+The knack of shooting is, once you can fire,\nto watch the moving targets well\nand shoot quickly.
+@226
+And when you fire,\nkeep the wind in mind.
+@227
+You seem to have a knack for this,\nso I've made the movement a little harder.
+@228
+Try your best\nto hit them all.
+@229
+Given your skill,\nI've made the targets move especially hard.\nOtherwise it wouldn't be practice.
+@230
+Well, practise as often as you like\nand hone your skill.
+@231
+Now, begin!
+@231.1
+Now then, begin!
+@231.2
+Now then, begin!
+@231.3
+All right, begin!
+@231.4
+Almost there!
+@231.5
+Almost there!!
+@231.6
+Almost there!
+@231.7
+Almost there, aim well!
+@231.8
+Last one!
+@231.9
+This is the last one!
+@231.10
+This is the last one!
+@231.11
+This is the last one!
+@231.12
+Next!
+@232
+The wind has changed!
+@232.1
+Careful!\nThe wind has changed!
+@232.2
+Watch for the change in the wind!
+@232.3
+Watch out!\nThe wind has changed!
+@233
+That is the end of it all.
+@233.1
+Splendid! You pass!
+@233.2
+Every shot a hit? Splendid!\nImpressive.
+@233.3
+Every shot a hit? Not bad at all!\nImpressive!
+@233.4
+Splendid! You pass!
+@233.5
+Hmm, so close!\nStill, if you can do this much, it's enough.
+@233.6
+Hmm, so close.\nStill, if you can do this much, it's enough.
+@233.7
+Fair enough, but\nI can't call that a pass.
+@233.8
+Hmm, a little lacking.
+@233.9
+Well, fair enough, I'd say.
+@233.10
+You need more training.
+@233.11
+You still need more training.
+@233.12
+You still need more training.
+@233.13
+Fool!\nYou call yourself a ninja?!
+@233.14
+Hmm...\nPerhaps you have no talent.
+@233.15
+What are you doing?!\nYou've got no talent!
+@234
+In this game, you mix medicine\nin exactly the order I show you.
+@234.1
+In this game, you mix medicine\nin exactly the order I tell you.
+@234.2
+In this game, you mix medicine\nin exactly the order I show you.
+@235
+First, I mix the set medicine.\nMemorise the order well.
+@235.1
+First, I mix the set medicine.\nMemorise the order well.
+@235.2
+First, I will mix the set medicine.\nPlease memorise the order well.
+@236
+When I have finished mixing,\nyou must mix it\nin exactly the same way.
+@236.1
+When I have finished mixing,\nyou, {01}C*{00}, mix it\nin exactly the same way.
+@236.2
+When I have finished mixing,\nyou, {01}C*{00}, will mix it\nin exactly the same way.
+@237
+Mix it right to the end and you succeed,\nbut get the order wrong and you fail then and there.
+@237.1
+Mix it right to the end and you succeed,\nbut make a mistake and you fail then and there.
+@237.2
+Mix it right to the end and you succeed,\nbut make a mistake and you fail then and there.
+@238
+The mixing speed depends on Charm.\nWith your Charm, it may feel fast,\nbut bear with it.
+@238.1
+The mixing speed depends on Charm.\nYour Charm is middling,\nso it may feel fast, but bear with it.
+@238.2
+The mixing speed depends on Charm.\nYour Charm is fairly high,\nso checking it should be no trouble.
+@238.3
+The mixing speed depends on Charm.\nYour Charm is quite high,\nso you can watch at your leisure.
+@238.4
+The mixing speed depends on Charm.\nForgive me, but with your Charm\nit may feel fast.
+@238.5
+The mixing speed depends on Charm.\nWith your Charm,\nit shouldn't feel too fast.
+@238.6
+The mixing speed depends on Charm.\nWith your Charm,\nyou should be able to keep up.
+@238.7
+The mixing speed depends on Charm.\nWith your Charm, you should be able\nto check the mixing at your leisure.
+@238.8
+The mixing speed depends on Charm.\nForgive me, but with your Charm\nit may feel fast.
+@238.9
+The mixing speed depends on Charm.\nYour Charm is middling,\nso it shouldn't feel too fast.
+@238.10
+The mixing speed depends on Charm.\nYour Charm is fairly high,\nso you should be able to keep up.
+@238.11
+The mixing speed depends on Charm.\nYour Charm is beyond reproach, so you\ncan check the mixing at your leisure.
+@239
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@239.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, begin.
+@239.2
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@240
+A ninja must be able\nto mix medicine to save his own life.\nI shall now teach you how.
+@241
+Now, we begin at once.
+@241.1
+Then let us begin.
+@242
+Please mix it in exactly\nthe order I showed you.
+@243
+You seem to be gaining a grasp of medicine.\nToday's is a little harder, but do your best.
+@244
+Your medical knowledge is impressive, {01}C*{00}.\nBut you must not grow complacent yet.\nThis time you'll try a difficult mixture.
+@245
+Your turn.
+@245.1
+It is your turn.
+@246
+Now, the next one.
+@246.1
+Now, the next one.
+@247
+At last, the final one.
+@247.1
+This is the last one.
+@248
+Yes, you pass without question!
+@248.1
+Oh, perfect!\nWonderful!
+@249
+Yes, well done.\nYou pass!
+@249.1
+Quite well done.\nI'd almost take you as a pupil.
+@250
+Yes, that much is enough.\nI shall pass you.
+@250.1
+Not bad.\nA result worthy of you, I'd say.
+@251
+You still need more training, I see.
+@252
+Hmm...\nThat is nothing to be praised for.
+@253
+You seem to have made a mistake.\nI cannot pass you, then.
+@254
+In this game, you pick out pictures\nidentical to the one shown first.
+@254.1
+In this game, you pick out pictures\nexactly like the one shown first.
+@254.2
+In this game, you pick out pictures\nexactly like the one shown first.
+@255
+First, the picture to find\nis shown at the top left for an instant.
+@255.1
+First, the picture to find\nis shown at the top left for an instant.
+@255.2
+First, the picture to find\nis shown at the top left for an instant.
+@256
+Then six pictures appear on the right:\nthe same one, and ones slightly different.
+@256.1
+Then six pictures appear on the right:\nthe same one, and ones slightly different.
+@256.2
+Then six pictures appear on the right:\nthe same one, and ones slightly different.
+@257
+Within the time limit, just find\nthe one that matches the task.
+@257.1
+Within the time limit, you must find\nthe one that matches the task.
+@257.2
+Within the time limit, you must find\nthe one that matches the task.
+@258
+Unless you answer every one correctly,\nyou will fail.
+@258.1
+This time, get four or more right\nand you pass.
+@258.2
+How long the task shows depends on Valor.\nYour Valor is a little lacking.\nWork hard to make out the picture.
+@258.3
+How long the task shows depends on Valor.\nYour Valor is fair.\nWatch carefully.
+@258.4
+How long the task shows depends on Valor.\nYour Valor is quite good,\nso you should make out the picture.
+@258.5
+How long the task shows depends on Valor.\nYour Valor is considerable,\nso the pictures should be no trouble.
+@258.6
+How long the task shows depends on Valor.\nYour Valor is a little lacking. It will\nvanish quickly, but strive to make it out.
+@258.7
+How long the task shows depends on Valor.\nYour Valor is fair.\nIt may take effort, but watch closely.
+@258.8
+How long the task shows depends on Valor.\nYour Valor is quite good,\nso you may make out the picture.
+@258.9
+How long the task shows depends on Valor.\nYour Valor is considerable,\nso the pictures should be no trouble.
+@259
+Now then, are you ready?
+@259.1
+Well, that's enough explaining.\nLet's begin.
+@259.2
+Well, whatever I say,\ntrying it yourself is best.\nNow then, begin.
+@259.3
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@260
+Unless you answer every one correctly,\nyou will fail.\nAre you ready?
+@260.1
+Four or more right and you pass the trial.\nReady?
+@261
+Within the time limit, find the picture\non the right that matches the one at left.
+@262
+You show real promise, {02}{02}e.\nBut the hard part starts now.\nFail at this speed and you'll never be Jonin.
+@263
+Your Ninjutsu is now at Jonin level, {02}{02}e.\nBut you must not neglect your training.\nFail at this speed and you're no ninja.
+@264
+Now, begin!
+@264.1
+Now, start!
+@264.2
+Now, begin!
+@264.3
+Here we go.
+@265
+Next!
+@266
+Last one!
+@267
+That's the end.
+@267.1
+That is the end.
+@267.2
+That is the end.
+@268
+I regret to say\nI cannot take you into service.
+@268.1
+Sigh... No good at all.\nI misjudged you...
+@268.2
+No good at all...
+@268.3
+That won't do.\nYou had best train again from the basics.
+@268.4
+I regret to say\nI cannot take you into service.
+@268.5
+That's a fail.\nI misjudged you...
+@268.6
+You managed a little,\nbut you still have far to go.
+@268.7
+You managed a little,\nbut you still have far to go.
+@268.8
+I regret to say\nI cannot take you into service.
+@268.9
+Not bad at all.\nYou pass!
+@268.10
+Yes, quite a good result.
+@268.11
+Yes, not bad at all.\nKeep working at your training.
+@268.12
+Perfect.
+@268.13
+Perfect!\nYou pass without question!
+@268.14
+Yes, perfect.
+@268.15
+Oh! You got every one!\nImpressive.
+@269
+In this game, you pick out the sentence\nthat matches the one I speak.
+@270
+As I speak, four sentences appear\nin the choices below: the same one,\nand ones slightly different.
+@271
+Within the time limit, find\nthe one that matches the task.
+@272
+The time limit depends on Diplomacy.\nYour Diplomacy is by no means high,\nso you must decide quickly.
+@272.1
+The time limit depends on Diplomacy.\nYour Diplomacy is fair,\nso if you're quick, you'll be fine.
+@272.2
+The time limit depends on Diplomacy.\nYour Diplomacy is quite good,\nso a perfect score is no dream.
+@272.3
+The time limit depends on Diplomacy.\nYour Diplomacy is considerable,\nso do aim for a perfect score.
+@273
+There are other elements too.\nFor those, please\nlook at the help once.
+@274
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@276
+Find the words exactly matching\nthe sentence I am about to read.
+@277
+Today's questions are a little harder.\nDo your best.
+@278
+Your Speech can only be called splendid.\nKeep working to improve it further.
+@279
+Now, let us begin.
+@280
+Hmm... With a result like this,\nyour Speech will not improve.
+@280.1
+You got a few right,\nbut this is far from enough.
+@280.2
+You answered a fair number.\nA decent result.
+@280.3
+Yes, quite good.\nWell done.
+@280.4
+Oh! Every one right!\nA wonderful result.
+@281
+In this game, you carry stones\nto get as close as possible to a target weight.
+@281.1
+In this game, you carry stones\nto get as close as possible to a target weight.
+@282
+The target weight is shown at the top left.\nCarry stones to get close to that weight.
+@282.1
+The target weight is shown at the top left.\nCarry stones to get close to that weight.
+@283
+Past a certain weight, some digits are hidden.\nHow many depends on your Politics.\nGuess the weight from the digits you can see.
+@283.1
+Past a certain weight, some digits are hidden.\nHow many depends on your Politics.\nGuess the weight from the digits you can see.
+@284
+If the weight goes over the target,\nyou can chip the stones as often as shown at right.\nEach chip takes off about 100.
+@284.1
+If the weight goes over the target,\nyou can chip the stones as often as shown at right.\nEach chip takes off about 100.
+@285
+Then simply stop\nwhen you think it's just right.\nFor details, take a look at the help.
+@285.1
+Then simply stop\nwhen you think it's just right.\nFor details, take a look at the help.
+@286
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@286.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, you had best begin.
+@287
+Right, let's begin the castle's %s.\nI need to carry exactly {02}%d kan of stone.
+@288
+Now, let's get started.
+@290
+Now, stack the stones\nso the total weight comes\nas close to {02}%d kan as you can.
+@291
+Your castle-building skill\nis quite something, I'd say.
+@292
+Your castle-building skill can only be called splendid.\nAim higher still and do your best.
+@293
+Now then, begin.
+@294
+Is this about right...?
+@294.1
+Will you finish here?
+@295
+Finish here?
+@296
+I can't carry any more.
+@297
+Chip the stacked stones to reduce the weight?
+@298
+Hm, isn't that quite close?
+@298.1
+Hmm... just a little more.
+@298.2
+Hm... still a little off, it seems.
+@298.3
+Still off, it seems.
+@298.4
+Not right at all yet, it seems.
+@299
+Right, that's spot on!
+@299.1
+I think it's quite close... but is it?
+@299.2
+Just a little more, I think...
+@299.3
+Seems a bit far from the target.
+@299.4
+Still far from the target.
+@299.5
+Not right at all yet, it seems.
+@300
+Yes! Spot on!
+@300.1
+Yes, a satisfying result!
+@300.2
+Hmm... I can't accept a result like this.
+@301
+Yes! Spot on!
+@301.1
+Good, very close to the target!
+@301.2
+Yes, a satisfying result!
+@301.3
+Well, not quite, but not far off...
+@301.4
+Quite a way off... Hmm...
+@301.5
+Hmm... I can't accept a result like this.
+@302
+Splendid! Spot on!
+@302.1
+So close! Just a little more!
+@302.2
+Yes, quite a good result!
+@302.3
+Well, not quite, but not far off.
+@302.4
+Not good enough yet.\nKeep up your training.
+@302.5
+Not good at all.\nKeep up your training.
+@303
+This game, it is a one-stroke drawing, yes.\nYou plough and cannot go back.
+@303.1
+This game is a one-stroke drawing, so to speak:\nyou plough the wasteland without waste.
+@304
+You plough the wild land.\nBut, I say again,\nyou cannot go back.
+@304.1
+You plough the wild land, but,\nI'll say it again,\nyou cannot go back.
+@305
+Normally, maybe you cannot plough all.\nBut! You can break some rocks.
+@305.1
+So normally you couldn't plough it all,\nbut you may break some rocks to get through.
+@306
+Rocks you can break are shown at right.\nThis number follows your Politics.\nPlease do not waste them.
+@306.1
+The number of rocks you can break is at right.\nIt follows your Farming skill.\nYou had best use them well.
+@307
+I cannot speak Japanese so much,\nso for the rest, look at the help\nvery closely, please.
+@307.1
+There are other elements too,\nbut look at the help for those.\nExplaining in words wastes time.
+@308
+Ah, long Japanese talking, I am tired.\nSo, we start quickly.
+@308.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, you had best begin.
+@309
+No going back, was it?\nThen let's clear as much wasteland as I can!
+@311
+You cannot pass rocks, but with your Politics,\nyou can break rocks {02}$d times.
+@312
+{01}C*{00}, you plough very well, yes.
+@313
+Your ploughing is wonderful, yes.\nBetter than people of my country.
+@314
+So, think very, very well\nand go on, please.
+@315
+Break the rock?
+@316
+Yes! It couldn't be better!
+@316.1
+Yes! I ploughed nearly all of it!\nA fine job!
+@316.2
+Well, I ploughed a fair amount.\nNot bad, I'd say.
+@316.3
+Hmm... I didn't plough much.\nWell, not what I wanted, but there it is.
+@316.4
+Hmm... I didn't plough much.\nThings never go as you'd like.
+@316.5
+Hmm... This is an embarrassment.
+@317
+Oh, you did it!\nPerfect, yes!
+@317.1
+Oh, you ploughed almost all!\nVery good result, yes!
+@317.2
+Not perfect... but\nnot bad, yes.
+@317.3
+Hmm... a little so-so, yes.
+@317.4
+Try harder, please.\nNot enough guts.
+@317.5
+No good at all, yes.\nNot enough training.
+@318
+This game is a kind of sugoroku:\nyou roll dice to reach the destination.
+@318.1
+This game is a kind of sugoroku:\nyou roll dice to reach the destination.
+@319
+There are several roads to the destination,\nand along the way\nthere are blue, yellow, red and purple spaces.
+@319.1
+There are several roads to the destination,\nand along the way\nthere are blue, yellow, red and purple spaces.
+@320
+On blue, good things happen;\non red, dangerous things.\nYellow and purple... it's down to luck.
+@320.1
+On blue, good things happen;\non red, dangerous things.\nYellow and purple... it's down to luck.
+@321
+Bad events slow\nyour march by that much,\nso avoid red and yellow.
+@321.1
+Bad events slow\nyour march by that much,\nso avoid red and yellow.
+@322
+If you meet the enemy,\nroll a number set by your Leadership\nand you can drive them off.
+@322.1
+If you meet the enemy,\nroll a number set by your Leadership\nand you can drive them off.
+@323
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@323.1
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@324
+Now I shall put you to a trial.\nMarch your army to the end\nand you pass.
+@324.1
+Unless you reach the destination,\nyou will fail.\nAre you ready?
+@325
+Tactics is the art of using troops.\nReaching the destination in the time given\nis what matters most.
+@326
+You seem to have\na fine talent for leading troops.\nThis time I've put the goal a little further.
+@327
+It's no exaggeration to call\nyour generalship perfect.\nThis time the length matches your skill.
+@328
+Head for the goal within %y rolls.\nIf you meet the enemy,\nroll %y or more to get through.
+@328.1
+Head for the goal within %y rolls.\nIf you meet the enemy,\nroll %y or more to get through.
+@329
+Now, begin!
+@329.1
+Now, let us get started.
+@330
+Oh, our troops' morale is up:\none die has been restored.
+@331
+Oh, the view opens up here.\nWe should advance faster next.
+@332
+Oh, I've gained a new formation!
+@333
+Oh, nothing happened.\nThat's lucky.
+@334
+Blast! A pitfall!
+@335
+A pitfall? You novice...
+@335.1
+A pitfall...\nNo more rolls left.
+@335.2
+A pitfall...\nOnly {02}${CB} rolls left.
+@336
+Hm, the enemy!
+@337
+Roll {02}${CB} or more!
+@337.1
+Roll {02}${CB} or more!
+@338
+Good, we drove them off!
+@338.1
+Right!
+@338.2
+Good, good, we drove them off.
+@339
+Argh, that's too low.
+@339.1
+No good...
+@339.2
+What...
+@340
+Wh-what? What happened?
+@341
+What? Was I dreaming...?
+@342
+Somehow, everything around\nseems to have changed...?
+@343
+Splendid! You pass!
+@343.1
+Splendid!
+@343.2
+Oh, splendid.\nKeep working even harder.
+@343.3
+Not a bad result,\nbut I can't call it a pass.
+@343.4
+I regret to say\nI cannot take you into service.
+@343.5
+Just {02}${CB} steps from the goal.\nQuite a good result.
+@343.6
+Not a bad result,\nbut I can't call it a pass.
+@343.7
+I regret to say\nI cannot take you into service.
+@343.8
+Just {02}${CB} steps from the goal.\nA promising result.
+@343.9
+Fool, you need more training.
+@343.10
+I regret to say\nI cannot take you into service.
+@343.11
+Not good enough yet.\nStill {02}${CB} steps from the goal.
+@344
+In this game, you must guess quickly,\nwithin three picks, which castle hides the ninja.
+@345
+First the ninja appears,\nbut is soon hidden by a castle.
+@346
+Then the castles are shuffled for a while.\nDon't take your eyes off them,\nand follow where the ninja is.
+@347
+When the castles stop moving,\npick where you think the ninja is.
+@348
+On missions and jobs,\nthe number of castles depends on Ninjutsu.\nThe higher your Ninjutsu, the better.
+@349
+Well, whatever I say,\ntrying it yourself is best.
+@350
+Now, let's spread rumours in the town\nand unsettle the people.
+@351
+Now, let's set fire to the castle\nand burn its supplies.
+@352
+Now, let's plant explosives in the castle\nand break its walls.
+@353
+Now I shall put you to a trial.\nFind the hidden ninja in a single pick.\nDo that and you pass.
+@354
+This castle is small,\nso finding the real one should be easy...\nNo, I mustn't let my guard down.
+@354.1
+This castle is of fair size.\nWatch carefully and I should find the real one.\nNow, let's get to it.
+@354.2
+This castle is large,\nso finding the real one may be hard.\nI must stay sharp.
+@354.3
+This castle is very large.\nI may not find the real one,\nbut I must hit it no matter what.
+@355
+Now, pick the real one!
+@356
+Now, the real one is...
+@356.1
+Argh, this time for sure!
+@356.2
+Is this the last chance...
+@357
+The effect increases.
+@358
+Yes, a great success!
+@359
+Hm, a fair outcome.
+@360
+A narrow success, I suppose...
+@361
+Damn! A total failure...
+@362
+Splendid! You pass!
+@363
+You couldn't find it, I see.\nYou need more training.
+@364
+This game's a card-flipping match against us.\nWe take turns flipping three farmhouses,\nand you gather more peasants than we do.
+@365
+Hidden in the houses are peasants, folk, and riots...\nPeasants and folk become yours,\nbut a riot steals your folk away.
+@366
+Each house on the right is different: the top one\nholds only peasants, the middle "!" only folk\nand riots, and who knows what's in the "?".
+@367
+Think about what each house is like\nand flip the one you fancy.
+@368
+There's more to it,\nbut explaining's a bother,\nso take a look at the help.
+@369
+Well, talking won't get us started.\nBest to try it for real.\nRight, let's begin.
+@370
+This game is a card-flipping match against us.\nWe take turns flipping three farmhouses,\nand you gather more peasants than we do.
+@371
+Hidden in the houses are peasants, folk, and riots.\nPeasants and folk become yours,\nbut a riot steals your folk away.
+@372
+Each house on the right is different: the top one\nholds only peasants, the middle "!" only folk\nand riots, and no one knows what's in the "?".
+@373
+Think about what each house is like\nand flip the one you think best.
+@374
+There are other elements too.\nFor those, you would do well\nto look at the help once.
+@375
+Well, whatever I say,\ntrying it yourself is best.\nNow then, shall we begin?
+@376
+Right, I'll win the people's hearts\nand lay the foundation of a rich province.
+@377
+So you've come, you useless samurai!\nWe won't let you have your way!
+@378
+That's right!\nLet's take the people for ourselves!
+@379
+Hm, the bandits are up to something?\nI can't lose this!
+@380
+Now, let's find some strong men\nand bring them into our forces.
+@381
+We can't lose hands for the rice fields.\nWe must stop them being taken at all costs.
+@382
+That's right.\nLet's take them in first.
+@383
+Hm... the village head has his own plans too.\nI can't lose this!
+@384
+The deck grows.
+@385
+A bonus is given based on your skill.
+@386
+The riots in the deck have decreased.
+@387
+Right, which shall I pick?
+@388
+All right, I won't lose.
+@388.1
+Now, here goes...
+@388.2
+My turn, eh?
+@389
+Even one more would help.
+@389.1
+Now, here goes...
+@389.2
+Come now, I must do my best.
+@390
+Good, keep it up!
+@391
+Yeah, this is going well!
+@391.1
+Heh heh heh!
+@391.2
+All right!
+@392
+Oho, not bad at all.
+@392.1
+Heh heh, that went well.
+@392.2
+Good, good.
+@393
+D-damn! A riot!
+@394
+Wahaha! Serves you right!
+@395
+Heaven help us...
+@396
+Whoa, blast!
+@396.1
+Ugh!!
+@396.2
+Ouch!
+@397
+Eek!
+@397.1
+Ah! H-help!
+@397.2
+Waah! A riot!
+@398
+Yes, a satisfying result.
+@399
+Damn, I couldn't win...
+@400
+Well, I'll call it good...
+@401
+Yes, I'm the winner!
+@402
+Argh, beaten...
+@403
+Grr, how vexing...
+@404
+All right, I'm the winner!
+@405
+Oh, thank heaven, thank heaven...
+@406
+Well, I lost, but that's enough.
+@406.1
+Annoying, but not bad, I suppose.
+@406.2
+Just one step short...
+@406.3
+Argh, not the result I wanted...
+@406.4
+Hmm, this is utterly humiliating...
+@407
+A deck with only peasants.\nPick this for steady gains.
+@408
+A deck with folk and riots.\nRisky! But big if it pays off.
+@409
+A deck with all three kinds.\nWho knows what will come out...?

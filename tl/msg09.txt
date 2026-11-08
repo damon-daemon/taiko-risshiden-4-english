@@ -1,0 +1,942 @@
+@0
+Do you really want to enter service?
+@1
+{01}C*{00}, I have come\nthis time with an important request.
+@1.1
+{01}C*{00}, I have come\nthis time with an important request.
+@1.2
+{01}C*{00}, I have come\ntoday with an important favour to ask.
+@2
+Oh?\nYou have a request?
+@2.1
+Oh?\nYou have a request?
+@2.2
+Oh, a favour, you say?
+@3
+Will you let me\nwork under you, {01}C!{00}?\nI ask it of you.
+@3.1
+Will you let me\nwork under you, {01}C!{00}?\nI ask it of you.
+@3.2
+I, {02}{01}g,\nwould dearly love\nto work under {01}C!{00}!
+@4
+...Hmph, what are you saying now?!\n{01}C!{00} will never again enter my house.\nDo not jest with me.
+@4.1
+...Hmph, what are you saying now?!\n{01}C!{00} will never again enter my house.\nDo not jest with me.
+@4.2
+...Hmph, what are you saying now?!\nYou will never again enter my house.\nDon't jest with me.
+@4.3
+...What are you saying now?\n{01}C!{00} will never again enter my house.\nPlease give up.
+@4.4
+...What are you saying now?\n{01}C!{00} will never again enter my house.\nPlease give up.
+@4.5
+...What are you saying now?\nYou will never again enter my house.\nGive it up.
+@4.6
+...Why say this now?\n{01}C!{00} will never again enter my house.\nPlease give it up.
+@4.7
+...Why say this now?\n{01}C!{00} will never again enter my house.\nPlease give it up.
+@4.8
+...Why say this now?\nYou will never again enter my house.\nPlease give it up.
+@4.9
+{01}C*{00}...\nYou left my house once...\nPlease give it up.
+@5
+...Hmph, what are you saying now?!\n{01}C!{00} will never again enter my house.\nDo not jest with me.
+@5.1
+...Hmph, what are you saying now?!\n{01}C!{00} will never again enter my house.\nDo not jest with me.
+@5.2
+...Hmph, what are you saying now?!\nYou will never again enter my house.\nDon't jest with me.
+@5.3
+...What are you saying now?\n{01}C!{00} will never again enter my house.\nPlease give up.
+@5.4
+...What are you saying now?\n{01}C!{00} will never again enter my house.\nPlease give up.
+@5.5
+...What are you saying now?\nYou will never again enter my house.\nGive it up.
+@5.6
+...Why say this now?\n{01}C!{00} will never again enter my house.\nPlease give it up.
+@5.7
+...Why say this now?\n{01}C!{00} will never again enter my house.\nPlease give it up.
+@5.8
+...Why say this now?\nYou will never again enter my house.\nPlease give it up.
+@5.9
+{01}C*{00}......\n{01}C!{00} will never again enter my house...\nPlease give it up.
+@5.10
+{01}C*{00}......\n{01}C!{00} will never again enter my house...\nPlease give it up.
+@5.11
+{01}C*{00}......\nYou will never again enter my house...\nPlease give it up.
+@6
+...Hmph, what are you saying now?!\n{01}C!{00} once left my house.\nDo not jest with me.
+@6.1
+...Hmph, what are you saying now?!\n{01}C!{00} once left my house.\nDo not jest with me.
+@6.2
+...Hmph, what are you saying now?!\nYou left my house once.\nDon't jest with me.
+@6.3
+...What are you saying now?\n{01}C!{00} once left my house.\nPlease give up now.
+@6.4
+...What are you saying now?\n{01}C!{00} once left my house.\nPlease give up now.
+@6.5
+...What are you saying now?\nYou left my house once.\nGive it up now.
+@6.6
+...Why say this now?\n{01}C!{00} once left my house.\nPlease give it up now.
+@6.7
+...Why say this now?\n{01}C!{00} once left my house.\nPlease give it up now.
+@6.8
+...Why say this now?\nYou left my house once.\nPlease give it up now.
+@6.9
+{01}C*{00}......\n{01}C!{00} once left my house...\nPlease give it up now.
+@6.10
+{01}C*{00}......\n{01}C!{00} once left my house...\nPlease give it up now.
+@6.11
+{01}C*{00}......\nYou left my house once...\nPlease give it up now.
+@7
+I'm grateful for the thought, but\nyou are a fine ninja.\nSomeone of my standing could never hire you.
+@7.1
+I'm grateful for the thought, but\nyou are a fine ninja.\nSomeone of my standing could never hire you.
+@7.2
+Forgive me, but\nyou are a fine ninja.\nSomeone of my standing could never hire you.
+@8
+What!\nYou wish to serve me?
+@8.1
+What!\nYou wish to serve me?
+@8.2
+What!\nYou wish to serve me?
+@9
+I will surely be of use to you!\nPlease,\ngrant my request!
+@9.1
+I will surely be of use to you!\nPlease,\ngrant my request!
+@9.2
+I will surely be of use to you!\nPlease,\ngrant my request!
+@10
+What!\n{01}C!{00} once left my house,\nand now you wish to serve it again?
+@10.1
+What!\n{01}C!{00} once left my house,\nand now you wish to serve it again?
+@10.2
+What!\nYou once left my house,\nand now you wish to serve it again?
+@11
+I wish to serve you once more.\nPlease,\ngrant my request!
+@11.1
+I wish to serve you once more.\nPlease,\ngrant my request!
+@11.2
+Yes, I wish to serve you once more.\nPlease,\ngrant my request!
+@12
+...I understand your feelings.\nVery well, from now on\nwill you help me?
+@12.1
+...I understand your feelings.\nVery well, from now on\nwill you help me?
+@12.2
+...I have truly received your feelings.\nVery well, from now on\nyou will work under me.
+@13
+Oh!\nI'm grateful!
+@13.1
+Oh!\nI'm grateful!
+@13.2
+Oh!\nThank you very much!
+@14
+However, once you are under me,\nyou must also follow me as a vassal.\nPlease understand that.
+@14.1
+However, once you are under me,\nyou must also follow me as a vassal.\nPlease understand that.
+@14.2
+But once you are under me,\nthings can't be as they were between us.\nKeep that in mind.
+@15
+Understood.\nThen from now on I will\nwork with all my might for you!
+@15.1
+Understood.\nThen from now on I will\nwork with all my might for you!
+@15.2
+Yes, sir!\nFrom now on I will work\nwith all my might for you, my lord!
+@16
+Then I will at once arrange\na house for you in the samurai quarter.
+@16.1
+Then I will at once arrange\na house for you in the samurai quarter.
+@16.2
+Good. Then I'll arrange\na house for you at once.\nGo and have a look.
+@17
+I cannot make {01}C!{00} my retainer.\nSurely {01}C!{00}\nunderstands that.
+@17.1
+I cannot make {01}C!{00} my retainer.\nSurely {01}C!{00}\nunderstands that.
+@17.2
+I don't know you well enough\nto make you my retainer.
+@18
+I see......
+@18.1
+I see......
+@18.2
+......I spoke out of turn.
+@19
+......You would serve me,\nwho am not even a daimyo?
+@20
+I wish to work under you\nand no one else.
+@21
+...Your feelings make me glad.\nI'm counting on you.\nHelp me.
+@22
+Yes, sir!\nFrom now on I will work\nwith all my might for you, my lord!
+@23
+In that case, I must ask\n{01}C+{00} for a house for you.
+@24
+Me, take {01}C*{00} as my vassal...?\nI would not presume so far.
+@24.1
+Me, take {01}C*{00} as my vassal...?\nI would not presume so far.
+@24.2
+Me, take {01}C*{00} as my vassal...?\nI would not presume so far.
+@24.3
+I'm grateful for the offer, but...\nI'm not yet ready\nto make use of you.
+@25
+...Is that so.
+@26
+Oh, there is one thing\nI must tell you.
+@27
+Unless something special comes up, a council\nis held at this castle early in every odd month.\nOf course, you must attend the council too.
+@27.1
+Unless something special comes up, a council is held\nat {01}C+{00}'s castle early in every odd month.\nOf course, you must attend the council too.
+@28
+At the council you receive missions from me.\nCarrying them out in time and reporting to me\nwill be your duty from now on.
+@28.1
+At the council you receive missions from {01}C+{00}.\nCarrying them out in time and reporting to {01}C+{00}\nwill be your duty from now on.
+@29
+The next council is early in month %y.\n{01}C*{00}, being late to a council\nwill not be tolerated.
+@29.1
+The next council is early in month %y.\n{01}C*{00}, being late to a council\nwill not be tolerated.
+@30
+Understood.
+@30.1
+Understood.
+@30.2
+As you wish.
+@30.3
+As you command.
+@31
+A gift?\n{01}C*{00}, you don't seem\nto be carrying anything.
+@32
+Oh, a gift?\nThat's kind of you, but\nI've already had one this month.
+@32.1
+Hm, a gift?\nI already got one this month.
+@32.2
+A gift?\nI've already had one this month.\nI couldn't accept so many...
+@33
+Oh, a gift?\nThat's kind of you, but\nI've already been treated to tea this month.
+@33.1
+Hm, a gift?\nBut I've already had tea\nwith you this month...
+@33.2
+A gift?\nYou already served me tea this month.\nI couldn't accept so much...
+@34
+A gift?\nWhat will you give me?
+@34.1
+A gift?\nWhat would you give me?
+@35
+(Given {01}C#{00}'s standing,\nanything worth less than %u\nwould be an insult.)
+@36
+(......Oh no,\nI don't have a single thing\nworth %u or more.)
+@37
+What is it?
+@38
+No, forgive me...\nI meant to give you something,\nbut I don't have it with me...
+@39
+I see. A pity.\nAnother time, then.
+@40
+(I don't know {01}C#{00}'s tastes.\nWhat could he like...?)
+@40.1
+(Hmm, I don't know {01}C#{00}'s tastes.\nWhat could she like...?)
+@40.2
+(If I remember right, {01}C#{00}\nlikes arms and armour.)
+@40.3
+(If I remember right, {01}C#{00}\nlikes works of art.)
+@40.4
+(If I remember right, {01}C#{00}\nlikes books.)
+@40.5
+(If I remember right, {01}C#{00}\nlikes things from the Nanban lands.)
+@41
+(Whoa, no, no.\nI need {02}{15}d for my work.\nI can't hand it over here.)
+@42
+(Give {02}{15}d?)
+@43
+Oh, this is splendid...\nI accept it with thanks.
+@43.1
+Ooh!\nThis is splendid...\nI accept it with thanks.
+@43.2
+Oh my, well, well...\nI accept it with thanks.
+@43.3
+Well, well...\nThen I'll accept it.
+@43.4
+...I see.\nThen I'll accept it.
+@44
+(The gift seems to have pleased greatly.)
+@44.1
+(The gift seems to have pleased quite well.)
+@44.2
+(The gift seems to have pleased fairly well.)
+@44.3
+(The gift doesn't seem to have pleased much.)
+@45
+You've done so much for me.\nI have no words to thank you.
+@46
+It's not much in return,\nbut please take this.
+@47
+That's right, {01}C*{00},\nI have something to discuss.
+@48
+Yes? What is it?
+@49
+I'll speak plainly.\n{01}C*{00}, what do you say?\nWould you serve me directly?
+@50
+What! Not {01}C"{00},\nbut serve you instead?
+@51
+Indeed. I say this because I think highly of you.\nI won't let it go badly for {01}C"{00} either.
+@52
+............
+@53
+It's not a bad offer, surely.\nWhat do you say?\nWill you serve me?
+@54
+Really accept the offer to become a direct vassal?
+@55
+......It is an honour beyond my due.\n{01}C*{00}, I am yours\nfrom this day on.
+@56
+Oh! I'm grateful!\nNothing could please me more!
+@57
+Then please put in a good word\nwith {01}C+{00} for me.\nI'll take my leave.
+@58
+It is more than I deserve, but...\nplease pretend you never asked.\nI'll take my leave for today.
+@59
+I see... No, forgive me.\nForget about today.
+@60
+Forgive me, I'm not feeling well...\nI'll take you on once I've recovered.
+@61
+Sorry, but I'm busy.\nPlease come another day.
+@62
+You seem to be in quite poor health...\nYour body comes first.\nCome back once you're well again.
+@63
+Oh, a match, is it?\nI don't mind...\nShall we have a bout, then?
+@64
+Very well,\nbut I won't go easy on you.
+@65
+I'm impressed.\nIt was a complete defeat.\nPlease accept this.
+@65.1
+I'm impressed. A complete defeat.\nI shall give you this.
+@65.2
+I'm impressed.\nIt was a complete defeat.\nPlease accept this.
+@65.3
+I'm impressed. Utterly beaten.\nI shall give you this.
+@66
+That is my very soul.\nSomeone like you\nwill put it to good use.
+@67
+It was a narrow margin,\nbut a loss is a loss. Well done.\nLet's have another bout any time.
+@67.1
+Hmm, you're quite skilled.\nLet's have another bout any time.
+@67.2
+Hmm, well done.\nLet's have another bout any time.
+@68
+That was a close call.\nLuck of the moment, I suppose.\nLet's have another bout any time.
+@68.1
+That was quite a match.\nLet's have another bout any time.
+@68.2
+You still have a long way to go.\nLet's have another bout any time.
+@69
+Do you really want to become a ronin?
+@70
+{01}C*{00}, I have something\nimportant to discuss.
+@70.1
+{01}C*{00}, I have something\nimportant to discuss.
+@70.2
+{01}C*{00}, there is something\nimportant I must tell you.
+@71
+What is it? So formal.
+@72
+......Yes. For reasons of my own,\nI wish to leave your service.
+@72.1
+......Yes. For reasons of my own,\nI wish to leave your service.
+@72.2
+I, {02}{01}f, for reasons of my own,\nwish to leave your service.
+@73
+What did you say? Leave me?!\n{01}C*{00}, do you mean it?
+@73.1
+What did you say? Leave me?!\n{01}C*{00}, do you mean it?
+@73.2
+What! You would leave me?!\n{01}C*{00}, do you mean it?
+@74
+......I have thought it over well.\n{01}C*{00}, please, grant me\nthis selfish wish without asking why.
+@74.1
+......I have thought it over well.\n{01}C*{00}, please, grant me\nthis selfish wish without asking why.
+@74.2
+Please don't ask me why...\n{01}C*{00}, I beg you,\ngrant me this selfish wish!
+@75
+......No.\nI've just thought better of it.\nSorry, forget what I said.
+@75.1
+......No.\nI've just thought better of it.\nSorry, forget what I said.
+@75.2
+Forgive me.\nI have just thought better of it.\nPlease forget what I said.
+@76
+Is that so?\nThat's a relief.\nGoodness, you startled me.
+@76.1
+Is that so?\nThat's a relief.\nGoodness, you startled me.
+@76.2
+......Is that so? Then good.\nDon't startle me like that.
+@77
+You cannot be serious!\nWhy abandon me, {02}{01}f?\nHave I failed you somehow?!
+@77.1
+You cannot be serious!\nWhy abandon me, {02}{01}f?\nHave I failed you somehow?!
+@77.2
+Don't joke with me!\nWhy are you abandoning me?\nHave I failed you somehow?!
+@78
+No, I mean nothing by it.\nPlease, say nothing\nand dismiss me...
+@78.1
+No, I mean nothing by it.\nPlease, say nothing\nand dismiss me...
+@78.2
+No, I mean nothing by it.\nPlease, say nothing\nand dismiss me...
+@79
+............
+@80
+...Then I will ask nothing.\nBut from now on we are strangers.\nWhen next we meet, it will likely be as enemies.
+@80.1
+...Then I will ask nothing.\nBut from now on we are strangers.\nWhen next we meet, it will likely be as enemies.
+@80.2
+...Very well, I won't ask.\nBut from now on we are strangers.\nWhen next we meet, it will likely be as enemies.
+@81
+{01}C*{00}, I'm sorry...
+@81.1
+{01}C*{00}, I'm sorry...
+@81.2
+{01}C*{00}, forgive me.\nI will never forget your kindness...
+@82
+Why do you dawdle?!\nI cannot keep an enemy here.\nPlease leave!
+@82.1
+Why do you dawdle?!\nI cannot keep an enemy here.\nPlease leave!
+@82.2
+Why are you dawdling?!\nYou're an enemy now, get out!\nNever show your face to me again!
+@83
+......Farewell!
+@83.1
+......Farewell!
+@83.2
+Yes, sir! I'll take my leave!
+@84
+{01}C*{00}!\nIs it true\nthat you're becoming a ronin?
+@85
+Yes, I'm sorry.\nI have my reasons.\nIt's a long story...
+@86
+No, {01}C*{00}, I won't pry\ninto your reasons...\n...But!
+@87
+But?
+@88
+I too will return to being a ronin\nand share your lot for now...\n\nAnd should you, {01}C*{00}, enter service again,\nI wish to serve you once more.\nI beg you!
+@89
+Yes, I gratefully accept\nyour feelings.\n{01}C*{00}, take care.
+@90
+Then I will wait for that day.\nFarewell!
+@91
+Dear...
+@92
+I'm putting you through hardship too...\nForgive my selfishness.
+@93
+No, I will follow you\nfor the rest of my life, dear.\nCome, let's move out right away.
+@94
+Thank you.\nFor now, let's move\nto {02}{0B}d in this province.
+@95
+Leaving this room\nis somehow sad...\nNo, I won't have regrets now.
+@96
+Well, for now, shall I move\nto {02}{0B}d in this province?
+@97
+Really attack {02}{03}g?
+@98
+Hm? What's wrong, {01}C*{00}?\nYou look pale.
+@99
+...N-no, it's nothing.
+@100
+...I see.\nWorking too hard, perhaps?
+@101
+............
+@102
+Hm? {01}C*{00},\nwhat's the matter?
+@103
+...Don't ask why.\n{01}C*{00}, your life is mine!
+@103.1
+...Don't ask why.\n{01}C*{00}, your life is mine!
+@103.2
+...Please don't ask why.\n{01}C*{00}, I must take your life!
+@103.3
+...Don't ask why.\n{01}C*{00}, your life is mine!
+@104
+What!\n{01}C*{00}, have you lost your mind?!
+@105
+...Now, I must get away\nbefore there's an uproar.
+@106
+Curses... No choice.\nIt galls me, but I'll withdraw.
+@107
+The day will come when we settle this...
+@108
+That I should lose...the way of the sword is deep.\nUntil I see its summit with my own eyes,\nI cannot die...
+@108.1
+Eek!\nToo strong! Help!
+@108.2
+...Y-you'll pay for this!\nI'll get you back some day...
+@109
+H-hey!\nWhat did I hire you for...?\nWait for me!
+@110
+It's a pity to die here, but...\nbeing killed by you must be fate.\nCome, kill me and be done with it!
+@111
+A worthy end.\nThen let it be a single stroke!\nHah!
+@112
+Eek!!\nP-please, spare my life!
+@113
+If you are a samurai, face it like one!\nHah!
+@114
+Y-you want money?\nThen I'll give it to you!\nI'll give it to you, so let me go!
+@115
+Let them go?
+@116
+Thank you...\nW-well then,\nI'll be on my way.
+@117
+Guoh...!!
+@117.1
+Gufh!
+@117.2
+Ugh!!
+@117.3
+Gwaaah!
+@117.4
+Gyaaah!
+@117.5
+Waaah!
+@118
+...Now, what shall I do?
+@118.1
+Then prepare yourself.\nIf you have a death poem, I will hear it.
+@118.2
+Come on, make your peace!\nBegging for your life won't help!
+@119
+Hey! Hand over all your money!\nThen get lost!
+@120
+Begging for your life with money...\nIs that all your way of the sword amounts to?\nStill, I shall let you go this time.
+@120.1
+Oh, money, is it?\nVery well, that will do.\nNow be gone!
+@121
+Begging for your life...\nIs that all your way of the sword amounts to?\nStill, I shall let you go this time.
+@121.1
+You're not even worth the rust on my blade.\nBe gone!
+@122
+......The way of the sword begins\nby facing one's defeat squarely.\nI shall let you go this time.
+@122.1
+A man too good to cut down here.\nWe'll meet again on the battlefield.\n......Be gone!
+@123
+Tch! You don't even have money?!\nThen I've no use for you!\nTake this!
+@124
+Buying your pardon with money...pathetic.\nA disgrace to the samurai name!\nHah!
+@125
+Tch! Begging for your life, and you call yourself a samurai?!\nYour kind gets what it deserves!\nTake this!
+@126
+Begging for your life at a time like this, how unsightly!\nI'll finish you off!\nHah!
+@127
+Don't put on airs just 'cause you're a samurai!\nI'll give you what you asked for!\nTake this!
+@128
+Your resolve is admirable, but...\nI can't let you go here!\nPrepare yourself!
+@130
+Y-you win... But your life\nwon't last long either...\nDon't think you can escape...
+@131
+For the crime of deserting our village,\natone with your death!\nThe final blow!
+@132
+To defeat me...\nw-well done...
+@133
+Prepare yourself!
+@135
+Like dew I fell, like dew I vanish;\neven Naniwa's glories are a dream within a dream...
+@136
+So this is my retribution...
+@137
+Once more, I wish I could kick the ball...\nWas I born\ninto the wrong age...
+@138
+If only I had gunpowder,\nmy head would not be put on display...
+@139
+Fifty years of man's life,\nset against the world below heaven,\nare but a dream, an illusion...
+@140
+Matsu... I'm sorry...\nForgive me...
+@141
+No words left behind, I go at last;\nI shall not lose my way, but let it be as it will...
+@142
+No two gates of right and wrong...\nThe great way runs through the source of the heart...\nWaking from a %k-year dream, I return to the One.
+@143
+So the five generations of Asakura end here...
+@144
+%k years, a single dream... a life's glory, one cup of sake.\nKnowing not life, knowing not death,\nthe years were like a dream...
+@145
+Watch closely how a man\nof Satsuma dies!!
+@146
+Life is like climbing a slope\nwith a heavy load on your back...\nWas my load too heavy...
+@147
+Does the great house of Takeda\nend with me...
+@148
+If only I could command\nas I pleased once more...
+@149
+If I may ask it,\nsink my bones in Lake Suwa.
+@150
+So I misread the tide of the times...
+@151
+This too is the work of Heaven's way...
+@152
+Lord,\nI come to Thee...
+@153
+With the clear moon of my heart before me,\nI go lighting the darkness of this floating world...
+@154
+Tea?\nIt seems you don't have\nany tea utensils.
+@155
+Hm, tea, is it...\nBut I've already had some this month.
+@155.1
+Tea?\nI've already had some this month.\nI can't keep accepting kindness...
+@156
+Hm, tea, is it...\nBut I already received a gift this month, so no more...
+@156.1
+Tea?\nI already received a gift this month.\nI can't keep accepting kindness...
+@157
+Tea?\nThen I'd be glad to have some.
+@158
+(...Given {01}C#{00}'s standing,\nI must use tea ware worth %u or more,\nor it would be rude.)
+@159
+(......Oh no,\nI don't have a single piece of tea ware\nworth %u or more.)
+@161
+No, forgive me...\nI forgot\nmy tea utensils...
+@163
+(Then this time I'll use\n{02}{15}d, my most valuable piece.)
+@164
+Ooh! This is splendid tea...\nI accept it with thanks.
+@164.1
+Oh my, quite a fine hand...\nI accept it with thanks.
+@164.2
+A fine serving.\nThen I'll partake.
+@164.3
+...I see.\nThen I'll partake.
+@168
+The tea you make\nis truly splendid.\nI grant you this title.
+@169
+{01}C*{00}, today I have\nsomething important to discuss.
+@170
+What is it? So formal.
+@171
+I'll come straight to the point.\n{01}C+{00} would very much like\nto welcome you into our house.
+@172
+I'll come straight to the point.\nWould you put your strength to use\nin the service of Lord {02}{03}f?
+@173
+What!\nYou want me, a mere ronin...\nIs this true?
+@173.1
+What!\nYou want me, an officer of the {02}{06}e...\nIs this true?
+@174
+Indeed.\nIf you were to come to us,\nit would be like having a hundred men!
+@175
+............
+@176
+What do you say?\nLet me hear a good answer.
+@177
+(Given {01}C#{00}'s record,\nanything less than %s\nwould be an insult.)
+@177.1
+(If I add {01}C#{00} to my followers...)
+@178
+(Hm, I'd have to pay\n{01}C#{00} this much in stipend.)
+@178.1
+(Hm,\nI still have stipend to spare.\nRecruiting is no problem.)
+@179
+(Then shall I really\ntry to recruit {01}C*{00}?)
+@180
+(...No,\nI'll leave it for today.)
+@181
+(Blast,\nI can't afford\n{01}C#{00}'s stipend...)
+@182
+...?\n{01}C*{00}, what is it?
+@183
+Eh?\nN-no, it's nothing.
+@184
+......I see.\nWell, that's fine, then.
+@187
+I'll come straight to the point.\n{01}C*{00}, would you consider\njoining our side?
+@188
+What!\nYou want me, a mere ronin...\n{01}C*{00}, are you serious?
+@188.1
+What!\nYou want me, an officer of the {02}{06}e...\n{01}C*{00}, are you serious?
+@189
+Indeed.\nIf you were to come to us,\nit would be like having a hundred men!
+@192
+......It is an honour beyond my due.\nPlease present me to {01}C+{00}.
+@193
+Oh! I'm grateful!\n{01}C"{00} will surely be pleased!
+@194
+Then I look forward to working with you.
+@195
+It is an honour beyond my due.\nI look forward to serving with you.
+@196
+Oh! I'm grateful!\nNothing could please me more!
+@197
+The pleasure is mine.\nWell then, that will be all for now.
+@198
+It is more than I deserve, but...\nplease consider this never said.
+@199
+It is more than I deserve, but...\nI too have men under me to look after.\nPlease consider this never said.
+@200
+I see...\nA pity.
+@201
+You've always\ntreated me so well...\n\nSo this...\n...No, it seems\nthe time hasn't come yet.
+@202
+Time always flies\nwhen I'm talking with you.\nTruly, you are my friend.
+@203
+Time always flies\nwhen I'm talking with you.
+@204
+Time always flies\nwhen I'm talking with you.\nWe truly get along.
+@205
+You're always\ndoing so much for me...\n\nIt's not much in return,\nbut it's a token of my feelings.\nPlease accept it.
+@206
+It pains me to keep\nreceiving so much from you.\nPlease accept this.
+@207
+You have not yet\nmastered %s.\nYou really should master it.
+@208
+By the way, I hear\nyou have mastered %s.\nWould you let me test you?
+@209
+I hear you have mastered %s.\nI too have some\nknowledge of that art...\nWould you show me your skill\nhere, just once?
+@210
+Hmm, splendid!\nTo celebrate your mastery of %s,\nplease accept this.
+@211
+Splendid! Just what I'd expect of {01}C*{00}.\nI am deeply impressed!\nPlease accept this.
+@212
+You seem to be off form today.
+@213
+Come back once you've\nmade more of a name with the sword.
+@214
+Forgive me, but your swordwork\nstill has a long way to go.
+@215
+Crossing swords now and then isn't bad.\nWhat do you say,\nwill you have a bout with me?
+@216
+By the way,\nwill you have a bout with me?
+@217
+Splendid!\nFine swordwork indeed.\nPlease accept this.
+@218
+Come back when you've learned\na little more about naval warfare.
+@219
+You need more training.
+@220
+By the way, I'm confident\nin my naval skills.\n{01}C*{00}, will you take me on?
+@221
+Hmm...\n{01}C*{00}! Splendid!\nPlease accept this.
+@222
+It seems I win\nthis time.
+@223
+Infantry is the basis of war.\nCome back when you've gotten\nbetter at handling infantry.
+@224
+By the way, I'm confident\nin my command in battle.\n{01}C*{00}, will you take me on?
+@225
+Hmm, I can't bow to you yet.\nStudy tactics a little more.
+@226
+I hear your tactics\nare quite something, {01}C*{00}...\n\nWould you show me\nyour skill here, just once?
+@227
+Hmm, just what I'd expect of {01}C*{00}.\nPlease accept this.
+@228
+You haven't yet\nmastered all the skills...\nYou still have a long way to go.
+@229
+You haven't yet\nmastered all the formations...\nYou still have a long way to go.
+@230
+You haven't yet\nseen all the famous sights...\nYou still have a long way to go.
+@231
+You lack experience.\nGo and gain all kinds\nof experience.
+@232
+Even of you, I can't ask\nsomething that costs\nthis much money.
+@233
+By the way, {01}C*{00},\nwhat do you think of the world today?
+@234
+The world today?
+@235
+Yes.\nSince the great Onin War the realm has been in chaos,\nand the common folk endure terrible suffering.
+@236
+I want to do what little I can\nto set the world right.\nBut for that, I need money.
+@237
+With half of your money, {01}C*{00},\nmany people could be saved.\nWill you lend me your help?
+@238
+Oh, how can I thank you...\nI know: it's a trifle,\nbut please accept this.
+@239
+I-I am deeply grateful!\nThen please accept this.
+@240
+I see...\nSo even you, {01}C*{00},\nwon't help me.
+@241
+I see...
+@242
+I want to leave a token\nthat {01}C*{00} was my friend.
+@243
+{01}C*{00}, I have a request.
+@244
+Forgive me for asking so selfishly,\nbut could you give me something\nthat represents me?
+@245
+As a token of my loyalty,\nwould you give me something?\nIt will be a treasure of my house forever.
+@246
+...Forgive me, but\nI have nothing with me right now.
+@247
+Then next time...
+@248
+This is a splendid piece!\nIt will be a treasure of my house forever!!\n\nAnd this is a token of my feelings.\nPlease accept it.
+@249
+This is a fitting item for me?\n{01}C*{00}, so this is\nwhat you thought of me...
+@250
+(Hmm...\nit seems they didn't\nlike it.)
+@251
+Obtained the "{02}{1A}e" card!
+@252
+Then next time...
+@253
+...What are you saying?\nI have no wish to make a merchant my retainer.\nIf you insist, give up being a merchant first.
+@254
+(Shall I offer my money\nand ask for better treatment?)
+@255
+...Please accept this.\nI humbly ask for\ngood treatment...
+@256
+Oh! Well, well!\n{01}C*{00}, I shall welcome you\nwith the best treatment I can offer.
+@256.1
+Oh, this is most welcome!\n{01}C*{00}, I shall welcome you\nwith the best treatment possible.
+@256.2
+Good, I accept with thanks.\nI'll see that you join my retainers\nwith treatment as good as I can manage.
+@256.3
+Hm, I'll take it without ceremony.\nI'll give some thought to your treatment,\nbut don't expect too much.
+@256.4
+Oh, this is most welcome!\n{01}C*{00}, I shall welcome you\nwith the best treatment I can offer.
+@256.5
+Good, I accept with thanks.\nI'll see that you join my retainers\nwith treatment as good as I can manage.
+@256.6
+Hm, I'll take it without ceremony.\nI'll give some thought to your treatment,\nbut don't expect too much.
+@256.7
+Good, I accept with thanks.\n{01}C*{00}, I shall welcome you\nwith the best treatment I can offer.
+@256.8
+Hm, I'll take it without ceremony.\nI'll give some thought to your treatment,\nbut don't expect too much.
+@256.9
+Hm, I'll take it without ceremony.\n{01}C*{00}, I shall welcome you\nwith the best treatment I can offer.
+@256.10
+...I see.\nThen I'll take it.
+@257
+I have grown utterly tired\nof being a daimyo.\nWould you become a daimyo?\nIf you hand over all\nthe wealth stored in your house,\nI will hand over my castle.
+@258
+If you hand your castle to me,\nwhat will you do, my lord?
+@259
+Once I lay down the burden of daimyo,\nI will serve you as chief retainer.
+@260
+I am serious.\nWhat do you say?
+@261
+Heavens, no!\nI could never serve\nas a daimyo.
+@262
+I see, what a pity.
+@263
+Then, unworthy as I am,\nI will take charge of {02}{0B}d.
+@264
+Oh, truly?!
+@265
+However, before I take over {02}{0B}d,\nI would like to go and settle\nthe matter of my shop and such.
+@266
+Hm, if that's the case,\nI'll send someone.
+@267
+Then could you call the head clerk\nof {02}){B6} in {02}{0C}d for me?
+@268
+Then I'll go and fetch him.\nPlease wait a moment.
+@269
+Master!\nWhatever has happened?!
+@270
+Well, you see...\nfor these reasons,\nI am to become a daimyo.
+@271
+Is that true?!\nThen congratulations, sir.\nBut what will become of {02}){B6}?
+@272
+I mean to entrust {02}){B6} to you.\nFrom now on you're the master of {02}){B6}.\nTake good care of it.\nAnd while you're at it,\nwould you tell my wife how things stand,\nand that she should come to {02}{0B}d?
+@273
+I understand...\nI'll tell the mistress myself.\nAnd I'll take charge of {02}){B6}.\n...Master, even as a daimyo\nyou'll surely need money.\nI'll send some from the shop's takings every month.\nMaster, so this is truly farewell.\nPlease take good care of yourself.\nThank you for everything... I'll take my leave.
+@274
+I mean to entrust {02}){B6} to you.\nFrom now on you're the master of {02}){B6}.\nTake good care of it.
+@275
+I understand...\nAnd I'll take charge of {02}){B6}.\n\n...Master, even as a daimyo\nyou'll surely need money.\nI'll send some from the shop's takings every month.\nMaster, so this is truly farewell.\nPlease take good care of yourself.\nThank you for everything... I'll take my leave.
+@276
+Sorry to keep you waiting.\nWell then...
+@277
+From now on, you are the daimyo.\nI am at your service.
+@278
+You are too kind.\nI ask for your guidance\nfrom now on.
+@279
+{02}){B6},\nas you serve as purveyor to our house,\nI shall tell you this specially.
+@280
+We are working out our next strategy now.\nIt should be decided by the next council.\nWait until then.
+@281
+Our house's final goal is %s.
+@282
+So for the time being,\nto develop our lands,\nwe are focusing on %s.
+@283
+For the time being, to strengthen our defences,\nwe are carrying out %s.
+@284
+Our immediate aim is to take {02}{0B}d.\nTo that end we are carrying out %s.
+@285
+Our immediate aim is to defeat the {02}{06}e.\nTo that end we are carrying out %s.
+@286
+Our immediate aim is to unify {02}{10}d.\nTo that end we are carrying out %s.
+@287
+Our immediate aim is to unify %s.\nTo that end we are carrying out %s.
+@288
+To achieve the unification of the realm,\nthis month we are carrying out %s.
+@289
+Do you have any opinion\non this policy?
+@290
+Though it is presumptuous of one like me,\nallow me to offer my opinion.
+@291
+Oh, say whatever you like.
+@292
+(...Now, what shall I propose?)
+@293
+(Shall I propose "%s"?)
+@294
+In my humble opinion,\nyour house should henceforth make\n"%s" its final goal.
+@295
+Hmm... %s, you say...
+@296
+......Yes, I see.\n{02}){B6}'s opinion is sound.\nFrom next month our house will pursue "%s".
+@297
+Oh!\nThat you would heed me\nis the greatest of honours!
+@298
+By the next council, we will work out\na new strategy based on "%s".
+@299
+Yes, sir!
+@300
+......There is certainly something\nworth hearing in {02}){B6}'s opinion,\nbut I think it is too early.
+@301
+......I see.
+@302
+(Now, if I propose "%s",\nwhere should I advise them to aim?)
+@303
+(Shall I propose\n"%s" against the {02}{06}e?)
+@304
+(Shall I propose\n"%s" against {02}{0B}d?)
+@305
+(Shall I propose "%s"?)
+@306
+In my humble opinion, it would be best\nto carry out "%s" against the {02}{06}e.
+@307
+In my humble opinion, it would be best\nto carry out "%s" against {02}{0B}d.
+@308
+In my humble opinion,\nit would be best to carry out "%s".
+@309
+Hmm... %s, is it...
+@310
+......Very well.\n{02}){B6}'s opinion is sound.\nI will give "%s" careful thought.
+@311
+Oh! That you would heed me\nis the greatest of honours!
+@312
+......There is certainly something\nworth hearing in {02}){B6}'s opinion,\nbut I'll pass on it this time.
+@313
+......I see.
+@314
+If there's nothing, that's fine.
+@315
+Oh, so {02}){B6} wishes\nto invest in our {02}{01}e house?\nAnd what do you mean to invest?
+@316
+Oh, %s, is it?\nAnd how much would that be\nin money?
+@317
+Oh! Well, well!\n{02}){B6}, I have gratefully\nreceived your goodwill.
+@317.1
+Oh, this is most welcome!\n{02}){B6}, you have my thanks.
+@317.2
+Good, I accept with thanks.\n{02}){B6}, I am pleased.
+@317.3
+Good, I'll take it without ceremony.\n{02}){B6}, well done.
+@317.4
+I'll take what I'm given.
+@318
+I am thinking of naming you\npurveyor to our {02}{01}e house.\nWhat do you say, will you accept?
+@319
+Oh, good!\nI'm counting on you.
+@320
+I see, a pity.
+@321
+Congratulations!\nThe number of cards recorded\nhas just passed 300!\nTo celebrate passing 300,\n"Scenario 0: Embers of the Warring Age" is added.\nPlease enjoy it.
+@322
+Congratulations!\nThe number of cards recorded\nhas just passed 500!\nTo celebrate passing 500,\na CD player function is added.\nPlease enjoy the game's music.
+@323
+Congratulations!\nThe number of cards recorded\nhas just passed 700!\nTo celebrate passing 700,\na mode for playing any mini-game is added.\nUse it to train yourself.
+@324
+Congratulations!\nThe number of cards recorded\nhas just passed 900!\nTo celebrate passing 900,\nwhen you start a new game you can now\nset the hero's stats freely.\nYou can also start with some\nof the cards you have collected.\nUse this to collect the rest of the cards.
+@325
+Congratulations!\nAll cards have now\nbeen recorded in your save data!\nTo celebrate collecting every card,\nthe Duel: Peerless mode is added.\nEnjoy a gruelling elimination contest.\nThank you so much for playing\nTaiko Risshiden IV all the way to here.\nThe whole staff thanks you from the heart.

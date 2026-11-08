@@ -1,0 +1,1684 @@
+@0
+Hmm
+@0.1
+Hmm
+@0.2
+Hmm
+@0.3
+Hmm
+@0.4
+Hmm
+@0.5
+Hmm
+@0.6
+Oh
+@1
+Oh
+@1.1
+Oh
+@1.2
+Oh
+@1.3
+Oh
+@1.4
+Oh
+@2
+I
+@2.1
+I
+@2.2
+I
+@2.3
+I
+@2.4
+I
+@2.5
+I
+@3
+you
+@3.1
+you
+@3.2
+you
+@3.3
+you
+@3.4
+you
+@3.5
+you
+@4
+person
+@4.1
+person
+@4.2
+person
+@4.3
+person
+@4.4
+person
+@4.5
+person
+@5
+kid
+@5.1
+kids
+@5.2
+servant
+@5.3
+mother
+@5.4
+master
+@5.5
+kid
+@6
+seven
+@6.1
+eighty-eight
+@6.2
+ninety-nine
+@6.3
+three
+@7
+the likes of
+@7.1
+the likes of
+@7.2
+the likes of
+@7.3
+the likes of
+@7.4
+the likes of
+@8
+this
+@8.1
+this
+@8.2
+this
+@8.3
+this
+@9
+
+@9.1
+
+@9.2
+
+@9.3
+
+@9.4
+
+@10
+
+@10.1
+
+@10.2
+
+@10.3
+
+@10.4
+
+@11
+
+@11.1
+
+@11.2
+
+@11.3
+
+@11.4
+
+@12
+Don't joke with a face like that... ha ha
+@12.1
+Don't tell lies... ahem
+@12.2
+You do love your jokes... ahem
+@12.3
+Don't tell lies! ...Ahem
+@12.4
+Don't you joke with me
+@13
+
+@13.1
+
+@13.2
+
+@13.3
+
+@14
+
+@14.1
+
+@14.2
+
+@14.3
+
+@15
+
+@15.1
+
+@16
+
+@16.1
+
+@16.2
+
+@16.3
+
+@17
+
+@17.1
+
+@17.2
+
+@17.3
+
+@18
+
+@18.1
+
+@18.2
+
+@18.3
+
+@18.4
+
+@19
+
+@19.1
+
+@19.2
+
+@20
+
+@20.1
+
+@20.2
+
+@20.3
+
+@21
+
+@21.1
+
+@21.2
+
+@22
+
+@22.1
+
+@22.2
+
+@23
+
+@23.1
+
+@23.2
+
+@24
+
+@24.1
+
+@24.2
+
+@25
+
+@25.1
+
+@26
+
+@26.1
+
+@26.2
+
+@26.3
+
+@27
+
+@27.1
+
+@27.2
+
+@27.3
+
+@28
+
+@28.1
+
+@28.2
+
+@28.3
+
+@29
+
+@29.1
+
+@29.2
+
+@29.3
+
+@30
+
+@30.1
+
+@30.2
+
+@30.3
+
+@31
+
+@31.1
+
+@31.2
+
+@32
+
+@32.1
+
+@32.2
+
+@32.3
+
+@32.4
+
+@33
+
+@33.1
+
+@34
+I won, and so
+@34.1
+I won, and so
+@34.2
+I won, and so
+@34.3
+I won, and so
+@35
+rolling
+@35.1
+rolling
+@35.2
+rolling
+@35.3
+rolling
+@35.4
+rolling
+@36
+
+@36.1
+
+@36.2
+
+@36.3
+
+@37
+
+@37.1
+
+@37.2
+
+@37.3
+
+@38
+
+@38.1
+
+@39
+
+@40
+
+@40.1
+
+@40.2
+
+@41
+you have to
+@41.1
+you have to
+@41.2
+you have to
+@41.3
+you have to
+@41.4
+you have to
+@42
+let's get it done
+@42.1
+let's get it done
+@42.2
+let's get it done
+@42.3
+let's get it done
+@42.4
+let's get it done
+@43
+Wait a moment!
+@43.1
+Wait a moment!
+@43.2
+Wait a moment!
+@43.3
+Wait a moment!
+@43.4
+Wait a moment!
+@44
+
+@44.1
+
+@44.2
+
+@45
+
+@45.1
+
+@46
+
+@46.1
+
+@46.2
+
+@46.3
+
+@47
+
+@47.1
+
+@47.2
+
+@47.3
+
+@47.4
+
+@47.5
+
+@48
+be careful
+@48.1
+be careful
+@48.2
+be careful
+@48.3
+be careful
+@48.4
+be careful
+@48.5
+be careful
+@49
+smells fishy
+@49.1
+smells fishy
+@49.2
+smells fishy
+@49.3
+smells fishy
+@49.4
+smells fishy
+@50
+
+@50.1
+
+@51
+
+@51.1
+
+@51.2
+
+@51.3
+
+@52
+
+@52.1
+
+@53
+
+@53.1
+
+@54
+what will you do
+@54.1
+what will you do
+@54.2
+what will you do
+@54.3
+what will you do
+@54.4
+what will you do
+@54.5
+what will you do
+@55
+will you draw
+@55.1
+will you draw
+@55.2
+will you draw
+@55.3
+will you draw
+@55.4
+will you draw
+@55.5
+will you draw
+@56
+isn't it
+@56.1
+isn't it
+@56.2
+isn't it
+@56.3
+isn't it
+@56.4
+isn't it
+@56.5
+isn't it
+@57
+
+@57.1
+
+@57.2
+
+@57.3
+
+@58
+
+@58.1
+
+@58.2
+
+@58.3
+
+@58.4
+
+@58.5
+
+@59
+it seems I failed, so
+@59.1
+it seems I failed, so
+@59.2
+it seems I failed, so
+@59.3
+it seems I slipped up, so
+@59.4
+it seems the Buddha forsook me, so
+@59.5
+it seems I failed, so
+@60
+be careful
+@60.1
+be careful
+@60.2
+be careful
+@60.3
+be careful
+@60.4
+be careful
+@61
+try it
+@61.1
+try it
+@61.2
+try it
+@61.3
+try it
+@61.4
+try it
+@61.5
+try it
+@62
+Well, got it?
+@62.1
+Well, got it?
+@62.2
+Well, got it?
+@62.3
+Well, got it?
+@62.4
+Well, got it?
+@63
+I'll teach you
+@63.1
+I'll teach you
+@63.2
+I'll teach you
+@63.3
+I'll teach you
+@63.4
+I'll teach you
+@64
+Wow
+@64.1
+Wow
+@64.2
+Wow
+@64.3
+Oh
+@64.4
+Wow
+@65
+What!
+@65.1
+What!
+@65.2
+What!
+@65.3
+What!
+@65.4
+What!
+@66
+Argh
+@66.1
+Argh
+@66.2
+Argh
+@66.3
+Argh
+@66.4
+Argh
+@67
+Ha ha
+@67.1
+Ha ha
+@67.2
+Heh...
+@67.3
+Ha ha
+@67.4
+Ha ha
+@68
+Hmph
+@68.1
+Hmph
+@68.2
+Hmph
+@68.3
+Hmph
+@68.4
+Hmph
+@69
+Tch
+@69.1
+Oh dear
+@69.2
+Tch
+@69.3
+Tch
+@69.4
+Tch
+@70
+Well then
+@70.1
+Well then
+@70.2
+Well then
+@70.3
+Well then
+@70.4
+Well then
+@71
+
+@71.1
+
+@72
+
+@72.1
+
+@72.2
+
+@72.3
+
+@73
+buy
+@73.1
+buy
+@73.2
+buy
+@74
+fun
+@74.1
+fun
+@74.2
+fun
+@74.3
+fun
+@74.4
+fun
+@74.5
+fun
+@75
+let's go
+@75.1
+let's go
+@75.2
+let's go
+@75.3
+let's go
+@75.4
+let's go
+@76
+I don't mind
+@76.1
+I don't mind
+@76.2
+I don't mind
+@76.3
+I don't mind
+@76.4
+I don't mind
+@76.5
+I don't mind
+@77
+I'll take it
+@77.1
+I'll take it
+@77.2
+I'll take it
+@77.3
+I'll take it
+@78
+My sides hurt. You're so funny
+@78.1
+My sides hurt. Don't make me laugh so much
+@78.2
+My sides hurt. Please, spare me...
+@78.3
+My sides hurt. Don't make me laugh so
+@78.4
+My sides hurt. Are you trying to kill a monk?
+@78.5
+My sides hurt. Don't make me laugh so much
+@79
+Got it?
+@79.1
+Got it?
+@79.2
+Do you understand?
+@79.3
+Got it?
+@79.4
+Got it?
+@80
+Want a fight? Bring it on!
+@80.1
+Be quiet, will you!
+@80.2
+...I'd like the onlookers to keep quiet.
+@80.3
+Onlookers, hold your tongues!
+@80.4
+Shut up! Onlookers, keep quiet!
+@81
+What are you going on about
+@81.1
+...Careless talk brings trouble, you know
+@81.2
+Er, a little quiet, please
+@81.3
+Enough, be silent!
+@81.4
+Pipe down!
+@82
+Oh, excuse me...
+@82.1
+...Oops, sorry
+@82.2
+...Excuse me
+@82.3
+...Ahem, excuse me
+@82.4
+Oops, sorry
+@83
+Just ignore that one
+@83.1
+Let's ignore the weirdo
+@83.2
+Let us ignore strange people
+@83.3
+Don't listen to nonsense
+@83.4
+Don't mind that one
+@84
+Look, look
+@84.1
+Look, look
+@84.2
+Look, see here
+@84.3
+See that
+@84.4
+Look, look
+@85
+It lets you win so much it's scary
+@85.1
+It lets you win so much it's scary
+@85.2
+It lets you win so much it's scary
+@85.3
+It lets you win so much it's scary
+@85.4
+It lets you win so much it's scary
+@86
+Wow, not bad
+@86.1
+My, how generous
+@86.2
+My, how generous of you
+@86.3
+Oh, bold
+@86.4
+Going big from the start, eh
+@87
+Mind it doesn't happen
+@87.1
+Mind it doesn't happen
+@87.2
+Mind it doesn't happen
+@87.3
+Mind it doesn't happen
+@87.4
+Mind it doesn't happen
+@88
+forget
+@88.1
+forget
+@88.2
+forget
+@88.3
+forget
+@89
+Shall I explain "oicho-kabu"?
+@90
+To play "oicho-kabu", first you have to buy betting cards.
+@91
+The price of the cards depends on the market rate. They cash in at 80% of the rate.
+@92
+You can buy up to %w cards at a time. If you run out of cards, just buy more.
+@93
+Well then, let me explain how "oicho-kabu" is played. It's not such a hard game.
+@94
+The cards are numbered from 1 to 10. Out of 40 cards in all, you are dealt two or three.
+@95
+Whoever's total is closest to 9, "kabu", wins. If the total goes over 10, the ones digit is your score.
+@96
+Then you play your cards against the dealer's.
+@97
+Here's how a round goes. First the dealer deals one card face up to each "pile," where the players place their bets.
+@98
+After dealing, the dealer places one card face down in front of himself.
+@99
+Well then, let's actually try it. First the dealer deals one card face up to each "pile."
+@100
+Then the dealer deals himself one card face down.
+@101
+Next, going right from the dealer, each player places a bet. You can bet up to %w cards.
+@102
+You can't bet on a pile someone has already taken.
+@103
+You then play with the cards dealt to the pile you bet on.
+@104
+Well then, for now let's say we bet 10 cards here.
+@105
+Next the dealer deals the second cards face down, but to make it easy to follow, I'll deal them face up.
+@106
+7, "naki".
+@107
+2 plus 3... 5.
+@108
+5 is "goke." Normally you'd take one more card.
+@109
+2 plus 3 plus 9... 14. The ones digit is 4, "shini."
+@110
+Now, the second card goes face down on the pile you bet on.
+@111
+Drew a 1, total 6, "roppo"... What will you do here?
+@112
+Oh my, one more card? Quite the gambler, aren't you.
+@113
+The third card is dealt face up. Now, what will you draw...
+@114
+9, "kabu"! Your luck is in today.
+@115
+I see... Well, "roppo" is a decent spot, so not drawing is also a choice.
+@116
+Well then, next...
+@117
+!!
+@118
+"Shippin"! I should explain "shippin".
+@119
+"Shippin" is a special hand only players can get. It's made when the cards come 4 then 1.
+@120
+"Shippin" beats "kabu" and pays double the bet. A lucky hand.
+@121
+So if a pile's first card is a 4, everyone rushes to bet on it.
+@122
+But don't get it wrong: "shippin" only counts if the cards come 4 then 1.
+@123
+1 then 4 is not "shippin". Don't forget.
+@124
+The dealer has a hand of his own too: "kuppin."
+@125
+If the dealer draws 9 then 1, it's "kuppin." It pays double, the same as "shippin."
+@126
+"Kuppin" and "shippin" are equally strong; it's a draw.
+@127
+Wow!!
+@128
+"Arashi"!
+@129
+And three identical cards make "arashi," the strongest hand. It pays three times the bet.
+@130
+The round is decided as soon as "arashi" appears; all cards are turned over.
+@131
+But that's for players. The dealer's "arashi" is the weakest hand.
+@132
+Of course the dealer has to pay three times the bet.
+@133
+Now, the players have all drawn their cards. Next is the dealer's turn.
+@134
+On the dealer's turn, first he turns over the card he placed face down.\n
+@135
+9.
+@136
+One card isn't enough to play, so he draws another, this time face up.
+@137
+He draws a 7: "roppo." Now he can finally play.
+@138
+But of course, against an "arashi" he loses no matter what.
+@139
+Let's say players bet on these three piles, and you can't see their second cards.
+@140
+Then the first pile looks suspicious. For someone who drew a third card, a 9 isn't it...
+@141
+It looks like they blew it, so "Showdown!" He plays the first pile.
+@142
+And when he turns it over, sure enough, "shini".
+@143
+How's that? The dealer wins and takes the bet. On a roll, so on to the next!
+@144
+That's what I'd like to say, but wait a moment. The other two look suspicious as well.
+@145
+I keep a straight face, but with this "roppo" I think I can't win.
+@146
+Naturally. They could be "%s" or "shippin".
+@148
+Well, you can't see them, but if you think you can't win, you may draw a third card while opponents remain, even after one showdown.
+@149
+Pfft
+@150
+Well, 1, "inketsu"!
+@151
+But moan as you might, once you've drawn a third card you must play every remaining pile.
+@152
+So this time the dealer pays the bet, and double for the "shippin."
+@153
+That ends one round. The dealer role passes to the right in turn.
+@154
+But if at the end of a round the dealer has "goke" or better, he can stay dealer as long as he likes.
+@155
+And the hands are named, from 0...
+@156
+"Buta," "inketsu," "nitako," "santa," "shini," "goke"...
+@157
+"Roppo," "naki," "oicho" and "kabu." It helps to remember them.
+@158
+Oh, and gambling makes you lose track of time. Be careful with the time.
+@159
+There, that's the end of the "oicho-kabu" explanation. Well, got it?
+@160
+Well then, shall I explain again from the start?
+@161
+One betting card costs about this much. What will you do?
+@162
+If you want to play "oicho-kabu", buy some cards.
+@163
+You're flat broke. Come back when you've got some money.
+@164
+Quitting?
+@165
+Come again.
+@166
+The dealer is me.\n
+@167
+The dealer is {02}{02}g.\n
+@168
+Really quitting?
+@169
+Come again.
+@170
+Where will you bet?
+@170.1
+Where will you bet?
+@170.2
+Where will you bet?
+@170.3
+Where are you betting?
+@171
+Decide how many cards to bet. You can bet up to 30 at a time.
+@172
+Sorry, that's mine!
+@172.1
+Excuse me, I win!
+@172.2
+I'll take that.
+@172.3
+Sorry, that's mine!
+@174
+How about this
+@174.1
+I've got a feeling it's coming
+@174.2
+I'll make you squeal
+@175
+Please, please
+@175.1
+Gods... Buddha...
+@175.2
+Come on!
+@176
+Heaven tells me to pick this one
+@176.1
+I'll go with this
+@176.2
+Will it be sunny tomorrow
+@177
+By my reading, it's here
+@177.1
+I'll go with this
+@177.2
+I have a good feeling this time
+@178
+Now, now, what should I do...
+@178.1
+Hmmm......
+@178.2
+How should I play this one?
+@179
+I can't stand it, honestly
+@179.1
+Oh... how could I...
+@179.2
+Wh-what is this!
+@179.3
+Ouch! Just my luck
+@179.4
+Tch! No luck
+@181
+Yes!
+@181.1
+Mine
+@182
+That's how it's done
+@182.1
+You lot are no match
+@183
+It came, praise Amida
+@183.1
+Yes, here it comes!
+@184
+Ye-es, good
+@184.1
+Luck is in my hands!
+@185
+That's enough
+@186
+Showdown!
+@187
+Will you buy into "oicho-kabu"?
+@189
+Close, close
+@189.1
+Yes!
+@190
+Woo! Woo!
+@190.1
+Sorry, I took a lot
+@190.2
+Money talks, even in hell
+@191
+Unbelievable!
+@191.1
+So the gods were here
+@191.2
+Well, these things happen
+@192
+My luck's in today
+@192.1
+That was close
+@192.2
+Don't scare me like that
+@193
+My luck's in today
+@193.1
+Hand over the cards
+@193.2
+Oh, looks like I won
+@194
+My luck's in today
+@194.1
+Thank you very much
+@194.2
+I win
+@196
+It's on! Today's my day!!
+@196.1
+What a windfall
+@197
+Buddha's grace, maybe
+@197.1
+Use your head and you win
+@198
+Your luck seems low today
+@198.1
+I hope you won't take offense
+@199
+Win some, lose some
+@199.1
+This is why I can't quit gambling
+@200
+That was close
+@200.1
+I won for living righteously
+@201
+In trade and gambling, timing is everything
+@201.1
+Thank you as always
+@202
+Wahahaha
+@202.1
+I'm not done yet!
+@203
+I'm in a fine mood today
+@203.1
+Much obliged
+@204
+My win, I'm afraid. Do forgive me
+@204.1
+Too bad
+@205
+Shall I build a storehouse at this rate?!
+@205.1
+Serves you right
+@206
+The natural outcome
+@206.1
+Delightful
+@207
+No complaints, I trust
+@207.1
+I'm a little confident in my skill
+@208
+Yahoo!
+@208.1
+Come on, give me the cards!
+@209
+A fine play, don't you think?
+@209.1
+Heh heh heh
+@210
+Even the great speculators can't match me
+@210.1
+My coin purse is filling up nicely
+@212
+Tch
+@212.1
+What?!
+@213
+Eh?! You're kidding, right?
+@213.1
+Well, I give up
+@214
+Can't be helped
+@214.1
+Next, next!
+@214.2
+These things happen
+@215
+Argh! No luck
+@215.1
+You got me
+@215.2
+Go easy on me a little
+@217
+Wha?! You're kidding?!
+@217.1
+Isn't this rigged?!
+@218
+What!
+@218.1
+N-not bad...
+@219
+Oho! Not bad
+@219.1
+Hmph, I'll turn it around soon
+@220
+Ugh... not with this hand
+@220.1
+Tch, no luck
+@221
+Hmmm...
+@221.1
+A short break, a short break
+@222
+Time to get serious
+@222.1
+This really isn't going to work
+@223
+Just a little more
+@223.1
+Aah
+@224
+Clever devil...
+@224.1
+This won't do at this rate
+@225
+Well, well... not bad
+@225.1
+It won't go like this next time
+@227
+A draw, eh
+@227.1
+Tch! Not bad
+@228
+Argh! How annoying
+@228.1
+I thought I had it
+@229
+Phew
+@229.1
+Close, close
+@230
+A do-over, then
+@230.1
+Not bad at all
+@232
+Argh! Damn it
+@232.1
+Damn
+@233
+Tch
+@233.1
+Not an easy one, it seems
+@234
+Oh...
+@234.1
+You seem quite skilled
+@235
+A draw, eh...
+@235.1
+That was a close one
+@236
+A draw
+@236.1
+What a letdown
+@237
+Sometimes it's a draw
+@237.1
+Saved
+@238
+What, a draw
+@238.1
+Tch, boring
+@239
+A draw...
+@239.1
+This won't do at this rate
+@240
+A draw, it seems
+@240.1
+It won't go like this next time
+@241
+The house is out of cards.
+@242
+Pay for the missing cards in coin.
+@243
+If you want to go on, buy some cards.
+@244
+Looks like you're bled dry. Mind how you go home.
+@245
+Next, I'm the dealer.
+@246
+One more!
+@247
+My, my, you've won quite a lot. I know! I've got some goods I seized instead of bets people couldn't pay... They're no use sitting here, so I'll let them go for {02}$d cards each. Want to see?
+@248
+Calling it quits?
+@249
+Then I'll cash in your cards.
+@250
+You're strong! Small fry around here are no match for you. Next time you come, I'll have some real gambling ready. Come again.
+@251
+What! You've got nothing left?!
+@252
+Then leave something valuable
+@253
+{02}{15}d was taken!
+@254
+Get lost!
+@255
+I've sent the boys to your house. You'll pay what you owe.
+@256
+Paid %M from savings at home.
+@257
+Not enough... Nowhere near enough!
+@258
+Making us go to all this trouble, you bastard!
+@259
+What a joke of a fellow. Hey! Boys, show him some love.
+@260
+Yes, sir! Hey, you, strutting around dressed like a samurai, you cheeky bastard! You fool!
+@261
+Oh, you won't get away!\n
+@262
+Wait!! You won't get off lightly
+@263
+Th-this guy... is no ordinary man. Run for it!
+@264
+Big brother!
+@265
+Heh, not as tough as you look
+@266
+From now on, walk on the side of the road
+@267
+Shall I explain "chinchirorin"?
+@268
+To play "chinchirorin", first you have to buy betting cards.
+@269
+The price of the cards depends on the market rate. They cash in at 80% of the rate.
+@270
+You can buy up to %w cards at a time. If you run out, you can buy more.
+@271
+Well then, let me explain how "chinchirorin" is played.
+@272
+"Chinchirorin" is a game where you roll three dice against the dealer.
+@273
+It's not hard at all. Even my {01}C{ED}{03}, aged {01}C{EE}{03}, rolls dice every day.
+@274
+{01}C{F4}{03}\nWell then, let me explain the basic flow.
+@275
+First the players bet in turn.
+@276
+Starting with the one next to the dealer.
+@277
+When all the players have bet, the match begins. First the dealer rolls the dice.
+@278
+Nothing starts until the dealer rolls.
+@279
+Once the dealer has rolled and his "hand" is set, the players roll in turn.
+@280
+If your "hand" beats the dealer's, you win; if it's weaker, you lose.
+@281
+Then, depending on the "hands," the bets go back and forth.
+@282
+In your case, it'll be one way only...
+@284
+{01}C:{04}\nIf the hands are equal, the bet goes back to the player. That ends one round.
+@285
+Well then, next let me explain the "hands".
+@286
+Look at these dice!\n
+@287
+That was a bad pun, sorry.
+@288
+...Two "twos" came up. Two dice showing the same number is a "pair."
+@289
+How's that?
+@290
+......And the remaining "four" is the "point," which makes a "hand."
+@291
+In short, with no "pair," there's no "point" and no "hand."
+@292
+That was a poor explanation...
+@293
+.........Ignore the onlookers. Well then, you try rolling.
+@294
+"Two, four, five"... No "pair." So no "point."
+@295
+"Buta". "Buta".
+@296
+But there's no need to panic. If you get no "hand", you can roll up to three times.
+@297
+If you still have no "hand" after three rolls, it's no hand, "buta". Well then, try rolling again.
+@298
+Oh, "six, six, five." That makes the "point" a "five."
+@299
+If I were the dealer and you a player... I have "four," you have "five," so you win.
+@300
+See, just as I thought, it's one way for you...
+@301
+...\n{01}C;{04}
+@302
+So the basic "hands" of chinchirorin are made of a "pair" and a "point", and the higher "point" wins.
+@303
+Easy so far, right? When you win on the "point" like this, the cards move by the amount bet.
+@304
+But chinchirorin also has special "hands", and with those more cards change hands than were bet.
+@305
+"Arashi" pays many times the bet. I just love "arashi".
+@306
+I got ahead of myself there. One thing at a time.
+@307
+These special "hands" beat any hand made of a "pair" and a "point".
+@308
+Next, about these special "hands".
+@309
+"Four, five, six" is called "shigoro," and it pays double.
+@310
+"One, two, three" is called "hifumi," and you pay double instead.
+@311
+That's right, this {01}C{EC}{03} is good at rolling "hifumi".\n{01}C={04}
+@312
+{01}C8{04}\nWhat bad luck.
+@313
+Well then, next let me explain the "arashi" I mentioned.
+@314
+!! The one I love.
+@315
+Nobody dislikes "arashi." "Arashi" is simply when all three dice show the same number.
+@316
+Triples! Arashi!
+@317
+And "arashi" pays double for triple "twos," triple for triple "threes"...
+@318
+four times for "fours," five times for "fives," six times for "sixes"...
+@319
+And triple "ones," that is, "pinzoro" arashi, pays ten times the bet.
+@320
+{01}C*{04}\nPinzoro, as I always say...\n
+@321
+That's the end of the "hands." Well then, next let me explain by playing.
+@322
+First, let's say I'm the dealer.
+@323
+And say you bet ten cards.
+@325
+When all players have bet, the dealer rolls. Well then, let's roll.
+@326
+"Six".
+@327
+"Six", "shigoro" and "arashi" win for the dealer as soon as they're rolled, so you lose without rolling.
+@328
+I'm strong when it's practice.
+@329
+{01}C,{04}\nWell then, let's go again. Say you bet ten cards, and I roll.
+@330
+{01}C<{04} Looks like I'm finally back on form.
+@331
+............
+@332
+With "hifumi," a "point" of "one," or no "hand" after three rolls, the dealer loses.
+@333
+So you bet ten cards, and I rolled "hifumi", so you win twenty.
+@334
+Well then, one last time.
+@335
+At last, the specialty! This one always loses, then keeps whining "one more go."
+@336
+Never mind that. Well then, let's roll.
+@337
+No "point".
+@338
+No "point" again.
+@339
+Phew, a "three". Well then, your turn.
+@340
+{01}C+{04}, this is priceless. The other side got pinzoro!
+@341
+{01}C8{04}\nIt's only practice!!
+@342
+If only it really ended at practice... {01}C+{04}, ah, fun.\n{01}C6{04}
+@343
+A-anyway, that's the end of the explanation.
+@344
+Sigh... Now you know about "chinchirorin" too. {01}C7{04}
+@345
+Also, the dealer role moves to the right. As long as you don't lose, you stay dealer.
+@346
+The dealer has it easy. So when they're dealer, everyone prays not to lose.
+@347
+But gambling makes you forget the time, so be careful.
+@348
+One round takes a whole period. Don't get too carried away.
+@349
+That's how it is. Well then, shall we start for real?
+@350
+But
+@350.1
+But
+@351
+Without money, there's nothing to talk about.
+@351.1
+You've got no money. Playing on credit is against the rules.
+@351.2
+This isn't for kids. You can't play for free.
+@351.3
+Please come back when you have the money.
+@351.4
+Money goes round and round. Come back when it has come round to you. Namu Amida Butsu...
+@351.5
+A samurai keeps his pride though he starves, but playing still takes money.
+@351.6
+No use for anyone without money! Come back another day!
+@352
+What, quitting already? The night's still young.
+@352.1
+Quitting? The night's still young, I tell you. Er, young night, not young drink.
+@352.2
+Leaving me behind? How cold of you.
+@352.3
+Too much for a merchant, is it?
+@352.4
+Do you see now that you can't beat one with Buddha's protection?
+@352.5
+Do you see now you're no match for me?
+@352.6
+What, quitting?
+@353
+Going against the dealer is cruel!
+@353.1
+The dealer role's come round nicely
+@353.2
+I'm the dealer
+@353.3
+A golden opportunity!
+@353.4
+I'm the dealer
+@353.5
+I'm the dealer
+@354
+Come again!
+@354.1
+Drop by again
+@354.2
+You're a handsome one, so come again, will you
+@354.3
+Thank you as always
+@354.4
+May we meet again... Namu...
+@354.5
+I look forward to our next match
+@354.6
+You're just my type, handsome. Come again!
+@354.7
+See you, come again
+@355
+Cards are %m each. How many will you buy?
+@356
+Will you go on?
+@356.1
+Will you go on?
+@356.2
+Going on?
+@356.3
+You're not quitting yet, are you?
+@356.4
+Going on?
+@357
+And how much?
+@357.1
+How much is your offering?
+@357.2
+Come, place your bet
+@357.3
+Come on, place your bet
+@357.4
+How many will you bet?
+@358
+Sir, isn't that going too far?
+@358.1
+That offering is rather high. Too much for a humble monk.
+@358.2
+Are you mocking me?! Bet with some sense.
+@358.3
+That's too much. Play smarter
+@358.4
+Hey, hey, I can't pay that much
+@359
+Hm?
+@360
+Oh?
+@360.1
+Hey, hey
+@361
+It came! Ten times!
+@362
+Tch, no point
+@362.1
+{01}C*{04}, no point...
+@363
+Ouch...
+@363.1
+I'm beaten
+@364
+A 2, eh
+@364.1
+A 2, eh, pathetic
+@365
+2, eh, not good
+@366
+A 3, eh
+@366.1
+A 3, eh, hmm
+@367
+A 4, eh
+@367.1
+A 4, eh, so-so
+@368
+A 5, eh
+@368.1
+A 5, eh, feels good
+@369
+Yes!
+@369.1
+I'm on a roll
+@370
+Double?! Give me a break!
+@371
+Yes!
+@371.1
+Yes, mine!
+@372
+Double for me!
+@372.1
+Yes, double for me!
+@373
+Triple for me!
+@373.1
+Yes, triple for me!
+@374
+Four times for me!
+@374.1
+Yes, four times for me!
+@375
+Five times for me!
+@375.1
+Yes, five times for me!
+@376
+Six times for me!
+@376.1
+Yes, six times for me!
+@377
+I lost...
+@377.1
+{01}C-{04}, I lost
+@378
+Bet returned
+@379
+I win
+@379.1
+I win
+@380
+Dealer at last
+@380.1
+Dealer at last
+@381
+Will you buy into "chinchirorin"?
+@382
+Shall I explain "pinkoro"?
+@383
+"Pinkoro" is easy to play. You just take turns rolling two dice.
+@384
+I'll teach you as we play. Well then, go ahead and roll.
+@385
+Oh, %k and %k. You put ten times their sum, %m, into the pot.
+@386
+Then the next player rolls, but this is practice, so roll again.
+@387
+Hm? A pair of %ks. That means you put %m into the pot again.
+@388
+When you roll a pair, you have to roll once more.
+@389
+So a pair means bad luck. Well then, roll the dice.
+@390
+%k means %m goes into the pot.
+@391
+The pot keeps growing like this, and whoever rolls double ones, "pinzoro," collects all the money in it.
+@392
+But pinzoro doesn't come up all that easily.
+@393
+2000 or 3000 kan in one go is common, and sometimes it reaches tens of thousands.
+@394
+When it gets that big, the back of your ears starts tingling and your head goes fuzzy.
+@395
+And that fuzzy feeling while you wait is just wonderful.
+@396
+Oh, but while playing you tend to forget the time, so be careful. One round of turns takes a period.
+@397
+Well then, shall we start for real?
+@398
+No use for anyone without money.
+@399
+Will you buy into pinkoro, the gambling of hell?
+@400
+Play like your life depends on it
+@400.1
+Welcome to the ant pit
+@400.2
+There's no turning back now
+@400.3
+You'll end up in tears
+@400.4
+Don't regret it
+@401
+Hm? Quitting?
+@402
+Come again.
+@403
+You're out of funds.
+@404
+Tch, stingy.
+@404.1
+Well, about what I expected
+@404.2
+Yes! I'll take that
+@404.3
+It came! This is a big one!
+@405
+Ugh... again...
+@405.1
+Argh! No luck
+@406
+Argh, so close
+@406.1
+Tch, no good
+@406.2
+That hurts
+@407
+I have an uneasy feeling... Sorry, I must leave for a bit.

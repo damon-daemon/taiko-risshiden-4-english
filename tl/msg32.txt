@@ -1,0 +1,82 @@
+@0
+●Outline\nStudy under someone with a fine skill and train. The better the training goes, the more merit you earn.\n◆Procedure\nGo to the person you will study under and ask to be taught. When the training is done, return to the castle and report.\n◆Where to train\nInfantry, Archery, Building, Tactics, Mining, Navy, Speech\n...samurai quarter\nSwordsmanship...dojo
+@1
+◆Where to train (cont.)\nEtiquette...temple\nCavalry...stable\nFarming...Nanban temple\nGunnery...smithy\nTea...tea master's house\nNinjutsu...Training Ground 1 of a ninja village\nAccounting...merchant house\nMedicine...physician's house
+@2
+●Outline\nSell rice at a rice dealer. The higher the price you get, the more merit.\n◆Procedure\nFirst check [Market Prices] to find a town where the price is high. For 100 kan they will also tell you nearby towns' prices.\nWhen you have chosen a rice dealer, choose [Sell Rice] there. With Accounting 1 or more, you can haggle over the price.\nFinally, return to the castle and hand in the money.
+@3
+◆One step further\nPut the money from [Sell Rice] to work and grow it. While on a [Sell Rice] mission you can also [Buy Rice]. Use this to buy cheap rice in one town with the money from the sale, and sell it where the price is high. But buying costs more than selling, so without haggling it is hard to make a profit.\nOr use the money to buy trade goods at a guild and sell them where prices are high for a profit.
+@4
+◆Abilities that matter\nAccounting: the higher, the more times you can haggle.\nSpeech: the higher, the more likely haggling succeeds.
+@5
+●Outline\nTrade rice and trade goods to raise war funds. The bigger the profit, the more merit.\nHowever you make it, return to the castle and hand in the money.\n◆Procedure\n<<Trading rice>>\nYou can profit by buying and selling rice. For details, see Sell Rice and the like.
+@6
+◆Procedure (cont.)\n<<Trading goods>>\nCheck trade goods prices at a guild. If you see promising goods, buy them. With Accounting 1 or more, you can haggle over the price. Specialities are cheaper than in other towns, so buy those. Then sell the goods at a guild in another town where prices are high.\nRepeat this to make money. But mind your load limit.
+@7
+◆Abilities that matter\nAccounting: the higher, the more times you can haggle.\nSpeech: the higher, the more likely haggling succeeds.\nFree Markets card: buy trade goods cheaply.
+@8
+●Outline\nGo to the castle named and carry out Win Hearts. It takes 20 days.\nWin Hearts raises popular support, increasing war funds each month and rice in September.\n◆Procedure\nPlay the mini-game "Farmer Flip".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@9
+◆Abilities that matter\nSpeech: the higher, the bigger the crowd before the game starts.\nDebt Amnesty card: fewer "Revolt" cards in the mini-game.
+@10
+●Outline\nGo to the castle named and carry out New Fields. It takes 20 days.\nNew Fields raises yield, increasing rice every September.\n◆Procedure\nPlay the mini-game "One-Stroke".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@11
+◆Abilities that matter\nFarming: the higher, the more rocks you can break.\nBetter Tools card: more rocks you can break.
+@12
+●Outline\nGo to the castle named and carry out Mine Work. It takes 20 days.\nMine Work increases the war funds from mines each month.\n◆Procedure\nPlay the mini-game "Gold Vein Amida".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@13
+◆Abilities that matter\nMining: more time to choose a starting point in the mini-game, and better odds when choosing hanafuda cards.\nNanban Refining card: better results.
+@14
+●Outline\nBuy supplies in town. The more you buy, the more merit.\n◆Procedure\n<<Rice>>\nCheck [Market Prices] at a rice dealer and find a town where rice is cheap. When you have chosen a rice dealer, buy rice there. With Accounting 1 or more, you can haggle over the price.\nFinally, return to the castle and report.
+@15
+◆Procedure (cont.)\n<<Horses>>\nCheck [Market Prices] at a stable and find a town where horses are cheap. When you have chosen a stable, buy horses there. With Accounting 1 or more, you can haggle over the price.\nFinally, return to the castle and report.
+@16
+◆Procedure (cont.)\n<<Guns>>\nBuy them at a merchant house, or have a smithy make them. The smithy is cheaper but takes time.\nAt a merchant house, with Accounting 1 or more you can haggle over the price.\nTo have a smithy make them, first go to the smithy and place an order. On the day they are ready, go back to the smithy to collect them.\nFinally, return to the castle and report.
+@17
+◆Procedure (cont.)\n<<Cannon>>\nOrder cannon at a smithy. They take longer to make than guns.\nFinally, return to the castle and report.\nWith a letter from a missionary at a Nanban temple, you can also buy them at a Nanban trading house.\n◆Abilities that matter\nAccounting: the higher, the more times you can haggle.\nSpeech: the higher, the more likely haggling succeeds.
+@18
+●Outline\nGo to the drill ground of the castle named and choose [Train]. It takes 20 days.\nTraining raises training and morale, making units hit harder in battle.\n◆Procedure\nFight a mock battle.\nA win earns a lot of merit.\nWhen done, return to the castle and report.
+@19
+◆Abilities that matter\nTactics: the higher, the more Secret Plans you can use.\nInfantry, Cavalry, Gunnery, Archery: the higher, the better you fight leading that troop type.\nYour own unit's troop type is that of your highest skill. If you can lead mounted gunners, it becomes mounted gunners.
+@20
+●Outline\nGo to the drill ground of the castle named and carry out Separate Soldiers. It takes 20 days.\nSeparate Soldiers increases the troops.\n◆Procedure\nPlay the mini-game "Farmer Flip".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@21
+◆Abilities that matter\nTactics, Speech: the higher, the bigger the crowd before the game starts. The higher skill counts.\nSword Hunt card: fewer "Revolt" cards in the mini-game.
+@22
+●Outline\nGo to the castle named and carry out Repair Castle. It takes 20 days.\nRepair Castle raises the castle's defense, so it is harder to take in battle.\n◆Procedure\nPlay the mini-game "Stone Hauling".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@23
+◆Abilities that matter\nBuilding: the higher, the more times you can use the chisel in the mini-game.\nSplit Works card: more uses of the chisel in the mini-game.
+@24
+●Outline\nGo to the castle named and carry out Expand Castle. It takes 20 days.\nExpand Castle raises the castle size, and with it the maximum defense, the maximum yield and unit commanders' troops.\n◆Procedure\nPlay the mini-game "Stone Hauling".\nA good enough result means the expansion succeeds.\nWhen done, return to the castle and report.
+@25
+◆Abilities that matter\nBuilding: the higher, the more times you can use the chisel in the mini-game.\nTrade Network card: more uses of the chisel in the mini-game.
+@26
+●Outline\nFind ronin you have not met and get acquainted. The more ronin you find, the more merit.\n◆Procedure\nVisit houses to look for ronin. When you find one you have not met, call at the house and talk to him.\nOr talk to unknown ronin on the travel screen, in taverns and so on, and get acquainted.\nFinally, return to the castle and report.
+@27
+●Outline\nCarry out a castle survey at the drill ground of the castle named. It shows you that castle's information.\n◆Procedure\nSneak into the drill ground. If you get in, choose the castle survey and what to survey. For detailed information you must survey repeatedly. If you are spotted, sneak in again.\nFinally, return to the castle and report.\nThe more detailed the information, the more merit.
+@28
+◆Abilities that matter\nNinjutsu: the higher, the harder you are to spot.\nTroops: the more, the easier you are to spot.\nSilent Step card: makes you harder to spot.
+@29
+●Outline\nGo to the castle named and carry out Sabotage (Castle). It takes 3 days.\nIt lowers the castle's defense, making it easier to take.\n◆Procedure\nPlay the mini-game "Ninja Search".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@30
+◆Abilities that matter\nNinjutsu: the higher, the fewer castles in the mini-game.\nCastle size: the bigger, the faster the castles move.\nStone Pull card: better results.
+@31
+●Outline\nGo to the castle named and carry out Sabotage (Rumours). It takes 3 days.\nIt lowers popular support and cuts the monthly war funds.\n◆Procedure\nPlay the mini-game "Ninja Search".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@32
+◆Abilities that matter\nNinjutsu: the higher, the fewer castles in the mini-game.\nCastle size: the bigger, the faster the castles move.\nDisguise card: better results.
+@33
+●Outline\nGo to the castle named and carry out Sabotage (Arson). It takes 3 days.\nIt reduces rice, horses, guns and cannon.\n◆Procedure\nPlay the mini-game "Ninja Search".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+@34
+◆Abilities that matter\nNinjutsu: the higher, the fewer castles in the mini-game.\nCastle size: the bigger, the faster the castles move.\nGunpowder Handling card: better results.
+@35
+●Outline\nDiplomacy covers Alliance, Break, Rule, War, Peace, Goodwill and Court.\n◆Procedure\nExcept for the court, meet the daimyo in his castle and choose Diplomacy. Offering money improves the odds.\nFor the court, go to a noble's house in the town of Kyoto. Choose [Put in a Word] and enter the money to offer the court. If it succeeds, court standing rises, and the daimyo may be granted a court rank.
+@36
+◆Abilities that matter\nSpeech, Etiquette: the higher, the more likely to succeed.\nSelfless Heart card: more likely to succeed.\nCourt Speech card: more likely to succeed (court only).
+@37
+●Outline\nVisit the person you were told to recruit and recruit him. If you succeed, he becomes an officer of your clan.\n◆Procedure\nFirst find the person. On the travel screen, set a destination and choose the mission's base to travel to the base where he is. When you find him, talk to him and choose Recruit.
+@38
+◆Abilities that matter\nCloseness: the higher, the more likely to succeed.\nCharm, Speech: the higher, the more likely to succeed.\nVirtuous Heart card: more likely to succeed even if he is not close to you.\nBewilder card: more likely to succeed even with a loyal officer.
+@39
+●Outline\nConquer the target castle, province or daimyo. You receive this mission once you are a castle lord or higher.\n◆Procedure\nTake the target castle, province or daimyo in battle, or bring it into alliance or under your rule through diplomacy.\nA castle taken in battle becomes your clan's. A clan brought under rule through diplomacy joins your side whole.
+@40
+◆Procedure (cont.)\n<<Conquest by battle>>\nAttack the target castle, province or daimyo and win.\n<<Conquest by diplomacy>>\nGo to the castle of the daimyo who holds the target, choose Diplomacy and persuade him.\nAn alliance voids the mission itself and earns no merit. Bringing the clan under your rule counts as taking it and earns merit.

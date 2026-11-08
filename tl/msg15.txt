@@ -1,0 +1,1386 @@
+@0
+{01}C*{00}, what will you do?
+@0.1
+{01}C*{00}, what will you do?
+@0.2
+{01}C*{00}, what will you do?
+@0.3
+{01}C*{00}, what will you do?
+@1
+{01}C*{00}, there are no officers who can take a mission.
+@1.1
+{01}C*{00}, there's nobody who can take a mission.
+@1.2
+{01}C*{00}, there's nobody who can take a mission.
+@1.3
+{01}C*{00}, there are no officers who can take a mission.
+@2
+To which castle will you transport?
+@2.1
+To which castle are we transporting?
+@2.2
+To which castle are we transporting?
+@2.3
+To which castle will you transport?
+@3
+From which castle will you transport?
+@3.1
+From which castle are we transporting?
+@3.2
+From which castle are we transporting?
+@3.3
+From which castle will you transport?
+@4
+That castle is governed by {01}C+{00}. It can't be chosen as the source.
+@4.1
+That castle is governed by {01}C+{00}. You can't take goods from it.
+@4.2
+That castle is governed by {01}C+{00}. You can't take goods from it.
+@4.3
+That castle is governed by {01}C+{00}. It can't be chosen as the source.
+@5
+That castle has no goods.
+@5.1
+There are no goods in that castle.
+@5.2
+There are no goods in that castle.
+@5.3
+That castle has no goods.
+@6
+Please choose the goods to transport.
+@6.1
+Choose the goods to transport.
+@6.2
+Choose the goods to transport.
+@6.3
+Please choose the goods to transport.
+@7
+Is that all?
+@7.1
+Is that all?
+@7.2
+Is that all?
+@7.3
+Is that all?
+@8
+Call off the transport to {02}{0B}d?
+@8.1
+Calling off the transport to {02}{0B}d?
+@8.2
+Calling off the transport to {02}{0B}d?
+@8.3
+Call off the transport to {02}{0B}d?
+@9
+You wish to move your base. Then please choose the new base.
+@9.1
+Moving your base, are you? Then choose the new base.
+@9.2
+Moving your base, are you? Then choose the new base.
+@9.3
+You wish to move your base. Then please choose the new base.
+@10
+Move your base to {02}{0B}d?
+@10.1
+Moving your base to {02}{0B}d?
+@10.2
+Moving your base to {02}{0B}d?
+@10.3
+Move your base to {02}{0B}d?
+@11
+Then I'll move the base to {02}{0B}d.
+@11.1
+Then let's move the base to {02}{0B}d.
+@11.2
+Then let's move the base to {02}{0B}d.
+@11.3
+Then I'll move the base to {02}{0B}d.
+@12
+Call off moving the base?
+@12.1
+Calling off the move?
+@12.2
+Calling off the move?
+@12.3
+Call off moving the base?
+@13
+.........{01}C*{00}, what? Did I hear you wrong?
+@13.1
+.........{01}C*{00}, what? Did I hear you wrong?
+@13.2
+.........{01}C*{00}, what? Surely I misheard you?
+@14
+You didn't mishear. I am declaring independence in this land.
+@15
+{01}C*{00}! Don't say such reckless things! Even a joke has its limits!
+@15.1
+{01}C*{00}! Don't say such reckless things! Even a joke has its limits!
+@15.2
+{01}C*{00}! You mustn't say such reckless things! Surely you jest!
+@16
+Oh? You think my words are a joke?
+@16.1
+Oh? You think my words are a joke?
+@16.2
+Oh? You think I'm joking?
+@17
+Of course. {01}C*{00}, rebellion... it's a joke, isn't it?
+@17.1
+Of course. {01}C*{00}, rebellion... it's a joke, isn't it?
+@17.2
+Of course. {01}C*{00}, rebellion... surely you are joking?
+@18
+Yes, forgive me. It was just a little joke.
+@18.1
+Yes, forgive me. It was just a little joke.
+@18.2
+Yes, sorry. It was just a little joke.
+@19
+...You gave me a scare. You never know who might be listening. Be careful what you say.
+@19.1
+...You gave me a scare. You never know who might be listening. Be careful what you say.
+@19.2
+...You gave me quite a scare. One never knows who might be listening. Please mind your words.
+@20
+I would not joke about such a thing. I will become a daimyo here and aim for the realm!
+@20.1
+I would not joke about such a thing. I will become a daimyo here and aim for the realm!
+@20.2
+I don't joke about such things. I will become a daimyo here and aim for the realm!
+@21
+{01}C*{00}!!
+@22
+I won't bind any of you. Leave if you wish, or follow me. The choice is yours.
+@22.1
+I won't bind any of you. Leave if you wish, or follow me. The choice is yours.
+@22.2
+I won't bind any of you. Leave if you wish, or follow me. That choice is yours.
+@23
+{01}C*{00}... b-but...
+@24
+My mind is made up. Anyone born into this age of war dreams of this at least once.
+@24.1
+My mind is made up. Anyone born into this age of war dreams of this at least once.
+@24.2
+Say no more. Anyone born into this age of war dreams of this at least once.
+@25
+You are that determined... Very well. Then I will share my fate with you, {01}C*{00}!
+@25.1
+You are that determined... Very well. Then I will share my fate with you, {01}C*{00}!
+@25.2
+.........Yes, sir!
+@26
+From this moment on, I proclaim myself a daimyo before the realm! This is a new beginning.
+@27
+{02}*e, month {02}*f: {02}{01}g, lord of {02}{0B}d, rose in rebellion and became a daimyo...
+@28
+From now on, the {02}{01}g and {02}{02}g clans are enemies.
+@28.1
+From now on, the {02}{01}e and {02}{02}e clans are enemies.
+@29
+All the subordinate officers have declared that they will go on following {02}{01}g.
+@30
+The following officers have returned to {02}{01}{A1}.
+@31
+Whom will you give orders to?
+@32
+At present, {02}{03}g is under orders to take %s. How will you change this?
+@33
+What orders will you give {02}{03}g?
+@34
+Then no new orders will be sent to {02}{03}g.
+@35
+Then I'll send {02}{03}g orders to take %s.
+@36
+Then I'll tell {02}{03}g to call off the attack.
+@37
+At present, {01}C+{00} has ordered us to take {02}{0B}d.
+@37.1
+At present, {01}C+{00} has ordered us to take {02}{0B}d.
+@37.2
+At present, {01}C+{00} has ordered us to take {02}{0B}d.
+@37.3
+At present, {01}C+{00} has ordered us to take {02}{0B}d.
+@38
+At present, {01}C+{00} has ordered us to take {02}{10}d.
+@38.1
+At present, {01}C+{00} has ordered us to take {02}{10}d.
+@38.2
+At present, {01}C+{00} has ordered us to take {02}{10}d.
+@38.3
+At present, {01}C+{00} has ordered us to take {02}{10}d.
+@39
+At present, {01}C+{00} has ordered us to defeat the {02}{06}e.
+@39.1
+At present, {01}C+{00} has ordered us to defeat the {02}{06}e.
+@39.2
+At present, {01}C+{00} has ordered us to defeat the {02}{06}e.
+@39.3
+At present, {01}C+{00} has ordered us to defeat the {02}{06}e.
+@40
+Some of your subordinates are ill. Please bear it in mind when giving orders.
+@40.1
+Some of your subordinates are ill. Bear it in mind when giving orders.
+@40.2
+Some of your subordinates are ill. Bear it in mind when giving orders.
+@40.3
+Some of your subordinates are ill. Please bear it in mind when giving orders.
+@41
+What will you give priority to?
+@41.1
+What will you give priority to?
+@41.2
+What will you give priority to?
+@41.3
+What will you give priority to?
+@42
+You'll focus on %s. Then please choose the missions.
+@42.1
+Focusing on %s, are you? Then choose the missions.
+@42.2
+Focusing on %s, are you? Then choose the missions.
+@42.3
+You'll focus on %s. Then please choose the missions.
+@43
+Is that all?
+@43.1
+Is that all?
+@43.2
+Is that all?
+@43.3
+Is that all?
+@44
+Stop giving missions?
+@44.1
+Stop giving missions?
+@44.2
+Stop giving missions?
+@44.3
+Stop giving missions?
+@45
+You will march out, then. Please name the target.
+@45.1
+Oh! Battle, is it! So, the enemy? Give us a target!
+@45.2
+Oh! Battle, is it! So, the enemy? Give us a target!
+@45.3
+Oh, a battle! So, the enemy? Please name the target!
+@46
+You will march out? Our provisions may run low. Is that all right?
+@46.1
+Battle, eh? This castle is low on provisions. Will you march out even so?
+@46.2
+Battle, eh? This castle is low on provisions. Will you march out even so?
+@46.3
+A battle, then. This castle is low on provisions, but will you march out?
+@47
+Call off the battle?
+@47.1
+Calling off the battle?
+@47.2
+Calling off the battle?
+@47.3
+Call off the battle?
+@48
+{02}{0B}d is in battle, so the command can't be used.
+@49
+An army is marching on {02}{0B}d, so the command can't be used.
+@50
+The %s of {02}{0B}d can't be raised any further.
+@51
+The %s of {02}{0B}d can't be lowered any further.
+@52
+What will you do?
+@52.1
+What will you do?
+@52.2
+What will you do?
+@52.3
+What will you do?
+@53
+Not one officer has earned enough merit to be promoted.
+@53.1
+Not one officer has earned enough merit for promotion.
+@53.2
+Not one officer has earned enough merit for promotion.
+@53.3
+Not one officer has earned enough merit to be promoted.
+@54
+These are the ones who can be promoted. Whom shall we promote?
+@54.1
+These are the ones who can be promoted. Whom will you promote?
+@54.2
+These are the ones who can be promoted. Whom will you promote?
+@54.3
+These are the ones who can be promoted. Whom shall we promote?
+@55
+Promote {01}C+{00}?
+@55.1
+You'll promote me?
+@55.2
+You'll promote me?
+@55.3
+You would promote me?
+@55.4
+Promote {01}C+{00}?
+@55.5
+Promote {01}C+{00}?
+@55.6
+Promote {01}C+{00}?
+@56
+Certainly. Then I'll promote {01}C+{00}.
+@56.1
+Oh, thank you.
+@56.2
+Oh, thank you.
+@56.3
+I'm most grateful. I'll serve even more faithfully.
+@56.4
+Good. Then {01}C+{00} shall be promoted.
+@56.5
+Good. Then {01}C+{00} shall be promoted.
+@56.6
+Certainly. Then I'll promote {01}C+{00}.
+@57
+Every castle lord already has enough aides.
+@57.1
+Every castle lord already has enough aides.
+@57.2
+Every castle lord already has enough aides.
+@57.3
+Every castle lord already has enough aides.
+@58
+Please choose the castle to send them to.
+@58.1
+Choose the castle to send them to.
+@58.2
+Choose the castle to send them to.
+@58.3
+Please choose the castle to send them to.
+@59
+{01}C+{00} now has enough aides.
+@59.1
+{01}C+{00} now has enough aides.
+@59.2
+{01}C+{00} now has enough aides.
+@59.3
+{01}C+{00} now has enough aides.
+@60
+Please choose the officer to send.
+@60.1
+Choose the officer to send.
+@60.2
+Choose the officer to send.
+@60.3
+Please choose the officer to send.
+@61
+Send {01}C+{00} to {02}{0B}d?
+@61.1
+You'll send me to {02}{0B}d?
+@61.2
+You'll send me to {02}{0B}d?
+@61.3
+You would send me to {02}{0B}d?
+@61.4
+Send {01}C+{00} to {02}{0B}d?
+@61.5
+Send {01}C+{00} to {02}{0B}d?
+@61.6
+Send {01}C+{00} to {02}{0B}d?
+@62
+If you send this officer, he will be relieved as strategist. Is that all right?
+@62.1
+Send him and he'll be relieved as strategist. Is that all right?
+@62.2
+Send him and he'll be relieved as strategist. Is that all right?
+@62.3
+If you send this officer, he will be relieved as strategist. Is that all right?
+@63
+Then I'll arrange it so.
+@64
+Please choose the officer to recall.
+@64.1
+Choose the officer to recall.
+@64.2
+Choose the officer to recall.
+@64.3
+Please choose the officer to recall.
+@65
+Recall {01}C+{00}?
+@65.1
+Recall {01}C+{00}?
+@65.2
+Recall {01}C+{00}?
+@65.3
+Recall {01}C+{00}?
+@66
+Whom will you recommend for court office?
+@66.1
+Whom will you recommend for court office?
+@66.2
+Whom will you recommend for court office?
+@66.3
+Whom will you recommend for court office?
+@67
+Which office will you recommend {01}C+{00} for?
+@67.1
+Me!? I'm grateful! So, which office will you recommend me for?
+@67.2
+Me!? I'm grateful! So, which office will you recommend me for?
+@67.3
+Me!? What an honour! And which office would you recommend me for?
+@67.4
+Which office will you recommend {01}C+{00} for?
+@67.5
+Which office will you recommend {01}C+{00} for?
+@67.6
+Which office will you recommend {01}C+{00} for?
+@68
+Recommend {01}C+{00} for the office of %s?
+@68.1
+You'll recommend me for the office of %s?
+@68.2
+You'll recommend me for the office of %s?
+@68.3
+You would recommend me for the office of %s?
+@68.4
+Recommend {01}C+{00} for the office of %s?
+@68.5
+Recommend {01}C+{00} for the office of %s?
+@68.6
+Recommend {01}C+{00} for the office of %s?
+@69
+With respect, {01}C+{00} already holds the office of %s. There is no need, I think...
+@69.1
+That's kind, but I already hold the office of %s. I'll pass this time.
+@69.2
+That's kind, but I already hold the office of %s. I'll pass this time.
+@69.3
+You are most kind, but I already hold the office of %s... I must decline this time.
+@69.4
+{01}C+{00} already holds the office of %s. There's no need for that.
+@69.5
+{01}C+{00} already holds the office of %s. There's no need for that.
+@69.6
+With respect, {01}C+{00} already holds the office of %s. There is no need, I think...
+@70
+{01}C+{00} will surely serve you more faithfully than ever.
+@70.1
+Oh, I'm grateful! Thank you!
+@70.2
+Oh, I'm grateful! Thank you!
+@70.3
+I'm most grateful! I swear ever greater loyalty!
+@70.4
+{01}C+{00} will surely serve more faithfully than ever.
+@70.5
+{01}C+{00} will surely serve more faithfully than ever.
+@70.6
+{01}C+{00} will surely serve you more faithfully than ever.
+@71
+{01}C*{00}, with respect, there is no office I can recommend now.
+@71.1
+{01}C*{00}, there's no office I can recommend you for now.
+@71.2
+{01}C*{00}, there's no office I can recommend you for now.
+@71.3
+{01}C*{00}, with respect, there is no office I can recommend now.
+@72
+None of your subordinates can be recommended for a new office.
+@72.1
+None of your subordinates can be recommended for a new office.
+@72.2
+None of your subordinates can be recommended for a new office.
+@72.3
+None of your subordinates can be recommended for a new office.
+@73
+Choose the castle to entrust to a province lord.
+@74
+Make these changes?
+@76
+You haven't changed anything. Stop?
+@77
+Stop changing province lords?
+@78
+Choose the castle whose lord you will change.
+@82
+Stop changing castle lords?
+@83
+{02}{0B}d is in battle now. Its lord can't be changed.
+@84
+{02}{01}g, who governs {02}{0B}d, is out on campaign. The castle lord can't be changed.
+@85
+There are no officers who can be sent as aides.
+@86
+There is no other officer at {02}{0B}d who can be made castle lord.
+@87
+{02}{0B}d is under direct rule now. Whom shall we have govern it?
+@87.1
+{02}{0B}d is governed by {02}{01}g. Whom shall we have govern it?
+@88
+Put {02}{0B}d under direct rule?
+@88.1
+Have {02}{01}g govern {02}{0B}d?
+@89
+{02}{0B}d is now the seat of {02}{01}g. All the castles {02}{01}g governs will come under direct rule. Is that all right?
+@90
+Move {02}{01}g's seat to {02}{0B}d?
+@91
+If you make {02}{01}g a castle lord, he will be relieved as strategist. Is that all right?
+@92
+Choose the officers to be {02}{01}g's aides.
+@93
+Stop appointing {02}{01}g as castle lord?
+@94
+Make {02}{01}g an aide?
+@95
+If you send {02}{01}g, he will be relieved as strategist. Is that all right?
+@96
+There is no one else who can be appointed strategist.
+@96.1
+There's no one else who can be made strategist.
+@96.2
+There's no one else who can be made strategist.
+@96.3
+There is no one else who can be appointed strategist.
+@97
+I am your strategist at present. Will you change to someone else?
+@97.1
+I'm the strategist now. You'll change to someone else?
+@97.2
+I'm the strategist now. You'll change to someone else?
+@97.3
+I am your strategist at present. Will you change to someone else?
+@98
+{01}C+{00} is the strategist at present. Will you change to someone else?
+@98.1
+{01}C+{00} is the strategist now. You'll change to someone else?
+@98.2
+{01}C+{00} is the strategist now. You'll change to someone else?
+@98.3
+{01}C+{00} is the strategist at present. Will you change to someone else?
+@99
+Whom will you appoint as strategist?
+@99.1
+Whom will you appoint as strategist?
+@99.2
+Whom will you appoint as strategist?
+@99.3
+Whom will you appoint as strategist?
+@100
+Then I'll arrange for {01}C+{00} to be strategist.
+@100.1
+Understood. I'll help you with all I have.
+@100.2
+Understood. I'll help you with all I have.
+@100.3
+I'm deeply honoured. I'll do my humble best.
+@100.4
+Then I'll arrange for {01}C+{00} to be strategist.
+@101
+You won't appoint a strategist. Understood.
+@101.1
+No strategist, then. Understood.
+@101.2
+No strategist, then. Understood.
+@101.3
+You won't appoint a strategist. Understood.
+@103
+You seem to have arrived. Thank you for coming.\n\nFirst, before the council, I have news: our lord has ordered that I be made province lord.
+@103.1
+You seem to have arrived. Thank you for coming.\n\nFirst, before the council, I have news: our lord has ordered that I be made province lord.
+@103.2
+Ah, you've come. Thank you for coming.\n\nBefore the council, some good news: our lord has ordered that I be made province lord.
+@103.3
+Everyone seems to be here. Thank you for coming.\n\nFirst, some good news for you all: our lord has ordered that I be made province lord.
+@104
+Oh! That's splendid.
+@104.1
+Oh! That's splendid.
+@104.2
+Oh! Splendid news. {01}C*{00}, congratulations.
+@105
+Yes. From now on, castles we take become our own castles. I expect even greater work from you, {01}C*{00}.
+@105.1
+Yes. From now on, castles we take become our own castles. I expect even greater work from you, {01}C*{00}.
+@105.2
+Right. From now on, castles we take become our own castles. {01}C*{00}, I expect even more of you too.
+@105.3
+Right. From now on, castles we take become our own castles. I expect even more of you all. Work harder than ever.
+@106
+Right!
+@106.1
+Right!
+@106.2
+Yes, sir!
+@107
+Then first, let me see how your last mission went.
+@107.1
+Then first, let me see how your last mission went.
+@107.2
+Then first, let's see how your last mission went.
+@107.3
+First, let's compare how the last missions went.
+@109
+Last time, {01}C*{00} did the best work. {01}C*{00}, splendid. Please accept this.
+@109.1
+Last time, {01}C*{00} did the best work. {01}C*{00}, splendid. Please accept this.
+@109.2
+Last time, {01}C*{00} did the best work. {01}C*{00}, splendid. Take this as a reward.
+@109.3
+Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid. Please accept this.
+@109.4
+Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid. Please accept this.
+@109.5
+Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid. Take this as a reward.
+@109.6
+{01}C*{00}, you worked well last time. Please accept this.
+@109.7
+{01}C*{00}, you worked well last time. Please accept this.
+@109.8
+{01}C*{00}, you seem to have worked well last time. Take this as a reward.
+@110
+Last time, {01}C*{00} did the best work. {01}C*{00}, splendid.
+@110.1
+Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid.
+@110.2
+Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid.
+@110.3
+Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid.
+@111
+Yes, sir! I'm most grateful!
+@112
+Last time, {01}C*{00} did the best work. The rest of you, follow that example.
+@112.1
+Last time, {01}C*{00}'s work stood out. I'm counting on you.
+@112.2
+Hm, I see. {01}C*{00}, well done.
+@113
+...I, {02}{01}g, am mortified, to fall behind {01}C*{00}...
+@113.1
+...I, {02}{01}g, am mortified, to fall behind {01}C*{00} of all people...
+@114
+Hmm, impressive, {01}C*{00}...
+@114.1
+Hmm, I didn't want to lose to {01}C*{00} of all people... I must work harder.
+@115
+Hmph, that's all {01}C*{00} can do. What could you ever achieve? You could stand to learn a thing or two from me.
+@115.1
+Hmph, so that's all {01}C*{00} can do... No, if I'm pleased to beat the likes of {01}C*{00}, I still have far to go.
+@116
+{01}C*{00}, if you fall behind me, you still have far to go.
+@117
+Now, this month I will appoint a new castle lord. {01}C*{00}!
+@117.1
+Now, this month I will appoint a new castle lord. {01}C*{00}!
+@117.2
+Now, this month I will appoint a new castle lord. {01}C*{00}! Step forward.
+@118
+Right!
+@118.1
+Right!
+@118.2
+Yes, sir!
+@119
+I entrust {02}{0B}d to you. Please set out at once and govern the castle! Orders will follow.
+@119.1
+I entrust {02}{0B}d to you. Please set out at once and govern the castle! Orders will follow.
+@119.2
+I appoint you castle lord of {02}{0B}d. Set out at once and govern the castle! Orders will follow.
+@120
+Oh! Leave it to me!
+@120.1
+Oh! Leave it to me!
+@120.2
+Yes, sir! It's more than I deserve!
+@121
+{01}C*{00}, I'm sending you as aide to {01}C+{00}. Please give {01}C+{00} good support.
+@121.1
+{01}C*{00}, I'm sending you as aide to {01}C+{00}. Please give {01}C+{00} good support.
+@121.2
+{01}C*{00}! I appoint you aide to {01}C+{00}. Give {01}C+{00} good support!
+@122
+...Yes, sir!
+@122.1
+Oh! Leave it to me!
+@122.2
+Oh! Leave it to me!
+@122.3
+Yes, sir! Leave it to me!
+@123
+Then I'm counting on you.
+@123.1
+Then I'm counting on you.
+@123.2
+Then both of you, set out at once!
+@124
+Right!
+@124.1
+Right!
+@124.2
+Yes, sir!
+@125
+{01}C*{00}, congratulations on your promotion.
+@126
+Yes, I'm counting on you from now on too. You go ahead to the castle. I'll follow shortly.
+@127
+Yes, sir!
+@128
+{01}C*{00}, as you become a castle lord, please choose one aide.
+@128.1
+{01}C*{00}, as you become a castle lord, please choose one aide.
+@128.2
+As you become a castle lord, I'll send you an aide. Choose one.
+@129
+You want {01}C+{00}?
+@130
+Then please choose again.
+@130.1
+Then please choose again.
+@130.2
+Then choose again.
+@131
+Understood. Then I'll send {01}C+{00}. {01}C*{00}, I'm counting on you.
+@131.1
+Understood. Then I'll send {01}C+{00}. {01}C*{00}, I'm counting on you.
+@131.2
+Very well. Then I'll send {01}C+{00} as your aide. {01}C*{00}, I expect good work.
+@132
+Yes, sir!
+@133
+(Being made a castle lord is an honour, but... Shall I accept the order?)
+@134
+{01}C*{00}, I'm sorry, but let me decline this time.
+@134.1
+{01}C*{00}, I'm sorry, but let me decline this time.
+@134.2
+{01}C*{00}, with the deepest respect, I humbly decline this order.
+@135
+You refuse?
+@135.1
+You refuse?
+@135.2
+...You refuse.
+@136
+Yes. Better to send someone more fit to be castle lord than me.
+@136.1
+Yes. Better to send someone more fit to be castle lord than me.
+@136.2
+Yes. Surely there is someone more fit to be castle lord than a novice like me...
+@137
+...I see. If you say so, {01}C*{00}, it can't be helped.
+@137.1
+...I see. If you say so, {01}C*{00}, it can't be helped.
+@137.2
+What did you say!? Hmph, enough, withdraw!
+@138
+Then I ask this of you, {01}C*{00}: become lord of {02}{0B}d and govern the lands around it.
+@138.1
+Then I ask this of you, {01}C*{00}: become lord of {02}{0B}d and govern the lands around it.
+@138.2
+Then I order you again, {01}C*{00}: become lord of {02}{0B}d and govern the lands around it!
+@139
+Yes, sorry, but I'm not keen on it. Let me decline this time.
+@139.1
+Yes, sorry, but I'm not keen on it. Let me decline this time.
+@139.2
+Th-this is... far too great an honour for me... I humbly beg your pardon.
+@141
+I promote these people, starting with {01}C*{00}. Keep working for me.
+@141.1
+I promote these people, starting with {01}C*{00}. Keep working for me.
+@141.2
+I recognise these people's work and promote each of them. Keep working for me.
+@142
+I promote {01}C*{00} to %s. Keep working for me.
+@142.1
+I promote {01}C*{00} to %s. Keep working for me.
+@142.2
+I recognise {01}C*{00}'s work and promote you to %s. Keep working for me.
+@143
+I'm most grateful. I'll go on working for you.
+@143.1
+I'm most grateful. I'll go on working for you.
+@143.2
+Yes, sir, I'm most grateful. I'll show you even greater work.
+@144
+Now, about what comes next. As you know, our house's final goal is %s.
+@144.1
+Now, about what comes next. As you know, our house's final goal is %s.
+@145
+To expand our domain, this month I want to carry out %s.
+@146
+First we must strengthen our defences. This month I want to carry out %s.
+@147
+To take {02}{0B}d, this month I want to carry out %s.
+@148
+To defeat the {02}{06}e, this month I want to carry out %s.
+@149
+To take {02}{10}d, this month I want to carry out %s.
+@150
+To take %s, this month I want to carry out %s.
+@151
+To unify the realm, this month I want to carry out %s.
+@152
+Do you have any views on this policy?
+@152.1
+Do you have any views on this policy?
+@152.2
+Do you have any views on this policy?
+@152.3
+Does anyone have any views on this policy?
+@153
+{01}C*{00}, I have a suggestion.
+@153.1
+{01}C*{00}, I have a suggestion.
+@153.2
+{01}C*{00}, if I may be so bold, I have a suggestion.
+@154
+Oho, I'd very much like to hear it.
+@154.1
+Oho, I'd very much like to hear it.
+@154.2
+Oho, then let's hear it.
+@154.3
+Oh, don't hold back. Say what you like.
+@155
+(Now, what shall I propose?)
+@156
+(Shall I propose "%s"?)
+@157
+As I see it, our house should make "%s" its final goal from now on. What do you think?
+@157.1
+As I see it, our house should make "%s" its final goal from now on. What do you think?
+@157.2
+{01}C*{00}, as I see it, our house would do well to make "%s" its final goal from now on.
+@158
+{01}C*{00}! What do you take {01}C"{00}'s judgment for? Know your place!
+@159
+{01}C*{00}, objecting to {01}C"{00}'s judgment is overstepping yourself.
+@160
+{01}C*{00}, with respect, I too think {01}C+{00}'s view is the right one.
+@161
+Hm... "%s", is it...
+@162
+...I see, I understand. {01}C*{00}'s view makes sense. From now on, our house will pursue "%s".
+@162.1
+...I see, I understand. {01}C*{00}'s view makes sense. From now on, our house will pursue "%s".
+@162.2
+...Right, understood. {01}C*{00}'s view makes sense. From next month our house will pursue "%s".
+@163
+Oh, you'll take my advice? Thank you.
+@163.1
+Oh, you'll take my advice? Thank you.
+@163.2
+Oh, {01}C*{00}! I'm deeply honoured that you'd take my advice!
+@164
+............
+@165
+As expected of {01}C+{00}! Now our house will prosper even more.
+@166
+By the next council I'll draw up a new strategy aimed at "%s". Please wait until then.
+@166.1
+By the next council I'll draw up a new strategy aimed at "%s". Please wait until then.
+@166.2
+By the next council I'll draw up a new strategy aimed at "%s". Wait until then.
+@167
+Right.
+@167.1
+Right.
+@167.2
+Yes, sir!
+@168
+...{01}C*{00}'s view certainly has points worth hearing, but I think it's too soon.
+@168.1
+...{01}C*{00}'s view certainly has points worth hearing, but I think it's too soon.
+@168.2
+...{01}C*{00}'s view certainly has points worth hearing, but I think it's too soon.
+@169
+...Is that so.
+@170
+{01}C+{00}, that's the best course. {01}C*{00}, hold back too.
+@170.1
+{01}C+{00}, that's the best course. {01}C*{00}! Don't overstep yourself!
+@171
+{01}C+{00}, that's the best course. {01}C*{00}, please hold back.
+@172
+{01}C*{00}...
+@173
+(Now, if I propose "%s", what should I name as the target?)
+@175
+{01}C*{00}, as I see it, this time we should carry out "%s".
+@175.1
+{01}C*{00}, as I see it, this time we should carry out "%s".
+@175.2
+{01}C*{00}, as I see it, this time it would be best to carry out "%s".
+@176
+{01}C*{00}, as I see it, "%s" is fine, but the target should be {02}{0B}d.
+@176.1
+{01}C*{00}, as I see it, "%s" is fine, but the target should be {02}{0B}d.
+@176.2
+{01}C*{00}, as I see it, I have no objection to "%s", but {02}{0B}d would be a better target.
+@180
+Hm... {02}{0B}d instead, eh...
+@181
+...I see, I understand. {01}C*{00}'s view makes sense. This time we will carry out "%s".
+@181.1
+...I see, I understand. {01}C*{00}'s view makes sense. This time we will carry out "%s".
+@181.2
+...Right, understood. {01}C*{00}'s view makes sense. This time we'll carry out "%s".
+@182
+...I see, I understand. {01}C*{00}'s view makes sense. The target will be {02}{0B}d.
+@182.1
+...I see, I understand. {01}C*{00}'s view makes sense. The target will be {02}{0B}d.
+@182.2
+...Right, understood. {01}C*{00}'s view makes sense. The target will be {02}{0B}d.
+@185
+As expected of {01}C+{00}. A splendid idea.
+@186
+...{01}C*{00}'s view certainly has points worth hearing, but I'll pass on it this time.
+@186.1
+...{01}C*{00}'s view certainly has points worth hearing, but I'll pass on it this time.
+@186.2
+...{01}C*{00}'s view certainly has points worth hearing, but I'll pass on it this time.
+@190
+Nothing, then? Then, as I planned, this month we will carry out %s.
+@190.1
+Nothing, then? Then, as I planned, this month we will carry out %s.
+@190.2
+Nothing, eh? Then, as I planned, this month we'll carry out %s.
+@190.3
+Nothing, eh? Then, as I planned, this month we'll carry out %s.
+@190.4
+Nothing, it seems. Then, as I planned, this month we'll carry out %s.
+@190.5
+Nothing, it seems. Then, as I planned, this month we'll carry out %s.
+@191
+Then let's move on to forming units.
+@192
+Right! All of you, follow me! We march out!
+@192.1
+Right! All of you, follow me! We march out!
+@193
+Then, %s, follow me! We march out!
+@193.1
+Then, %s, follow me! We march out!
+@194
+A pity I couldn't join the battle... I'll train and hone myself instead.
+@195
+Now then, {01}C*{00}!
+@195.1
+Now then, {01}C*{00}!
+@195.2
+Then, I give out the missions. {01}C*{00}!
+@196
+Right.
+@196.1
+Right.
+@196.2
+Yes, sir!
+@197
+I ask you to carry out %s at {02}{0B}d.
+@197.1
+I ask you to carry out %s at {02}{0B}d.
+@197.2
+I order you to carry out %s at {02}{0B}d. I'm expecting much of you.
+@198
+I ask you to carry out %s on the ronin {02}{03}g.
+@198.1
+I ask you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}.
+@198.2
+I ask you to carry out %s on the ronin {02}{03}g.
+@198.3
+I ask you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}.
+@198.4
+I order you to carry out %s on the ronin {02}{03}g. I'm expecting much of you.
+@198.5
+I order you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}. I'm expecting much of you.
+@199
+I ask you to serve as envoy to the Imperial Court.
+@199.1
+I ask you to serve as envoy to the Imperial Court.
+@199.2
+I order you to serve as envoy to the Imperial Court. I'm expecting much of you.
+@200
+I ask you to go to the {02}{06}e and conclude an alliance.
+@200.1
+I ask you to go to the {02}{06}e and conclude an alliance.
+@200.2
+Go as envoy and conclude an alliance with the {02}{06}e. I'm expecting much of you.
+@201
+I ask you to go to the {02}{06}e and break off our alliance.
+@201.1
+I ask you to go to the {02}{06}e and break off our alliance.
+@201.2
+I send you as envoy. Break off the alliance with the {02}{06}e.
+@202
+I ask you to go to the {02}{06}e and make them our vassals.
+@202.1
+I ask you to go to the {02}{06}e and make them our vassals.
+@202.2
+Go as envoy and make the {02}{06}e our vassals. I'm expecting much of you.
+@203
+I ask you to go to the {02}{06}e and strengthen our friendship.
+@203.1
+I ask you to go to the {02}{06}e and strengthen our friendship.
+@203.2
+Go as envoy and strengthen our friendship with the {02}{06}e. I'm expecting much of you.
+@204
+I ask you to go to the {02}{06}e and make peace.
+@204.1
+I ask you to go to the {02}{06}e and make peace.
+@204.2
+Go as envoy and make peace with the {02}{06}e. I'm expecting much of you.
+@205
+Right, leave it to me.
+@205.1
+Right, leave it to me.
+@205.2
+Yes, sir! Leave it to me!
+@206
+I'll give the others their missions too.
+@207
+Now, all of you, choose the missions you will carry out.
+@208
+{01}C*{00}, train hard and learn new skills.
+@208.1
+{01}C*{00}, train hard and learn new skills.
+@208.2
+{01}C*{00}, train hard and learn new skills.
+@208.3
+{01}C*{00}, I entrust 3,000 koku to you. Please earn at least {02}%d kan.
+@208.4
+{01}C*{00}, I entrust 3,000 koku to you. Please earn at least {02}%d kan.
+@208.5
+{01}C*{00}, I give you 3,000 koku. Earn at least {02}%d kan.
+@208.6
+{01}C*{00}, I entrust 3,000 kan to you. Please increase it to at least {02}%d kan.
+@208.7
+{01}C*{00}, I entrust 3,000 kan to you. Please increase it to at least {02}%d kan.
+@208.8
+{01}C*{00}, I give you 3,000 kan. Increase it to at least {02}%d kan.
+@208.9
+{01}C*{00}, I entrust 3,000 kan to you. Please raise popular support by at least {02}%d.
+@208.10
+{01}C*{00}, I entrust 3,000 kan to you. Please raise popular support by at least {02}%d.
+@208.11
+{01}C*{00}, I give you 3,000 kan. Raise popular support by at least {02}%d.
+@208.12
+{01}C*{00}, I entrust 3,000 kan to you. Please raise the yield by at least {02}%d,000 koku.
+@208.13
+{01}C*{00}, I entrust 3,000 kan to you. Please raise the yield by at least {02}%d,000 koku.
+@208.14
+{01}C*{00}, I give you 3,000 kan. Raise the yield by at least {02}%d,000 koku.
+@208.15
+{01}C*{00}, I entrust 3,000 kan to you. Please raise the mines by at least {02}%d.
+@208.16
+{01}C*{00}, I entrust 3,000 kan to you. Please raise the mines by at least {02}%d.
+@208.17
+{01}C*{00}, I give you 3,000 kan. Raise the mines by at least {02}%d.
+@208.18
+If you see this line, it's a bug.
+@208.19
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d,000 koku of rice.
+@208.20
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d,000 koku of rice.
+@208.21
+{01}C*{00}, I give you 3,000 kan. Buy at least {02}%d,000 koku of rice.
+@208.22
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d horses.
+@208.23
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d horses.
+@208.24
+{01}C*{00}, I give you 3,000 kan. Buy at least {02}%d horses.
+@208.25
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d guns.
+@208.26
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d guns.
+@208.27
+{01}C*{00}, I give you 3,000 kan. Buy at least {02}%d guns.
+@208.28
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d cannon.
+@208.29
+{01}C*{00}, I entrust 3,000 kan to you. Please buy at least {02}%d cannon.
+@208.30
+{01}C*{00}, I give you 3,000 kan. Buy at least {02}%d cannon.
+@208.31
+{01}C*{00}, please raise training by at least {02}%d.
+@208.32
+{01}C*{00}, please raise training by at least {02}%d.
+@208.33
+{01}C*{00}, raise training by at least {02}%d.
+@208.34
+{01}C*{00}, please raise the troops by at least {02}%d.
+@208.35
+{01}C*{00}, please raise the troops by at least {02}%d.
+@208.36
+{01}C*{00}, raise the troops by at least {02}%d.
+@208.37
+{01}C*{00}, please raise defense by at least {02}%d.
+@208.38
+{01}C*{00}, please raise defense by at least {02}%d.
+@208.39
+{01}C*{00}, raise defense by at least {02}%d.
+@208.40
+If you see this line, it's a bug.
+@208.41
+{01}C*{00}, please find at least one ronin.
+@208.42
+{01}C*{00}, please find at least one ronin.
+@208.43
+{01}C*{00}, go and find at least one ronin.
+@208.44
+{01}C*{00}, please obtain detailed information.
+@208.45
+{01}C*{00}, please obtain detailed information.
+@208.46
+{01}C*{00}, go and obtain detailed information.
+@208.47
+If you see this line, it's a bug.
+@208.48
+{01}C*{00}, I entrust 3,000 kan to you. Please lower their defense by at least {02}%d.
+@208.49
+{01}C*{00}, I entrust 3,000 kan to you. Please lower their defense by at least {02}%d.
+@208.50
+{01}C*{00}, I give you 3,000 kan. Lower their defense by at least {02}%d.
+@208.51
+{01}C*{00}, I entrust 3,000 kan to you. Please lower their popular support by at least {02}%d.
+@208.52
+{01}C*{00}, I entrust 3,000 kan to you. Please lower their popular support by at least {02}%d.
+@208.53
+{01}C*{00}, I give you 3,000 kan. Lower their popular support by at least {02}%d.
+@208.54
+{01}C*{00}, I entrust 3,000 kan to you. Please burn the enemy's supplies.
+@208.55
+{01}C*{00}, I entrust 3,000 kan to you. Please burn the enemy's supplies.
+@208.56
+{01}C*{00}, I give you 3,000 kan. Burn the enemy's supplies.
+@208.57
+If you see this line, it's a bug.
+@210
+{01}C*{00}, I order you to train.
+@210.1
+{01}C*{00}, I order you to train.
+@210.2
+{01}C*{00}, I order you to train.
+@210.3
+{01}C*{00}, I order you to sell rice.
+@210.4
+{01}C*{00}, I order you to sell rice.
+@210.5
+{01}C*{00}, I order you to sell rice.
+@210.6
+{01}C*{00}, I order you to raise war funds.
+@210.7
+{01}C*{00}, I order you to raise war funds.
+@210.8
+{01}C*{00}, I order you to raise war funds.
+@210.9
+{01}C*{00}, I order you to win over the people of {02}{0B}d.
+@210.10
+{01}C*{00}, I order you to win over the people of {02}{0B}d.
+@210.11
+{01}C*{00}, I order you to win over the people of {02}{0B}d.
+@210.12
+{01}C*{00}, I order you to open new fields at {02}{0B}d.
+@210.13
+{01}C*{00}, I order you to open new fields at {02}{0B}d.
+@210.14
+{01}C*{00}, I order you to open new fields at {02}{0B}d.
+@210.15
+{01}C*{00}, I order you to work the mines at {02}{0B}d... though this line showing up is really a bug.
+@210.16
+{01}C*{00}, I order you to buy supplies... though this line showing up is really a bug.
+@210.17
+{01}C*{00}, I order you to buy rice.
+@210.18
+{01}C*{00}, I order you to buy rice.
+@210.19
+{01}C*{00}, I order you to buy rice.
+@210.20
+{01}C*{00}, I order you to buy horses.
+@210.21
+{01}C*{00}, I order you to buy horses.
+@210.22
+{01}C*{00}, I order you to buy horses.
+@210.23
+{01}C*{00}, I order you to buy guns.
+@210.24
+{01}C*{00}, I order you to buy guns.
+@210.25
+{01}C*{00}, I order you to buy guns.
+@210.26
+{01}C*{00}, I order you to buy cannon.
+@210.27
+{01}C*{00}, I order you to buy cannon.
+@210.28
+{01}C*{00}, I order you to buy cannon.
+@210.29
+{01}C*{00}, I order you to train the troops at {02}{0B}d.
+@210.30
+{01}C*{00}, I order you to train the troops at {02}{0B}d.
+@210.31
+{01}C*{00}, I order you to train the troops at {02}{0B}d.
+@210.32
+{01}C*{00}, I order you to separate soldiers from farmers at {02}{0B}d.
+@210.33
+{01}C*{00}, I order you to separate soldiers from farmers at {02}{0B}d.
+@210.34
+{01}C*{00}, I order you to separate soldiers from farmers at {02}{0B}d.
+@210.35
+{01}C*{00}, I order you to repair {02}{0B}d.
+@210.36
+{01}C*{00}, I order you to repair {02}{0B}d.
+@210.37
+{01}C*{00}, I order you to repair {02}{0B}d.
+@210.38
+{01}C*{00}, I order you to expand {02}{0B}d... though this line showing up is really a bug.
+@210.39
+{01}C*{00}, I order you to search for talent.
+@210.40
+{01}C*{00}, I order you to search for talent.
+@210.41
+{01}C*{00}, I order you to search for talent.
+@210.42
+{01}C*{00}, I order you to survey {02}{0B}d.
+@210.43
+{01}C*{00}, I order you to survey {02}{0B}d.
+@210.44
+{01}C*{00}, I order you to survey {02}{0B}d.
+@210.45
+{01}C*{00}, I order you to sabotage {02}{0B}d... though this line showing up is really a bug.
+@210.46
+{01}C*{00}, I order you to wreck the walls of {02}{0B}d.
+@210.47
+{01}C*{00}, I order you to wreck the walls of {02}{0B}d.
+@210.48
+{01}C*{00}, I order you to wreck the walls of {02}{0B}d.
+@210.49
+{01}C*{00}, I order you to spread rumours in {02}{0B}d.
+@210.50
+{01}C*{00}, I order you to spread rumours in {02}{0B}d.
+@210.51
+{01}C*{00}, I order you to spread rumours in {02}{0B}d.
+@210.52
+{01}C*{00}, I order you to commit arson in {02}{0B}d.
+@210.53
+{01}C*{00}, I order you to commit arson in {02}{0B}d.
+@210.54
+{01}C*{00}, I order you to commit arson in {02}{0B}d.
+@210.55
+Your mission ID is too large. If you see this line, it's a bug.
+@211
+Right, leave it to me.
+@211.1
+Right, leave it to me.
+@211.2
+Yes, sir!
+@211.3
+As you wish!
+@211.4
+Yes, sir!
+@211.5
+Understood!
+@211.6
+Leave it to me!
+@211.7
+At your command!
+@212
+I'm counting on you.
+@212.1
+I'm counting on you.
+@212.2
+Good.
+@212.3
+Everyone seems to have a mission now.
+@212.4
+Everyone seems to have a mission now.
+@213
+Then this council is now over.
+@213.1
+Then this council is now over.
+@213.2
+Then this council is now over.
+@213.3
+Then this council is now over.
+@214
+The same mission, what a coincidence. Well, I know what your work is worth. Leave it to me and go back to sleep.
+@214.1
+I doubt {01}C*{00} can carry out that mission... Oh well, I won't lose to you, at least.
+@215
+The same mission, what a coincidence. Then I'll show you even better work than yours.
+@215.1
+That mission seems beyond {01}C*{00}'s ability to me... No, I spoke out of turn.
+@216
+About what comes next: at present, our lord has ordered us to take {02}{0B}d.
+@216.1
+About what comes next: at present, our lord has ordered us to take {02}{0B}d.
+@216.2
+About what comes next: at present, our lord has ordered us to take {02}{0B}d.
+@217
+About what comes next: at present, our lord has ordered us to take {02}{10}d.
+@217.1
+About what comes next: at present, our lord has ordered us to take {02}{10}d.
+@217.2
+About what comes next: at present, our lord has ordered us to take {02}{10}d.
+@218
+About what comes next: at present, our lord has ordered us to defeat the {02}{06}e.
+@218.1
+About what comes next: at present, our lord has ordered us to defeat the {02}{06}e.
+@218.2
+About what comes next: at present, our lord has ordered us to defeat the {02}{06}e.
+@219
+About what comes next: at present, we have no particular mission from our lord.
+@219.1
+About what comes next: at present, we have no particular mission from our lord.
+@219.2
+About what comes next: at present, we have no particular mission from our lord.
+@220
+So this month I'm thinking of carrying out %s.
+@220.1
+So this month I'm thinking of carrying out %s.
+@220.2
+So this month I'm thinking of carrying out %s.
+@221
+So this month I'm thinking we finally attack {02}{0B}d.
+@221.1
+So this month I'm thinking we finally attack {02}{0B}d.
+@221.2
+So this month I'm thinking we finally attack {02}{0B}d.
+@223
+Oh, then what do you think we should do?
+@223.1
+Oh, then what do you think we should do?
+@223.2
+Oh, then what do you think we should do?
+@224
+I recommend %s.
+@224.1
+I recommend %s.
+@224.2
+I would recommend %s.
+@225
+I recommend that this month we finally attack {02}{0B}d.
+@225.1
+I recommend that this month we finally attack {02}{0B}d.
+@225.2
+I would recommend that this month we finally attack {02}{0B}d.
+@226
+I see, you're quite right. Then this month's policy will be %s.
+@226.1
+I see, you're quite right. Then this month's policy will be %s.
+@226.2
+Very well. Then this month's policy will be %s.
+@227
+Hmm... Your view has a point, but this month's policy will be %s.
+@227.1
+Hmm... Your view has a point, but this month's policy will be %s.
+@227.2
+Hmm... Your view has points worth hearing, but this month we'll go with %s.
+@102
+You seem to have arrived. Thank you for coming. Let us begin the council.
+@102.1
+You seem to have arrived. Thank you for coming. Let us begin the council.
+@102.2
+Ah, you've come. Thank you for coming. Let's begin the council.
+@102.3
+Everyone seems to be here. Thank you for coming. Let's begin the council.

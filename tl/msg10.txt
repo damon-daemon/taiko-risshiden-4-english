@@ -1,0 +1,268 @@
+@0
+{02}{02}g,\nthe mission deadline is in 10 days.
+@1
+{02}{02}g,\nthe mission deadline has passed.\nPlease return to report at once.
+@2
+{02}{02}g,\nthe mission deadline has come, but\nour castle is at war right now.\n"It can't be helped; no report is needed"\nare your orders.
+@3
+{02}{02}g,\nthe council period has begun.\nBe sure to come to the castle within 5 days.
+@4
+{02}{02}g,\nthe council period has begun, but your orders\nare to skip it and put the mission first.
+@5
+{02}{02}g,\nthe council deadline has passed.\nPlease return to the castle at once.
+@6
+{02}{02}g,\nthe council period has begun, but it is cancelled\nthis time, as our lord is away on campaign.
+@7
+Oh yes,\nthe job's deadline is in 10 days.
+@8
+Hmm, damn,\nthe job's deadline has passed.
+@9
+{02}{02}g!\nThe {02}{08}e army is closing in\non our {02}{0E}d!
+@10
+Hmm,\nI don't feel very well.
+@11
+{02}{01}g fell ill.\nThey can't use their full abilities.
+@12
+Good!\nI feel much better now.
+@13
+{02}{01}g recovered their health.
+@14
+{02}{02}g,\nI have a message\nfrom {02}{03}g.
+@15
+"If I cannot even receive my stipend,\nI cannot serve loyally.
+@16
+{01}C{1C}{00} hereby\ntake my leave."\nThat is the message.
+@17
+What!\n{01}C"{00}?!\nWhat does this mean...
+@18
+{02}{02}g and their followers\nhave left {02}{01}g\nand gone off somewhere.
+@18.1
+{02}{02}g\nhas left {02}{01}g\nand gone off somewhere.
+@19
+{02}{02}g,\n{02}{03}g is complaining\nthat their stipend is too low.
+@20
+{02}{02}g,\n{02}{03}g\nhas passed away.
+@20.1
+{02}{02}g,\n{02}{03}g of our house\nhas passed away.
+@20.2
+{02}{02}g,\n{02}{03}g of the {02}{08}e has passed away.
+@21
+What is this......\nWe've lost a fine person.
+@21.1
+I see......\nWe've lost a fine person.
+@22
+What?!\n{01}C+{00}......\nWhat does this mean......
+@23
+One can't defy fate, but\nit's so sad......
+@24
+What... should I\ndo now...?
+@25
+No... I will carry on {01}C+{00}'s will and serve the {02}{06}e loyally.
+@26
+{02}{01}g became\na direct vassal of the {02}{06}e.\nTheir current mission is cancelled.
+@27
+From now on, {02}{01}g's home\nmoves to %s.
+@28
+With {01}C+{00} gone,\nI have no attachment to the {02}{06}e...
+@29
+{02}{01}g became a ronin.\nFrom now on, {02}{01}g's home\nmoves to %s.
+@30
+Those who served {02}{03}g\nbecame ronin.
+@31
+{02}{02}g,\n{02}{03}g, head of the {02}{06}e,\nhas passed away.
+@32
+{02}{03}g seems to have\nsucceeded as head of the house.
+@33
+I see...... so {01}C+{00}\nhas finally become a daimyo......
+@34
+I see...... understood.
+@35
+{02}{02}g! Terrible news!\n{02}{03}g of our house is on the brink of death.\nPlease return to {02}{0D}d at once.
+@36
+What! That's terrible.\nRight, I'll go at once!
+@37
+It seems our lord is still alive.\nI must hurry to the castle!
+@38
+{01}C*{00}! {01}C*{00}!!
+@39
+Ahh...... {01}C*{00}...\nI'm glad I saw you once more before dying......
+@40
+Now, everyone......\nyou have served me well until now.\nI thank you......
+@41
+When I'm gone,\nmake this {02}{02}f my heir\nand support them......
+@42
+{01}C{1C}{00}...?!
+@43
+Ugh...
+@44
+{01}C*{00}!!
+@45
+{02}{01}g, Sengoku daimyo of %s,\nended a stormy life\nat the age of {02}{01}{7B}...
+@46
+{02}{02}g has succeeded\n{02}{01}g.
+@47
+A daimyo at last...\nI must work hard from now on,\nif only to provide for my retainers!
+@47.1
+So {01}C+{00} is a daimyo at last...
+@48
+{01}C+{00} as heir?\nI can never accept that!
+@49
+{02}{01}g declared independence\nwith {02}{0B}d as their base\nand became a daimyo.
+@50
+{02}{02}g and others followed {02}{01}g\nand left the {02}{06}e.
+@51
+{01}C*{00}, what will you do?\nSide with me, and I promise you the rank of %s.
+@51.1
+{01}C*{00}, what will you do?\nWill you side with me, or with them?
+@52
+The only one I serve\nis {01}C+{00}!
+@53
+I see...... a pity.\nNext time we meet may be on the battlefield.\n......Farewell!
+@54
+I decided from the start\nto follow {02}{02}f!
+@55
+Oh! Well said!\nYou'll never regret it!
+@56
+{02}{01}g became a vassal\nof the {02}{03}g house.
+@57
+The {02}{06}e clan was destroyed.
+@58
+In month {02}*f of {02}*e, the {02}{06}e lost\n{02}{0B}d and were destroyed at last...
+@59
+Then, in a thorough hunt for survivors,\n{02}{01}g too lost their life...\nat the age of {02}{01}{7B}...
+@60
+{02}{02}g,\n{02}{03}g, who serves you,\nhas come of age!
+@60.1
+{02}{02}g,\n{02}{03}g of our house\nhas come of age.
+@60.2
+{02}{02}g,\nword is that {02}{03}g of the {02}{08}e\nhas come of age.
+@61
+{02}{02}g,\nan order from our lord.
+@62
+"A grand New Year council will be held;\ncome to {02}{0B}d this month,"\nare his words.
+@63
+"But if you are busy, you need not attend,"\nhe said.
+@64
+"The grand New Year council is over.\nI expect even greater work this year,"\nare his words.
+@65
+{02}{02}g, the {02}{08}e say\nthey are breaking their alliance\nwith our house!
+@66
+{02}{02}g, the {02}{08}e have broken\ntheir alliance with the {02}{09}e.
+@67
+{02}{02}g, the {02}{09}e have accepted\nthe {02}{08}e's demand to surrender.
+@68
+The {02}{09}e clan has been destroyed.
+@69
+{02}{02}g,\nthe {02}{09}e have submitted to the {02}{08}e.
+@70
+{02}{02}g,\nthe {02}{09}e, subject to the {02}{08}e,\nhave declared independence.
+@71
+{02}{02}g,\nour lord has been appointed\n%s %s.
+@71.1
+{02}{02}g,\n{02}{03}g has been appointed\n%s %s.
+@72
+{02}{02}g,\nsomeone seems to be spreading\nstrange rumours in {02}{0B}d.
+@73
+{02}{02}g,\nsomeone seems to have\nset fire to {02}{0B}d.
+@74
+But for that goal,\nthis {02}{0B}d\nis a little inconvenient.
+@75
+So I intend to move\nmy residence castle to {02}{0B}d!
+@76
+Everyone!\nMake your preparations and move\nto {02}{0B}d without delay!
+@77
+{01}C*{00}! Orders from our lord!\nWe're moving to {02}{0B}d!
+@78
+My! That's a big job!\nThen I'll get ready at once.\nYou go on ahead.
+@79
+Yes! I'm counting on you!
+@80
+Well... preparations for moving...\nI live alone... there's nothing really.\nI'll head to {02}{0B}d as I am...
+@81
+{02}{02}g!\nOur lord has moved his residence\nto {02}{0B}d!
+@82
+{02}{02}g!\nOrders from our lord!\n\nYou are to transfer to the castle\nof {02}{0B}d.
+@83
+What! A castle transfer...\nWell, if it's our lord's order, it can't be helped.\nUnderstood!
+@84
+From now on, {02}{01}g's base\nis {02}{0B}d.
+@85
+{02}{02}g!\nIt seems {02}{03}g\nhas moved to {02}{0B}d.
+@86
+So our lord, saying this castle\nis inconvenient, has ordered\na castle transfer to {02}{0B}d!
+@87
+{02}{02}g,\nI bring words from our lord.
+@88
+"Well done taking %s. Now devote\nyourself to developing your lands," he says.\nOur lord seemed very pleased.
+@89
+Merit rose by %d!
+@90
+"You no longer need to take %s,"\nhe says.
+@91
+"Take %s,"\nhe says.
+@92
+{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas betrayed our house\nand defected to the {02}{09}e!
+@92.1
+{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas betrayed the {02}{08}e\nand joined our side!
+@92.2
+{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas betrayed the {02}{08}e\nand defected to the {02}{09}e!
+@93
+{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas rebelled against our house\nand become a daimyo!
+@93.1
+{02}{02}g, {02}{03}g, lord of {02}{0D}d,\nhas rebelled against the {02}{08}e\nand become a daimyo!
+@94
+{02}{02}g,\nthanks to {02}{03}g's work,\nyou have been made %s %s!\nCongratulations!
+@94.1
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Fujiwara no Ason {02}{02}f is raised to\nSenior First Rank and made Regent!"\nCongratulations indeed!!
+@94.2
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Minamoto no Ason {02}{02}f\nis made Shogun!" are the words.\nCongratulations indeed!!
+@94.3
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Taira no Ason {02}{02}f is made\nChancellor of Senior First Rank!"\nCongratulations indeed!!
+@94.4
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, {02}{02}g is made\nChancellor of Senior First Rank!"\nCongratulations indeed!!
+@95
+{02}{02}g,\nan order from {02}{03}g.\n\n"Your current mission is cancelled.\nNo need to continue; come back and rest,"\nis the message.
+@96
+{02}{03}g's army\nhas won the battle\nagainst the {02}{06}e!
+@97
+{02}{03}g's army\nhas lost the battle\nagainst the {02}{06}e!
+@98
+Our army has taken\n{02}{0B}d!
+@98.1
+Our {02}{0B}d\nhas fallen to the {02}{07}e!
+@99
+Our lord... ill-fated in war,\nhas fallen in battle, they say!
+@100
+What!!\nOur lord?!\nWhat... what should I do...
+@101
+{02}{02}g!\nCarry on our late lord's will\nand become daimyo yourself!
+@102
+What?! Me...?!
+@103
+Surely no one will object\nto {02}{02}f succeeding!
+@104
+...Very well.\nI'll unite everyone in place of our late lord.
+@105
+Yes!\nGracious words!
+@106
+{02}{03}g succeeded\n{02}{04}g and\nbecame daimyo.
+@107
+Our army, led by {01}C,{00},\nhas taken {02}{0B}d\nfrom the {02}{06}e!
+@107.1
+Our army has taken\n{02}{0B}d from the {02}{06}e!
+@107.2
+{02}{0B}d of the {02}{06}e\nhas fallen to the {02}{07}e army\nled by {01}C,{00}!
+@107.3
+{02}{0B}d of the {02}{06}e\nhas fallen to the {02}{07}e army!
+@108
+{02}{03}g's army\nhas failed to take {02}{0B}d.
+@109
+{02}{02}g, a message from the head clerk:\nthe trade with {02}{0B}d\nmade a profit of {02}$d kan.
+@110
+{02}{02}g,\nwe paid the {02}{06}e\na war levy of {02}$d kan.
+@111
+{02}{02}g, we paid war levies of {02}%d kan in all to the {02}$d daimyo houses we supply, the {02}{06}e among them.
+@112
+{02}{02}g,\nwe couldn't pay the war levy to the {02}{06}e,\nso we've been dismissed as purveyor.
+@113
+{02}{02}g,\nwe couldn't pay the war levy to the {02}$d\ndaimyo houses we serve as purveyor,\nstarting with the {02}{06}e. So those houses\nhave dismissed us as purveyor.

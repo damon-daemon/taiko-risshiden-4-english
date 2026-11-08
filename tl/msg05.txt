@@ -1,0 +1,134 @@
+@0
+Close as we are, I cannot simply teach my skills to someone who does not belong to our {02}{01}{A1}.
+@0.1
+Close as we are, I cannot teach my skills so readily.
+@0.2
+We are not yet close enough for me to teach you.
+@1
+...{01}C*{00}, training in that condition would be too much for you. You had better hold off this time.
+@2
+...I'm sorry, but I don't seem to have any skill good enough to teach you.
+@3
+These are the skills I can teach you. What would you like to learn?
+@4
+So you wish to learn %s. Given your ability, it will take %u days. Is that all right?
+@5
+Training in %s takes %u days. With the next council so close, you had better hold off this time.
+@6
+To train in %s, please first obtain %s.
+@7
+To master %s further, you will need %s worth {02}$d or more.
+@8
+These are the basics of %s, so any %s will do, I believe.
+@8.1
+To master %s further, you will need %s worth {02}$d or more.
+@9
+Hmm. Then I shall use {02}{15}d.
+@10
+Oh, training with a sick body, I cannot recommend it. Please make your body well first.
+@10.1
+Training? In that state? Forget it. Sorry, but I can't teach you like that.
+@10.2
+Training, you say? In your condition, that is a bit... Please refrain this time.
+@11
+Training in %s, I would like %m for it... But you do not have enough money, it seems.
+@11.1
+Training in %s? Looks like you don't even have %m. Sorry, but I can't teach you like that.
+@11.2
+Training in %s costs %m... but it seems you do not have enough money.
+@12
+Training in %s takes %u days. But you have a council soon, yes? This time, let us not do it.
+@12.1
+Training in %s takes %u days. You've got a council coming up, don't you? Leave it for now.
+@12.2
+Training in %s takes %u days. You should have a council coming up. Please refrain this time.
+@13
+Training in %s takes %u days. I take %m for it. That is good for you, yes?
+@13.1
+Training in %s takes %u days, and I'd like %m for it. That all right with you?
+@13.2
+Training in %s takes %u days, and the fee is %m. Is that acceptable?
+@14
+Now, there is nothing more I can teach you. All you must do is to cultivate, only.
+@14.1
+There's nothing more I can teach you. You're a real master now.
+@14.2
+It seems there is nothing more I can teach you. But please do not neglect your practice.
+@14.3
+It seems there's nothing more I can teach you. But don't neglect your practice.
+@15
+You worked very hard. I give this to you. Please use it very much.
+@15.1
+Here, take this. But don't stop here, mind. Aim higher.
+@15.2
+Please accept this. Do not let it make you proud; aim for still greater heights.
+@15.3
+I give you this. Do not let it make you proud; aim for still greater heights.
+@16
+
+@16.1
+
+@17
+Wonderful. It is no lie to say you have mastered %s.
+@17.1
+You became very good. But you did not master %s yet. Please become even better.
+@17.2
+For the basics of %s, this is good. But to master %s, the road is long. Please become better.
+@17.3
+Well done. It's no exaggeration to say you've mastered %s.
+@17.4
+You've come a long way. But you can't say you've mastered %s yet. Aim higher.
+@17.5
+You've got the basics of %s down. Mastering %s is a long road, though. Keep at it.
+@17.6
+Splendid. It is no exaggeration to say you have mastered %s.
+@17.7
+You have improved a great deal. Yet you cannot say you have mastered %s. Please aim higher still.
+@17.8
+You have learned the basics of %s. But the road to mastering %s is long. Please keep practising.
+@17.9
+Splendid. It is no exaggeration to say you have mastered %s.
+@17.10
+You have improved a great deal. But you cannot yet say you have mastered %s. Aim higher still.
+@17.11
+You have learned the basics of %s. But the road to mastering %s is still long. Keep practising.
+@18
+Still not so good. Please become better.
+@18.1
+Not very good. Please become better.
+@18.2
+That was quite good. Please come again.
+@18.3
+That was very good. Please come again.
+@18.4
+You've got a long way to go. But it's not wasted experience, so keep at it.
+@18.5
+Not a great result. But it's not wasted experience, so keep at it.
+@18.6
+That showed real promise. Keep working at it.
+@18.7
+A pretty good result. Well, keep up the practice.
+@18.8
+You have a long way to go. Yet this experience is not wasted. Please keep practising.
+@18.9
+That was not a very good result. Yet this experience is not wasted. Please keep practising.
+@18.10
+That showed real promise. Please keep practising.
+@18.11
+A very good result. Do not let it make you proud; keep up your practice.
+@18.12
+You have a long way to go, but this experience isn't wasted. Keep practising.
+@18.13
+Not a very good result, but this experience isn't wasted. Keep practising.
+@18.14
+That showed real promise. Keep practising.
+@18.15
+A very good result. Do not let it make you proud; keep up your practice.
+@19
+%s experience rose slightly.
+@19.1
+%s experience rose a little.
+@19.2
+%s experience rose somewhat.
+@19.3
+%s experience rose.

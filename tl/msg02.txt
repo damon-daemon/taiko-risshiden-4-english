@@ -1,0 +1,502 @@
+@0
+I've received the {02}{1F}e x%u, sure enough. Please give my regards to the master of the {02}{0B}d guild.
+@0.1
+Got the {02}{1F}e x%u, sure enough. Give my regards to the master of the {02}{0B}d guild, then.
+@1
+I have received the {02}{1F}e x%u, sure enough. Please give my regards to the {02}{0B}d guild.
+@2
+Oh, it's you! You're late! The agreed date has passed!
+@3
+You're late! The deadline has already passed!
+@4
+I'm sorry, but I can no longer finish the job I took on.
+@5
+If that's how it is, it can't be helped.
+@6
+If that's how it is, it can't be helped.
+@7
+The {02}{1F}e I gave you is {02}$d short!
+@8
+The {02}{1F}e I gave you is {02}$d short!
+@9
+The {02}{15}d I gave you is missing!
+@10
+The {02}{15}d I gave you is missing!
+@11
+Then I'll have you pay for the goods out of your purse.
+@12
+Then I shall have you pay for the goods out of your purse.
+@13
+Then I'll have you return the %u kan of capital I gave you.
+@14
+Then I shall have you return the %u kan of capital I gave you.
+@15
+Even with all the money you've got on you, you're still %m short.
+@16
+Even with all the money you have on you, you are still %m short.
+@17
+You'll leave something of value behind.
+@18
+I'll have you leave something of value behind.
+@19
+{02}{15}d was confiscated!
+@20
+Well, that covers the capital, I suppose. From now on, mind you don't spend the capital.
+@21
+It's not enough! I'll send my men to your house to collect the rest.
+@22
+Paid %m from savings at home.
+@23
+What a lot of trouble you've caused me. Kindly leave.
+@24
+Still not enough! Well, then there's no choice. Sensei! If you please!
+@25
+What a joke of a fellow! You'll learn the hard way what happens if you don't pay up!
+@26
+What a lot of trouble you've caused! Get out!
+@27
+Finished the job I asked for?
+@28
+Have you finished the job I asked for?
+@29
+Then get it done quick.
+@30
+Then please be quick about it.
+@31
+Then let's hear the results.
+@32
+Then let us hear the results.
+@33
+Sorry, but I could only get %u of the {02}{1F}e.
+@34
+Got the {02}{1F}e x%u, just as you asked.
+@35
+Got the {02}{15}d, just as you asked.
+@36
+Delivered the {02}{1F}e x%u to the {02}{0B}d guild safely.
+@37
+Delivered the {02}{15}d to {02}{03}g safely.
+@38
+Sorry, but I could only collect %u kan from {02}{03}g.
+@39
+Collected the full %u kan from {02}{03}g, just as you asked.
+@40
+Surveyed the specialties of every town in the region you asked about.
+@41
+Sorry, but I couldn't survey all of the towns.
+@42
+I'd hoped you'd do a little more... Can't be helped.
+@43
+I had hoped you would do a little more... Well, it can't be helped.
+@44
+You've got the hang of trade now. You'll be needing this soon... It's yours!
+@45
+You seem to have got the hang of trade. You will be needing this soon... Please accept it.
+@46
+This'll make travelling the roads easier. Business will boom even more! Keep it up.
+@47
+This will make travelling the roads easier. Business will boom even more! I'm counting on you.
+@48
+Oh yes, aren't you often attacked by bandits when you carry trade goods? Use this when that happens!
+@49
+Oh yes, aren't you often attacked by bandits when you carry trade goods? Please use this then.
+@50
+With this, you'll drive off the likes of bandits with ease. Put it to good use.
+@51
+With this, you will drive off the likes of bandits with ease. Please put it to good use.
+@52
+Oh! Thanks for the hard work! Well done.
+@53
+Oh! Thank you for your trouble! Well done.
+@54
+Here's your reward of %m. Take it.
+@55
+Here is your reward of %m. Please take it.
+@56
+The job doesn't look finished. Too much for you, is it?
+@57
+The job doesn't seem finished. Is it too much for you?
+@58
+What! I shouldn't have asked you in the first place.
+@59
+I see... I shouldn't have asked you in the first place.
+@60
+Welcome.
+@61
+Well, well, welcome.
+@62
+Hey, welcome.
+@63
+What can I do for you?
+@64
+What can I do for you?
+@65
+What do you need?
+@66
+Hey, making money?
+@67
+Welcome.
+@68
+Well, well, welcome.
+@69
+Welcome.
+@70
+I've come to deliver {02}{1F}e at the request of the {02}{0B}d guild.
+@71
+Oh, I've been waiting. Let me check the count, then. One, two, three...
+@72
+Oh, I have been waiting for you. Let me check the count, then. One, two, three...
+@73
+That's {02}$d short of what I asked for. I can't take it like this. Come back again.
+@74
+That's {02}$d short of what I asked for. I can't accept it like this. Please come back again.
+@75
+You've taken on another job, haven't you? I can't give you work until that's done. Go and finish it.
+@76
+You have taken on another job, haven't you? I can't give you work until that's done. Please finish it first.
+@77
+Right now {02}{0B}d has these jobs. Which will you do?
+@78
+Right now {02}{0B}d has these jobs. Which will you take?
+@79
+I see. Come again if you feel like it.
+@80
+I see. Please come again if you feel like it.
+@81
+You're carrying too much money; you can't take the capital. Can't give you this job.
+@82
+You are carrying too much money to take the capital. I can't give you this job.
+@83
+No room for cargo, it seems. Can't give you this job.
+@84
+You seem to have no room for cargo. I can't give you this job.
+@85
+No room to carry goods, it seems. Can't give you this job.
+@86
+You seem to have no room to carry goods. I can't give you this job.
+@87
+Then I'm counting on you. If you run into trouble, talk to the guild master in a nearby town.
+@88
+Then I'm counting on you. If you run into trouble, please talk to the guild master in a nearby town.
+@89
+There's no work right now. Sorry, I'll ask you another time.
+@90
+There is no work right now. I'll ask you another time.
+@91
+You can't carry any more unless you sell something.
+@92
+You can't carry any more unless you sell something.
+@93
+If you buy any more, it'll be too heavy to carry.
+@94
+If you buy any more, it will be too heavy to carry.
+@95
+Sorry, it's all sold out. Come again next month.
+@96
+Sorry, it's all sold out. Please come again next month.
+@97
+Oh, you've got a free-market licence. Then you're exempt from the 20% purchase tax.
+@98
+Oh, you have a free-market licence! Then you are exempt from the 20% purchase tax.
+@99
+Without a free-market licence, there's a 20% purchase tax.
+@100
+Without a free-market licence, there is a 20% purchase tax.
+@101
+There are no specialties here in {02}{0B}d. What will you buy?
+@102
+There are no specialties here in {02}{0B}d. What will you buy?
+@103
+There are no specialties here in {02}{0B}d yet. What will you buy?
+@104
+There are no specialties here in {02}{0B}d yet. What will you buy?
+@105
+The specialty of {02}{0B}d is %s. What will you buy?
+@106
+The specialty of {02}{0B}d is %s. What will you buy?
+@107
+%s goes for %m. How many will you buy?
+@108
+%d of %s comes to %m. Buying?
+@109
+%d of %s comes to %m. Will you buy?
+@110
+Then how about %m?
+@111
+Then how about %m?
+@112
+Hmm... All right! How about %m?
+@113
+Hmm... Very well! How about %m?
+@114
+Then how about %m? I can't go any lower.
+@115
+Then how about %m? I can't go any lower.
+@116
+Ugh, I don't have enough money...
+@117
+Right, I'll buy!
+@119
+I see... See you, then.
+@120
+I see... Another time, then.
+@121
+You won't buy at this price?! Are you making a fool of my business?! Get out.
+@122
+You won't buy at this price?! Don't make light of my business. Please leave.
+@123
+Your purse is full. You'd better buy something or put money in savings, don't you think?
+@124
+Your purse is full. You had better buy something or put money in savings, don't you think?
+@125
+Looks like you've got nothing to sell.
+@126
+You seem to have nothing to sell.
+@127
+Which goods will you sell?
+@128
+Which goods will you sell?
+@129
+%s goes for %m. How many will you sell?
+@130
+%d of %s comes to %m. Selling?
+@131
+%d of %s comes to %m. Will you sell?
+@132
+Then how about %m?
+@133
+Then how about %m?
+@134
+Hmm... All right! How about %m?
+@135
+Hmm... Very well! How about %m?
+@136
+Then how about %m? I can't go any higher.
+@137
+Then how about %m? I can't go any higher.
+@138
+Right, I'll sell!
+@140
+I see... See you, then.
+@141
+I see... Another time, then.
+@142
+You won't sell at this price! Are you making a fool of my business?! Get out.
+@143
+You won't sell at this price?! Don't make light of my business. Please leave.
+@144
+{01}C{89}{08}, you can only invest in units of 1 kan. Bring more money.
+@145
+You say the nicest things! {02}{0B}d will prosper all the more. How much will you invest?
+@146
+I see... Too bad. Another time, then.
+@147
+I see... A pity. Please ask again if you feel like it.
+@148
+So you'll invest %u kan in {02}{0B}d?
+@149
+Oh! Just what I'd expect of {02}{02}g{01}C{8A}{08}! I'll put it to good use.
+@150
+What's that? Ah, looking into the specialties here, are you.
+@151
+What is it? Ah, you are looking into the specialties here.
+@152
+No specialties in {02}{0B}d. Sorry about that.
+@153
+There are no specialties in {02}{0B}d. Sorry about that.
+@154
+No specialties in {02}{0B}d yet. Some day I want to make one that beats anywhere else.
+@155
+There are no specialties in {02}{0B}d yet. Some day I would like to make a great one.
+@156
+The specialty of {02}{0B}d is %s. The going rate now is about %m. It's %s.
+@157
+Oh! So you're one of the townsmen! That changes things. Take this.
+@158
+Oh! So you are one of the townsmen! That changes things. Please take this.
+@159
+With this, you'll know the market prices at a glance without having to ask.
+@160
+With this, you will know the market prices at a glance without having to ask.
+@161
+{02}{1F}e, is it? That's a specialty of this town.
+@161.1
+{02}{1F}e, is it... That's a specialty of {02}{0B}d, if I remember right.
+@162
+{02}{1F}e, is it? They sell that in this town.
+@162.1
+{02}{1F}e, is it... They sell that in {02}{0B}h.
+@162.2
+{02}{1F}e, is it... They sell that in {02}{0B}d, if I remember right.
+@163
+{02}{1F}e, is it... I'm sorry, but I don't know. Truly...
+@164
+{02}{15}d, is it... I believe {02}{03}g in {02}{0B}d has one.
+@165
+{02}{15}d, is it... You'd have to buy it from a merchant who travels the country, or get it from a tavern landlady.
+@165.1
+The merchants who travel the country go back and forth between Odawara and Sakai, Sakai and Hakata, and Odawara and Hakata.
+@165.2
+To get goods from a tavern landlady, you need to gamble at the tavern and win big.
+@165.3
+Whatever you buy, you must have it appraised before you take it along.
+@166
+{02}{0B}d... That's this town.
+@166.1
+{02}{0B}d... It's a town in {02}{0B}g, {02}{0B}h.
+@167
+{02}{03}g, is it... the {02}{03}l of {02}{06}e. I believe they're in {02}{0B}d.
+@168
+{02}{03}g, is it... I believe they're in this town.
+@168.1
+{02}{03}g, is it... I believe they're in {02}{0B}d.
+@169
+{02}{03}g, is it... the {02}{03}l of {02}{06}e. I believe they're in {02}{0B}d.
+@170
+{02}{03}g, is it... I believe they're in this town.
+@170.1
+{02}{03}g, is it... I believe they're in {02}{0B}d.
+@171
+Truth is, there's a sweet shortcut in guild work... Well, you'll have to find it yourself.
+@172
+What's that? Sorry, I'm busy right now. No time for idle chatter.
+@172.1
+Do you know how many days it takes to cross this country, from Matsumae in the north to Kagoshima in the south? About 30 days.\nSo with 60 days, most any job should be doable.
+@172.2
+The basic trick to making money with trade goods: buy a specialty in the town that makes it, and sell it in a town that doesn't sell it. That's all.
+@172.3
+If you want to profit from trade goods, train your "Accounting" first. The draw is that you get more chances to haggle.
+@172.4
+"Speech" also matters for profiting from trade goods. It raises your success rate when haggling.
+@172.5
+Even towns that seem to have no specialty may produce one once they grow larger.\nSo that's why investing matters!
+@172.6
+Even towns with a specialty may produce a more profitable one when they reach full size.\nSo that's why investing matters!
+@172.7
+The bigger the town, the cheaper the same trade goods are to buy and the dearer they sell. Only by a little, mind.
+@172.8
+Trade goods sell for 70% of their purchase price.\n\nSo selling them in a town where they cost about the same to buy only loses you money.
+@173
+Let me get straight to business. I am holding {02}{15}d from the {02}{0B}d guild.
+@174
+Oh, the goods I asked the {02}{0B}d guild for. I've received them.
+@175
+Let me get straight to business. I am here to collect the {02}$d kan you owe the {02}{0B}d guild.
+@176
+Oh! {01}C{8F}{08}. Then, {01}C{91}{08}! {02}$d kan.
+@177
+O-oh! {01}C{8F}{08}... but right now I only have {02}$d kan on hand. I'll pay the rest another time...
+@178
+What's that? Ah, looking into the prices of specialties and trade goods here, are you.
+@179
+What is it? Ah, you are looking into the prices of specialties and trade goods here.
+@180
+Well, have a look at this.
+@181
+Well, here are the details.
+@182
+
+@182.1
+
+@183
+Thank you very much
+@183.1
+Thanks
+@184
+
+@184.1
+
+@185
+Sir
+@185.1
+Look
+@186
+\_the Great
+@186.1
+
+@187
+
+@188
+
+@188.1
+
+@189-189.*
+
+@190-190.*
+
+@191
+Thank you for your trouble
+@191.1
+Well done
+@191.2
+Thanks for your trouble
+@191.3
+Thanks for your trouble
+@191.4
+Thank you for your trouble
+@191.5
+Thank you for your trouble
+@191.6
+Thanks for your trouble
+@191.7
+Thank you for your trouble
+@193
+Here you are
+@193.1
+Here you are
+@193.2
+Here
+@193.3
+Here you are
+@193.4
+Here
+@193.5
+Here
+@193.6
+Here you are
+@193.7
+Here you are
+@193.8
+Here you are
+@193.9
+Here
+@193.10
+Here you are
+@194
+Well then
+@194.1
+Well then
+@194.2
+Well then
+@194.3
+Well then
+@194.4
+Well then
+@194.5
+Farewell
+@194.6
+Well then
+@194.7
+Well then
+@194.8
+Farewell
+@195
+Oh, you want to become a merchant? Shall I explain the merchant's world?
+@196
+Then let me explain the merchant's world briefly.\n\nMerchants have four ranks, from lowest: "Apprentice," "Clerk," "Head Clerk" and "Townsman."\nChoosing [Enrol] at a guild makes you an "Apprentice," and then you can [Enrol] at a merchant house.\nJoin a merchant house, train under your master and rise in rank; as a "Townsman" you are a full merchant.\nWhile you are an "Apprentice," "Clerk" or "Head Clerk," unless you are training under a master, you are no different from a ronin.
+@197
+If you tire of training under your master, go to him and say [Quit].\nEven as a "Townsman," you can quit being a merchant any time by declaring [Quit] at your own shop.\nBut if you quit after becoming a "Townsman," you can never become a merchant again, so be careful.\nWell, that's about it.
+@198
+So, let me check once more: you really want to become a merchant?
+@199
+Right! Now you're an apprentice merchant too.
+@200
+First, train under a master. Go to a merchant house in town and become an apprentice. Good luck!
+@201
+I see. Well, if you change your mind, give me a shout.
+@202
+(I'm in the middle of a ninja job right now... I must finish that first...)
+@203
+Thanks, but any more investment and I'd have nothing to use it on. So... I'll just take the thought.
+@204
+A kind offer, but any further investment would have no use here. So... I shall accept only the kind thought.

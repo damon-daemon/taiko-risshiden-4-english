@@ -24,7 +24,7 @@ their block and checked: lines per page, the message buffer (window blocks), and
 whole message re-parsed must keep the Japanese structure.
 
 usage:
-    tl.py show  NN [from] [to]     # print Japanese units (codes visible) to translate
+    tl.py show  NN [from] [to] [--todo]  # print Japanese units (codes visible) to translate
     tl.py apply NN [batch.txt]     # merge batch into tl/msgNN.txt, validate, rebuild
                                    # script/msg/msgNN.json (no batch: tl/msgNN.txt only)
     tl.py stats                    # progress per block
@@ -554,8 +554,35 @@ def context(toks, a):
             break
     return ''
 
-def show(n, a=0, b=None):
+TR5_MSG = os.path.expanduser('~/Projects/taiko_risshiden_5_translation/script/msg')
+_TR5 = None
+
+def tr5_hints():
+    """{Japanese unit text (codes removed): TR5 English of that unit} from TR5's script/msg
+    (same Koei wording; its insert codes differ, so the hint is a model, not a copy)."""
+    global _TR5
+    if _TR5 is None:
+        _TR5 = {}
+        if os.path.isdir(TR5_MSG):
+            for f in sorted(os.listdir(TR5_MSG)):
+                for r in json.load(open(os.path.join(TR5_MSG, f), encoding='utf-8')):
+                    if not r['en']:
+                        continue
+                    try:
+                        jt, js = msgscript.units(text.encode(r['jp']))
+                        et, es = msgscript.units(text.encode(r['en']))
+                    except (msgscript.ParseError, ValueError):
+                        continue
+                    if len(js) != len(es):
+                        continue
+                    for (a, z), (c, d) in zip(js, es):
+                        key = b''.join(t for k, t in jt[a:z] if k == 'text')
+                        _TR5.setdefault(key, unit_str(et[c:d]).replace('\n', '\\n'))
+    return _TR5
+
+def show(n, a=0, b=None, todo=False):
     rows = load(n)
+    hints = tr5_hints()
     path = os.path.join(TL, 'msg%02d.txt' % n)
     done = expand(parse_tl(path), rows) if os.path.exists(path) else {}
     for r in rows[a:b]:
@@ -563,8 +590,13 @@ def show(n, a=0, b=None):
         for u, (x, z) in enumerate(spans):
             jp = unit_str(toks[x:z])
             ctx = context(toks, x)
+            if todo and (r['id'], u) in done:
+                continue
             print('@%d%s%s%s  %s' % (r['id'], '.%d' % u if u else '', ' [done]' if (r['id'], u) in done else '',
                                      '  # ' + ctx if ctx else '', jp.replace('\n', '⏎')))
+            hint = hints.get(b''.join(t for k, t in toks[x:z] if k == 'text'))
+            if hint:
+                print('    TR5: ' + hint.replace('\n', '⏎'))
 
 def stats():
     tot = done = 0
@@ -580,7 +612,8 @@ def stats():
 if __name__ == '__main__':
     cmd = sys.argv[1] if len(sys.argv) > 1 else ''
     if cmd == 'show':
-        show(int(sys.argv[2]), *(int(x) for x in sys.argv[3:5]))
+        args = [a for a in sys.argv[2:] if a != '--todo']
+        show(int(args[0]), *(int(x) for x in args[1:3]), todo='--todo' in sys.argv)
     elif cmd == 'apply':
         sys.exit(0 if apply(int(sys.argv[2]), sys.argv[3] if len(sys.argv) > 3 else None) else 1)
     elif cmd == 'stats':

@@ -1,0 +1,1082 @@
+@0
+Hm, {01}C*{00}...\nWhat a coincidence, meeting in a place like this. Well, do your best. I look forward to the next council. Now, farewell.
+@0.1
+Hm, {01}C*{00}...\nOf all places, to meet {01}C!{00} here. Well, I know how {01}C!{00} will fare. I look forward to the next council. No reason to stay. Farewell.
+@1
+Hm, {01}C*{00}...\nWhat a coincidence, meeting you in a place like this. Well, do your best. I look forward to the next council. Now, farewell.
+@2
+Welcome.
+@3
+What can I do for you today?
+@4
+Which prices would you like to know?
+@5
+We trade in units of a thousand koku. We buy at {02}$d kan and sell at {02}%d kan.
+@6
+Rice prices for this whole region will cost you %m.
+@7
+Will you pay %m?
+@8
+Thank you very much. Rice prices in this region are as follows.
+@9
+Oh! Forgive me, I didn't realise you were a townsman. Then please, take this.
+@10
+With this, you will know the prices from now on without having to ask us.
+@11
+I see. Very well.
+@12
+I'm very sorry. We're out of rice at the moment.
+@13
+Forgive me, but your castle has plenty of provisions.
+@14
+We trade in units of a thousand koku. We sell at {02}$d kan per thousand koku. We can sell you up to {02}%d,000 koku.
+@15
+I'm very sorry. With the money you have, we can't sell to you.
+@16
+How many thousand koku will you buy?
+@17
+{02}$d,000 koku comes to {02}%d kan. Is that all right?
+@18
+Then how about {02}$d kan?
+@19
+Hmm...... Then how about {02}$d kan?
+@20
+Very well, I'll give you a discount. How about {02}$d kan?
+@21
+I'm sorry, but we have a business to run too...... Please come again another time.
+@22
+Thank you for your custom. Please come again.
+@23
+I see...... Then we'll look forward to another time.
+@24
+I'm very sorry, but you don't seem to have any provisions.
+@25
+Forgive me, but your castle doesn't have enough provisions to trade.
+@26
+We trade in units of a thousand koku. We buy at {02}$d kan per thousand koku.
+@27
+How many thousand koku will you sell?
+@28
+{02}$d,000 koku comes to {02}%d kan. Is that all right?
+@29
+Then how about {02}$d kan?
+@30
+Hmm...... Then how about {02}$d kan?
+@31
+Very well, I'll stretch a little. How about {02}$d kan?
+@32
+Welcome.
+@33
+What are you looking for today?
+@34
+Which prices would you like to know?
+@35
+Horses in this town go for {02}$d{03}*%10 kan per ten head.
+@36
+Horse prices for this whole region will cost you %m.
+@38
+Thank you very much. Horse prices in this region are as follows.
+@42
+I'm very sorry. We're out of warhorses at the moment.
+@43
+Forgive me, but your castle has plenty of warhorses.
+@44
+I'm very sorry. With the money you have, we can't sell to you.
+@45
+Oh, that's right! There's a peddler here just now. Let me introduce you.
+@46
+Good day, sir! My, you're a lucky man! I've got a fine deal for you!
+@47
+I've just come back from Oshu with horses I bought dirt cheap!
+@48
+I meant to sell all 100 head to the master here, but I hear you want horses too, sir.
+@49
+Meeting you here must be fate! You simply must buy them, sir!
+@50
+The price here is {02}$d kan for ten head... All right then, 100 kan per ten! I'll sell you all 100 head at that!
+@51
+What do you say, sir! My 100 head for 1,000 kan! You've got to buy them!
+@52
+Don't say that, sir! You won't get a chance like this again! You've got to buy them!
+@53
+You won't buy them...? I thought it was a fine chance, but oh well, can't be helped.
+@54
+Well then, I'll be off...\n...Ah, what a waste...
+@55
+...Oh, he's gone. Sir, was that all right?
+@56
+But that price was far too cheap. It'd be trouble if he palmed off something strange on you... Now, shall we do business properly?
+@57
+That's the way, sir! You've a good eye! The horses are tied up over there. Much obliged!
+@58
+That price is far too cheap. Something's fishy... Let's go and check together.
+@59
+When the two went to the place the peddler mentioned......
+@60
+......there were indeed 100 horses.
+@61
+Oh, they're proper horses. Lucky you, sir. You've made a good purchase.
+@62
+......there were, believe it or not, 100 "deer"!
+@63
+Oh dear...... Those are deer, aren't they! You've been had......
+@64
+I'm so sorry...... sir.
+@65
+We sell warhorses in units of ten. Right now it's {02}$d kan per ten. We can sell you up to {02}%d head.
+@66
+How many will you buy?
+@67
+{02}$d head comes to {02}%d kan. Is that all right?
+@68
+Then how about {02}$d kan?
+@69
+Hmm...... Then how about {02}$d kan?
+@70
+Very well, I'll give you a discount. How about {02}$d kan?
+@71
+I'm sorry, but we have a business to run too...... Please come again another time.
+@72
+Thank you very much. Please come again.
+@73
+I see...... Then we'll look forward to another time.
+@74
+Welcome.
+@75
+What'll it be?
+@76
+Sake is %m a cup. But you don't seem to have enough money.
+@77
+Sake is %m a cup. Will you have a drink?
+@78
+You can hold your drink, customer. If you like our sake, why not buy some?
+@79
+Oh, I see. What a shame.
+@80
+Which one will it be?
+@81
+You can't seem to afford it with the money you have...
+@82
+You've already got plenty of {02}{15}d, haven't you?
+@83
+%s is %m each. How many will you buy?
+@84
+{02}$d bottles will be %m. Is that all right?
+@85
+Thanks very much.
+@86
+Oh, you're with them? Shame... the sake's good too. So, what will you play?
+@87
+Hm? Who are you?
+@88
+I see, this is the first time I've met {01}C!{00}. I am {02}{01}g.
+@88.1
+Pleased to meet you. I am {02}{01}g.
+@88.2
+Pleased to meet you. My name is {02}{01}g.
+@89
+You look like you can handle yourself. Draw! Let's fight!
+@89.1
+What, one of the {02}{02}{A1}! How dare you show your face! Draw! Let's fight!!
+@90
+Oho, Lord {02}{02}g...... Well, well, a pleasure. My name is {02}{01}g.
+@90.1
+Oho...... a ronin, is it? A pleasure.
+@90.2
+Oh, forgive my rudeness. {01}C*{00}, pleased to meet you. My name is {02}{01}g.
+@90.3
+Oho, so it's {01}C*{00}. I look forward to knowing you.
+@90.4
+Oho, so you are {02}{02}g. What a surprising place to meet.
+@90.5
+{01}C*{00}... of the {02}{02}{A1}? Forgive me, I don't know you... I am {02}{01}g of the {02}{01}{A1}.
+@90.6
+{01}C*{00}... of the {02}{02}{A1}. Forgive my rudeness. I am {02}{01}g of the {02}{01}{A1}.
+@90.7
+Oho, so it's {01}C*{00}. Forgive my rudeness. I am {02}{01}g of the {02}{01}{A1}.
+@90.8
+Oh, so it's {01}C*{00}. Forgive my rudeness. I am {02}{01}g of the {02}{01}{A1}.
+@91
+You! How dare you show your face!! I'll cut you down!!
+@92
+What do you want? I have nothing to say to {01}C!{00}. Farewell.
+@92.1
+What do you want? I have nothing to say to {01}C!{00}. Farewell.
+@92.2
+What do you want? I have nothing to say to {01}C!{00}. Farewell.
+@92.3
+What do you want! I don't even want to see your face. Farewell!
+@92.4
+Oh, it's {01}C*{00}.
+@92.5
+{01}C*{00}? What a coincidence.
+@92.6
+{01}C*{00}? What a coincidence.
+@92.7
+Oh, {01}C*{00}? What a coincidence.
+@93
+I seem to have had a bit too much. Excuse me.
+@93.1
+I can't share a table with one of the {02}{02}{A1}. I'll go drink somewhere else.
+@94
+Oh, sir!? I've just brought the sake you ordered...... What a waste.
+@95
+(Shall I buy them a drink?)
+@96
+(Oops, not enough money.)
+@97
+{01}C*{00}, let's drink together. It's on me.
+@97.1
+{01}C*{00}, let's drink together. It's on me.
+@98
+Oh, how kind!
+@99
+......By the way, {01}C*{00}, I have a favour to ask. Would you take me into your service?
+@100
+I can't stay idle forever. Won't you take me into your service?
+@101
+Sadly, I'm not yet of a rank to have subordinates.
+@102
+I see...... Then when you rise in the world, do call on me.
+@103
+(Shall I take {01}C*{00} into my service?)
+@104
+What! Really?! With {01}C*{00} on board, we're a hundred strong!
+@105
+I'm most grateful. Now I must prepare to set out, so I'll take my leave.
+@106
+Sadly, I have no room for more subordinates now.
+@107
+......A pity. Then, farewell.
+@108
+......Ahh, the sake is good!
+@109
+Hahaha......\n......Hic.
+@110
+Ugh, my head is spinning...... I seem to have drunk a bit too much. I'll take my leave for today.
+@111
+Today's drinks are on me. Don't hold back. Come, let's drink.
+@112
+(Shall I treat them to some sake?)
+@113
+By the way, I hear that in {02}{0B}d there is a technique called {02}{1A}e.
+@114
+Your skill with a gun is splendid. As far as I know, there are only a handful as good as you.
+@114.1
+Your skill with a gun is considerable. But if you want to polish it more, come to me.
+@114.2
+If you want to get better with guns, come to me.
+@114.3
+Don't you want to get better with guns? If you do, come to me.
+@114.4
+By the way, I hear {02}{1A}e is a magnificent sight. I'd like to see it once.
+@115
+Oh yes, with an introduction, you can trade cannons with the Nanban merchants in Sakai and Hirado.
+@116
+By the way, how have you been getting on lately?
+@117
+Let's see, I...
+@118
+(From this talk, I've learned how things stand at the castle!)
+@119
+Sake truly is the best of all medicines. It warms me to the core.
+@119.1
+Phew......\nDelicious.
+@119.2
+......Hmm.\nI seem to have drunk a bit much.
+@120
+Well, sorry, but I'll be going.
+@121
+Hey, you two! If you want to fight, do it somewhere else!! Don't get in the way of my business!
+@122
+Welcome.
+@123
+Will you be staying the night?
+@124
+Very well, just a rest then. Please take your time.
+@125
+It's %m a night, but forgive me, you don't seem to have enough with you.
+@126
+In your present condition, I'd recommend staying {02}$d days.
+@127
+A stay of {02}$d days will be %m. Is that all right?
+@128
+It's %m a night. How many nights will you stay?
+@129
+You won't be staying, then. Very well.
+@130
+Certainly, {02}$d nights. Please rest well.
+@131
+Oh, that's right. Please take this as a token of thanks for staying with us. Now, rest well......
+@132
+Good morning, sir. Did you sleep well?
+@133
+Eh? I may have this? I'm so happy! But sir...... you have a wife, so you needn't trouble yourself over someone like me.
+@133.1
+Eh? I may have this? I'm so happy! I'll treasure it!
+@134
+...You're giving this to me? Thank you very much. But sir...... you have a wife, so you needn't trouble yourself over someone like me.
+@134.1
+...You're giving this to me? Thank you very much.
+@135
+What's the matter? Well, have a good day.
+@136
+Good morning. Have a good day.
+@137
+The other day I went to the castle town of {02}{0B}d. This is how things stood there.
+@138
+The other day I went to {02}{0B}d, and someone called {02}{03}g was there.
+@139
+The other day I went to {02}{0B}d. Rice is cheap there: {02}{0B}{97}{03}*%10 kan per 1,000 koku.
+@140
+The other day I went to {02}{0B}d. Horses are cheap there: {02}{0B}{98}{03}*%10 kan per ten head.
+@141
+I work here. My name is {02}{01}g. Please keep using this inn.
+@142
+Welcome. Please take your time.
+@143
+Um...... sir? You're acting strangely. Is something wrong?
+@144
+Sir, what is this...? This is for me...?
+@145
+Um, forgive me if I'm wrong, but... may I take this as... a proposal of marriage?
+@146
+Thank you...\n...I'm so happy.\n\nI'm an inexperienced girl, but I'll serve you with all my heart. Please take care of me, my husband.
+@147
+I may have this? Thank you very much.
+@148
+...What's the matter? What a strange gentleman.
+@149
+There's a samurai in this town called {02}{03}g. Why not go and meet him once?
+@150
+On day {02}*g of month {02}*f, year {02}*e, {02}{01}g and {02}{02}f were married. In this age of war, a new couple was born.
+@151
+Oh, who might you be?
+@152
+Pleased to meet you. I am {02}{01}g.
+@153
+Oho...... a ronin, are you? Welcome to my home.
+@153.1
+You're with the {02}{02}{A1}? Welcome to my home.
+@154
+Oh, it's {01}C*{00}.
+@154.1
+{01}C*{00}? Welcome to my home.
+@154.2
+Oh, {01}C*{00}! Welcome to my home.
+@154.3
+Well, well, {01}C*{00}! You're most welcome here.
+@155
+What brings you here?
+@156
+{01}C*{00}, I have something important to discuss with you today.
+@157
+Yes, what is it?
+@158
+I'll be blunt. Lord {02}{03}f very much wishes to invite {01}C*{00} into his service.
+@159
+Me...?
+@160
+What do you say? I hope to hear a favourable answer.
+@161
+It is more than I deserve. Please, by all means, introduce me.
+@162
+Oh! Thank you very much. Our lord will surely be delighted.
+@163
+Then I'll prepare to set out at once. I'll see you in {02}{0B}d.
+@164
+It is more than I deserve, but...... let us pretend this talk never happened. Please leave for today.
+@165
+I see...... Very well.
+@166
+{01}C*{00}, I have something important to discuss with you today.
+@166.1
+{01}C*{00}, I have something important to discuss with you today.
+@167
+Yes, what is it?
+@167.1
+Yes, what is it?
+@168
+I'll be blunt. {01}C*{00}, will you serve me once more?
+@168.1
+I'll be blunt. {01}C*{00}, I would like to invite you to be my retainer.
+@169
+I'll be blunt. Would you not put your talents to use under Lord {02}{03}f?
+@170
+.........!
+@170.1
+Me...?
+@171
+I put {01}C!{00} through hardship for my own selfish reasons...... I'm sorry for it.
+@171.1
+I know this is sudden, but I hope to hear a favourable answer.
+@172
+What are you saying! I, {02}{01}g, have served no one and waited here to hear those very words. Let me once more serve you as your retainer with all my strength. I am in your hands.
+@172.1
+I'm most grateful. Please, by all means, let me join the lowest ranks of your retainers.
+@173
+I'm grateful...... With {01}C!{00} on our side, we're a hundred strong.
+@173.1
+Oh! Thank you! With {01}C!{00} on our side, we're a hundred strong.
+@177
+Who's there?\n...Oh, {01}C*{00}! It's {01}C*{00}!
+@177.1
+Welcome...\n...Oh, and who might you be?
+@177.2
+Oh, and who might you be?
+@178
+I'm home. {01}C*{00}, have you been well?
+@178.1
+Pleased to meet you. I am {02}{01}g.
+@179
+Coming home so suddenly, you gave me a fright! Well, come on, come in.
+@179.1
+Oh, so you are......\nI've heard about you from Tokichiro. Thank you for always looking after him.
+@179.2
+Oh, you're a samurai, aren't you? Welcome to a place like this.
+@180
+Oh, welcome home.
+@180.1
+Oh, {01}C*{00}, welcome. Thank you for always looking after Tokichiro.
+@180.2
+Oh, isn't that {01}C*{00}? Welcome.
+@181
+What's the matter today?
+@181.1
+What can I do for you today?
+@182
+{01}C*{00}, maybe I'm worrying too much, but shouldn't you be working instead of loafing around here?
+@182.1
+Is Tokichiro working properly? Even at his age, I still worry......
+@182.2
+Do you have a dream?
+@182.3
+Sir, there's nothing for you here.
+@183
+Oh, who might you be?
+@184
+Pleased to meet you. I am {02}{01}g.
+@185
+A ronin, are you? Well, I look forward to knowing you.
+@185.1
+So you're with the {02}{06}e. I hope for your patronage from now on.
+@186
+Welcome. Thank you for your custom.
+@186.1
+Well, well, {01}C*{00}, thank you for your custom.
+@186.2
+Well, well, {01}C*{00}, thank you for coming.
+@187
+Welcome.
+@188
+What can I do for you?
+@189
+Which item would you like?
+@190
+Forgive me, but you can't afford it with the money you have.
+@191
+You already have plenty of {02}{15}d.
+@192
+{02}{15}d is %m each. How many will you buy?
+@193
+That comes to %m. Is that all right?
+@193.1
+{02}{15}d? You have a good eye. That is a masterpiece. It comes to %m. Is that all right?
+@194
+Then how about %m?
+@195
+Hmm...... Then how about %m?
+@196
+I see...... Very well, I'll give you a discount. How about %m?
+@197
+I'm sorry, but we have a business to run too...... Please come again another time.
+@198
+Thank you very much. We hope to serve you again.
+@199
+I see...... Then another time, please.
+@200
+Forgive me, but you don't have any belongings.
+@201
+Which goods will you sell?
+@202
+For {02}{15}d, I can pay %m each. How many will you sell?
+@203
+That comes to %m. Is that all right?
+@203.1
+Oh, that's {02}{15}d. You'd sell me such a rare masterpiece? It comes to %m. Is that all right?
+@204
+I'm very sorry. We're out of guns at the moment.
+@205
+Forgive me, but Lord {02}{02}e's castle has plenty of guns.
+@206
+You'd like guns? We sell them at {02}$d kan each. We can sell you up to {02}%d.
+@207
+How many guns will you buy?
+@208
+{02}$d guns comes to {02}%d kan. Is that all right?
+@209
+Then I'll make it {02}$d kan. How about that?
+@210
+...I see. Then how about {02}$d kan?
+@211
+...Then I'll give you a discount. How about {02}$d kan?
+@212
+Oh, who might you be?
+@213
+Pleased to meet you. I am {02}{01}g.
+@214
+Oho, Lord {02}{02}g. Welcome.
+@215
+Ah, Lord {02}{02}g.
+@215.1
+Oh, it's {01}C*{00}.
+@215.2
+Ah, {01}C*{00}.
+@215.3
+Ah, {01}C*{00}. How is your health?
+@216
+What is the matter?
+@217
+Hmm, curing your illness will cost %m. You don't seem to have enough money.
+@218
+Curing your illness will cost %m. Is that all right?
+@219
+Well then, let me examine you.
+@220
+Yes, you're much better now. Ruin your health again and it will all be for nothing. Rest properly.
+@221
+I see. It's not my place to say, but... take good care of yourself.
+@222
+Which medicine do you need?
+@223
+You don't seem to have enough money.
+@224
+You seem to have plenty of {02}{15}d already.
+@225
+How many would you like?
+@226
+That's %m in all. Will you buy?
+@227
+Medicine is costly. Use it wisely.
+@228
+Welcome.
+@228.1
+It's {01}C*{00}. Welcome.
+@228.2
+Ah, {01}C*{00}. Welcome.
+@228.3
+Ah, {01}C*{00}. I've been expecting you.
+@229
+Are you here for tea ware? Or perhaps......
+@230
+Which shall I show you?
+@231
+Forgive me, but you can't afford it with the money you have.
+@232
+That item is %m each. How many will you buy?
+@233
+You already have plenty of {02}{15}d.
+@234
+Then I'll make it %m. Will you buy?
+@235
+Then how about %m?
+@236
+Not satisfied......? Then how about %m?
+@237
+Very well. Since it's {01}C*{00} asking, how about %m?
+@238
+I'm very sorry. Please leave for today.
+@239
+Thank you very much.
+@240
+I see. That's a shame.
+@241
+Forgive me, but you don't seem to have any tea ware.
+@242
+Which will you sell us?
+@243
+For {02}{15}d, I can pay %m. How many will you sell?
+@244
+Then I'll make it %m. Is that all right?
+@245
+Then how about %m?
+@246
+Not satisfied......? Then how about %m?
+@247
+Very well. Since it's Lord {02}{02}g asking, how about %m?
+@248
+You don't seem to have any unappraised tea ware.
+@249
+An appraisal costs %m. You don't seem to have enough with you.
+@250
+An appraisal? If {01}C*{00} asks, we won't take any money.
+@250.1
+An appraisal costs %m per item. Is that all right?
+@251
+Which shall I appraise?
+@252
+This is {02}{15}d.
+@253
+Oh, who might you be?
+@254
+Pleased to meet you. I am {02}{01}g.
+@255
+A ronin, are you? May the Buddha protect you.
+@255.1
+You're with the {02}{02}{A1}? May the Buddha protect you.
+@256
+Welcome.
+@256.1
+Oh, it's {01}C*{00}. Your visit is most welcome.
+@256.2
+Well, {01}C*{00}, welcome.
+@256.3
+Well, well, {01}C*{00}. I've wanted to see you.
+@257
+Welcome.
+@258
+What brings you here?
+@259
+You don't seem to have any unappraised books.
+@260
+An appraisal costs %m. You don't seem to have enough with you.
+@261
+An appraisal? If {01}C*{00} asks, we won't take any money.
+@261.1
+An appraisal costs %m per item. Is that all right?
+@262
+Which shall I appraise?
+@263
+This is {02}{15}d.
+@264
+Hey, it's you. Your %s{02}$d%s are ready. Here you go.
+@265
+Hey, you took your time. Your %s{02}$d%s were done long ago... Looks like they went to waste.
+@266
+Hey, it's you. Sorry, but they're not all done yet. Wait another {02}${CB} days.
+@267
+Oh, who are you?
+@268
+Pleased to meet you. I am {02}{01}g.
+@269
+A ronin? If it's smithing you want, ask me.
+@269.1
+You're with the {02}{02}{A1}? Thanks for coming all this way.
+@270
+Hey, it's you.
+@270.1
+Hey, {02}{02}e. Welcome.
+@270.2
+Hey, {02}{02}e. Make yourself at home.
+@270.3
+Well, isn't it {02}{02}e! Good of you to come.
+@271
+Need something?
+@272
+You want guns? They're {02}$d kan each. I can make you up to {02}%d.
+@273
+Sorry, you've got no money on you. Even I can't make them without money.
+@274
+But your castle seems to have plenty.
+@275
+So, how many will you order?
+@276
+{02}$d guns comes to {02}%d kan. That all right?
+@277
+All right, I'll make it {02}$d kan. How's that?
+@278
+Hmm......\nAll right, I'll make it {02}$d kan. How about that?
+@279
+Fine! I'll make it {02}$d kan. How's that?
+@280
+Tch, what a cheapskate. Go home for today!
+@281
+It'll take {02}$d days. That all right?
+@282
+Right, thanks. Come back in {02}$d days, then.
+@283
+I see, that's a shame. Well, come any time.
+@284
+You want cannons? They're {02}$d kan each. I can make you up to {02}%d.
+@285
+{02}$d cannons comes to {02}%d kan. That all right?
+@286
+All right, I'll make it {02}$d kan. How's that?
+@287
+Hmm......\nAll right, I'll make it {02}$d kan. How about that?
+@288
+Fine! I'll make it {02}$d kan. How's that?
+@289
+Weeelcome!
+@289.1
+It is Lord {02}{02}g. Weeelcome, come in.
+@289.2
+Oh, Lord {02}{02}e! Weeelcome, come in!
+@289.3
+Oh, {02}{02}f! I was waaaiting for you!
+@290
+What you neeed?
+@291
+Oh, with that money you cannot doonate.
+@292
+Oh, you make doonation? We accept from 1 kan. How much you doonate?
+@293
+To you, who always helps us, I give thiis.
+@294
+When you go to Nanban trading house, show them thiis. It will be useful, I think.
+@295
+God surely sees your nooble gift. May God bless you.
+@296
+Thank you veery much. May God bless you.
+@297
+Weeelcome.
+@297.1
+Oh, it's {02}{02}g. Weeelcome.
+@297.2
+Oh, {02}{02}e! Good of you to cooome!
+@297.3
+Oh, {02}{02}f! I was waiting for you to come!
+@298
+What you want?
+@299
+Which you want to seee?
+@300
+Excuse me, but with your money you cannot buuuy.
+@301
+You already have enough {02}{15}d, yes?
+@302
+That one is %m each. How many you buuuy?
+@303
+Then that is %m. It is good?
+@304
+Then how about %m?
+@305
+Oh, it is no good......? How about %m?
+@306
+Hmm, you beat me. Cannot be helped. How about %m?
+@307
+We cannot do business. Please go hoome.
+@308
+Thank yooou!
+@309
+Oh, that is veery sad.
+@310
+You have no iteems.
+@311
+Which will you seell?
+@312
+Oh, %s? I buy that for %m. How many you seell?
+@313
+Then how about %m?
+@314
+Oh, it is no good......? How about %m?
+@315
+Hmm, you beat me. Cannot be helped. How about %m?
+@316
+You have no unappraised Nanban goods, it seeems.
+@317
+Appraisal costs %m, but you have no money, it seeems.
+@318
+Oh, appraisal? If you ask, no money is neeeded.
+@318.1
+Appraisal costs %m. It is good?
+@319
+Which shall I appraaise?
+@320
+Oh!\nThis is {02}{15}d.
+@321
+I am sooorry. We have no cannons in stock.
+@322
+Excuse me, but your castle has plenty of cannons alreeady.
+@323
+Cannons are {02}$d kan each. We have {02}%d in stock.
+@324
+How many you want?
+@325
+{02}$d cannons is {02}%d kan. That is good?
+@326
+Then how about {02}$d kan?
+@327
+Oh, you trouble me......\nHow about {02}$d kan?
+@328
+You are stubborn...... hmm. Then how about {02}$d kan?
+@329
+I do not know thy face. Who art thou?
+@330
+Pleased to meet you. I am {02}{01}g.
+@331
+A man of the warrior class, then.
+@331.1
+One of the {02}{02}{A1}, then.
+@332
+What is your business? I shall hear it.
+@332.1
+Ah, what was thy name again......? What is thy business today?
+@332.2
+Ah, thou art of the {02}{02}{A1}. What is thy business today?
+@332.3
+Ah, {01}C*{00}. What is thy business today?
+@332.4
+Ah, if it isn't {01}C*{00}. Thou art most welcome.
+@333
+What wouldst thou do?
+@334
+A donation? But thou seemest to have no money with thee. Thou canst hardly donate like that.
+@335
+Oho, the {02}{02}{A1} would make a donation to the court? A fine sentiment.
+@336
+And how much will you donate?
+@337
+What!? Having offered once, thou wouldst now withdraw?
+@338
+Hmph! To offer and then withdraw... what a rude fellow.
+@339
+I am in a foul mood. Begone.
+@340
+{02}$d kan? To call such a sum a donation... what a rude fellow.
+@341
+{02}$d kan, is it? His Majesty will be pleased. Very well, follow me.
+@342
+I trust Your Majesty is in good spirits. It is I, Kikutei Harusue.
+@343
+Ah, Harusue. And what is your business?
+@344
+{02}{03}g of the {02}{03}{A1} wishes to make a gift to the court.
+@345
+Oho, is that so. This {02}{02}e... We thank you.
+@346
+Yes, Your Majesty! Please accept it.
+@347
+We are glad of your loyal service. We therefore appoint {02}{03}g as %s. We count on you.
+@347.1
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Fujiwara no Ason {02}{03}f as Regent. Continue to uphold this land and the court.
+@347.2
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Minamoto no Ason {02}{03}f as Shogun. Continue to uphold this land and the court.
+@347.3
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Taira no Ason {02}{03}f as Chancellor. Continue to uphold this land and the court.
+@347.4
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint {02}{03}g as Chancellor. Continue to uphold this land and the court.
+@348
+We are glad of your loyal service. We therefore appoint you as %s. We count on you.
+@348.1
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Fujiwara no Ason {02}{02}f as Regent. Continue to uphold this land and the court.
+@348.2
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Minamoto no Ason {02}{02}f as Shogun. Continue to uphold this land and the court.
+@348.3
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint Taira no Ason {02}{02}f as Chancellor. Continue to uphold this land and the court.
+@348.4
+We are deeply moved by your loyal service. Through your efforts, this long-troubled realm is at last finding peace. In reward, We appoint you as Chancellor. Continue to uphold this land and the court.
+@349
+Oh, the post of %s! Our old lord will surely be delighted!
+@350
+Oh, the post of %s! I am overwhelmed with gratitude!
+@350.1
+What, %s! I am... I am overwhelmed with gratitude!
+@351
+Good, good. You may both withdraw.
+@352
+Yes.\nThen, {01}C*{00}, I shall take my leave.
+@353
+Ah, you are Lord {02}{02}g. You have come at just the right time.
+@354
+......The right time?
+@355
+His Majesty has recognised your service and is pleased to grant you the post of %s. Accept it with humility.
+@356
+%s, for me...... It is more than I deserve. Please convey my thanks to His Majesty.
+@357
+Good. His Majesty will be pleased. You may withdraw.
+@358
+Yes.\nI take my leave.
+@359
+You are welcome here... but His Majesty seems busy. Come another time.
+@360
+Welcome. Your commission is finished. Please take it.
+@361
+Welcome. I'm sorry, but it isn't finished yet. Please wait another {02}${CB} days.
+@362
+Oh, who might you be?
+@363
+Pleased to meet you. I am {02}{01}g.
+@364
+A ronin, are you? Well, I look forward to knowing you.
+@364.1
+You're with the {02}{02}{A1}? Well, well, welcome.
+@365
+Welcome.
+@365.1
+Oh, it's {01}C*{00}. Welcome.
+@365.2
+Why, {01}C*{00}, welcome.
+@365.3
+Why, {01}C*{00}, I've been awaiting your visit.
+@366
+Can I help you?
+@367
+You wish to commission a work of art from me? I accept commissions for {02}$d kan......
+@368
+I'm sorry, but you don't seem to have enough money with you......
+@369
+Will you pay?
+@370
+I see...... It seems you don't appreciate art. A great pity.
+@371
+As expected of one who understands art. My hands are itching to begin.
+@372
+It will take about {02}$d days. Is that all right?
+@373
+Thank you for understanding. Then please come to collect it in {02}$d days.
+@374
+You don't seem to have any unappraised belongings.
+@375
+An appraisal costs %m...... You don't seem to have enough with you.
+@376
+An appraisal? Certainly. If {01}C*{00} asks, we won't take any money.
+@376.1
+An appraisal costs %m per item. Is that all right?
+@377
+Which shall I appraise?
+@378
+Hmm...... I'm sorry. This is beyond me. I could judge scrolls or screens, but...
+@378.1
+Hmm...... I'm sorry. This is beyond me. I could judge art or treasures, but...
+@378.2
+Hmm...... I'm sorry. This is beyond me. I could judge art, treasures or books, but...
+@379
+This is {02}{15}d.
+@380
+You say you want to train in this town to become a merchant?
+@381
+If you're serious, move to this town first. Then come back.
+@382
+I see. Shall I explain the road to becoming a merchant?
+@383
+Briefly, then. A merchant has four ranks: "Apprentice", "Clerk", "Head Clerk" and "Townsman". Once you join a merchant house, you get tasks for the next rank. Completing them is your training. They vary with the rank you aim for, but all build your basics as a merchant. Complete the tasks and you can take an exam. Pass, and you rise to the next rank. If you already hold a rank above "Apprentice", you train for the one after it.
+@384
+But if you ever break off your training, the merchant record you built up doing guild jobs is lost, so be careful. Training ends when you finally become a "Townsman". You'll then set up shop as a merchant of your own, but we'll talk about that when you get there. Also, you can't move house while training. You can move again once you become a townsman or quit your training. That's about it.
+@385
+Let me check once more. You really want to train as a merchant?
+@386
+Then from now on I am your master. Work hard at your training until you can stand on your own as a merchant.
+@387
+I see. Then if you change your mind, come again.
+@388
+You seem to have plenty of merchant training already. Then here are the tasks to become a townsman, a merchant in your own right.
+@389
+You seem to have some merchant training. Then here are the tasks to qualify as head clerk.
+@390
+Then here are the tasks to qualify as clerk.
+@391
+There are three tasks.\nOne: own a Nanban item of value 7 or more.\n\nOne: build a merchant record by doing guild jobs. Done properly, {01}C{C8}{20}\nOne: create a speciality for {02}{0B}d. Try talking to the guild master.\nWell, good luck.
+@392
+you'll need about 1 job.
+@392.1
+you'll need about 2 jobs.
+@392.2
+you'll need about 3 jobs.
+@392.3
+you'll need about 4 jobs.
+@392.4
+you'll need about 5 jobs.
+@392.5
+you'll need about 6 jobs.
+@392.6
+you'll need about 7 jobs.
+@392.7
+you'll need about 8 jobs.
+@392.8
+you'll need about 9 jobs.
+@392.9
+you'll need about 10 jobs.
+@392.10
+you'll need about 11 jobs.
+@392.11
+you'll need about 12 jobs.
+@392.12
+you'll need about 13 jobs.
+@392.13
+you'll need about 14 jobs.
+@392.14
+you'll need about 15 jobs.
+@392.15
+you'll need about 16 jobs.
+@392.16
+you'll need about 17 jobs.
+@392.17
+you'll need about 18 jobs.
+@392.18
+you'll need about 19 jobs.
+@392.19
+you'll need about 20 jobs.
+@392.20
+you'll need about 21 jobs.
+@392.21
+you'll need about 22 jobs.
+@392.22
+you'll need about 23 jobs.
+@392.23
+you'll need about 24 jobs.
+@392.24
+you'll need about 25 jobs.
+@393
+There are two tasks.\nOne: own a Nanban item of value 7 or more.\n\nOne: build a merchant record by doing guild jobs. Done properly, {01}C{C8}{20}\nWell, good luck.
+@394
+There are two tasks.\nOne: master the Tea skill.\n\nOne: build a merchant record by doing guild jobs. Done properly, {01}C{CB}{20}\nWell, good luck.
+@395
+you'll need about 1 job.
+@395.1
+you'll need about 2 jobs.
+@395.2
+you'll need about 3 jobs.
+@395.3
+you'll need about 4 jobs.
+@395.4
+you'll need about 5 jobs.
+@396
+There are two tasks.\nOne: master the Accounting skill.\n\nOne: build a merchant record by doing guild jobs. One ordinary job should do it.\nWell, good luck.
+@397
+You haven't completed your tasks yet. Shall I go over the ones that remain?
+@398
+I see. Then, good luck.
+@399
+The tasks that remain are... let me see......
+@400
+"Own a Nanban item of value 7 or more" isn't done yet, it seems.
+@401
+"Build a merchant record by doing guild jobs" isn't complete yet.\n\nFrom here, done properly, {01}C{C8}{20}\n\n{01}C{D2}{20}
+@402
+Turning down a job you've taken on will lower your record, so be careful.
+@403
+"Create a speciality for {02}{0B}d" isn't done yet, it seems. Why not talk to the guild master?
+@404
+"Master the Tea skill" isn't done yet, it seems. You can train at the tea master's house in Sakai.
+@405
+"Build a merchant record by doing guild jobs" isn't complete yet.\n\nFrom here, done properly, {01}C{CB}{20}\n\n{01}C{D2}{20}
+@406
+"Master the Accounting skill" isn't done yet, it seems. It's the basis of all trade.
+@407
+"Build a merchant record by doing guild jobs" isn't complete yet. One ordinary job should do it.
+@408
+You've completed all your tasks. Then I'll hold the {02}{1A}e exam. Are you ready?
+@409
+I see. Then come back when you're ready.
+@410
+Then the {02}{1A}e exam will begin.
+@411
+I'm sorry, but you've failed...... When you've collected yourself, come and take the exam again.
+@412
+Congratulations, you've passed! Well done.
+@413
+Now you too are qualified as a clerk. Next you'll aim to qualify as head clerk.\n\nHere are the tasks to qualify as head clerk.
+@414
+Now you too are qualified as a head clerk. Next you'll aim to become a townsman, a merchant in your own right. Here are the tasks to become a townsman.
+@415
+Now you too stand on your own as a merchant. From now on we are neither master nor pupil, but fellow townsmen of {02}{0B}d. Let's both work hard at our trade.
+@416
+Now that you're independent, you must choose a shop name. What will you call it?
+@417
+I see, a fine name. Work hard to live up to it. Your shop should be ready when you return home. Choose [Go to %s]. Well, after such long training...... you've truly earned a rest.
+@418
+You want to quit your merchant training in this town?
+@419
+Then if you ever change your mind, come back. You're always welcome.

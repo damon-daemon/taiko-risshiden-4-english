@@ -1,0 +1,912 @@
+@0
+Ah, {01}C*{00}, I heard from the ninja. It was bad luck this time. I look forward to your work on the next mission.
+@0.1
+Ah, {01}C*{00}, I heard from the ninja. It was bad luck this time. I look forward to your work on the next mission.
+@0.2
+Ah, {01}C*{00}. I heard from the ninja; bad luck this time. I expect good work on the next mission.
+@1
+Ah, {01}C*{00}. I've been waiting. How is the mission going?
+@1.1
+Ah, {01}C*{00}. I've been waiting. How is the mission going?
+@1.2
+Ah, {01}C*{00}. I've been waiting. How is the mission going?
+@2
+Hm? It seems you haven't carried out your mission yet. Do you mean to abandon it?
+@2.1
+Hm? It seems you haven't carried out your mission yet. Do you mean to abandon it?
+@2.2
+Hm? You haven't carried out your mission yet? Do you mean to abandon it?
+@3
+What... I don't know the circumstances, but frankly, I'm rather disappointed.
+@3.1
+What... I don't know the circumstances, but frankly, I'm rather disappointed.
+@3.2
+Abandoning the mission... So that's all you're capable of. I'm disappointed.
+@4
+Well, I have business to attend to, so I'll take my leave...
+@4.1
+Well, I have business to attend to, so I'll take my leave...
+@4.2
+If there's nothing else, you may go.
+@5
+Then I look forward to good news.
+@5.1
+Then I look forward to good news.
+@5.2
+Then hurry and finish the mission.
+@6
+Ah, {01}C*{00}. I've been waiting. Have you completed the mission?
+@6.1
+Ah, {01}C*{00}. I've been waiting. Have you completed the mission?
+@6.2
+Ah, {01}C*{00}. I've been waiting. Did you complete the mission?
+@7
+I see. Then I'll wait a little longer.
+@7.1
+I see. Then I'll wait a little longer.
+@7.2
+Then finish it as soon as you can.
+@8
+Ah, {01}C*{00}. It seems you've finished the mission. Please give your report.
+@8.1
+Ah, {01}C*{00}. It seems you've finished the mission. Please give your report.
+@8.2
+Ah, {01}C*{00}. It seems you've finished the mission. Let's hear your report.
+@9
+And how much did you raise?
+@9.1
+And how much did you raise?
+@9.2
+Good. And how much did you raise?
+@10
+(Shall I hand over no tribute?)
+@10.1
+(Shall I hand over {02}$d kan in tribute?)
+@11
+This time I was able to study all sorts of skills.
+@11.1
+This time I was able to study all sorts of skills.
+@11.2
+This time I was able to study all sorts of skills.
+@12
+This time I was able to study %s.
+@12.1
+This time I was able to study %s.
+@12.2
+This time I was able to study %s.
+@13
+This time I was able to study %s more deeply.
+@13.1
+This time I was able to study %s more deeply.
+@13.2
+This time I was able to study %s more deeply.
+@14
+This time I was able to study a special skill.
+@14.1
+This time I was able to study a special skill.
+@14.2
+This time I was able to study a special skill.
+@15
+I'm sorry. It was a fine chance, but I achieved nothing worth mentioning.
+@15.1
+I'm sorry. It was a fine chance, but I achieved nothing worth mentioning.
+@15.2
+I'm sorry. You gave me a fine chance, but I achieved nothing worth mentioning.
+@16
+I'm sorry... I didn't raise any money at all...
+@16.1
+I sold the provisions for {02}$d kan.
+@17
+I'm sorry. Of %s, I couldn't buy even 1%s...
+@17.1
+I'm sorry. Of %s, I couldn't buy even 1%s...
+@17.2
+I'm sorry. Of %s, I couldn't buy even 1%s...
+@17.3
+I bought %s: {02}$d%s.
+@18
+I'm sorry... I didn't raise any money at all...
+@18.1
+I raised {02}$d kan in war funds.
+@19
+I'm sorry... I couldn't raise the %s of {02}{0B}d at all...
+@19.1
+I'm sorry... I couldn't raise the %s of {02}{0B}d at all...
+@19.2
+I'm sorry... I couldn't raise the %s of {02}{0B}d at all...
+@19.3
+I raised the %s of {02}{0B}d by {02}$d.
+@20
+I'm sorry... I couldn't raise the %s of {02}{0B}d at all...
+@20.1
+I'm sorry... I couldn't raise the %s of {02}{0B}d at all...
+@20.2
+I'm sorry... I couldn't raise the %s of {02}{0B}d at all...
+@20.3
+I raised the %s of {02}{0B}d by {02}$d,000 koku.
+@21
+I'm sorry... I couldn't lower the %s of {02}{0B}d at all...
+@21.1
+I'm sorry... I couldn't lower the %s of {02}{0B}d at all...
+@21.2
+I'm sorry... I couldn't lower the %s of {02}{0B}d at all...
+@21.3
+I lowered the %s of {02}{0B}d by {02}$d.
+@22
+Rejoice! I succeeded in expanding {02}{0B}d.
+@22.1
+Rejoice! I succeeded in expanding {02}{0B}d.
+@22.2
+Good news! I succeeded in expanding {02}{0B}d.
+@23
+I'm sorry. I failed to expand {02}{0B}d.
+@23.1
+I'm sorry. I failed to expand {02}{0B}d.
+@23.2
+I'm sorry. I failed to expand {02}{0B}d.
+@24
+Rejoice! I found {02}$d promising people.
+@24.1
+Rejoice! I found {02}$d promising people.
+@24.2
+Good news! I found {02}$d promising people.
+@25
+Rejoice! I found a talented person named {02}{03}g.
+@25.1
+Rejoice! I found a talented person named {02}{03}g.
+@25.2
+Good news! I found a talented person named {02}{03}g.
+@26
+I'm sorry. I found no one of note.
+@26.1
+I'm sorry. I found no one of note.
+@26.2
+I'm sorry. I found no one of note.
+@27
+I obtained information on {02}{0B}d.
+@28
+I damaged the supplies of {02}{0B}d.
+@29
+Rejoice! I concluded an alliance with the {02}{06}e.
+@29.1
+Rejoice! I concluded an alliance with the {02}{06}e.
+@29.2
+Good news! I concluded an alliance with the {02}{06}e.
+@30
+I'm sorry. The {02}{06}e refused the alliance.
+@30.1
+I'm sorry. The {02}{06}e refused the alliance.
+@30.2
+I'm sorry. The {02}{06}e refused the alliance.
+@31
+I broke off the alliance with the {02}{06}e.
+@32
+Rejoice! I brought the {02}{06}e under our rule.
+@32.1
+Rejoice! I brought the {02}{06}e under our rule.
+@32.2
+Good news! I brought the {02}{06}e under our rule.
+@33
+I'm sorry. The {02}{06}e seem to have no wish to submit to us.
+@34
+I declared war on the {02}{06}e.
+@35
+Rejoice! I made peace with the {02}{06}e.
+@35.1
+Rejoice! I made peace with the {02}{06}e.
+@35.2
+Good news! I made peace with the {02}{06}e.
+@36
+I'm sorry. The {02}{06}e refused our offer of peace.
+@36.1
+I'm sorry. The {02}{06}e refused our offer of peace.
+@36.2
+I'm sorry. The {02}{06}e refused our offer of peace.
+@37
+Rejoice! I strengthened our ties with the {02}{06}e.
+@37.1
+Rejoice! I strengthened our ties with the {02}{06}e.
+@37.2
+Good news! I strengthened our ties with the {02}{06}e.
+@38
+I'm sorry. I couldn't improve relations with the {02}{06}e.
+@38.1
+I'm sorry. I couldn't improve relations with the {02}{06}e.
+@38.2
+I'm sorry. I couldn't improve relations with the {02}{06}e.
+@39
+Rejoice! The court has granted the rank of %s.
+@39.1
+Rejoice! The court has granted the rank of %s.
+@39.2
+Good news! The court has granted the rank of %s.
+@40
+I'm sorry. I couldn't raise our court standing.
+@40.1
+I'm sorry. I couldn't raise our court standing.
+@40.2
+I'm sorry. I couldn't raise our court standing.
+@40.3
+I raised our court standing by {02}$d.
+@41
+Rejoice! I succeeded in recruiting {02}{03}g.
+@41.1
+Rejoice! I succeeded in recruiting {02}{03}g.
+@41.2
+Good news! I succeeded in recruiting {02}{03}g.
+@42
+I'm sorry. I failed to recruit {02}{03}g.
+@42.1
+I'm sorry. I failed to recruit {02}{03}g.
+@42.2
+I'm sorry. I failed to recruit {02}{03}g.
+@43
+Hm, thank you for your trouble, but {02}{0B}d is already our castle. So I'm sorry, but there's no merit this time.
+@44
+Hm, thank you for your trouble, but {02}{0B}d has already fallen to the enemy. So I'm sorry, but there's no merit this time.
+@45
+...I see. It can't be helped. Thank you for your trouble.
+@45.1
+...I see. It can't be helped. Thank you for your trouble.
+@45.2
+...Hm, well, it can't be helped. Thank you for your trouble.
+@45.3
+A splendid result! {01}C*{00}, well done. Thank you for your trouble.
+@45.4
+A fine result! {01}C*{00}, thank you for your trouble.
+@45.5
+Good, {01}C*{00}. Thank you for your trouble.
+@45.6
+...{01}C*{00}, I expected a little more of {01}C!{00}... Anyway, thank you for your trouble.
+@45.7
+...{01}C*{00}, I expected a little more of {01}C!{00}... Anyway, thank you for your trouble.
+@45.8
+...{01}C*{00}, I expected a little more of {01}C!{00}... Well, fine. Thank you for your trouble.
+@45.9
+...{01}C*{00}, that's no result to praise. I hope for better next time.
+@45.10
+...{01}C*{00}, that's no result to praise. I hope for better next time.
+@45.11
+...{01}C*{00}, that's hardly a result to praise. Work harder from now on.
+@45.12
+From someone like {01}C*{00}... I am disappointed.
+@45.13
+From someone like {01}C*{00}... I am disappointed.
+@45.14
+Fool!! {01}C*{00}, what have you been doing?! Enough, get out!
+@46
+You came up from the merchant class. I cannot treat you the same as the others. So your merit will be halved.
+@46.1
+You came up from the merchant class. I cannot treat you the same as the others. So your merit will be halved.
+@46.2
+You came up from the merchant class. I can't treat you the same as the others. So I've halved your merit.
+@46.3
+You came up from the ninja. I cannot treat you the same as the others. So your merit will be halved.
+@46.4
+You came up from the ninja. I cannot treat you the same as the others. So your merit will be halved.
+@46.5
+You came up from the ninja. I can't treat you the same as the others. So I've halved your merit.
+@47
+{01}C*{00}, please leave the rest of the mission money here.
+@47.1
+{01}C*{00}, please leave the rest of the mission money here.
+@47.2
+{01}C*{00}, leave the rest of the mission money here.
+@48
+By the way, {01}C*{00}, what did you do with the leftover mission money?
+@48.1
+By the way, {01}C*{00}, what did you do with the leftover mission money?
+@48.2
+By the way, {01}C*{00}, there's leftover mission money. What did you do with it?
+@49
+Eh?\nAh, well... um...
+@50
+............\nIt seems you have done the most shameful thing a samurai can do.
+@51
+Embezzling our clan's war funds for your own gain... Are you prepared for the consequences?
+@51.1
+Embezzling our clan's war funds for your own gain... Are you prepared for the consequences?
+@51.2
+Embezzling our clan's war funds for your own gain... I trust you're prepared for the consequences.
+@52
+{01}C*{00}! F-forgive me!
+@52.1
+{01}C*{00}! F-forgive me!
+@52.2
+{01}C*{00}! Forgive me!
+@53
+Even for {01}C*{00}, I cannot forgive this! Prepare yourself! Hah!!
+@53.1
+Even for {01}C*{00}, I cannot forgive this! Prepare yourself! Hah!!
+@53.2
+Disgraceful! I'll punish you with my own hands! Hah!!
+@54
+...is what I would normally say, but {01}C*{00}, the money {01}C!{00} just handed over isn't even half of what you raised, is it?
+@55
+N-no! Never would I...
+@55.1
+N-no! Never would I...
+@55.2
+N-no! Never would I...
+@56
+{01}C*{00}! I see through it all. Pocketing the money for your own gain... Are you prepared for the consequences?
+@56.1
+{01}C*{00}! I see through it all. Pocketing the money for your own gain... Are you prepared for the consequences?
+@56.2
+Silence! I see through it all. Pocketing the money for your own gain... I trust you're prepared for the consequences.
+@59
+...is what I would normally say, but {01}C*{00}, you still have money hidden in your robes, I think.
+@59.1
+...is what I would normally say, but {01}C*{00}, you still have money hidden in your robes, I think.
+@59.2
+...is what I would normally say, but {01}C*{00}, you're still hiding money, aren't you?
+@60
+...!\nS-sorry...
+@60.1
+...!\nS-sorry...
+@60.2
+...!\nI b-beg your pardon...
+@61
+I see through it all. I'll pretend this never happened, so hand over the full amount.
+@61.1
+I see through it all. I'll pretend this never happened, so hand over the full amount.
+@61.2
+You scoundrel! I see through it all. I'll forgive you this time, so hand over the full amount.
+@62
+I'm ashamed...
+@62.1
+I'm ashamed...
+@62.2
+Y-yes, my lord!
+@63
+...is what I would normally say, but {01}C*{00}, where on earth did the money {01}C!{00} raised disappear to?
+@65
+I see through it all. As punishment, your property is confiscated. Be careful from now on.
+@65.1
+I see through it all. As punishment, your property is confiscated. Be careful from now on.
+@65.2
+You scoundrel! I see through it all. As punishment, your property is confiscated! I'll spare your life, but watch yourself from now on!
+@67
+{01}C*{00}, what have you been doing! The deadline for %s is long past!
+@67.1
+{01}C*{00}, what have you been doing! The deadline for %s is long past!
+@67.2
+Too late! {01}C*{00}, what have you been doing! The deadline for %s is long past!
+@68
+If this were the battlefield, {01}C!{00} would be executed on the spot! Take care from now on!
+@68.1
+If this were the battlefield, {01}C!{00} would be executed on the spot! Take care from now on!
+@68.2
+If this were the battlefield, {01}C!{00} would be executed on the spot! Watch yourself from now on!
+@69
+I'm ashamed...
+@69.1
+I'm ashamed...
+@69.2
+Yes, my lord...! I am very sorry!
+@70
+Then I shall hear the mission report.
+@70.1
+Then I shall hear the mission report.
+@70.2
+So, have you finished the mission? Let's hear the report.
+@71
+Then I'll hold council at once. You should come too.
+@71.1
+Then I'll hold council at once. You should come too.
+@71.2
+Then I'll hold council at once. You will come too.
+@72
+...I'm sorry. The truth is, I haven't yet.........
+@73
+{01}C*{00}! What do you take a mission for! I misjudged you!!
+@73.1
+{01}C*{00}! What do you take a mission for! I misjudged you!!
+@73.2
+Fool! What do you take a mission for?! I misjudged you!!
+@74
+What's more, it seems you squandered the money I gave you! Your property is confiscated!
+@74.1
+What's more, it seems you squandered the money I gave you! Your property is confiscated!
+@74.2
+What's more, it seems you squandered the money I entrusted to you! Outrageous! Your property is confiscated!
+@75
+We'll hold council now! {01}C*{00}! I won't forgive this a second time!
+@75.1
+We'll hold council now! {01}C*{00}! I won't forgive this a second time!
+@75.2
+We'll hold council now! {01}C*{00}! I won't forgive this a second time!
+@76
+If there's nothing else, I'll take my leave!
+@76.1
+If there's nothing else, I'll take my leave!
+@76.2
+If there's nothing else, get out! I don't want to see your face!
+@77
+If there's nothing else, I'll take my leave!
+@77.1
+If there's nothing else, I'll take my leave!
+@77.2
+Get out! And don't be late for the next council!
+@78
+{01}C*{00}, welcome.
+@79
+What is it?
+@80
+Oho, you want aides? Whom do you want?
+@81
+So you want {01}C+{00} as your aide?
+@82
+{01}C+{00}, then. I'll arrange it at once.
+@82.1
+{01}C+{00}, then. I'll arrange it at once.
+@82.2
+Very well. I'll assign {01}C+{00} as your aide. I'll arrange it at once.
+@83
+Is there anyone else you want?
+@83.1
+Is there anyone else you want?
+@83.2
+Anyone else you want?
+@84
+Now you seem to have enough aides. Please make good use of them.
+@84.1
+Now you seem to have enough aides. Please make good use of them.
+@84.2
+Good. Now you seem to have enough aides. Make good use of them.
+@85
+What? You don't need aides?
+@85.1
+What? You don't need aides?
+@85.2
+What? You say you don't need aides?
+@86
+Understood. Say so any time you want some.
+@86.1
+Understood. Say so any time you want some.
+@86.2
+All right. Come any time you want some.
+@87
+Then please choose again.
+@87.1
+Then please choose again.
+@87.2
+Then choose again.
+@88
+Really leave your post and become a ronin?
+@89
+I'm drawing up the next strategy now. It will be decided by the next council.
+@90
+Our clan's goal is %s. Please keep that in mind as you act.
+@90.1
+Our clan's goal is %s. Please keep that in mind as you act.
+@90.2
+Our clan's goal is %s. Keep that in mind as you act.
+@91
+Our clan's goal is the capture of {02}{0B}d. Please keep that in mind as you act.
+@91.1
+Our clan's goal is the capture of {02}{0B}d. Please keep that in mind as you act.
+@91.2
+Our clan's present goal is the capture of {02}{0B}d. Keep that in mind as you act.
+@92
+Our clan's goal is the conquest of the {02}{06}e. Please keep that in mind as you act.
+@92.1
+Our clan's goal is the conquest of the {02}{06}e. Please keep that in mind as you act.
+@92.2
+Our clan's present goal is the conquest of the {02}{06}e. Keep that in mind as you act.
+@93
+Our clan's goal is the %s of {02}{10}d. Please keep that in mind as you act.
+@93.1
+Our clan's goal is the %s of {02}{10}d. Please keep that in mind as you act.
+@93.2
+Our clan's present goal is the %s of {02}{10}d. Keep that in mind as you act.
+@94
+Our clan's goal is %s: %s. Please keep that in mind as you act.
+@94.1
+Our clan's goal is %s: %s. Please keep that in mind as you act.
+@94.2
+Our clan's present goal is %s: %s. Keep that in mind as you act.
+@95
+(Shall I really urge {01}C*{00} to rebel?)
+@96
+{01}C*{00}, I, {02}{01}f, speak to {01}C!{00} ready to die for it.
+@96.1
+{01}C*{00}, I, {02}{01}f, speak to {01}C!{00} ready to die for it.
+@96.2
+{01}C*{00}, I, {02}{01}f, speak ready to die for it.
+@97
+...{01}C*{00}, what's the matter? You're not yourself.
+@98
+{01}C*{00}, do you mean to go on as just one of the {02}{06}e?
+@98.1
+{01}C*{00}, do you mean to go on as just one of the {02}{06}e?
+@98.2
+{01}C*{00}, do you mean to go on as just one of the {02}{06}e?
+@99
+...What are you suddenly saying?
+@99.1
+...What are you suddenly saying?
+@99.2
+...What are you suddenly saying?
+@100
+You have the makings of a daimyo. It would be a great waste to end your life a mere castle lord.
+@100.1
+You have the makings of a daimyo. It would be a great waste to end your life a mere castle lord.
+@100.2
+Forgive me, but you have the makings of a daimyo. It would be a great waste to end your life a mere castle lord.
+@101
+...What are you trying to say? Speak plainly.
+@101.1
+...What are you trying to say? Speak plainly.
+@101.2
+...What are you trying to say? Speak plainly.
+@102
+{01}C*{00}, now is the time to rebel here and become a daimyo.
+@102.1
+{01}C*{00}, now is the time to rebel here and become a daimyo.
+@102.2
+Yes, then I'll say it. {01}C*{00}, now is the time to rebel here and become a daimyo.
+@103
+What! ...You would have me become a traitor?
+@103.1
+What! ...You would have me become a traitor?
+@103.2
+What! ...You tell me to become a traitor?
+@104
+This is an age of war, when the strong take the realm. {01}C*{00}! Now is the time to decide!
+@104.1
+This is an age of war, when the strong take the realm. {01}C*{00}! Now is the time to decide!
+@104.2
+This is an age of war, when the strong take the realm. {01}C*{00}! Please decide!
+@105
+I owe a debt to our old lord. Rebellion is out of the question.
+@105.1
+I owe a debt to our old lord. Rebellion is out of the question.
+@105.2
+I owe a debt to our old lord. Rebellion is out of the question.
+@106
+{01}C*{00}! If you don't decide now, you'll miss your chance!
+@106.1
+{01}C*{00}! If you don't decide now, you'll miss your chance!
+@106.2
+{01}C*{00}! If you don't decide now, you will miss your chance!
+@107
+...{01}C*{00}!! For your own sake, I'll pretend I never heard this.
+@107.1
+...{01}C*{00}!! For your own sake, I'll pretend I never heard this.
+@107.2
+Enough!! For your own sake, I'll pretend I never heard this.
+@108
+............
+@109
+...I'm sorry. Please go.
+@109.1
+...I'm sorry. Please go.
+@109.2
+Enough, you may go.
+@110
+.........Understood.
+@110.1
+.........Understood.
+@110.2
+.........Yes.
+@111
+...My eyes are opened. Disloyalty is a small matter. It is as you say.
+@111.1
+...My eyes are opened. Disloyalty is a small matter. It is as you say.
+@111.2
+...Understood. Disloyalty is a small matter. It is as you say.
+@112
+Oh, {01}C*{00}! You've decided!
+@112.1
+Oh, {01}C*{00}! You've decided!
+@112.2
+Oh, {01}C*{00}! You've made your decision!
+@113
+Yes, I will raise my banner here. {01}C*{00}, I'm counting on you.
+@113.1
+Yes, I will raise my banner here. {01}C*{00}, I'm counting on you.
+@113.2
+Yes, I will raise my banner here. {01}C*{00}, will you follow me?
+@114
+Of course! I, {02}{01}f, will be your strength!
+@114.1
+Of course! I, {02}{01}f, will be your strength!
+@114.2
+Of course! I, {02}{01}f, wish to share life and death with {01}C!{00}.
+@115
+Gracious words! Then please give the order to your men!
+@115.1
+Gracious words! Then please give the order to your men!
+@115.2
+Good! Then give the order to your men!
+@116
+Yes, sir!
+@117
+{02}{01}g is now a vassal of the {02}{06}e.
+@118
+{02}{01}g has returned to the {02}{06}e.
+@119
+{01}C*{00}, welcome. Now, let's review everyone's work last year.
+@119.1
+{01}C*{00}, welcome. Now, let's review everyone's work last year.
+@119.2
+Ah, good of you to come. Now, let's review everyone's work last year.
+@120
+So no one took a castle last year. That won't do. I expect much this year.
+@121
+Last year {01}C*{00}'s work stood out the most. {01}C*{00}, splendid.
+@122
+Not at all; thinking of {01}C!{00}, it was only natural.
+@122.1
+Not at all; thinking of {01}C!{00}, it was only natural.
+@122.2
+Yes, sir! I'm honoured by your praise!
+@123
+In praise of your deeds, I shall recommend you to the court for the post of "%s". Please continue to support me.
+@123.1
+In praise of your deeds, I shall recommend you to the court for the post of "%s". Please continue to support me.
+@123.2
+In praise of your deeds, I shall recommend you to the court for the post of "%s". Stay loyal to our clan.
+@124
+Oh! Thank you! Leave it to me!
+@124.1
+Oh! Thank you! Leave it to me!
+@124.2
+Y-yes, sir! An honour beyond my station!
+@125
+In praise of your deeds, I grant you my {02}{15}d. Please continue to support me.
+@125.1
+In praise of your deeds, I grant you my {02}{15}d. Please continue to support me.
+@125.2
+In praise of your deeds, I grant you my {02}{15}d. Stay loyal to our clan.
+@127
+Last year {01}C+{00}'s work stood out the most. I expect much of {01}C*{00} too.
+@127.1
+Last year {01}C+{00}'s work stood out the most. I expect much of {01}C*{00} too.
+@127.2
+Last year {01}C+{00}'s work stood out the most. {01}C*{00}, learn from {01}C"{00}.
+@128
+Then, dismissed!
+@129
+Oho, you'll recommend your subordinate as my direct vassal? Much appreciated.
+@130
+Whom will you recommend?
+@130.1
+Whom will you recommend?
+@130.2
+Whom will you recommend?
+@131
+{01}C+{00} was sent to you as an aide. Are you sure you want to return them as my direct vassal?
+@131.1
+{01}C+{00} was sent to you as an aide. Are you sure you want to return them as my direct vassal?
+@131.2
+{01}C+{00} was sent to you as an aide. You're sure you want to return them as my direct vassal?
+@131.3
+You recommend {01}C+{00} as my direct vassal?
+@131.4
+You recommend {01}C+{00} as my direct vassal?
+@131.5
+You recommend {01}C+{00} as my direct vassal?
+@132
+I see. Then {01}C+{00} will return to being my direct vassal.
+@132.1
+I see. Then {01}C+{00} will return to being my direct vassal.
+@132.2
+I see. Then {01}C+{00} will return to being my direct vassal.
+@132.3
+I see. Then from now on {01}C+{00} will be my direct vassal.
+@132.4
+I see. Then from now on {01}C+{00} will be my direct vassal.
+@132.5
+I see. Then from now on {01}C+{00} will be my direct vassal.
+@133
+Hm? I sense someone... So, someone's there? Who goes there! Show yourself!
+@134
+Sorry to startle you. It's {02}{01}g.
+@134.1
+Pleased to meet you. I am {02}{01}g.
+@134.2
+Pleased to meet you. My name is {02}{01}g.
+@135
+Ah, {01}C*{00}. Hmm, against {01}C!{00}, the gate guards are useless.
+@135.1
+A ronin? Insolent wretch! But you did well to get into this castle. I'll praise you for that much.
+@135.2
+...Oho, you did well to get into this castle. I'll praise you for that.
+@135.3
+...Oho, {01}C*{00}... To think we'd meet like this. Still, this is rather sudden.
+@136
+What business do you have with me?
+@137
+Oho, diplomacy? And what is it?
+@138
+What! The {02}{06}e mean to break their alliance with us?
+@139
+Oho... very well. Then from today, our clan and the {02}{06}e have nothing to do with each other.
+@140
+...A joke? It's quite something, but keep it within bounds.
+@141
+Oho... the {02}{06}e say they wish for an alliance with us?
+@142
+Very well. Then from today, our clan and the {02}{06}e are allies.
+@143
+Hmm... I'm sorry, but I'll pretend I never heard that.
+@144
+Even a joke has its limits. I'd ask you to spare me jokes like that.
+@145
+What! The {02}{06}e mean to declare war on us?
+@146
+Oho... very well. From today, the {02}{06}e are our enemy. Be prepared.
+@148
+Oho... the {02}{06}e say they wish to make peace with us?
+@149
+(Now, how much shall I hand over?)
+@150
+(...Blast, I have no money at all. I can't persuade them like this.)
+@150.1
+(...Oops, I have too little money. I can't persuade them like this.)
+@151
+(Shall I give up offering peace?)
+@152
+(Shall I use %u kan to make peace?)
+@153
+Very well. Then from today, our clan and the {02}{06}e are at peace.
+@154
+Don't be absurd. What are you saying, now of all times? I'll pretend I never heard this.
+@156
+What! The {02}{06}e tell us to submit to them?
+@157
+...Very well. Then from today, our clan will come under the rule of the {02}{06}e.
+@158
+Don't be absurd. Do you mean to trample on our pride?
+@160
+Oho... the {02}{06}e wish for closer ties with us?
+@161
+(Now, how much shall I hand over?)
+@162
+(...Blast, I have no money at all. I can't persuade them like this.)
+@162.1
+(...Oops, I have too little money. I can't persuade them like this.)
+@163
+(Shall I give up offering friendship?)
+@164
+(Shall I use %u kan for goodwill?)
+@165
+I see... I gratefully accept the {02}{06}e's goodwill. I hope our good relations will continue.
+@165.1
+I see... I gratefully accept the {02}{06}e's goodwill. Please give my regards to {01}C+{00}.
+@166
+...Thank you for coming, but money alone will not move my heart.
+@168
+What! The {02}{06}e tell us to surrender?
+@169
+...Very well. This too is the tide of the times. I place myself in your hands.
+@169.1
+...Very well. This too is the tide of the times. Please present me to {01}C+{00}.
+@170
+Don't be absurd. Even if we submit, we will not throw away our clan's pride.
+@172
+Then please leave for today.
+@173
+Gain more skill
+@173.1
+Raise {02}%d kan in war funds
+@173.2
+Raise {02}%d kan in war funds
+@173.3
+Raise public support by {02}%d
+@173.4
+Raise yield by {02}%d,000 koku
+@173.5
+Raise mining by {02}%d
+@173.6
+Buy {02}%d,000 koku of rice
+@173.7
+Buy {02}%d horses
+@173.8
+Buy {02}%d guns
+@173.9
+Buy {02}%d cannons
+@173.10
+Raise training by {02}%d
+@173.11
+Add {02}%d troops
+@173.12
+Raise defense by {02}%d
+@173.13
+Expand the castle
+@173.14
+Look into one ronin
+@173.15
+Gather some information
+@173.16
+Lower defense by {02}%d
+@173.17
+Lower public support by {02}%d
+@173.18
+Burn {02}%d of military supplies
+@173.19
+Win an alliance
+@173.20
+Break an alliance
+@173.21
+Bring them under our rule
+@173.22
+Declare war
+@173.23
+Make peace
+@173.24
+Improve relations
+@173.25
+Raise court standing by {02}%d
+@173.26
+Recruit successfully
+@173.27
+Capture a castle
+@173.28
+Conquer a province
+@173.29
+Defeat a daimyo
+@175
+Lord {02}{02}f! Grave news! Grave news, my lord!
+@176
+What is it? What a racket.
+@177
+Lord {02}{03}g has rebelled at {02}{0B}d! He seems to have declared independence!
+@178
+What! Is that true?
+@179
+Rumour has it that Lord {02}{04}g incited Lord {02}{03}g to it.
+@179.1
+Rumour has it that Lord {02}{04}g gathered his generals and announced the rebellion then and there.
+@180
+Grrr......\nTell everyone at once! Hurry!
+@181
+Yes, my lord!!
+@182
+.........{01}C+{00}, curse you! Repaying my kindness with treachery!
+@183
+My lord, you speak of battle, but we have too few troops. First, prepare our forces.
+@183.1
+You speak of battle, but there are too few troops. First, prepare your forces.
+@183.2
+You speak of battle, but there are too few troops. First, prepare your forces.
+@183.3
+You speak of battle, but there are too few troops. Please prepare your forces first.
+@184
+My lord, you speak of battle, but we have too few provisions. First, prepare our forces.
+@184.1
+You speak of battle, but there are too few provisions. First, prepare your forces.
+@184.2
+You speak of battle, but there are too few provisions. First, prepare your forces.
+@184.3
+You speak of battle, but there are too few provisions. Please prepare your forces first.
+@185
+My lord, rumour has it that the old lord is in poor health. Please refrain from battle.
+@185.1
+I've heard that the old lord is in poor health at present. You'd best refrain from battle.
+@185.2
+I've heard that the old lord is in poor health at present. You'd best refrain from battle.
+@185.3
+Rumour has it that the old lord is in poor health. Please refrain from battle.
+@186
+My lord, you speak of battle, but no daimyo is hostile to our clan.
+@186.1
+You speak of battle, but no daimyo remains hostile to our clan.
+@186.2
+You speak of battle, but no daimyo remains hostile to our clan.
+@186.3
+My lord, you speak of battle, but no daimyo is hostile to our clan.
+@187
+I've already given {01}C!{00} enough aides. Please spare me any more.
+@187.1
+I've already given {01}C!{00} enough aides. Please spare me any more.
+@187.2
+I should already have given {01}C!{00} enough aides. I can't give you more.
+@188
+I'd like to oblige you, but my castle has few direct vassals. Please spare me any more.
+@188.1
+I'd like to oblige you, but my castle has few direct vassals. Please spare me any more.
+@188.2
+I'd like to oblige you, but my castle is short of direct vassals. I can't give you more.

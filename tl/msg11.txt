@@ -1,0 +1,959 @@
+@0
+
+@0.1
+
+@0.2
+
+@1
+
+@1.1
+
+@1.2
+
+@2
+As you wish.
+@2.1
+Leave it to me.
+@2.2
+Yes, sir.
+@2.3
+I'll surely live up to your hopes.
+@2.4
+Await good news.
+@3
+{01}C*{00}, this time I entrust\nthe army to you. Don't fail me.
+@4
+This time I ask you, {01}C*{00},\nto take command.
+@5
+{01}C*{00}, I'm counting on you to command!
+@6
+Very well.\nLeave it to me.
+@7
+Yes, leave it to me.
+@8
+{01}C*{00},\nI give you a unit too.\nShow me what you can do!
+@9
+{01}C*{00}, I would like you\nto lead a unit as well.
+@10
+{01}C*{00}, I leave the command of a unit to you.
+@11
+As you wish.
+@11.1
+Yes! My arm is itching for it.
+@11.2
+Yes, sir.
+@11.3
+I'll surely live up to your hopes.
+@11.4
+Very well,\nleave it to me.
+@12
+Minding the castle this time...\nI'll put the time into training.
+@13
+Officers of higher rank than the army commander\nwill be removed as unit commanders.\nIs that OK?
+@14
+March out with this army.\nIs that OK?
+@15
+Cancel the march?
+@16
+There are no officers to swap in.
+@17
+Some units have no soldiers.
+@18
+Finish forming the army and start the battle.\nIs that OK?
+@19
+Your subordinates cannot form\nany more armies under the commander-in-chief.
+@20
+As you all know,\nthe {02}{03}e army has surrounded this castle.
+@21
+As {01}C+{00} is away,\nI will command the defence for now.
+@22
+Brother {02}{02}f!
+@22.1
+Brother {02}{02}f!
+@22.2
+{02}{02}g!
+@23
+I entrust a unit to each of the above!
+@24
+March out!\nDrive back the {02}{03}e forces!!
+@25
+We now begin the battle against the {02}{03}e army.
+@26
+Ya can't fight a war on an empty belly!\nWe're bound to lose like this.\nI'm runnin' away!!
+@27
+Hey, you there!\nDon't you run away!!
+@28
+Deserters will be cut down,\nI said cut down!\nCurses, come back, come back!!
+@29
+The {02}{03}e army's soldiers are deserting\nfor lack of provisions!
+@30
+The enemy is missing units and can't form up.\nNow is our chance!
+@31
+The enemy uses {02}{1A}e?\nOur formation has the edge.
+@32
+Good, the enemy formation is {02}{1A}e.\nOur formation has a crushing advantage.
+@33
+So the enemy can't form up either.\nThen it's an even fight.
+@34
+The enemy uses the same formation?\nThen it comes down to command...
+@35
+Hm, so they come in {02}{1A}e.\nThe formations are even.\nNow it comes down to command.
+@36
+We can't form up...\nIt can't be helped.\nWe must hold out somehow!
+@37
+Hmm... the enemy comes in {02}{1B}e...\nIn {02}{1A}e we're at a disadvantage.
+@38
+They come in {02}{1A}e...\nCurses, I've been outwitted!
+@39
+Morale did not change.
+@40
+The {02}{03}g army's morale\nrose by {02}$d.
+@41
+The {02}{03}g army's morale\nfell by {02}$d.
+@42
+A unit is missing.\nThe formation becomes None.
+@43
+You have not learned any formations to choose.
+@44
+Use the {02}{1A}e formation?
+@45
+Good, form up in %s!
+@46
+Wait without attacking.\nMorale rises slightly.\nIs that OK?
+@47
+{02}{02}f,\ndefeat the unit of\nthe enemy commander {02}{03}g!
+@47.1
+{01}C*{00}, I ask you to defeat\nthe unit of the enemy commander,\n{02}{03}g.
+@47.2
+{01}C*{00}, I ask you to defeat\nthe unit of the enemy commander,\n{02}{03}g.
+@47.3
+{01}C*{00}, I order you to defeat\nthe enemy commander {02}{03}g's unit.\nDon't be careless.
+@48
+{02}{02}f,\ndefeat {02}{03}g's unit,\nenemy unit {02}${CB}!
+@48.1
+{01}C*{00}, I ask you to defeat\nenemy unit {02}${CB},\n{02}{03}g's unit.
+@48.2
+{01}C*{00}, I ask you to defeat\nenemy unit {02}${CB},\n{02}{03}g's unit.
+@48.3
+{01}C*{00}, I order you to defeat\nenemy unit {02}${CB}, {02}{03}g's unit.\nDon't be careless.
+@49
+As you wish.
+@49.1
+Leave it to me.
+@49.2
+Yes, sir!
+@49.3
+I'll surely live up to your hopes.
+@49.4
+Await good news.
+@50
+The unit of the enemy commander\n{02}{03}g has attacked!
+@50.1
+{02}{03}g's unit, enemy unit {02}${CB},\nhas attacked!
+@51
+That is not the unit you were ordered\nto attack. Attack anyway?
+@52
+Ignoring orders?!\nThat {01}C*{00},\ndoing as he pleases!
+@52.1
+Curses, {01}C*{00}!\nIgnoring my orders...\nwho do you think you are!
+@53
+{02}{02}f, you wretch!\nI won't forget this disobedience!
+@53.1
+What are you thinking, {01}C*{00}?\nIf you ignore me like this,\nI can't set an example for the others!
+@53.2
+{01}C*{00}, you hothead!
+@53.3
+Hmph, {01}C*{00}!\nRefrain from acting on your own!
+@54
+You have not learned any special tactics.
+@55
+Which unit will you give orders to?
+@56
+Which unit will you attack?
+@57
+Retreat.\nIs that OK?
+@58
+It can't be helped...\nFall back, fall back!
+@59
+Good, we've beaten the enemy!
+@59.1
+The enemy unit is destroyed!\nWell done, all of you!
+@60
+{02}{03}g's unit\nhas collapsed!
+@60.1
+Running away? How spineless.\nMen, raise a victory cry!
+@61
+Good, the castle has fallen!
+@61.1
+This castle is ours!\nMen, raise a victory cry!
+@62
+Just what I'd expect of {01}C*{00}.\nSplendid.
+@63
+{02}{02}f,\nwell done!
+@63.1
+{01}C*{00}, well done.\nYou have my praise.
+@63.2
+Yes, {01}C*{00},\nsplendid!
+@64
+{01}C*{00}, if you act on your own,\nI cannot set an example for the others!
+@65
+{02}{02}f,\nwell done.\nBut refrain from acting on your own!
+@65.1
+Hmm, {01}C*{00},\nI'll overlook the disobedience,\nbut refrain from acting on your own.
+@66
+Strike again while we have momentum!\nFollow me, men!
+@67
+The confusion has settled?\nNow we can counterattack.
+@67.1
+Good, the men have finally calmed down.
+@67.2
+Yes, the confusion has finally settled.\nI must repay this at all costs.
+@68
+Fighting on like this gets us nowhere.\nThis too is the art of war.\nFall back for now!
+@69
+Hmm, no opening...\nThey won't let us withdraw so easily...
+@70
+Hmm...\nThat {02}{03}f is good.\nI can't attack him carelessly.
+@70.1
+That {02}{03}f is better than I thought...
+@70.2
+Neither side can make a move...\nWe're sounding each other out.
+@71
+Hmm...\nThat I should be made to hesitate...
+@71.1
+I misjudged them...
+@71.2
+Hm...\nSo we're sounding each other out...
+@72
+Good, set the fires!\nBurn the castle to the ground.
+@72.1
+Set fire to the castle!\nReduce it to ashes!
+@72.2
+Everyone, set fire to whatever's at hand!\nStrip them bare!!
+@73
+A pincer attack!!\nSurround the enemy!
+@73.1
+Surround the enemy!
+@73.2
+A pincer attack!\nCatch the enemy between us!
+@74
+Follow me, men!\nRide them down and crush them in one go!!
+@74.1
+We're charging into the enemy!\nMen, don't flinch!!
+@74.2
+Ride them down!\nChaaarge!!
+@75
+Uoooraaah!!\nOut of the way, out of the way!
+@75.1
+I'll cut down anyone in my way!\nStand aside!!
+@75.2
+Men, run through anyone in your way!\nStrike the enemy all at once!!
+@77
+You must be Lord {02}{02}g!\nNow, fight me, fight me!!
+@78
+I am {02}{01}g!!\nAny who think themselves worthy, come at me!
+@79
+{02}{01}g is here!!\nLord {02}{02}g, your head is mine!
+@81
+That I should be thrown\ninto confusion so easily...\n\nMen, don't panic!\nCurses, I said don't panic!!
+@82
+Leading from the front, the insolence...\nMen, cut him down and make your names!\n\nCurses, what are you doing?!\nCalm down!
+@83
+Men, cut down {02}{02}f\nand make your names!
+@84
+Charge, men!\nShow them the might\nof the {02}{01}e Red Guard!!
+@84.1
+Follow me, men!!\nWe'll break through the enemy lines in one go!!
+@84.2
+Charge!!\nTrample the enemy lines!!
+@85
+Follow me, men!!\nWe'll break through the enemy lines in one go!!
+@86
+So that's the famous {02}{02}e Red Guard...\nMen, stay on your guard!!
+@86.1
+Hold fast, men!!\nDon't let them break through!!
+@86.2
+They're sending in their elite...\nHold fast, men!!
+@87
+They're sending in their elite...\nHold fast, men!!
+@88
+I'll show the true worth of mounted guns!\nReady guns!\nFiiire!!
+@88.1
+Shower the enemy with bullets!\nDon't let them raise their heads!!
+@88.2
+Fire, men!\nFire, fire and keep on firing!!
+@89
+The gunfire has them flinching, now's our chance!\nCharge, follow me!
+@89.1
+Now is our chance!!\nTrample the enemy!
+@89.2
+Follow me, men!\nThe enemy is flinching at our gunfire!!\nCharge!!
+@90
+Good, ready the horoku!\nShow the enemy the power of gunpowder!!
+@90.1
+Throw the horoku at the enemy!
+@91
+Ready the fire arrows!\nSet the enemy lines ablaze!!
+@91.1
+Loose the fire arrows!!\nBurn the enemy out!!
+@91.2
+Shoot, shoot!\nRain fire arrows on the enemy lines!!
+@92
+Archers, loose!\nShow them the fruits of your training!
+@92.1
+Take up your bows!\nI'll show them our archery!!
+@92.2
+Let them taste\nthe full power of our bows!!
+@93
+Shoot, men!!\nShoot and shoot and keep on shooting,\ndon't let the enemy near!!
+@93.1
+Shoot, shoot, shoot!!\nShower the enemy with arrows!
+@93.2
+Show the skill you've trained!\nGive the enemy a good dose of arrows!
+@94
+Split the tasks and shorten the gap between shots!\nRapid volleys!!
+@94.1
+Fire, fire, fiiire!\nShoot down every enemy who comes near!!
+@94.2
+Give them no chance to close in!\nFire without pause!
+@95
+Form files of three!\nWhile the front man fires,\nthe others make ready to shoot!!
+@95.1
+Form groups of three!\nKeep the bullets raining on the enemy!\nWhen you've fired, fall back and reload!
+@95.2
+Volley fire!\nDon't let the enemy near!!
+@96
+That one looks like a general of renown!\nPick him off and take his head!!
+@96.1
+Snipe the enemy general!\nWithout their general, they're a rabble!!
+@96.2
+Fire at the enemy headquarters!\nDon't let their general command!
+@97
+Men, use the quick-loaders freely!\nFire, fiiire!!
+@98
+I am {02}{01}g!\nI have come to speak with those in the castle!!
+@98.1
+I am {02}{01}g of {02}{01}{A1}!\nI have come to speak with those in the castle!!
+@99
+I have come to urge you to surrender.\nThe outcome is already decided.\nHand over the castle quietly!
+@100
+I am {02}{01}g!\nI have come to speak with the attackers!!
+@100.1
+I am {02}{01}g of {02}{01}{A1}!\nI have come to speak with the attackers!!
+@101
+Further fighting is pointless!\nThere's no sense in widening\neach other's wounds.
+@102
+A long siege will harm\nyour own lands as well...\nWithdrawing too is part of the art of war!
+@103
+Call the ninja!\nPlant gunpowder\nand break the castle's defences!!
+@104
+Call the ninja!\nSpread a rumour of a traitor in the enemy camp.
+@104.1
+We'll confuse the enemy with false rumours!\nCall the ninja!
+@105
+...Someone is in league with the enemy?\n...Surely not...\nNo... but, still...
+@105.1
+A traitor?\nCurses, arrest anyone suspicious,\nevery last one!!
+@106
+The enemy are nothing but cowards!\nLaugh at them, men!!
+@106.1
+Laugh, men!\nThe enemy fears us too much to do anything!!
+@107
+Wh-why you, saying such things...!
+@107.1
+Such a loud mouth...
+@107.2
+Don't fall for the enemy's taunts!\nIt's a lure!
+@108
+I've seen through the enemy's moves!!\nFollow me, men!!
+@108.1
+I've read the enemy's hand!\nWe'll strike first and seal their moves!
+@109
+Heh, what are you aiming at?!\nShots that feeble\nwill never hit me!!
+@110
+Not a hit...\nThings don't go well.
+@110.1
+Hmm, a miss...
+@111
+Ugh... curse you,\nmissiles are a coward's weapons!
+@112
+Good, I've wounded\n{02}{02}g!
+@113
+Indeed, fighting on would only\nsend our men to pointless deaths...\n...It galls me, but it can't be helped.
+@114
+I'm grateful.\n...I understand how you must feel.
+@115
+The outcome is decided? Nonsense!\nIf you think you can take this castle,\ntry and take it!!
+@116
+...You will regret this.
+@117
+...There is some sense in what you say.\nVery well, this time I'll withdraw my army.
+@118
+Thank you for your wise decision.
+@119
+Did you think such drivel\ncould move me?!\nWash your face and come back!!
+@120
+Hmm, it failed...
+@121
+Hm!\nI feel a good plan coming to me.
+@121.1
+Oh! I have a feeling a fine idea\nis about to spring from my brain.
+@121.2
+Hm, this is...\nI feel a secret plan coming to me...
+@122
+Quickly repair the parts of the castle\ndamaged by the enemy's attack!
+@122.1
+This is a matter of life and death!\nOfficers and men alike, all of you repair the castle!
+@122.2
+Repair the weakened section!\nIt only has to hold for now!\nJust hurry!
+@122.3
+A strong castle means fewer losses.\nHurry and shore up the defences!
+@123
+Choose a card to discard.
+@124
+Wait.\nIs that OK?
+@125
+Stop waiting?
+@126
+You have not learned\nany special tactics you can use.
+@127
+Falling back lowers morale.\nIs that OK?
+@128
+...This is the end...\nWatch well how {02}{01}g dies!
+@128.1
+To die in battle\nis all a warrior could wish for!
+@128.2
+So this is the end.\nBut I will not suffer the shame of capture!
+@129
+{02}{03}g has fallen in battle.
+@130
+My unit wiped out...\nHow could this happen?
+@130.1
+Ugh... You'll pay for this!\nI'll get you back without fail!
+@130.2
+I can't fight without soldiers.\nI have no choice but to withdraw.
+@130.3
+Hmm!\nIt can't be helped, I must withdraw.
+@131
+I'll clear this disgrace without fail!
+@131.1
+Bah,\nhow could I\nmake such a mess of it!
+@131.2
+My unit is routed?\nIt can't be helped.
+@131.3
+I won't forget this humiliation!
+@132
+Curses,\nsound the retreat!
+@132.1
+So this is the end...\nHow bitter.
+@133
+This is bad.\nThe men are wavering.
+@133.1
+Bah, how feeble!\nThe men have lost their nerve.
+@133.2
+Men, don't lose heart!\nWe haven't lost yet!
+@134
+It can't be helped, we retreat!\nDon't let the enemy notice!!
+@135
+Hm... the enemy is pulling back...\nCould something so serious have happened\nthat they must withdraw their army...?
+@136
+The army commander's unit of %s\nhas been wiped out.
+@137
+The castle's defense has fallen to 0.
+@138
+The {02}{06}e have held the castle.
+@139
+The battle ended without a decision.
+@140
+Reinforcements have reached the defenders.\nThe siege is broken off.
+@141
+Reinforcements have reached the {02}{06}e.
+@142
+{02}{01}g has learned {02}{1A}e!
+@143
+Well done, all of you.\nI expect even greater efforts from you.
+@144
+{02}{02}g's work was truly splendid!\nKeep striving!
+@144.1
+It seems top merit\ngoes to me.
+@144.2
+{01}C*{00}, your command was superb.\nI am deeply impressed.
+@144.3
+Just what I'd expect, Brother {02}{02}f.\nI'm counting on you next time too.
+@144.4
+Just what I'd expect, Brother {02}{02}f.\nI'm counting on you next time too.
+@144.5
+{02}{02}g's work\nwas truly splendid!\nKeep striving.
+@144.6
+Top merit this time\ngoes to {02}{02}g!\nI expect much of you in the next battle too.
+@145
+Yes, I stood at the very front\nand fought with my life on the line.
+@145.1
+With my command, that was only natural...
+@145.2
+I won't lose to the young ones yet.
+@145.3
+Ha, leave it to me.\nI won't let you down!
+@145.4
+Ha, leave it to me.\nI won't let you down!
+@145.5
+Yes, sir!\nAs you say!
+@145.6
+Yes!\nI will surely live up to your hopes!
+@145.7
+Yes, sir! I am most grateful!
+@146
+Second in merit goes to {02}{02}g.\nKeep striving.
+@146.1
+Second in merit, me?
+@146.2
+Second in merit goes to you.
+@146.3
+Brother {02}{02}f,\nyou are second in merit.\nI'm counting on you in the next battle too.
+@146.4
+Brother {02}{02}f,\nyou are second in merit.\nI'm counting on you in the next battle too.
+@146.5
+Second in merit goes to {02}{02}f.\nDon't rest on this, strive harder!
+@147
+Heh, I won't lose\nto the young ones yet.
+@147.1
+With my leadership,\nthat was only natural...
+@147.2
+My skill at the give-and-take of battle\nis not lost yet, it seems.
+@147.3
+To be beaten to it...\nI still need more training myself.
+@147.4
+Ha, leave it to me.\nNext battle I'll take top honours!
+@147.5
+Ha, leave it to me.\nNext battle I'll take top honours!
+@147.6
+To have top merit taken\nby the likes of {01}C+{00}...\nthe blunder of a lifetime.
+@147.7
+As you wish!
+@147.8
+Yes, sir!
+@147.9
+Yes, sir!
+@147.10
+Understood!
+@147.11
+Leave it to me!
+@150
+{01}C!{00},\nsplendid work.
+@150.1
+Just what I'd expect of {01}C!{00}.\nWe are proud of you too.
+@151
+To be outdone\nby the likes of {01}C*{00}...
+@151.1
+Curses, just you wait.\nNext time I'll take\ntop merit!
+@152
+Not bad, {01}C*{00}.
+@152.1
+I won't lose\nto the young ones yet.
+@152.2
+You all fought quite well.
+@152.3
+I've had a good rampage\nfor the first time in a while.
+@152.4
+Hmm, I didn't do enough.
+@152.5
+I still have far to go...
+@153
+Well done, all of you.
+@154
+With the fighting dragging on,\nthe men seem to be wearing out.\nIt may be best to return to the castle.
+@155
+{02}{03}g has become a ronin.
+@156
+{02}{02}g, I have something to say to you.\nI'll be brief: will you serve our house?
+@157
+Serve the {02}{06}e?
+@158
+I would be most grateful.
+@159
+A kind offer, but I must decline.
+@160
+Oh, {02}{02}f,\ndo you understand your position?\nIf that is how it is, I have my own ideas.
+@161
+Know that this is your last chance.\nWill you serve our house?
+@162
+W-well, I've changed my mind!!\nI-I would be most grateful!!
+@163
+I have no intention of serving two masters.
+@164
+So you will not serve our house\nwhatever happens. Then it can't be helped.
+@165
+Take this man's head!
+@166
+{02}{03}g has been recruited.
+@167
+A message from our lord:\n"One who holds no castle may not attend\n the Grand Council. Go back at once."
+@168
+{02}{0B}d becomes the new seat.
+@169
+It seems the former daimyo\n{02}{03}g has gone into retirement.
+@170
+{02}{02}g, our {02}{0B}d\nhas become our new main castle.
+@171
+A message from our lord:\n"You are relieved of the post of %s.\n Henceforth serve as chief retainer."
+@172
+I need no second.
+@172.1
+I thank you.
+@172.2
+Guhah!
+@173
+Like dew I fell, like dew I vanish;\neven Naniwa's glories are a dream within a dream...
+@174
+So this is my retribution...
+@175
+Once more, I wish I could kick the ball...\nWas I born\ninto the wrong age...
+@176
+If only I had gunpowder,\nmy head would not be put on display...
+@177
+Fifty years of man's life,\nset against the world below heaven,\nare but a dream, an illusion...
+@178
+Matsu... I'm sorry...\nForgive me...
+@179
+No words left behind, I go at last;\nI shall not lose my way, but let it be as it will...
+@180
+No two gates of right and wrong...\nThe great way runs through the source of the heart...\nWaking from a %k-year dream, I return to the One.
+@181
+So the five generations of Asakura end here...
+@182
+%k years, a single dream... a life's glory, one cup of sake.\nKnowing not life, knowing not death,\nthe years were like a dream...
+@183
+Watch closely how a man\nof Satsuma dies!!
+@184
+Life is like climbing a slope\nwith a heavy load on your back...\nWas my load too heavy...
+@185
+Does the great house of Takeda\nend with me...
+@186
+If only I could command\nas I pleased once more...
+@187
+If I may ask it,\nsink my bones in Lake Suwa.
+@188
+So I misread the tide of the times...
+@189
+This too is the work of Heaven's way...
+@190
+Lord,\nI come to Thee...
+@191
+With the clear moon of my heart before me,\nI go lighting the darkness of this floating world...
+@192
+{02}{03}g has committed seppuku.
+@193-200.*
+@201
+To be seen in such a state...\nAs a mercy to a warrior,\nlet me take my own life.
+@201.1
+I don't wish to live on in shame.\nLet me take my own life.
+@201.2
+To be bound with rope...\nWhat humiliation.\nLet me take my own life.
+@202
+There's no need to hurry to your death.\nI'll give you time to think of your future.
+@202.1
+Don't be hasty.\nI won't kill you.\nGo wherever you please.
+@203
+What are you saying?\nWill dying make anything bloom!?\nCool your head a while!!
+@204
+There's no need to hurry to your death.\nI'll give you time to think of your future.
+@204.1
+Don't be hasty.\nI won't kill you.\nGo wherever you please.
+@205
+...Very well.\nI permit you seppuku.
+@206
+I thank you.
+@207
+Wait, wait, don't be in such a hurry to die.\n...What do you say, will you serve me?
+@208
+What are you saying? Victory and defeat are a soldier's lot.\nThis time luck was simply on my side.\nRather than that... won't you work under me?
+@208.1
+Winning and losing are fortune's whim.\nDefeat is no shame.\nWon't you work under me?
+@209
+Wait, wait, don't be in such a hurry to die.\n...What do you say, will you serve me?
+@210
+What!\nYou want me as your retainer?
+@211
+(Now, how shall I persuade them...)
+@212
+I need you.\nWon't you lend me your strength?
+@212.1
+It would be a shame to let your talent go to waste.\nWon't you serve me?
+@213
+Words like that\nwon't move\nmy heart.
+@213.1
+I can't trust\nmere fine words.
+@213.2
+I don't mind having\nmy ability appreciated.
+@214
+Even as a ronin,\nthere's no saying you'll find service.\nDo you mean to end up on the streets?
+@215
+When one door closes, another opens.\nAll I can say is,\nwhat will be, will be.
+@215.1
+As I am now,\nI have nowhere to go.
+@215.2
+To cast off all ties\nand live as a simple ronin\nisn't so bad either.
+@216
+I will surely give you an important post.\nYou won't regret it!
+@217
+Is that true?!
+@217.1
+How far can I believe that...
+@217.2
+I can't trust\nsuch empty promises.
+@218
+Your work was splendid,\neven for an enemy!\nWon't you use that strength for me?
+@219
+That is more praise\nthan I deserve.
+@219.1
+I don't mind\nbeing appreciated.
+@219.2
+Oh, so my work\nimpressed the enemy?\nNow that's amusing.
+@220
+You are a {02}{07}e general.\nDo you mind if straggler hunters\ntake your head?
+@221
+Hmm...
+@221.1
+I am prepared for that.
+@221.2
+I am not one to bow\nto such threats!
+@222
+Rise and fall are the way of the world.\nWon't you work for the {02}{06}e\nas if reborn?
+@223
+I have no wish to change masters.
+@223.1
+As if reborn, eh?\nThat isn't bad either.
+@223.2
+There's something in that too.
+@224
+To end this age of war\nand bring peace to the land,\nlend me your strength!
+@225
+I'll have nothing to do\nwith a braggart.
+@225.1
+A grand ambition indeed.
+@225.2
+I dislike\ngrand talk.
+@226
+If you want me to bow my head, I will.\nWhat do you say, will you serve me?
+@227
+I'm moved by your passion.
+@227.1
+I understand\nyour passion well.
+@228
+The {02}{06}e will surely take the realm.\nServe us and you are sure to rise.
+@229
+True, the strength that defeated us\nis not to be taken lightly...
+@229.1
+Shelter under the biggest tree, is that it...
+@229.2
+I am not one to be lured\nby such bait!
+@230
+Too kind a word for one like me...\nFrom today, allow me to call you my lord.
+@231
+Good, I'm counting on you.
+@232
+There is no use in further talk.\nI have but one wish:\nlet me take my own life.
+@233
+......The persuasion failed.\nIt can't be helped...
+@234
+I'm sorry, but\nI have no wish to enter service.
+@235
+Your mind is made up...\nIt can't be helped.\nGo wherever you please.
+@236
+{02}{02}g,\n{02}{03}g, lord of {02}{0B}d Castle,\nhas declared independence as a daimyo!
+@237
+Well done, all of you!\nSpend your time as you like until the next council.\nDismissed!
+@238
+Obtained the "{02}{1A}e" card!
+@239
+......No,\nthe march is called off.
+@240
+Good, we march!!
+@241
+{02}{02}f,\nI expect great deeds from you.
+@242
+Yes, sir!
+@243
+There is no base you can ask for reinforcements.
+@244
+Request reinforcements?
+@245
+Request reinforcements from this castle.\nIs that OK?
+@246
+Request reinforcements from this ninja village.\nIt costs 10000 kan.\nIs that OK?
+@247
+The castle lord is out on campaign,\nso no reinforcements can be sent.
+@248
+{01}C,{00} has agreed\nto send reinforcements.
+@248.1
+{01}C,{00} gladly answered\nthe call for reinforcements.
+@249
+{01}C,{00}\nrefused, saying\nno reinforcements can be sent.
+@249.1
+{01}C,{00}\nrefused, saying there are no troops\nto spare for reinforcements now.
+@250
+Reinforcements were requested\nfrom {02}{0B}d.
+@251
+Cancel the request for reinforcements?
+@252
+Hmm, this is no way to fight...\nWe'll have to start over.
+@253
+Join our allies and attack the {02}{06}e army.
+@254
+Attack the {02}{06}e army?
+@255
+Attack {02}{0B}d?
+@256
+The {02}{06}e army\nis attacking!
+@257
+Lord {02}{03}g's army\nand the {02}{06}e army\nhave started a battle.
+@258
+{02}{02}g, an emergency!\nThe {02}{03}g army of the {02}{06}e\nhas surrounded this castle!
+@259
+What, is that true?!\nI can't sit here, I must hurry to the castle!!
+@260
+Also, {01}C,{00} says:\n"Given the emergency, no mission report\n is needed this time."
+@261
+Forgive me, but I must collect\nthe funds given for your mission.
+@262
+Hmm, war!!\nGather everyone in the council chamber!
+@263
+Yes, at once!
+@264
+This castle is in no state to fight.\nFlee outside the castle for now.
+@265
+{02}{02}g!\nThe {02}{03}g army of the {02}{06}e\nhas surrounded this castle!
+@266
+Understood.\nI'll get out of the castle for now.
+@267
+{02}{02}g,\nthe {02}{03}g army of the {02}{06}e\nhas attacked our seat, {02}{0B}d!
+@268
+{02}{02}g,\nthe {02}{03}g army of the {02}{06}e\nhas attacked our {02}{0B}d!
+@269
+The {02}{03}g army of the {02}{06}e\nhas attacked {02}{0B}d\nof the {02}{07}e!
+@270
+The {02}{03}g army of the {02}{06}e\nhas withdrawn without fighting.
+@271
+{02}{0B}d of the {02}{06}e\nhas surrendered and now belongs\nto the {02}{07}e.
+@272
+Now, let me explain the basics of battle.\nIn battle you fight leading forces\ncalled units ("sonae").
+@273
+If the army commander's unit can no longer fight,\nor the castle falls, you lose.
+@274
+Conversely, if you put the enemy commander's unit\nout of action or take the castle, you win.
+@275
+A unit is out of action when it retreats,\nwhen its soldiers reach 0,\nor when its morale reaches 0.
+@276
+And a castle falls when its defense reaches 0.
+@277
+Have you understood so far?
+@278
+Then I'll explain it once more.\nDon't miss anything.
+@279
+In battle, you and the enemy take turns.
+@280
+Combat is fought with cards.\nAfter cards have been played 5 times,\none round of combat is over.
+@281
+You hold 5 cards,\nand you can swap up to 3.
+@282
+The basic ways of attacking are\n"Attack", "Charge" and "Fire".
+@283
+"Attack" is for any troop type but cavalry,\n"Charge" is for cavalry only,\nand any troop type can "Fire".
+@284
+Let's say you chose "Attack"\nand I chose "Fire".
+@285
+First, swapping cards.\nYou throw away cards you don't need\nand swap them for new ones.\nYou're a careless sort,\nso don't get it wrong\nand swap a card you want to use.
+@286
+Hm! So I'm swapping now.\nI check the cards to swap,\nthen press "OK", is that right?
+@287
+Well, yes, but...\nSomehow I'm worried.
+@288
+Now, at last, the attack.\nFrom the cards in your hand,\nchoose 3 "Attack" cards.
+@289
+The enemy plays cards too.\nWhoever's cards add up to more\nstrikes first.
+@290
+If the totals are the same,\nneither side can attack.\n...This time you strike first.
+@291
+You can't attack unless you strike first.\n"Charge" is stronger than "Attack"\nand may throw the enemy into confusion.
+@292
+"Fire" draws no counterattack.\nBut bows are weak.\n"Fire" is a good choice when defending.
+@293
+"Fire" from gun or cannon units\nis stronger than bows, but they use matchlocks,\nso they are weaker in rain or snow.
+@294
+When you have no card you want to play,\nchoose "Wait".
+@295
+If you "Wait", you can reduce the damage\nsomewhat even when attacked.
+@296
+A "Charge", or "Fire"\nfrom gun or cannon units,\ncan throw you into confusion.\nThen you can't choose any card\nexcept "Rally".
+@297
+Confusion may wear off by itself,\nbut you can't count on it.\nIt's best to use "Rally".
+@298
+"Rally" ends confusion and raises morale.\nIf you're worried, it's wise to keep\na "Rally" card in your hand.
+@299
+Now, on to the next turn.\nThis time I'll explain card "hands".
+@300
+What?! How come\nyou struck first?
+@301
+Yes, that's the effect of a "hand"!
+@302
+If you play 3 cards with consecutive values,\nor 3 cards of the same value,\nyou make a "hand".\n3 cards of the same value are a "Triple",\n3 consecutive values are a "Straight".
+@303
+Of these two hands,\n"Triple" is strongest, then "Straight".\nIf you can, go for a "Triple".\nBetween equal hands, higher values win.\nBut as an exception, "1-2-3" is the best "Straight"\nand "1-1-1" the best "Triple".
+@304
+Next I'll explain "special tactics".\nOn to the next turn.
+@305
+When your cards are refilled,\nyou may draw "special tactic" cards.\n"Pincer" is one of them.
+@306
+But you are never dealt special tactics\nyou haven't learned.\nSo train hard every day to learn them.
+@307
+Also, the special tactic cards you can use\ndepend on how you attack.\nFor example, "Quick-Loaders" can't be used with "Attack".\n"Quick-Loaders" work only with "Fire".\nStill, you never draw special tactic cards\nyou can't use, so you needn't worry.\nRather, when choosing how to attack,\nmake a point of picking the method\nfor which you've learned many special tactics.
+@308
+Now let's use "Pincer".\nA special tactic card is played on its own.
+@309
+By the way, if you move the cursor onto a card,\na short explanation appears at the bottom\nof the screen. It's a useful reference.
+@310
+There are 3 kinds of special tactic cards,\ncoloured "red", "blue" and "yellow"\nby their backing.\n"Red" special tactics beat "hands".\nBetween two "red" ones, a set order decides,\nand only the higher one strikes first.
+@311
+"Blue" special tactics act second.\nIf the enemy plays an attack card, you are\nattacked regardless, but yours always takes effect.
+@312
+"Yellow" special tactics also act second,\nbut once played they stay on the right of the screen\nand keep working for as long as they remain.
+@313
+If the enemy plays a "yellow" special tactic,\nyou can remove it with "See Through".
+@314
+With the "Secret Plan" command\nyou can trade a card in your hand\nfor a "special tactic" card.
+@315
+However, the number of "Secret Plans"\nyou can use in one battle is limited.\nIt depends on your Tactics skill.\nIf you want to shine in battle,\nstudy Tactics every day.
+@316
+The "war fans" at top right are your remaining Secret Plans.\nThink about when to use them.\n\nBy the way, you can also use\n"Secret Plan" with the R2 button. Handy to know.\n\n
+@317
+In field battles you choose a "formation" each day.\nIf the "formation" changes, so does the units' layout.\n\nSo the next day you may end up\nfighting a different enemy unit.
+@318
+Cards are also all replaced after a day.\nIf you hold "special tactic" cards,\nit's best to use them up.
+@319
+Now... I'd rather not think about it,\nbut there will be times you just can't win.\nAs they say, "victory and defeat are a soldier's lot".
+@320
+In that case choose "Fall Back".\n\n\n"Fall Back" acts second.\nIf it succeeds, you can break off the combat,\nbut it doesn't always succeed.
+@321
+You can't "Fall Back" while confused.\nAnd don't forget that\n"Fall Back" lowers morale.
+@322
+Also, sometimes every enemy unit\nwill be overwhelmingly strong\nand you won't stand a chance attacking.\nThen "Wait" for the next chance.\nIt not only saves your strength,\nit also raises morale slightly.\nThat's enough gloomy talk.\nWhen you go to battle,\nyou want to win great glory!
+@323
+Yes, the first spear into the enemy, after all...
+@324
+Now, now, you're a general now,\nwith a unit to command.\nYou can't go on as you did before.
+@325
+Your job is to command your own unit\nand win the battle while raising\nyour own "merit" as high as you can.
+@326
+"Merit" rises as you kill enemy soldiers\nand lower the castle's defense.\n\nYou can check your current merit\nwith the Info command.\nThe Info command is called up with the Triangle button.
+@327
+Putting an enemy unit out of action raises merit a lot.\nAll the more if it's the enemy commander's!\nGo for it when you get the chance.\nAlso, when your unit attacks and\nputs an enemy unit out of action, it may now and then\nattack another enemy unit straight away.\nThis only seems to happen when your\nmorale is quite high, but if you beat them in a row\nyou can earn a lot of merit.
+@328
+If you win the battle with the highest merit,\nyou are named top in merit and gain much renown.
+@329
+Everyone in a battle aims for top merit.\nIn battle you must not only beat the enemy,\nbut also win the race against your allies.
+@330
+{02}{02}f, when I go to battle too,\nthink of me as your rival.
+@331
+Hmm, I see......\nI must work hard not to lose to you!
+@332
+Yes, that's the spirit.\nI look forward to our race for merit.

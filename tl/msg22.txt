@@ -1,0 +1,420 @@
+@0
+Matsukaze　　　　　　　 Movement up\nMaeda Keiji's horse. Bold, tireless and amazingly fast, this legendary steed carried the giant Keiji with ease, a load that would break an ordinary horse in three days.
+@1
+Taishaku Kurige　　　　　 Movement up\nKato Kiyomasa's horse. Over 1.9 m tall, it awed the assembled generals. Named for Taishakuten, the god who guards the Buddhist law with Bonten.
+@2
+Hojo Tsukige　　　　　　　 Movement up\nUesugi Kenshin's horse, also "Hosho Tsukige": a pale grey with a reddish tinge. Kenshin is said to have ridden it in his duel with Shingen at the 4th Kawanakajima.
+@3
+Shiroishi　　　　　　　　 Movement up\nTokugawa Ieyasu's horse. Despite "white" in its name, it is said to have been black. Ieyasu is said to have ridden it at Sekigahara.
+@4
+Kurokumo　　　　　　　　 Movement up\nTakeda Shingen's horse. So wild that only a superb rider could handle it.
+@5
+Hoshizaki　　　　　　　　 Movement up\nA fine horse Hideyoshi gave his retainer Tomita Tomonobu, as reward for brokering peace with Oda Nobukatsu after Komaki-Nagakute. Lean, strong and noble.
+@6
+Tsukumo Nasu Caddy　　　　 Politics +10\nA Chinese eggplant caddy, first of the Four Eggplants of the Realm. Named for the 99 kan Murata Juko, founder of tea, paid for it. Lost in the Honnoji fire.
+@7
+Matsushima Jar　　　　　　 Politics +10\nOne of the Three Tea Jars of the Realm, named for its many lumps like the islands of Matsushima. Imai Sokyu gave it to Nobunaga in Kyoto, but it burned at Honnoji.
+@8
+Kotenmyo Hiragumo Kettle　　 Politics +10\nA tea kettle, wide-mouthed and squat, named for its likeness to a crawling spider. When Nobunaga demanded it, Matsunaga Hisahide refused, filled it with powder and blew himself up, they say.
+@9
+Matsumoto Bowl　　　　　　 Politics +5\nFirst of the Three Great Celadon Bowls, named for its owner, the tea master Matsumoto Juho. Sumiyoshiya Somu gave it to Nobunaga, but it burned at Honnoji.
+@10
+Juko Nasu Caddy　　　　　　 Politics +5\nOne of Murata Juko's treasures and of the Four Eggplants of the Realm. Takigawa Kazumasu famously asked Nobunaga for it as a reward and was crushed to be refused. Lost at Honnoji.
+@11
+Mikazuki Tea Jar　　　　　　 Politics +5\nA great leaf-tea jar, one of the Three Tea Jars of the Realm, named for its seven lumps and slight tilt. Owned by Ashikaga Yoshimasa, Miyoshi Yoshikata and Nobunaga; burned at Honnoji.
+@12
+Hatsuhana Katatsuki　　　　　 Politics +5\nOne of the Three Great Shouldered Caddies, said to be Yang Guifei's oil jar. Ashikaga Yoshimasa named it "First Flower" for its noble beauty. Nobunaga bought it from a Kyoto merchant.
+@13
+Narashiba Katatsuki　　　　　 Politics +5\nOne of the Three Great Shouldered Caddies, also called the "Hakata caddy" as the Hakata merchant and tea master Shimai Soshitsu owned it. Presented to Hideyoshi in the Kyushu campaign.
+@14
+Nitta Katatsuki　　　　　　　 Politics +5\nFirst of the Three Great Shouldered Caddies. Owned by Murata Juko, it was called "the finest caddy in the realm". It passed to Nobunaga, Otomo Sorin and Hideyoshi, then to the Tokugawa.
+@15
+Fujisan Bowl　　　　　　　　 Politics +5\nA raku bowl by Hon'ami Koetsu, one of his Five Bowls. White above and black below like Mt. Fuji, named "Fujisan" as a work too fine to make twice.
+@16
+Shichiri Bowl　　　　　　　　 Politics +1\nA raku bowl by Hon'ami Koetsu, one of his Seven Bowls, owned by Shichiri Hikoemon.
+@17
+Joo Nasu Caddy　　　　　　　 Politics +1\nOne of the Four Eggplants of the Realm, also "Miotsukushi". Named for its owner, the Sakai tea master Takeno Joo. Imai Sokyu gave it with the Matsushima jar to Nobunaga.
+@18
+Otogoze Kettle　　　　　　　 Politics +1\nA tea kettle. "Oto-gozen" means a plump, homely woman, for its full shape. Nobunaga gave it to Yamanoue Soji; it was later presented to Hideyoshi.
+@19
+Yamanoi Katatsuki　　　　　　 Politics +1\nA great old Seto caddy, named "Yamanoi" after a poem by Takuan Soho on a mountain spring. Date Masamune received it from Ieyasu.
+@20
+Asakura Bunrin　　　　　　　 Politics +1\nA great Chinese bunrin caddy, named for its owner Asakura Yoshikage of Echizen. Nobunaga later gave it to Honnoji, so it is also the "Honnoji Bunrin".
+@21
+Star Temmoku Bowl　　　　　　 Politics +1\nA kind of tenmoku bowl. Bowls from the Jian kilns of Fujian are called kensan; this kind has star-like spots on its surface.
+@22
+Hayabune Bowl　　　　　　　 Politics +1\nBy Chojiro, Azuchi-Momoyama potter: a famed red raku bowl, first of Chojiro's Seven. Named for Rikyu sending a fast boat to fetch it for a tea party. Later passed to Gamo Ujisato.
+@23
+Tsutsuizutsu Bowl　　　　　　 Politics +1\nA fine Ido bowl owned by Tsutsui Junkei. Deep with a high foot, it was called "Tsutsui's tube bowl", hence the name. Later presented to Hideyoshi.
+@24
+Sogo Nasu Caddy　　　　　　 Politics +1\nOwned by Jushiya Sogo, Takeno Joo's tea teacher. A large eggplant with one line around the body. Sogo, from Omi, lived in Kyoto and learned tea from Murata Juko.
+@25
+Plover Censer　　　　　　　 Politics +1\nA three-legged censer owned by Hideyoshi. When the thief Ishikawa Goemon tried to steal it from Fushimi Castle, the plovers on its lid cried out and he was caught, they say.
+@26
+Aoido Shibata Bowl　　　　　 Politics +1\nA Korean Ido bowl that Nobunaga gave Shibata Katsuie: loquat-coloured overall, with spots of white and blue glaze.
+@27
+Hashidate Jar　　　　　　　 Politics +1\nA huge leaf-tea jar holding seven kin. Found in Tango, it was named after the famous Amanohashidate there. Ashikaga Yoshimasa's beloved jar, Sen no Rikyu treasured it for its wabi.
+@28
+Kitano Nasu Caddy　　　　　 Politics +1\nA great Chinese caddy owned by Hideyoshi, beautiful in purple and black.
+@29
+Black Raku Hachibiraki　　　　 Politics +1\nA black raku bowl, one of Chojiro's Seven: seven masterpieces Rikyu chose from Chojiro's bowls, also Rikyu's Seven. Named for being a large black bowl.
+@30
+Fuji Nasu Caddy　　　　　　 Politics +1\nA Chinese eggplant caddy, one of the Three Eggplants of the Realm, named for its great, stately shape like Mt. Fuji. Owned by Yoshiteru, Nobunaga and Hideyoshi.
+@31
+Uchigumori Taikai　　　　　　 Politics +1\nA Chinese taikai caddy. Ashikaga Yoshimasa named it for black patches like clouds on its persimmon ground. "Taikai" are wide-mouthed, flat round caddies. Owned by Hideyoshi and the Kyogoku.
+@32
+Nitari Nasu Caddy　　　　　　 Politics +1\nOne of the Four Eggplants of the Realm. As the Sakai merchant Shioya Soetsu paid 100 kan for it, it is also "Hyakkan Nasu", named for its price so close to the Tsukumo Nasu's 99 kan.
+@33
+Inaba Yohen Temmoku　　　　　 Politics +1\nA tenmoku bowl with stars of seven colours, blue, yellow, purple and more, on black. Named for the Inaba, lords of Yodo, who owned it. "Yohen" means spots all over the glaze with rainbow halos.
+@34
+Korean Karatsu Bowl\nKaratsu ware fired near Kishidake from Momoyama to early Edo times, with iron and straw-ash glazes split above and below for its look. Long prized as tea ware.
+@35
+Hashihime Caddy\nAn old Seto caddy, nearly straight with a slight roundness, named after a Kokinshu poem about the maiden of Uji bridge.
+@36
+Korean Tea Bowl\nKorean tea bowls made from Goryeo to Joseon times. With the fashion for wabi tea they replaced Chinese bowls.
+@37
+Tanba Tea Jar\nA Tanba-ware tea jar. Tanba ware, from Imada in Taki, Tanba, is one of the Six Old Kilns, dating back to the late Heian era. Pieces before Momoyama are called Old Tanba.
+@38
+Oido Kaga Bowl\nOne of the Three Great Ido Bowls, named for its owners, the Maeda of Kaga; also called "Lion". "O-Ido" are the largest, tallest Ido bowls.
+@39
+Hailstone Kettle\nA tea kettle with a pattern of hail-like dots on its body. It has many names depending on how the dots are laid.
+@40
+Cochin Caddy\nA caddy fired in Guangdong, Yixing in Zhejiang, Shushan and elsewhere in southern China, named for the Cochin trade ships that brought it. Known for bright green, blue, yellow and red glazes.
+@41
+White Temmoku Bowl\nOne of Takeno Joo's treasures. White tenmoku, said to be the forerunner of Shino ware, is tenmoku thickly glazed with white feldspar. Those of the Owari Tokugawa and Kaga Maeda are famous.
+@42
+Ashiya Kettle\nKettles made at Ashiya on the Onga river in Chikuzen from late Kamakura to Momoyama times, until Kyoto kettles took over. Mostly shingyo shape, with "catfish" or "silk" skin.
+@43
+Kiseto Tea Bowl\n{1B}HA bowl fired in Seto-type kilns near Kukuri in Kani, Mino, late 16th to early 17th century, in pale yellow glaze, often with copper-green spots, incised lines or a band.
+@44
+Kiseto Vase\n{1B}HA flower vase fired in Seto-type kilns near Kukuri in Kani, Mino, late 16th to early 17th century. Momoyama Kiseto has a thicker, opaque yellow glaze than Muromachi wares.
+@45
+Tenmyo Kettle\nTea kettles made at Tenmyo in Sano, Shimotsuke. Tea masters loved their rustic style; with Ashiya kettles they were famed as "Ashiya in the west, Tenmyo in the east".
+@46
+Black Raku Bowl\nA raku bowl finished in black. Raku is shaped all by hand without a wheel and fired by sudden heat and cooling. Rikyu liked black raku; Hideyoshi liked red, they say.
+@47
+Red Raku Bowl\nA raku bowl in red-brown glaze. Raku began when Rikyu taught the tile maker Chojiro to make it. Hideyoshi gave Chojiro a gold "Raku" seal, which became his family name.
+@48
+Celadon Vase\nA celadon vase: porcelain with an iron glaze, blue-green or pale yellow. Famous are the kinuta celadon of China's Longquan kilns and Goryeo celadon.
+@49
+Landscape of Four Seasons　 Diplomacy +10\nSesshu's work at 67, also called the "Long Landscape Scroll", showing the landscape through the four seasons. Rich in composition and perspective, called the finest Muromachi ink painting.
+@50
+Cranes with Waka　　　　　 Diplomacy +5\nHon'ami Koetsu's masterpiece: Koetsu's calligraphy over flocks of cranes painted in gold and silver by Tawaraya Sotatsu. Also called the "Crane Scroll of 36 Poets".
+@51
+Flowers with Waka　　　　　 Diplomacy +1\nBy Hon'ami Koetsu, one of the Three Brushes of Kan'ei. Two panels of a gold six-fold screen: Koetsu's Kokinshu poems over Sotatsu's underpainting. Also the "Flowers of the Four Seasons Scroll".
+@52
+Pine and Hawk　　　　　　 Diplomacy +1\nBy Sesson: a hawk on a pine in lively brushwork. Sesson, a painter-monk of the Satake of Hitachi, admired Sesshu, studied Song and Yuan art and found his own style.
+@53
+Nachi Waterfall\nA Kamakura-era Yamato painting: dense woods above with the moon rising over them, and in the centre a dim cliff with the silver plume of a waterfall.
+@54
+Ink Bamboo\nBy Wu Hong of Linchuan, a literati painter of the Eight Masters of Jinling. A great ink painting showing his keen sense of light.
+@55
+Wind and Rain Landscape\nSaid to be by Xia Gui: a landscape veiled in wind and rain. A late Southern Song painter, he greatly influenced Japanese ink landscapes from the Muromachi era.
+@56
+Sunset Landscape\nBy Ma Lin. His father Ma Yuan, a leading Southern Song court painter, founded the Ma school, making the most of empty space. It deeply shaped Japanese ink landscapes.
+@57
+Fishing Village at Dusk\nSaid to be by Muqi: the Xiao and Xiang rivers meeting south of Lake Dongting. One of the Eight Views of Xiaoxiang; once a single scroll owned by Ashikaga Yoshimitsu.
+@58
+Flowers and Birds\nPaintings of flowers, birds and insects, a set theme since the Song era, brought to Japan in the Muromachi era. Kaiho Yusho's peacocks and pines is famous.
+@59
+Bamboo and Fowl\nBy Luochuang: a lifelike ink painting of a rooster, with light colour on the comb and legs. A late Southern Song Zen monk, said to be heir to the ink master Muqi.
+@60
+Chinese Hanging Scroll\nA scroll of Chinese-style calligraphy influenced by Ming masters. The style was popular in the early to mid Edo era.
+@61
+In and Around Kyoto　　　　 Diplomacy +10\nA painting of bustling Kyoto. There are many, but the most famous is Kano Eitoku's screen, which Nobunaga gave to Uesugi Kenshin.
+@62
+Pine Forest Screen　　　　 Diplomacy +5\nBy Hasegawa Tohaku: a deep pine wood shut in winter fog. Said to be painted in grief after losing his patron Sen no Rikyu and then his son and right hand Kyuzo.
+@63
+Chinese Lions Screen　　　　 Diplomacy +5\nBy Kano Eitoku: a true Eitoku work in the "grand style" of huge subjects. The style, matching the temper of Nobunaga, Hideyoshi and the age, swept the era.
+@64
+Chishakuin Maples　　　　　 Diplomacy +1\nWall paintings by Hasegawa Tohaku. Chishakuin at the foot of Higashiyama in Kyoto keeps "Cherry Blossoms" by his son Kyuzo, "Maples" by Tohaku and his students, and more.
+@65
+Cypress Screen　　　　　 Diplomacy +1\nBy Kano Eitoku: lavish colour on gold, with one huge cypress that overwhelms the viewer. Now a screen, it was once sliding doors in Prince Hachijo's palace.
+@66
+Maple Viewing Screen\nBy Kano Hideyori, a masterpiece of early genre painting: samurai, monks and ladies enjoying the autumn leaves at Takao, in brilliant colour.
+@67
+Merrymaking Under Blossoms\nBy Kano Naganobu, Eitoku's brother: women dancing before a young lord on an octagonal hall, and ladies feasting under full cherry blossom, using ink techniques.
+@68
+White Chrysanthemums Screen\nBy the Hasegawa school: a pair of six-fold screens, white chrysanthemums and a stream finely placed. Gold wall painting flourished from Momoyama into the Edo era.
+@69
+Tale of Genji Pictures\nBy Tosa Mitsuoki: great scenes of "The Tale of Genji" on a screen, a classic theme painted by Kano Eitoku, Kano Tan'yu, Tawaraya Sotatsu and many more.
+@70
+Secrets of Sun Tzu　　　 Leadership +10\nA book of war said to extract only the deepest secrets from the "Wu Sunzi" of Sunzi of Wu and the "Qi Sunzi" of Sunzi of Qi. Compiler unknown.
+@71
+Secrets of Wu Zi　　　　 Leadership +10\nBooks of war. Some say the "Wuzi" was forged by strategists of the Wei-Jin era. "Secrets of Wuzi" is said to gather the teachings of the strategist Wu Qi by his students.
+@73
+Wu Zi　　　　　　　　　 Leadership +1\nA book of war said to be by the strategist Wu Qi, with basics built on harmony among men and practical strategy and tactics. Ranked with Sun Wu's "Art of War".
+@74
+Mencius\nA Confucian classic, one of the Four Books with the Analects, Great Learning and Doctrine of the Mean: Mencius's talks with lords and students. Mencius taught that human nature is good.
+@75
+Three Strategies\nA book of war setting out rules of government, command and strategy in three parts. Paired with the "Six Secret Teachings" as "Rikuto Sanryaku".
+@79
+Han Feizi\nBy Han Feizi of China's Warring States era: law and punishment as the base of government.
+@81
+Book of Five Rings　　　　 Leadership +5\nA book of strategy Miyamoto Musashi wrote in old age in seclusion at Reigando cave, in five books: Earth, Water, Fire, Wind and Void. A practical philosophy from his life and thought.
+@84
+Taiheiki\nA war tale said to be by the monk Kojima: 40 volumes on the Nanbokucho war, from the Southern Court's side. Read by Sengoku generals.
+@85
+Tale of the Heike\nA war tale on the rise and fall of the Heike clan under Taira no Kiyomori, on the theme that all is fleeting and the mighty fall. Author unknown; sung by biwa monks.
+@88
+Gukansho\nA history by Jien, from Emperor Jinmu to Emperor Juntoku, interpreted through a Buddhist view of the world.
+@89
+Kojiki　　　　　　　　　　 Politics +10\nJapan's oldest surviving history, in three books, telling of the creation and the founding of Japan from the age of gods to Empress Suiko.
+@90
+Nihon Shoki　　　　　　　 Politics +10\nA Nara-era history, one of the Six National Histories and Japan's first official one. Myths, legends and records from the age of gods to Empress Jito.
+@91
+The Tale of Genji　　　　　　 Politics +5\nA long tale by Murasaki Shikibu, Heian lady writer. Centred on the court life of Prince Genji, it shows the world of the early and mid Heian era. With "The Pillow Book", a twin peak of Heian letters.
+@92
+The Pillow Book　　　　　　　 Politics +5\nEssays by the lady writer Sei Shonagon: musings and observations on the seasons, life and more. With "The Tale of Genji", a twin peak of Heian letters.
+@93
+Kokin Wakashu　　　　　　　 Politics +1\nJapan's first imperial poetry anthology, compiled by Ki no Tsurayuki and others, with about 1,100 waka.
+@94
+Man'yoshu　　　　　　　　 Politics +1\nThe oldest surviving poetry collection: about 4,500 poems, from one said to be by Emperor Nintoku's empress to the reign of Emperor Junnin.
+@95
+Hojoki\nEssays by Kamo no Chomei, written in the early Kamakura era. Rooted in the Buddhist view of impermanence, it tells of life's transience through many examples.
+@96
+Essays in Idleness\nEssays by the monk Kenko of the late Kamakura era. With "The Pillow Book", called a twin peak of essay literature.
+@97
+Tales of Ise\nA tale in poems, said to be written by several authors from the poems of the Heian poet Ariwara no Narihira.
+@98
+Tale of the Bamboo Cutter\nJapan's oldest work of fiction, written in the early Heian era. Author unknown.
+@99
+Kagero Diary\nA diary by the mother of Fujiwara no Michitsuna, Major Captain of the Right, recording her days and feelings.
+@100
+Eiga Monogatari\nA historical tale said to be by Akazome Emon. Centred on the glory of Fujiwara no Michinaga, it shows Heian noble life in story form. Also "Eiga Monogatari".
+@101
+World Map Screen　　　　　　 Charm +10\nA screen painted with a map of the world, based on a map made in Portugal.
+@102
+Striking Clock　　　　　　　 Charm +10\nA Nanban clock, run by gears, that came in the Muromachi era. Named for the bell that rings the hours, they say. Also a chiming clock.
+@103
+Gold Watch　　　　　　　　 Charm +10\nA lavish clock with gold used inside and out.
+@104
+Silver Watch　　　　　　　　 Charm +5\nA lavish clock with silver used inside and out.
+@105
+Glass Jar　　　　　　　　 Charm +10\nA jar made of vidro (glass). The Dutch who came to Nagasaki late in the Muromachi era brought the method.
+@106
+Luzon Jar　　　　　　　　　 Charm +5\nA large pottery tea jar from southern China via Luzon (the Philippines), Azuchi-Momoyama era. Hideyoshi prized them, and they were the rage for a time.
+@107
+Jewel Box　　　　　　　　　 Charm +1\nA box for jewels, itself richly decorated.
+@108
+Music Box\nA toy that plays a little tune when you open the lid. A music box.
+@109
+Pocket Watch\nA clock made small enough to carry in the breast of your robe.
+@110
+Rosary　　　　　　　　　　 Charm +5\nA rosary with a cross, used in prayer to the Virgin Mary.
+@111
+Telescope　　　　　　　　　 Charm +5\nA small telescope, brought on Nanban trade ships in the Sengoku era.
+@112
+Globe　　　　　　　　　　 Charm +1\nA globe-shaped model of the earth. The missionary Luis Frois is said to have given one to Nobunaga.
+@113
+Crucifix　　　　　　　　　 Charm +1\nA Christian sign for worship and decoration, standing for honour, sacrifice and atonement.
+@114
+Celestial Globe　　　　　　　 Charm +1\nA globe of the heavens around the earth, used at sea.
+@115
+Harpsichord\nA keyboard instrument that plucks its strings with quills. Widely used from the 16th to 18th centuries, it faded after the piano was invented. The harpsichord.
+@116
+Flute\nA Western transverse flute, a woodwind with a clear, brilliant tone. Most are now metal.
+@117
+Carpet\nA woollen weave, woven with animal hair besides the warp and weft. Mostly a rug, it was once also used to cover tables and the like.
+@118
+Perfume\nFragrant rose scent dissolved in alcohol, worn on the body or clothes.
+@119
+Bible\nScripture of Judaism and Christianity. The Old Testament, Judaism's scripture, was written over thousands of years BC; Christianity holds it sacred with the New Testament.
+@120
+Encyclopedia\nA book that explains things, such as an encyclopedia.
+@121
+Wine Glass\nA cup of vidro (glass) for drinking wine.
+@123
+Black Tea\nTea made by fermenting. Only the method differs from green or oolong tea; it comes from the same leaves.
+@125
+Cigar\nTobacco leaves rolled together into a stick.
+@126
+Peacock\nA bird of the pheasant family. The male has long plumes with eye-like spots above its tail, beautiful when fanned. Few reached Japan, so it was a rare bird.
+@127
+Parrot\nThe larger birds of the parrot family. They eat fruit and mimic speech. In Japan they were thought sacred birds of the western lands.
+@129
+Cloak\nA loose velvet cloak. The one Nobunaga gave Uesugi Kenshin, red velvet with peony arabesques, is made of three pieces and opens out into a near half circle.
+@130
+Pipe\nA kiseru pipe: pack tobacco in the bowl, light it, draw through the mouthpiece. In the Keicho years smoking spread nationwide; Date Masamune smoked 3-5 pipes a day.
+@132
+Konpeito\nA Nanban sweet: a core of poppy seed, buckwheat or sugar crystal turned in a big pan and coated in syrup again and again until it grows little horns. Frois is said to have given some to Nobunaga.
+@133
+Castella\nA Nanban sweet: flour mixed with whipped egg, sugar and syrup, baked in an oven. Brought by Europeans late in the Muromachi era and slowly improved.
+@134
+Glass Beads\nA small ball of vidro, mostly for show. Vidro is another word for glass; the Dutch who visited Nagasaki late in the Muromachi era brought the method.
+@135
+Bolo Biscuits\nA Nanban sweet: little round cakes of flour, egg and sugar baked light. They keep longer than kasutera. From the Portuguese "bolo".
+@136
+Butter\nMilk fat, especially from cow's milk, set and worked with salt. Very nourishing; used in cooking and sweets.
+@139
+Murasame　　　　　　　　　 Valor +10\nTreasure sword of the Ashikaga of Kanto. Its tang is dewy; drawn in anger it gives off moisture, and blood never clings to the blade, they say.
+@140
+Bakuya　　　　　　　　　 Valor +18\nA Chinese treasure sword: the legendary blade forged by Gan Jiang, master smith of Wu in the Warring States era.
+@142
+Muramasa　　　　　　　　　 Valor +10\nMade by Muramasa of Ise, a famed smith. Muramasa blades killed Ieyasu's grandfather, father and eldest son, so they were called "swords cursed against the Tokugawa".
+@144
+Onimaru　　　　　　　　　 Valor +10\nHanded down in the Hojo, regents of the Kamakura shogunate. After they fell it passed to Nitta Yoshisada, the Ashikaga shoguns, Nobunaga, Hideyoshi and others: prized as a great blade.
+@145
+Yoshimitsu Honebami　　　　　 Valor +10\nMade by Awataguchi Yoshimitsu of Kyoto. The Otomo gave it to the Ashikaga shoguns; via Matsunaga Hisahide it came back to them, and after Kyushu they gave it to Hideyoshi.
+@146
+Sadamune　　　　　　　　　 Valor +5\nMade by Sadamune of Sagami, Masamune's adopted son, said to be heir to his style above all others.
+@147
+Nihongo　　　　　　　　　　 Valor +5\nA spear over 3 m long, carved with Kurikara, a dragon king and avatar of Fudo Myoo. Famed as the spear Mori Tahee of Kuroda's 24 Riders won from Fukushima Masanori in a drinking bout.
+@148
+Dojigiri　　　　　　　　　　 Valor +5\nMade by Yasutsuna of Hoki. One of the Five Great Swords. Named for Minamoto no Raiko slaying the demon Shuten Doji of Oeyama. Later owned by Hideyoshi and Ieyasu.
+@149
+Bizen Osafune Kanemitsu　　　　 Valor +5\nMade by Kanemitsu of Bizen: a bold, heavy blade over 90 cm long.
+@150
+Kiku Ichimonji　　　　　　　　 Valor +5\nA great sword Emperor Go-Toba had Norimune and other Bizen smiths forge in the Kamakura era. The tang bears a sixteen-petal chrysanthemum.
+@151
+Mikazuki Munechika　　　　　　 Valor +5\nSigned Sanjo. Made by Sanjo Kokaji Munechika, master of the mid-Heian era. Named for the crescent moons in its temper line. One of the Five Great Swords.
+@152
+Heshikiri　　　　　　　　　　 Valor +5\nNobunaga's sword, made by Hasebe Kunishige of Kyoto. Named for when Nobunaga cut a tea servant hiding under a kitchen shelf, shelf and all.
+@153
+Kagehide　　　　　　　　　 Valor +5\nDate Masamune's sword. In Korea he cut an enemy general down to the saddle, so it is also called "Saddle Cutter".
+@154
+Sadatoshi　　　　　　　　　 Valor +5\nMade by Sadatoshi of Yamashiro: graceful and elegant.
+@155
+Koryu Kagemitsu　　　　　　　 Valor +5\nMade by Kagemitsu of Osafune, Bizen, late Kamakura era; said to be Kusunoki Masashige's sword. Named for its relief of the Kurikara dragon.
+@156
+Odenta　　　　　　　　　　 Valor +5\nMade by Miike Denta Mitsuyo of Chikugo. One of the Five Great Swords: deeply curved and majestic.
+@157
+Daihannya Nagamitsu　　　　　 Valor +1\nMade by Nagamitsu of Bizen. It cost 600 kan, like the 600 volumes of the Great Wisdom Sutra, hence the name. Owned by Yoshiteru, Nagayoshi, then Nobunaga and Ieyasu.
+@158
+Tonbogiri　　　　　　　　　 Valor +1\nHonda Tadakatsu's spear. A dragonfly that landed on its tip fell cut in two, hence the name: "dragonfly cutter".
+@159
+Amakuni　　　　　　　　　　 Valor +1\nA Heike heirloom, said to be given by the court to Taira no Sadamori for defeating Fujiwara no Sumitomo. Deeply curved, double-edged over half its length.
+@160
+Fukuoka Ichimonji\nMade by the Fukuoka branch of the Ichimonji school of Bizen, whose smiths include Norimune of Kiku-ichimonji fame.
+@161
+Nagamitsu Naginata\nA naginata by Nagamitsu of Osafune, Bizen, the second Osafune master, a versatile smith of swords, naginata and more.
+@162
+Kunimitsu Dagger\nA dagger by Shintogo Kunimitsu, early Kamakura master and founder of the Soshu smiths. Gamo Ujisato's favourite. Kunimitsu's daggers are straight, without curve.
+@163
+Kikuchi Spear\nA plain spear with a single-edged head, like a dagger on a long shaft. Named after Kikuchi Takeshige, who used it in Nitta Yoshisada's service in the Nanbokucho era.
+@164
+Osafune Short Sword\nA short sword by the Osafune school of Bizen, founded by Mitsutada in the mid-Kamakura era, which flourished most in the Nanbokucho and Muromachi eras.
+@165
+Omi Wakizashi\nA wakizashi made in Omi, long home to smithing, which grew into swordmaking in medieval times and paved the way for Kunitomo's guns.
+@167
+Plain Spear\nThe basic spear: a straight head on a plain, slender shaft.
+@168
+Wakizashi\nA wakizashi by a nameless smith: a short sword worn at the hip for protection, mostly under 60 cm long.
+@169
+Paladin's Armour　　　　　　　 Valor +16\nLegendary Western armour, said to be worn by a holy knight.
+@171
+Black Laced Domaru　　　　　 Valor +17\nLegendary armour said to be Minamoto no Yoshitsune's favourite.
+@172
+Many-Coloured Haramaki　　　　 Valor +10\nArmour said to be Mori Motonari's. Its scales, lacing, fittings and ridged helmet are exquisitely fine: a classic work of the late Muromachi era.
+@173
+Black Lacquer Five-Plate　　　　 Valor +10\nSaid to be made by the Myochin of Sagami, modelled on the Yukinoshita cuirass. Worn by Date Masamune and his men, it is also called the Sendai cuirass.
+@174
+Gold-Scale Many-Colour Armour　　 Valor +5\nSplendid armour of fine gilt scales laced in red, green, purple and white. Nobunaga sent it to Uesugi Kenshin for an alliance on hearing Shingen was marching west.
+@175
+Gold Lacquer Armour　　　　　 Valor +5\nLavish armour covered in gold leaf. Ieyasu wore it to bring provisions into Odaka Castle at Okehazama; also called the Odaka Provisioning Armour.
+@176
+Silver Lacquer Armour　　　　　 Valor +5\nLavish armour covered in silver leaf, said to be owned by Yoshinari, Ieyasu's ninth son and founder of the Owari Tokugawa.
+@177
+Red-Laced White-Shoulder Armour　 Valor +1\nSplendid armour laced in red and white. One was offered by Ouchi Yoshitaka to Itsukushima Shrine.
+@178
+Smoked-Leather Sugake Armour　 Valor +1\nArmour said to be Uesugi Kenshin's, with a gilt helmet. Its round sleeves, made separately, are said to be a gift from Nobunaga.
+@179
+Fern Armour　　　　　　　　 Valor +1\nArmour said to be Ieyasu's, known for its Nanban helmet with a fern crest. Kuroda Nagamasa received it from Ieyasu.
+@180
+Red-Laced Small Haramaki\nA small haramaki of fine black scales laced in red. Said to be Ieyasu's first armour, made in Nara for Imagawa Yoshimoto.
+@181
+Blue-and-Red Laced Armour\nStandard domaru-style armour that Hideyoshi gave Wakisaka Yasuharu, with lacquered iron scales on body and skirt.
+@182
+Nanban Cuirass Armour\nArmour from Nanban lands. Inspired by it, the Sengoku era made modern armour with fittings matched to helmet and body.
+@183
+Chain Armour\nSmall metal plates joined by chain.
+@184
+Jewelled Crown\nA crown adorned with jewels, gold and silver. A symbol of power.
+@185
+Diamond\nAlso called the hard stone. The costliest of gems, from clear to blue, yellow, red and more.
+@186
+Ruby Ring\nA ring set with a clear red ruby.
+@187
+Jade Necklace\nA necklace set with fine jade.
+@188
+Gold Nugget\nA lump of refined gold, in many sizes.
+@189
+Great Pearl\nA large pearl: a ball formed inside a shellfish. Its noble silver lustre makes it a gem.
+@190
+Iwami Silver\nSilver mined at the Iwami silver mine.
+@191
+Sado Gold\nGold mined at the Sado gold mine.
+@192
+Gold Grains\nGold dust gathered into small grains.
+@193
+Doburoku\nSake brewed from soaked, steamed rice with koji and water, never strained of its lees. Cloudy white. The origin of the name is unclear.
+@194
+Chrysanthemum Sake\nA famous sake of Kaga, a kind of mirin, made from Hakusan snowmelt in the Tedori river. Praised at the Daigo cherry-blossom party, they say.
+@196
+Temple Sake\nA famous sake of Yamato and Iga, brewed in temples. Nara's temple sake was famous from the Muromachi era.
+@197
+Fine Sake\nA famous sake of Yamashiro: refined and mellow with a clean finish. After temple sake rose, regional breweries gained ground in the Bunmei years, and the fine sake of Nishinomiya reached Kyoto too.
+@201
+Beer\nA drink of barley malt and water heated to sugar, then fermented with hops and yeast. Beer.
+@202
+Rikyu Sake\nSpirits flavoured with herbs, sugar and the like. Liqueur.
+@203
+Grape Wine\nGrape juice fermented with yeast. Wine.
+@204
+Wonder Drug\nA rather costly cold remedy, mixed to work best for each symptom.
+@205
+Cold Medicine\nMedicine to cure a cold.
+@206
+Sojintan\nA tonic: clove, aconite, cinnamon and many more rolled into pills.
+@208
+Raikiri　　　　　　　　　　　 Valor +1\nTachibana Dosetsu's sword. Named for when he cut what seemed to be the thunder god as lightning struck him.
+@209
+Setsuyoshu Dictionary\nA dictionary of everyday words by topic, mid-Muromachi era, author unknown. Printed by the townsman scholar Manjuya Soji.
+@72
+The Art of War　　　　　 Leadership +5\nA Chinese book of war said to be by Sun Wu of Wu. Its 13 chapters, from Laying Plans to Attack by Stratagem, were the Sengoku generals' favourite reading. Shingen's "Wind, Forest, Fire, Mountain" banner quotes it.
+@76
+Six Secret Teachings\nA Chinese book of war said to be by Taigong Wang of Zhou: six volumes of past masters' sayings on government, tactics, command and strategy.
+@77
+Mengde New Book\nA Chinese book of war said to be by Cao Cao, Emperor Wu of Wei, in the Three Kingdoms era. Mocked by Zhang Song, he burned it himself, they say.
+@78
+Strategies of the Warring States\nA Chinese history: the schemes that the Diplomatists, Warring States thinkers, urged on the lords, gathered state by state.
+@80
+Records of the Historian　　 Leadership +10\nA Chinese history by Sima Qian: the history of China from antiquity to Emperor Wu, in 130 volumes.
+@82
+Three Kingdoms Romance　　 Leadership +1\nA long Chinese novel by Luo Guanzhong, one of the Four Great Novels. Based on the Three Kingdoms history, it runs from the Peach Garden Oath to China's unification by the Jin.
+@83
+Water Margin\nA long Chinese novel by Shi Nai'an, one of the Four Great Novels: the deeds of the 108 heroes led by Song Jiang at Liangshan Marsh in the late Northern Song.
+@86
+Book of Han\nA Chinese history by Ban Gu of the Later Han. Its 100 volumes record the 231 years of the Former Han, from Emperor Gaozu to Emperor Ping, in annals and biographies.
+@87
+Zizhi Tongjian\nA Chinese history compiled by Sima Guang of the Northern Song: a chronicle of 1,362 years of Chinese history, from 403 BC to AD 959.
+@122
+China Tea\nA name for all teas from Chinese leaves: green, oolong, black, flower tea and more.
+@124
+Coffee\nThe seeds of the coffee tree. Roasted and ground, then boiled or steamed, they make a drink of strong aroma and bitterness.
+@128
+Western Dog\nWestern dogs. In the Azuchi-Momoyama era many breeds were obtained by Sengoku daimyo as symbols of power. The "Nanban Arrival" screens show graceful Western dogs and long-haired cats.
+@131
+Honey\nNectar that bees gather from flowers and store in the hive. Prized since ancient times as a fine natural sweetener; rich in sugar and very nourishing.
+@137
+Biscuits\nA Nanban sweet: flour mixed with butter, eggs, sugar, milk and flavourings, cut into shapes and baked. Mostly small and flat. Brought by the Portuguese.
+@138
+Ame-no-Murakumo　　　　　 Valor +20\nA sacred sword of Japan, found in the tail of the great serpent Yamata no Orochi when Susanoo slew it. First called "Tsumuha no Tachi", it was named Ame-no-Murakumo-no-Tsurugi by Susanoo.
+@141
+Oracion　　　　　　　　　 Valor +19\nA Western treasure sword: a legendary blade a holy king received from God, handed down in the Sar royal house of southern Europe.
+@143
+Masamune　　　　　　　　　 Valor +10\nMade by Masamune, a famed swordsmith of Sagami. His style of beautiful temper lines influenced all Japan.
+@166
+Vermilion Spear\nA spear with its shaft lacquered vermilion. At the Shotokuji meeting Nobunaga had his foot soldiers carry 500 vermilion spears and 500 guns. Maeda Toshiie and his nephew Keiji bore them too.
+@170
+Chiyou's Armour　　　　　　 Valor +15\nLegendary Chinese armour, said to be made by Chiyou.
+@195
+Nerizake\nA famous white sake of Chikuzen: steamed glutinous rice and koji fermented in sake, then milled and strained.
+@198
+Clear Sake\nSake made by straining doburoku. Pale yellow, with a distinctive aroma. Also called seishu.
+@199
+Red Wine\nRed wine from Portugal. "Chinta" is from the Portuguese "tinto", red.
+@200
+Araki Spirits\nA liquor from Holland: distilled spirits flavoured with spices. "Arak", a word for all spirits, became "Araki". Also called arakishu.
+@207
+Saibatan\nMedicine that boosts vigour.

@@ -1,0 +1,290 @@
+@0
+Daimyo
+@0.1
+Province Lord
+@0.2
+Castle Lord
+@0.3
+Chief Retainer
+@0.4
+Commander
+@0.5
+Samurai General
+@0.6
+Ashigaru General
+@0.7
+Ashigaru Captain
+@0.8
+Ronin
+@1
+Obtained the {02}{1A}e card!
+@2
+{02}{03}g's %s rose by %u.
+@3
+{02}{03}g's %s fell by %u.
+@4
+Obtained %m gold.
+@5
+Obtained {02}{15}d.
+@6
+{02}{03}g has collapsed...
+@7
+The "Four Heavenly Kings of Tokugawa" set is complete!\nYou obtain the "{02}{03}g" card.
+@8
+The "Western Mino Triumvirate" set is complete!\nYou obtain the "{02}{03}g" card.
+@9
+The "Four Great Retainers of Takeda" set is complete!\nYou obtain the "{02}{03}g" card.
+@10
+The "Miyoshi Triumvirate" set is complete!\nYou obtain the "{02}{03}g" card.
+@11
+The "Three Elders of the Ukita" set is complete!\nYou obtain the "{02}{03}g" card.
+@12
+The "Three Hojo Elders" set is complete!\nYou obtain the "{02}{03}g" card.
+@13
+The "Four Shimazu Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
+@14
+The "Four Elders of the Kiyosu Conference" set is complete!\nYou obtain the "{02}{03}g" card.
+@15
+The "Four Hojo Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
+@16
+The "Five Toyotomi Commissioners" set is complete!\nYou obtain the "{02}{03}g" card.
+@17
+The "Five Toyotomi Elders" set is complete!\nYou obtain the "{02}{03}g" card.
+@18
+The "Three Toyotomi Middle Elders" set is complete!\nYou obtain the "{02}{03}g" card.
+@19
+The "Seven Spears of Shizugatake" set is complete!\nYou obtain the "{02}{03}g" card.
+@20
+The "Four Heavenly Kings of Ryuzoji" set is complete!\nYou obtain the "{02}{03}g" card.
+@21
+The "Three Otomo Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
+@22
+The "Three Generals: Sea, Red, Rain" set is complete!\nYou obtain the "{02}{03}g" card.
+@23
+The "Three Okazaki Commissioners" set is complete!\nYou obtain the "{02}{03}g" card.
+@24
+All ten number cards from "One" to "Ten" are complete!\nYou obtain the "{02}{03}g" card.
+@25
+Flower, Bird, Wind and Moon are complete! A true man of taste of the warring age:\nyou obtain the "{02}{03}g" card.
+@26.*
+I
+@27.*
+I
+@28.*
+I
+@29
+My liege
+@29.1
+My lord
+@29.2
+My lord
+@30
+our liege
+@30.1
+our lord
+@30.2
+our lord
+@31
+My liege
+@31.1
+My lord
+@31.2
+My lord
+@32
+our liege
+@32.1
+our lord
+@32.2
+the elder lord
+@33.*
+you
+@34
+that lord
+@34.1
+that fellow
+@34.2
+Father
+@34.3
+Mother
+@34.4
+that fellow
+@34.5
+my brother
+@34.6
+my brother
+@34.7
+that fellow
+@34.8
+that person
+@34.9
+that person
+@34.10
+that one
+@34.11
+Lord {02}{03}f
+@34.12
+the Young Lord
+@34.13
+Lord {02}{03}f
+@34.14
+that person
+@34.15
+that fellow
+@34.16
+that one
+@35
+this lord
+@35.1
+this fellow
+@35.2
+Father
+@35.3
+Mother
+@35.4
+this fellow
+@35.5
+this one
+@35.6
+my brother
+@35.7
+my brother
+@35.8
+this fellow
+@35.9
+this one
+@35.10
+this fellow
+@35.11
+this one
+@35.12
+this person
+@35.13
+this person
+@35.14
+this fellow
+@35.15
+this one
+@35.16
+Lord {02}{02}f
+@35.17
+the Young Lord
+@35.18
+Lord {02}{02}f
+@35.19
+this person
+@35.20
+this fellow
+@35.21
+this one
+@36.*
+
+@37
+my lord
+@37.1
+Shogun
+@37.2
+Your Highness
+@37.3
+Chancellor
+@37.4
+Minister of the Left
+@37.5
+Minister of the Right
+@37.6
+Inner Minister
+@40
+Monkey
+@41
+Kuni
+@41.1
+Sena
+@41.2
+Toku
+@41.3
+Mego
+@41.4
+Yoshi
+@41.5
+Go
+@42
+Father
+@42.1
+Mother
+@42.2
+Brother
+@42.3
+Brother
+@42.4
+Lord {02}{02}f
+@42.5
+Young Lord
+@42.6
+Lord {02}{02}f
+@43
+Father
+@43.1
+Mother
+@43.2
+my brother
+@43.3
+my brother
+@43.4
+Lord {02}{03}f
+@43.5
+the Young Lord
+@43.6
+Lord {02}{03}f
+@44
+your lady wife
+@44.1
+your father
+@44.2
+your mother
+@44.3
+Lord {02}{03}f
+@44.4
+{02}{03}g
+@44.5
+Lord {02}{03}g
+@44.6
+Lord {02}{03}g
+@44.7
+Lord {02}{03}g
+@44.8
+Lord {02}{03}f
+@44.9
+the Young Lord
+@44.10
+Lord {02}{03}f
+@44.11
+{02}{03}g
+@44.12
+{02}{03}g
+@45
+Lord {02}{03}g
+@45.1
+{02}{03}g
+@45.2
+Father
+@45.3
+Mother
+@45.4
+my brother
+@45.5
+my brother
+@45.6
+Lord {02}{03}g
+@45.7
+{02}{03}g
+@45.8
+{02}{03}g
+@45.9
+Lord {02}{03}g
+@45.10
+the Young Lord
+@45.11
+Lord {02}{03}g
+@45.12
+{02}{03}g
+@46-73.*
+

@@ -1,0 +1,454 @@
+@0
+I wanted to be of use to you, dear,\nso I looked into the controls and rules.
+@1
+What is the goal of the game?
+@2
+The final goal is to achieve one of the following:\n- Become a daimyo and unite all castles, or reach Senior First Rank.\n- See the daimyo you serve unite all castles or reach Senior First Rank.\nIf your daimyo starts at Senior First Rank, or you serve one, the only goal is to unite every castle in the land.
+@3
+When is the game over?
+@4
+It seems the game ends if any of the following happens:\n- The hero dies.\n- The clan you serve is destroyed.\n- The year 1616 arrives.\nYou die if you are cut down, or if you are captured in battle\nand take your own life.
+@5
+A clan is destroyed when all its castles fall, or when its daimyo is captured in battle and killed... Let me see: that is when the daimyo's seat falls, none of his castles border it, and all the remaining castles are under his direct rule. ...But I pray nothing so dreadful ever happens.
+@6
+How do I play as another officer?
+@7
+Do you know of hero cards? Once you obtain one, you can play as that officer. Most people in the game hold a hero card. If you grow close to them, or sometimes if you meet certain conditions, they will give you their hero card, I hear.
+@8
+When you get a hero card, save first of all. If you quit without saving or the game ends, the card you worked for is lost. To play as a different hero, quit the game, return to the menu and choose "From the Beginning".
+@9
+The mini-games are too hard
+@10
+How hard a mini-game is depends on your abilities and skills, it seems.\nIn mission mini-games, the higher the skill involved, the easier it gets. So when you take a mission, choose one that makes use of your best skills.
+@11
+In training mini-games, the higher the ability involved, the easier it gets. So it is best to train skills that suit your abilities. But as your level rises, training gets harder too, I hear.
+@12
+Bonus points: abilities or skills?
+@13
+In the starting setup you can assign bonus points to abilities or to skills. How best to assign them, you ask...\nSkills can be raised by training at any time. Abilities can only be trained once you are a castle lord or higher; until then they cannot be raised. And items cost money...
+@14
+So how about putting the starting bonus into abilities, and raising skills by training? Then again, if you find the mini-games hard, raising skills from the start is another way.
+@15
+How do lists work?
+@16
+You can sort a list by the contents of each column.\nTo sort, press triangle and then press the column name. Each press switches between ascending and descending order.\nFor example, when you take skill training at a Samurai Home, you can sort the officer list by the skill you want (Infantry, Cavalry...) from the highest level down. Very handy.
+@17
+Also, the selected entry is shown in blue, and targets of missions or jobs (castles, officers...) in yellow. In price lists, goods dearer than usual are red, cheaper ones blue, and specialities green.
+@18
+Can I stop moving or resting?
+@19
+To change your destination while travelling on the map screen, press X to cancel the move. The same goes for stopping a rest.\nDo be careful not to sleep through your mission report...
+@20
+Well, ask me anything.\nDon't worry, I won't laugh. Ha ha ha...
+@21
+About ranks
+@22
+From the top, the ranks of a clan's vassals are: Province Lord, Castle Lord, Chief Retainer, Commander, Samurai General, Ashigaru General and Ashigaru Captain. Pile up merit, and even you or I have a chance to rise.\nWhat? How to become a daimyo? Bold words. Ask somewhere else about such dangerous talk. Ha ha ha...
+@23
+As a rule, the higher your rank, the higher your stipend. If you want details on stipends, I'll tell you another time.\nThose who belong to no clan are ronin. One can also live as a merchant or a ninja. Of course, I have no intention of leaving my clan... nor do you, eh?
+@24
+About stipends
+@25
+Your stipend is fixed by rank. An Ashigaru Captain gets 5 kan, an Ashigaru General 10, a Samurai General 20, a Commander 50, and a Chief Retainer 100 kan.\nFrom Castle Lord up, your stipend is 1/100 of your castle's monthly income.\nIt is paid into the safe at your home on the 1st of each month.
+@26
+But if you are Chief Retainer or lower and have retainers, their stipends come out of yours. Get carried away and take on many retainers, and you'll save nothing.\nFrom Castle Lord up, retainers are paid from the castle's war funds, and you can draw on those funds too. But if the funds run short and you can't pay your men, they won't stay quiet.
+@27
+Direct vassals and rear vassals?
+@28
+A direct vassal serves the daimyo himself.\nA rear vassal serves one of the daimyo's men, that is, someone of Province Lord rank or below.\nDirect vassals attend council at the daimyo's seat and get missions from him. But rear vassals serving a castle or province lord get their missions from that lord.
+@29
+A rear vassal can rise no higher than Commander. But by urging his lord to rebel, he can raise his lord to daimyo. Then he becomes a direct vassal.
+@30
+I want retainers
+@31
+To get more retainers, recruit ronin.\nIf there's a promising ronin at a Common Home, go and recruit him. If you can't find any, try talking to the townsfolk at the inn. You may hear rumours.\nWhen a castle falls and a clan is destroyed, ronin grow in nearby towns. Men who served that clan and escaped punishment move there.
+@32
+When recruiting, don't forget that your retainers' stipends come out of your own. For the same stipend, you'd surely rather have a capable man.\nOnce you hold a castle, you can have the daimyo's direct vassals placed under you. These are called aides. Go to the daimyo's castle to request an aide.
+@33
+How do I dismiss a retainer?
+@34
+You cannot dismiss a retainer once taken on without cause.\nYou can, however, recommend a retainer to your daimyo. He then becomes the daimyo's direct vassal and is no longer yours.\nTo recommend one, go to the daimyo's seat yourself.
+@35
+I want my own castle
+@36
+You want a castle!? ...I see, so that's it.\nTo hold a castle you must rise to Chief Retainer and then be appointed Castle Lord. Carry out missions and earn merit, and you'll reach Chief Retainer without trouble.\nBut to get a castle lord's seat, a castle must be free. After that, all you can do is pray to be appointed.
+@37
+Even if someone gets there first, don't give up. Earn merit and take castles in battle, and your chance will come some day.\nBut a rear vassal, that is, one serving the daimyo's men, can rise no higher than Commander and so cannot hold a castle. If you want to be a castle lord, you must somehow become a direct vassal.
+@38
+How do I get a court rank?
+@39
+A court rank? You care even about such things?\nCourt ranks are granted by the court. A rank or office doesn't mean you actually do that job... it's a status, you might say.\nTo be granted one you need real strength: your clan's power, that is.
+@40
+You must also pay money to the court and raise your standing. A warrior who goes to the court gets nowhere, so visit a Noble's House in Kyoto and ask them to put in a word. Raise your court standing that way, and in time you'll be granted an audience. Not the likes of you, of course. Only a daimyo can see the court, and only a daimyo is granted ranks.
+@41
+Some officers won't see me...
+@42
+Maybe he's ill, or out...\nBut if his page turns you away time after time, or he plainly sends you off, he doesn't like you. If you still must see him, give him a gift when you happen to meet him in town or on the road. If he's at the tavern, buy him a drink straight away. Even just talking to him in passing is fine.
+@43
+Get a little closer that way, and he won't turn you away.\nI'll tell you how to grow close another time.
+@44
+How do I grow close to an officer?
+@45
+To grow close to an officer, visit his Samurai Home and keep up your dealings.\nNot everyone warms to the same approach. Tastes and natures differ. You must learn about the person you want to befriend.\nAsk about officers' rumours at a Samurai Home, and you'll learn the tastes and natures of officers in that castle.
+@46
+Natures differ, but most people are weak to gifts. Give something they like and of high value, and anyone will be moved.\nWhile money is short, hold tea often. Buy one fine piece of tea ware and raise your Tea, and it costs nothing more. For your retainers, hold a tea party at home and invite them.
+@47
+But like gifts, tea works on some and not on others. Some have no interest in tea at all. Challenge such rough warriors to a bout, and they'll open up to you instead.\nAnd some you won't win over whatever you do. Then call it a bad match and give up.
+@48
+How do I grow close to townsfolk?
+@49
+Caring even about townsfolk? Admirable.\nIndeed, if you're friends with townsfolk, they may help you in many ways.\nTake Kunitomo Tobei, the smith in Nagahama. They say he sells lots of guns cheaply to his regulars.\nAt the Nanban trading house, they seem to set prices by the customer.
+@50
+I've also heard that if you donate to the Nanban Temple, the missionaries will write you some sort of letter.\nAnyway, to get on with them, be a good customer. Spend a lot, and of course they're pleased. Haggle them to the bone and get thrown out, and of course they'll find you a nuisance.
+@51
+I'm explaining all this for your sake,\nso be grateful.
+@52
+Daily life
+@53
+Hm. First, attend council. Council is held at the start of odd months. Be at your clan's seat between the 1st and 5th of each odd month.\nLateness and absence are not forgiven. Should that happen, your merit would drop sharply.
+@54
+At council, our lord announces his policy and each man's mission. When council ends, get straight to your mission. Missions last about 60 days, until the end of the next month.\nWhen you complete it, don't forget to report. Reporting at the next council is too late. Go to the castle before council and report.
+@55
+Should you fail to complete a mission, say so honestly. You'll be scolded, of course, and lose merit. But it beats turning up at the next council without a report.\nAnd so you receive a mission every two months, complete it and report. Your life changes completely if you're made a castle lord, but that hardly concerns you.
+@56
+Why can't I choose some missions?
+@57
+Some missions even you can manage, and some only a man of my standing can. ...In short, it's rank.\nEach kind of mission is limited by rank. As Ashigaru Captain you get only simple ones like training and buying supplies. As you rise, more kinds open up, and in time you'll be trusted with important duties such as diplomacy.
+@58
+Which mission should I choose?
+@59
+The harder the mission you complete, the more merit you gain. Hard missions are those with a high minimum rank, that is, the ones at the top of the mission list.\nBut there's no point if you get no results. Think whether you have the skills the mission needs before you choose.
+@60
+Well, someone like you might as well stick to training.\nTraining gets no blame even if nothing comes of it.
+@61
+How do I earn merit quickly?
+@62
+Work that out yourself! ...is what I'd like to say, but I'll tell you, just this once.\nDo these reliably and merit will follow:\n- Distinguish yourself in battle.\n- Choose missions that earn merit and carry them out.\n- Propose policy at council.
+@63
+To gain a lot of merit at once, win glory in battle. Battle merit is converted to merit after the battle. The one with the greatest deeds is named first in merit and gains much.\nTo earn merit from missions, choose hard ones, that is, those at the top of the mission list.
+@64
+Proposing policy at council and having it accepted also raises merit. But the likes of you meddling in our lord's policy? Out of the question. Sit and listen.
+@65
+How should I spend my free time?
+@66
+A vassal has no free time. When your mission is done, devote yourself to training until the next council. Pay for lessons at a dojo or stable, or ask an officer you're close to.\nWhen you have more time, travel to distant bases to gather news. Get castle news at the drill ground, or visit Samurai Homes to learn about the enemy.
+@67
+In Kyoto and Sakai, merchant houses, Nanban trading houses and other rare buildings stand side by side. They say you can get most things there. Stocking up gifts for officers who help you matters too. Hmph, beyond your stipend? Then earn money doing guild jobs, or trade goods. But if you lose your head over money and are late for council, don't come to me.
+@68
+May I oppose policy at council?
+@69
+Know your place! For the likes of you to speak up is outrageous!\n...But our lord is generous; a sound policy may well be accepted.\nIf you are skilled in Speech and close to our lord, he will listen. Hold the Selfless Heart card and you'll be more persuasive still.
+@70
+Good advice pleases our lord and raises your merit. Even if your advice is rejected, you won't lose merit or closeness.\nStill, I doubt our lord would heed the opinion of the likes of you...
+@71
+A castle lord bears a heavy responsibility.\nListen well.
+@72
+What does a castle lord do?
+@73
+A castle lord governs a castle on the daimyo's behalf, but he may not rule as he pleases. Even as castle lord you get missions from the daimyo, no longer small tasks but great charges such as taking castles.\nThe daimyo's envoy brings your missions, so you need not go to him. The same goes when you complete one: word of your results reaches the daimyo.
+@74
+Now to the work itself. First, hold council and hand out missions. Those who receive missions each do their work and come back to report. To those who have finished, give new missions in turn.\nI'll tell you about council in detail another time.
+@75
+Battle is another important duty. Decide on war in the Council Chamber, form an army and march out. The castle lord leads it as army commander. Take the castle, and happily it becomes your clan's. But it falls under the daimyo's direct rule, so your own castles don't grow. For a province lord it's another story...
+@76
+Personnel is also a castle lord's job. Retainers who earn merit must be promoted. Promotion costs more stipend, but widens the missions you can give them and raises the troops they can lead in battle. Appointing a strategist matters too, for you can leave things to him.\n...And so, running the castle is the castle lord's duty.
+@77
+What does a province lord do?
+@78
+A castle lord rules one castle; a province lord rules several at once. Daily duties differ little from a castle lord's, but there are two big differences.\nFirst, if you take an enemy castle named in your mission, you get to rule it. Work hard and your domain grows. And when you have no mission, every castle you take is yours.
+@79
+Second, you can transport supplies from castle to castle. Moving war funds and rice stored at home to the front is basic strategy. As the war goes, you may also need to move your seat to another castle.\nWhen the clan grows mighty, a Grand Council is held each January. There your work as province lord is judged, and you may be recommended for court rank.
+@80
+How do I hold council?
+@81
+Council is not limited to odd months; you can hold it any time. Go to the Council Chamber, choose Give Missions, and give each retainer present a mission.\nYou needn't give everyone a mission at once. As I said, you can hold council any time; if some retainers have no mission, you can hold it every day.
+@82
+Missions are split into Domestic, Arms, Plots and Diplomacy, but you may mix them, giving Domestic to one man and Arms to another.\nWhen retainers complete a mission, they come to report. There's no fixed report day, so reports come in as each one finishes. Your page or your wife will receive them for you.
+@83
+Some missions can't be ordered
+@84
+Most likely your retainer's rank is too low. Just as when you got missions from your lord, the missions you give are limited by rank.\nBuy Cannon can't be ordered without a letter from the Nanban Temple, though you can buy them yourself at a smithy. Diplomacy is the same; a daimyo, though, can order his men to do it...
+@85
+I'm short of war funds
+@86
+First, let me explain war funds income and spending.\nIncome comes from these three:\n\n- Taxes from the people (monthly)\n- Income from mines (monthly)\n- Sell Rice and Raise Funds missions (when completed)
+@87
+Spending, on the other hand...\n\n- Stipends for you and your retainers (monthly)\n- Mission budgets (when missions are given)\n- Pay for the troops\n\n...these three are the main ones.
+@88
+For a passing shortage, hold back on missions with budgets, order Sell Rice or Raise Funds, or put your savings into war funds to get by. A province lord can ship money from other castles.\nFor a chronic shortage you need big policies such as Mine Work, New Fields or winning over the people.
+@89
+Moreover, always make sure missions get the most out of their budgets. For instance, ordering Raise Funds from a man skilled in Speech and Accounting and from one who isn't makes a world of difference. Give men without skills training missions that need no capital, and save money.
+@90
+How do I get more retainers?
+@91
+More retainers means more missions you can give. From Castle Lord up, retainers matter greatly. There are three ways to get more.\nFirst, recruit ronin. Ronin live in Common Homes, so visit one and choose Recruit... but don't rush. First give gifts, serve tea, and grow close.
+@92
+Able men are very hard to find, but watch for when another clan falls. Men who escaped punishment may move to nearby towns.\nSecond, get aides. An aide is a direct vassal of the daimyo lent to you as a retainer. Go to the daimyo's castle and choose Request Aide. A castle lord may have up to 4, a province lord up to 8.
+@93
+Last, take castles in battle and bring enemy officers into your service. When you take an enemy castle, officers left inside with no castle to flee to are captured. Win a captive over, and you can take him on.
+@94
+Using retainers well
+@95
+Give retainers missions they are good at. That's the basis. For instance, order an officer high in Building to repair or expand castles.\nBut what if he's an Ashigaru Captain? Repair needs Commander or higher, Expand Chief Retainer or higher. When able men can't use their talents like this, promote them as fast as you can.
+@96
+For that, you must set things up so they earn merit.\nGive them the hardest missions they can do, let them win glory in battle, and raise them with care.
+@97
+I'm too busy
+@98
+Of course. A castle lord has mountains to do. But for such times there is the strategist.\nChoose Leave to Strategist in the Council Chamber, and he hands out missions to your retainers in your place. When diplomacy and the rest keep you too busy, leave it all to him.\nBut if the strategist himself is away on a mission, you can't.
+@99
+How should I spend my free time?
+@100
+Free time? Nonsense. A castle or province lord can't leave everything to his men.\n...Is domestic rule in order? You can carry out domestic policy in the castles you rule.\n...Is your army ready? At the drill ground of your castles you can separate soldiers from farmers and train them yourself. When your men are busy, rush about buying guns and horses or trading rice.
+@101
+...How are relations with other provinces? Go to another daimyo's seat yourself and you can conduct diplomacy.\n...Have you honed your own abilities? If you lack confidence, go home and use Train Abilities to hone Leadership, Valor, Politics, Intellect and Charm.\n\nWell? Still say you have time on your hands?
+@102
+I look forward to hearing what you'll say.\nCome, speak up!
+@103
+How do I become daimyo?
+@104
+Ho, an amusing thing to say. Eyeing the realm after I'm gone? ...Well, never mind.\nWhen a daimyo dies, someone succeeds him and becomes daimyo: a blood relative, or failing that, the vassal with the most merit. But whether the chance will ever come your way...
+@105
+Or do you want a quicker way? A castle or province lord can decide on rebellion in the Council Chamber and become a daimyo at once. The castles held from the daimyo become his own. His retainers will choose for themselves whether to follow the rebellion or flee...\n...I warn you, though: show any sign of rebellion and I'll show no mercy.
+@106
+What does a daimyo do?
+@107
+The aim is to unite the realm. Destroy the clans that defy you and bring every castle in the land under your rule.\nFor that, give orders to province and castle lords at council to take castles, provinces and daimyo. Sending aides to each castle matters too. Send able officers to the castles on the front.
+@108
+In castles under direct rule, you must also do the duties of a castle or province lord; ask others about those.\nDon't forget diplomacy. As daimyo you can order your men to carry it out.
+@109
+Appoint a lord or rule directly?
+@110
+The merit of appointing a castle lord is that with fewer castles to govern, you can focus on expanding your domain.\nAlso, the castle becomes harder to take when attacked. In a direct-rule castle nameless soldiers become army commander and unit commanders, but where there is a castle lord, he leads as army commander and his officers as unit commanders.
+@111
+But direct rule has a merit too: you can transport the castle's supplies freely. Appoint a castle lord, and the castle's income is in effect his. Even a daimyo can't touch it unless he dismisses that lord.
+@112
+How do I dismiss a lord?
+@113
+To dismiss a castle or province lord, go to the Council Chamber and choose Personnel, then Appoint Castle Lord. Choose the castle whose lord you'll dismiss, then the officer to make its new lord. If you choose yourself, the daimyo, it comes under direct rule. If you put a new lord in a province lord's seat, all the castles that province lord ruled come under the daimyo's direct rule.
+@114
+A dismissed castle or province lord is demoted to Chief Retainer.\nNo mercy for those who bring no results.
+@115
+What use is court rank?
+@116
+Work on the court and your court standing rises, and in time you can get ranks and titles. Court rank is useful if you know how to use it. Why, if you're raised to Senior First Rank, you win the game without ruling every castle. But high ranks need real power. Gain castles, build your strength and show the world your might.
+@117
+Don't rest content with one rank. Keep working on the court and you'll get higher ones. Then you can give the lower ones you held before to your retainers. Since it's the court that grants ranks, officially you recommend your retainer for that rank. Not that the formality matters...
+@118
+I am glad if my knowledge is of use.
+@119
+How do I win a battle?
+@120
+The army that meets one of these conditions wins:\n- Destroy the enemy army commander's unit.\n- Make the enemy army commander's unit retreat.\n- In a siege, bring the castle's defense to 0. (attackers only)\n- In a siege, hold out for 30 days. (defenders only)\n- In a siege, the enemy accepts your peace offer. (defenders only)
+@121
+When battle begins, judge which condition is easiest to meet. In field battles, aim for 0 troops in the enemy commander's unit if you're stronger, or for 0 morale if you're weaker.\nIn a siege of a castle with low defense, use special cards to bring defense to 0. Defenders, conversely, must fight with an eye on their defense.
+@122
+I don't know how to form an army
+@123
+When you go to battle as Castle Lord or higher, you prepare for it. On the preparation screen the unit commanders, rice, horses and so on are set automatically, but you can change anything you don't like.
+@124
+First, decide which officers go out as unit commanders. Consider rank, abilities and skills. In short:\n- Rank: the higher, the more troops a unit can hold.\n- Leadership: the higher, the stronger the unit's attack.\n- Skills: raise the unit's attack by troop type and terrain.
+@125
+With enough horses, guns and cannon, you can form cavalry, gunner and cannon units. Then give priority to men high in Cavalry and Gunnery.\nRice and troops are set automatically by how many troops each unit commander can lead. You can change them too, of course. Your castle may be attacked while you're away, so taking more than needed is dangerous.
+@126
+When the battle comes, you form the army. Officers other than the army commander only check the formation.\nCavalry and gunner units need as many horses or guns as troops. A cannon unit needs one cannon for every 10 troops.
+@127
+How is the troop type decided?
+@128
+The army commander decides the army's makeup. So when you go out as a unit commander, you can't choose your own troop type.\nBut you are often given the type you're good at. To go out as cavalry, hone Cavalry; to go out as gunners or cannon, hone Gunnery.
+@129
+How do I learn formations?
+@130
+You learn formations by training in Tactics. You may also learn one when you win a field battle.\nThere are said to be special formations not generally known. Study under someone who knows one, and you may learn it.
+@131
+I can't use formations
+@132
+Formations can only be used in field battles, not in sieges, nor when you don't have all five units.\nOnly formations the army commander knows can be used. However advanced the formations you know, you can't use them unless you're army commander.\nWhen you go out as army commander at Castle Lord or higher, you can also use the formations your strategist knows.
+@133
+How do I change the army's route?
+@134
+As army commander, you can halt the army or change its route.\nOnce you leave the castle, the army marches automatically toward its target. But press X on the march and it stops, and you can move as on the normal map screen.\nEnter an enemy castle and a siege begins; meet an enemy army and a field battle begins.
+@135
+If you asked for reinforcements and change your target, they follow you. Even if you end up fighting someone other than your first target, they'll rush to help, so don't worry.
+@136
+Attack, Charge and Fire?
+@137
+Attack, Charge and Fire are together called normal attacks, but each has its own traits. Use them as the situation demands.\n"Attack" is for infantry, gunner and cannon units. It strikes the enemy directly, and your unit takes damage too.\n"Charge" is the cavalry's direct attack. Much like Attack, but stronger, and it may throw the enemy into confusion.
+@138
+Lastly, "Fire". Any troop type can use it: infantry and cavalry shoot bows, gunners guns, and cannon units cannon. "Fire" is an indirect attack, so your unit takes no damage when attacking. But Fire from infantry and cavalry is weak, so it's best for defense.
+@139
+"Fire" from gunner and cannon units is strong and may confuse the enemy. But it weakens in rain and snow, so take care.
+@140
+What can I attack?
+@141
+You can only choose the unit in front of you and the units on either side of it as targets.\nIn a siege, though, you can't attack the enemy army commander's unit until all his other units are destroyed.
+@142
+How does morale change?
+@143
+Morale is very important. Let me explain when it rises and falls.\nBefore battle, morale is raised by Train, or by giving alms at the drill ground. Once raised, it falls as time passes. Before marching out, give plenty and reward your men well.
+@144
+In battle, morale rises when you win the card battle and strike first, and falls when you lose. It also changes with the results of attacks, and with special cards that shift morale, such as "Rally" and "Abuse".\nBring the enemy's morale to 0 and you win the battle. Even when outnumbered, win the card battles and use special cards well, and you have every chance.
+@145
+About special cards
+@146
+Battle special cards are dealt from those you've obtained so far. Choose Secret Plan to swap one card in hand for one of your special cards.\n- Red: take effect before normal attacks.\nAttack cards such as "Fire Attack" and "Quick Load".
+@147
+- Blue / Pink: take effect after normal attacks.\nBlue: "Abuse", "Demand Surrender" and so on.\nPink: only the "Rally" card.\n- Yellow: take effect after normal attacks.\nOnce played, they act every turn.
+@148
+About battle merit
+@149
+Your deeds in battle add up as battle merit. Win the battle, and battle merit is converted to merit. The three with the greatest deeds get bonuses as first, second and third in merit.\nJust damaging the enemy earns battle merit, but to earn a lot, destroy units. Destroying the army commander's unit earns the most.
+@150
+Trade is not mere money-making.\nPut your mind to it, and you may even change the course of the realm...
+@151
+How do I save money?
+@152
+Why not make a killing gambling, or take on guild jobs? That will earn you pocket money.\nBut if you want real money, trade goods. Buy pricey trade goods in bulk when prices are low and sell them in towns where prices are high. Tea from Edo, madder from Hamamatsu and inkstones from Matsue are good picks, for instance. You'll soon make a thousand or two thousand kan.
+@153
+But you can't start without capital to buy trade goods. I can't say it out loud, but why not borrow your mission funds? If you're given 3,000 kan, trade goods to grow it before you start on the mission. As long as you complete the mission before the deadline, there should be no problem at all.
+@154
+Secrets of haggling
+@155
+Haggling is a must in trade.\nHow many times you can haggle depends on your Accounting level. At level 3, you can haggle up to 3 times. But if you push too hard and keep failing, your relations will sour, so take care.
+@156
+The secret of successful haggling is Speech. Don't neglect training it. And sometimes it pays to make an expensive purchase to put the seller in a good mood.
+@157
+A Free Market permit?
+@158
+With a Free Market permit, you pay no tax when buying trade goods.\nAs for getting one, it's the clans who levy the tax, so we merchants can do nothing about it. A lord keen on developing trade might grant you one.
+@159
+What if I invest in a guild?
+@160
+Invest in a guild, and the town grows. In some towns, a bigger town brings forth new specialities. Trade them, and you may make a fortune.\nYou can judge which towns will bring forth specialities from what the guild master says when you check prices at the guild.
+@161
+In some towns a speciality appears after the size rises just one step; in others only once the size is at its maximum. That you won't know until you grow the town.
+@162
+Bandits are after me
+@163
+We merchants have trouble with bandits too. If you don't carry lots of trade goods they won't bother you, but in our line of work that's not possible.\nWhen carrying trade goods, avoid dangerous roads. Bandits haunt fixed places, mostly hiding in the mountains. Stray from the road and you'll be easy prey.
+@164
+Choose level roads and the danger is small. If you travel automatically, say with Set Destination, dangerous roads are avoided for you. In unfamiliar country, travelling automatically is safer.\nShould you still run into bandits, you can fight them off yourself, but for someone like me, that's quite impossible...
+@165
+How I'd love a strong ringer at my side to drive off any bandit.
+@166
+How do I read price info?
+@167
+Once you check prices at a shop, you can see them from anywhere. Just choose rice prices, horse prices or trade goods prices from Info.\nBut prices change, so after three months for rice and horses, or half a year for trade goods, you can no longer see them. Tiresome, but you'll have to check again.
+@168
+Price info is shown as follows:\n- Green: specialities (trade goods); the town you're in (rice, horses)\n- Red: dearer than usual\n- Blue: cheaper than usual\n- Black: usual price\n- Yellow: targets of a job
+@169
+How do I become a merchant?
+@170
+Well, well, so you've come aiming to be a merchant.\nFirst you must become a ronin. If you've joined a ninja village, you must leave it. Then you serve an apprenticeship at a merchant house.\nFirst go to a guild and ask to be apprenticed. Next choose the merchant house to join and move to its town. Then visit the house and enrol properly.
+@171
+The master of the house sets you tasks, and when you finish them there's a test. Pass, and you become a Clerk. Pass the next tasks and test and you become Head Clerk, then a townsman. Then at last you're recognised as a full merchant and allowed your own shop. You may then move to another town and do business there.
+@172
+What does a merchant gain?
+@173
+As a merchant, you can set up your own shop. Not that you stand at the counter yourself: set up trade routes, and each month the profits are saved into your safe.\nBesides that, you can sell your belongings to people you meet on the map, and when you do guild jobs, the same sum as your pay is invested in the guild of your home town.
+@174
+You can also form ties with clans. You may enter castles freely and meet castle lords.\nInvest your profits in a clan and in time you become its purveyor. A purveyor buys trade goods cheaply in provinces where that clan holds the main castle. You can even speak on the clan's policy and pull the daimyo's strings from the shadows.
+@175
+Even if you close your shop and go back to being a ronin, having been a merchant helps. You can pay money when you enter service to get a better rank. But it's also true that you'll rise more slowly than other officers.
+@176
+Once you have your own shop...
+@177
+First, set trade routes. I'll tell you about routes another time.\nProfits are saved into your safe, so check it now and then. Invest the savings in a guild to bring forth new specialities, and you'll make another fortune.\nInvesting in clans matters too. Keep investing and you can become a purveyor.
+@178
+As a purveyor you pay a war levy each January, and in return you buy trade goods cheaply in provinces where that clan holds the main castle. You can also hear the daimyo's strategy at his seat, and even give your opinion on it. You can be purveyor to 10 clans at once.
+@179
+They say that with a vast fortune, a daimyo might even hand over his position to you...
+@180
+Which trade routes pay?
+@181
+One thing to watch when choosing a partner town is its size. Trading with big towns pays more. As a purveyor you buy trade goods cheaply in the towns of provinces where that clan holds the main castle.\nTrade goods prices matter too. Check prices beforehand and trade with towns where prices are high. As prices change, you'll change routes as well.
+@182
+If you're still unhappy with your profits, why not move to a town with better terms? I recommend a big town in a province where a clan you're purveyor to holds the main castle.
+@183
+You show real promise.
+@184
+I'd like some work
+@185
+A ninja village takes on covert jobs for clans: investigating people, wrecking castles, attacks, battles... The pay suits the job, but fail and you get nothing. If you serve a clan, we'll take your requests too. Come when you have work.
+@186
+But let me make one thing clear. If we back a particular clan, we take no work that harms it, nor let men of its enemies into the village.\nNor will we help you betray anyone. That is, we refuse jobs against the clan you serve or clans on good terms with it.\n...In this world, trust comes first.
+@187
+What if I invest in the village?
+@188
+We accept investment to grow the village. As it grows we add training grounds and can perfect our arts. Of course, we can't refuse a clan that invests in us. Even if we back another clan, a large enough investment may win us over. We neither serve nor obey any clan.
+@189
+If you are a ronin, taking village jobs also counts as investment. Part of the pay is yours and the rest goes to the village.\nRonin may also train at the new training grounds. But then you'll be one of our village's ninja and must obey our village's laws.
+@190
+I want to learn secret arts
+@191
+Secret arts are learnt at training grounds 2 to 4. Grounds 3 and 4 are added as the village grows.\nBut they can be taught only to our own people. If you must learn them, I'll let you join. But you'll obey the village's laws.
+@192
+How do I become a ninja?
+@193
+To live as a ninja, first master Ninjutsu. Train at ground 1 and raise your Ninjutsu to level 3. You must also give up your rank as an officer: leave your lord and come as a ronin. If you're a merchant, close your shop and come.\nThen I'll let you train at ground 2. That is where a ninja's training truly begins.
+@194
+Finish ground 2 and you are Genin, ground 3 Chunin, ground 4 Jonin.\nBut grounds 3 and 4 are only added when the village grows. To grow it, invest in the village or do its jobs, for the pay for a job, less your share, goes to the village.
+@195
+What does a ninja gain?
+@196
+As a ninja you can learn the village's secret arts. Clans may also give you special jobs. What kind, I can't reveal here...\nEven if you serve a clan after becoming a ninja, your training will show. You'll be taken on at a fitting rank, and can carry out sabotage on your own, apart from missions.
+@197
+And when you lead infantry in battle, your attack rises, and you should win glory using the secret arts learnt at the training grounds.\nBut even as a samurai you can't hide that you were a ninja. Those who know will spot your ninja bearing at once... Samurai don't treat ninja as equals, so you'll rise slowly.
+@198
+I want to leave the village
+@199
+Just tell the leader you're leaving. But one who would break the ninja's laws can't be let go so easily. A traitor dies by my hand.\nAnd even if you beat me and leave, don't relax too soon. My men will always be after your life.
+@200
+Why not leave your clan for a while\nand think your life over again?
+@201
+I keep losing duels
+@202
+There are two reasons you lose: your Martial Arts level is low, or your Valor is.\nFirst, Martial Arts. A higher level means more cards in hand, so it's easier to gather high cards and play combos.\nTo raise Martial Arts, train under someone at a dojo. Bouts won't raise your swordsmanship.
+@203
+Next, Valor. The higher it is, the more damage each blow does. At Chief Retainer or below you can't raise your own Valor, but good arms add some. ...Come to think of it, the other day I saw a splendid sword at a merchant house in Ishiyama.\nMind you, if your Valor is very low, no famous blade will help much.
+@204
+Tactics in duels
+@205
+Reading the foe's moves is vital.\nFor example, a foe who keeps defending may be aiming for a combo. When your stamina is low, defend or recover and get ready. Even if you get a combo yourself, a weak one will lose.
+@206
+Lasting special cards are best played at the start of the duel. Against a foe of equal strength especially, lasting cards will tell.
+@207
+How do I get special cards?
+@208
+Win a duel, and you may get the foe's special card. Officers good at swordsmanship often hold strong special cards, so do seek bouts with them.\nYou can also get some by training at ninja villages or physicians' houses.
+@209
+Even with a special card, it's no use if it isn't dealt to your hand when a duel comes. Then train Ninjutsu. A higher Ninjutsu level makes special cards more likely to be dealt.
+@210
+How do I master the sword?
+@211
+The way of the sword is long and hard. Challenge and win. That is where it starts.\nBy beating many, or defeating famous swordsmen, you hone your art.\nBy the way, have you heard the name Kamiizumi Nobutsuna? They call him the Sword Saint. Everyone who lives by the sword aims to fight him and win.
+@212
+What if I waylay someone?
+@213
+Waylaying, eh... If you meet an officer of another clan and waylay him, it becomes a duel. Win and you can take his money, but the man you attacked won't let it rest.\nIf you still have reason to strike, I won't stop you... but you must judge your strength against his. Waylay someone called a Sword Saint, and you're finished.
+@214
+What is ronin life like?
+@215
+Unlike a clan's vassals, you get no monthly stipend. You must find work and earn your keep yourself.\nYou can't have a house in a castle, so you live in a Common Home. Not comfortable, but not bad. If you don't get on with the townsfolk, you're free to move. Above all, the best part is spending your time freely on your own aims.
+@216
+Yes, ronin they may be, but each has his own aim. Some look for a lord to serve, some apprentice as merchants, some train in ninja villages. As for me, I mean neither to serve a daimyo nor to go into trade. I live for the sword alone.\nI seek out stronger men, challenge them and steal their arts. Some day I hope to win the title of Sword Saint.
+@217
+I've time on my hands anyway.\nHow about I keep you company for a chat?
+@218
+I'm not cut out to be a samurai
+@219
+I see, you do look it...\nBut a samurai's not the only way to live in this world. You can live as a merchant or as a ninja. Or master swordsmanship or tea, why not? A life of wandering where the fancy takes you, like me, isn't bad either.
+@220
+I want a wife
+@221
+...I was just thinking about that myself.\n\nNo, let's put me aside. Say, do you have a girl in mind?\nI do. A girl called Hatsu who works at the inn. Sweet-natured, and above all that fair skin of hers...\n...No, wait, I'll talk about me later.
+@222
+A gift is the best way to win a girl. Give her something pricey and that's it. But no use giving her the Murasame, mind. Women don't care for such things. A necklace, that sort of thing. I mean to give her a Jade Necklace. Found it peeking in a merchant house; it'll suit her fair skin, I promise you. So I'm saving up, but the money won't pile up.
+@223
+Meanwhile I'm worried sick she'll marry some good-for-nothing.\nMaybe I should just enter some clan's service...
+@224
+Any tips for winning at gambling?
+@225
+If I knew, would I be killing time in a place like this? I'll tell you one thing: know when to quit. And you buy chips at the start, right? Buy only what you'll use. When you cash in, the tavern takes 20 percent as house fee.
+@226
+And if you're serious about gambling, pick one house. Win big at one place and they'll take you for a real gambler and let you play for higher stakes, they say. A fortune in one go is no dream.\n...Ahh, I envy the lucky ones. Maybe I'll donate to the Nanban Temple. They say if you donate there, luck comes even to the likes of me.

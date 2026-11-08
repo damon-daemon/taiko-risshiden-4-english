@@ -1,0 +1,314 @@
+@0
+Where shall I go?
+@1
+There's no one of note here.
+@2
+There's no need for domestic work in this castle. Everything is at its maximum.
+@3
+There's no need for sabotage in this castle. Everything is already as low as it can go.
+@4
+Blast! I seem to have spent too much money. Without %u kan I can't carry out the task.
+@5
+Carry out %s?
+@6
+%s takes %u days. Is that all right?
+@7
+Used the {02}{1A}e card.
+@8
+Hmm, with results like these, {01}C+{00} may scold me... ...Anyway, I must report.
+@8.1
+Hmm, not a very good result. Anyway, I must report to {01}C+{00}.
+@8.2
+Not a particularly good result. Anyway, I must report to {01}C+{00}.
+@8.3
+Quite a good result. I must report to {01}C+{00}.
+@8.4
+An excellent result. I must report to {01}C+{00}.
+@9
+Hmm, with results like these, {01}C+{00} may scold me... ...Anyway, I must report.
+@9.1
+Hmm, I still have a long way to go. Anyway, I must report to {01}C+{00}.
+@9.2
+Hmm, that was a tough one. Anyway, I must report to {01}C+{00}.
+@9.3
+So close... I must report to {01}C+{00}.
+@9.4
+Good, that went well. I must report to {01}C+{00}.
+@10
+Hmm, with results like these, the chief may scold me... ...Anyway, I must report.
+@10.1
+Hmm, not a very good result. Anyway, I must report to the chief.
+@10.2
+Not a particularly good result. Anyway, I must report to the chief.
+@10.3
+Quite a good result. I must report to the chief.
+@10.4
+An excellent result. The chief will be pleased with this. I must report to the chief.
+@11
+Hmm, with results like these I can hardly be satisfied...
+@11.1
+Hmm... Not a very good result...
+@11.2
+Not a particularly good result...
+@11.3
+Quite a good result. It was worth doing.
+@11.4
+An excellent result. It was well worth doing!
+@12
+The council is about to start. This is no time for detours.
+@13
+{02}{02}f, I've been waiting for you. I have a message from {01}C,{00}: "An unavoidable matter calls me to battle, so the council is put off until next time." That is the message.
+@14
+{02}{02}f, I've been waiting for you. I have a message from {01}C,{00}: "An unavoidable matter calls me away, so the council is put off until next time." That is the message.
+@15
+What, is that so...... Understood.
+@16
+Oh, my lord, welcome. As you see, we keep watch diligently every day.
+@16.1
+Oh, my lord, welcome. As you see, we keep watch diligently every day.
+@16.2
+{02}{03}g, who rules this castle, is in {02}{0B}d. There's no need for you here. Begone.
+@16.3
+{02}{03}g, who rules this castle, is in {02}{0B}d. Please take your leave.
+@16.4
+{02}{03}g, who rules this castle, is in {02}{0B}d. Please take your leave.
+@17
+Oh, my lord, welcome. {02}{03}g is out at the moment.
+@17.1
+{02}{03}g is out at the moment. Please come back another day.
+@18
+Now, how shall I get in?
+@19
+You there, halt! Who goes there!?
+@20
+I am {02}{01}g. I wish to see the castle lord, {02}{03}g.
+@20.1
+I am {02}{01}g of {02}{01}{A1}. I wish to see the castle lord, {02}{03}g.
+@21
+I am {02}{01}g. I've come at the guild's request. I wish to see the castle lord, {02}{03}g.
+@22
+I am {02}{01}g, a merchant of {02}{0B}d who runs {02}){B6}. I wish to see {02}{03}g.
+@23
+...Hm, that seems right. You may pass.
+@24
+Forgive me. Please, go through.
+@25
+Why, Lord {02}{02}f. Our lord told us of you. Please, go through.
+@26
+(Now, how shall I get them to let me through?)
+@27
+What's a mere ronin saying? Go home, go home!
+@27.1
+No one from {02}{02}{A1} passes. Begone.
+@28
+Suspicious wretch! Leave at once!
+@29
+(......Blast! I have no money to give them.)
+@30
+Suspicious wretch! Leave now, or we'll drag you off!
+@31
+(No choice. I'll withdraw for now.)
+@32
+Come now, let this settle it.
+@33
+Insolent wretch! Leave now, or we'll drag you off!
+@34
+...W-well, all right. You may pass.
+@35
+Now, to sneak in.
+@36
+......Hm? I thought I heard something...... Must be my imagination.
+@37
+(Good, I seem to have slipped in.)
+@38
+Wait! You there, suspicious one! Everyone, seize the intruder!!
+@39
+Blast, I've been spotted. I'll run for it.
+@40
+Oh, my lord, welcome. As you see, we keep watch diligently every day.
+@40.1
+Oh, my lord, welcome. As you see, we keep watch diligently every day.
+@40.2
+There are no officers in this castle at all. Please take your leave.
+@41
+Hm? {01}C*{00} is out......
+@42
+Well, I got in, but what now?
+@43
+Spend 3000 kan to carry out %s?
+@44
+Oh, Lord {02}{02}f!
+@44.1
+Oh, Lord {02}{02}f!
+@44.2
+Oh, if it isn't {02}{02}f.
+@44.3
+Oh, if it isn't {02}{02}f.
+@44.4
+Oh, if it isn't {02}{02}f.
+@44.5
+Oh, if it isn't {02}{02}f.
+@44.6
+Oh, if it isn't {02}{02}f.
+@44.7
+Oh, if it isn't {02}{02}f.
+@44.8
+Oh, if it isn't {02}{02}f.
+@44.9
+Oh, if it isn't {02}{02}f.
+@44.10
+Hm? Suspicious wretch! Who goes there!?
+@45
+Right, thanks for keeping watch.
+@45.1
+Right, thanks for keeping watch.
+@45.2
+Thanks for keeping watch.
+@45.3
+Thanks for keeping watch.
+@45.4
+Thanks for keeping watch.
+@45.5
+Thanks for keeping watch.
+@45.6
+Thanks for keeping watch.
+@45.7
+Thanks for keeping watch.
+@45.8
+Thanks for keeping watch.
+@45.9
+Thanks for keeping watch.
+@45.10
+I'm no one suspicious. I am {02}{01}g. I wish to see your chief.
+@46
+What! {02}{02}g! {02}{02}{A1} is our enemy. If you value your life, leave at once.
+@46.1
+What! An agent of {02}{02}{A1}! {02}{02}{A1} is our enemy! If you value your life, leave at once!
+@47
+Hmm. They won't listen, it seems. I'll back off.
+@48
+...I know who you are. We can't let in people from other villages. Be gone!
+@48.1
+...By the way you move, you're a ninja. We can't let outsiders into our village. Be gone!
+@49
+Hmm. They won't let me in, of course.
+@50
+Yes, sir. Please, go through.
+@50.1
+Yes, sir. Please, go through.
+@50.2
+Right, you may pass.
+@50.3
+Right, you may pass.
+@50.4
+Right, you may pass.
+@50.5
+Right, you may pass.
+@50.6
+Right, you may pass.
+@50.7
+Right, you may pass.
+@50.8
+Right, you may pass.
+@50.9
+Right, you may pass.
+@50.10
+You don't seem suspicious. Very well, you may pass.
+@51
+Oh! Lord {02}{02}f! ...No, even Lord {02}{02}f is a rogue now! Everyone, come out!
+@51.1
+Oh! Lord {02}{02}f! ...No, even Lord {02}{02}f is a rogue now! Everyone, come out!
+@51.2
+You! {02}{02}g, the rogue ninja! You dare show yourself before us again... Everyone, come out!
+@52
+Damn, I've been spotted. Best to just run.
+@53
+Oh, Lord {02}{02}f!
+@53.1
+Oh, Lord {02}{02}f!
+@53.2
+Hm, who's there!
+@54
+Right, thanks for keeping watch.
+@54.1
+Right, thanks for keeping watch.
+@54.2
+Quiet, it's me. {02}{01}g.
+@55
+Yes, sir. Please, go through.
+@55.1
+Yes, sir. Please, go through.
+@55.2
+Oh, {02}{02}f. You may pass.
+@56
+Right, thanks for keeping watch.
+@56.1
+Right, thanks for keeping watch.
+@56.2
+Don't you know me? I'm {02}{01}g.
+@56.3
+Don't you know me? I'm {02}{01}g of {02}{01}{A1}.
+@57
+Yes, sir. Please, go through.
+@57.1
+Yes, sir. Please, go through.
+@57.2
+Oh, forgive my rudeness. Please, go through.
+@57.3
+Oh, you're of {02}{02}{A1}? Forgive my rudeness. Please, go through.
+@58
+(...I've been found out.)
+@59
+...Oh, you! You're {02}{02}g! Everyone, the enemy! Come out!
+@59.1
+...Oh, you! You're {02}{02}g! An agent of {02}{02}{A1}! Everyone, the enemy! Come out!
+@60
+Hmm, it seems the {02}{06}e have already got to them. Best to just run.
+@61
+Right, thanks for keeping watch.
+@61.1
+Right, thanks for keeping watch.
+@61.2
+I'm {02}{01}g of {02}{01}{A1}.
+@62
+Lord {02}{02}f, what brings you here?
+@62.1
+Lord {02}{02}f, what brings you here?
+@62.2
+Oho... and what brings Lord {02}{02}e to {02}{0B}d?
+@63
+I've come to request a job. Nothing more.
+@64
+Yes, sir. Please, go through.
+@64.1
+Yes, sir. Please, go through.
+@64.2
+...I see, understood. Then you may pass. The chief is at the manor.
+@65
+No, nothing in particular. I've simply come home.
+@65.1
+No, nothing in particular. I've simply come home.
+@65.2
+Nothing in particular. I just want to train in Ninjutsu.
+@66
+Yes, sir. Please, go through.
+@66.1
+Yes, sir. Please, go through.
+@66.2
+...We can't teach you our secret arts, but you may train as you like.
+@67
+Yes.
+@67.1
+Yes.
+@67.2
+Oh, I'm grateful. Then I'll go through.
+@68
+Right, thanks for keeping watch.
+@68.1
+Right, thanks for keeping watch.
+@68.2
+I'm no suspicious person. My name is {02}{01}g.
+@69
+...What brings you to {02}{0B}d?
+@70
+I'd like to train as a ninja. Won't you let me through?

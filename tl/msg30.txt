@@ -1,0 +1,36 @@
+@0
+●Outline\nFind a guild selling the trade goods asked for, and buy them. If it does not have enough, you must buy more at other guilds. Once you have the full amount, return to the guild that hired you and hand over the goods.
+@1
+◆Tips\nSpecialities can often be bought cheaply, so buy at the guild of a town where the goods are a speciality. Choose [Market Prices] at a guild to learn that town's specialities and trade goods prices. Prices of surveyed towns can be checked under trade goods prices.\nSurvey the prices of towns around the land in advance and the job goes smoothly.
+@2
+●Outline\nTreasures are bought from peddlers; merchant houses and Nanban trading houses do not sell them. Peddlers travel the travel screen and offer their wares when you come near. But they ignore you unless you carry at least 400 kan.\nOnce you have bought it, return to the guild that hired you and hand over the treasure.
+@3
+●Outline\nDeliver trade goods to the guild of the town named. Once delivered, return to the guild that hired you and report.\n◆Tips\nOnce you take a delivery job, you cannot buy or sell trade goods at the hiring guild until it is done. Before taking the job, buy goods likely to sell well at the destination.
+@4
+●Outline\nDeliver a treasure to the person named. Once delivered, return to the guild that hired you and report.\n◆Tips\nEven if you do not know where the person is, set a destination on the travel screen and choose the job's base to travel to the base where the person is.
+@5
+●Outline\nCollect money from the person named, then return to the guild that hired you and hand it over. If they cannot repay it all at once, you must call on them again and again.\n◆Tips\nEven if you do not know where the person is, set a destination on the travel screen and choose the job's base to travel to the base where the person is.
+@6
+●Outline\nGo to the towns of the region named and choose [Market Prices] or [Talk] at the guild. When you have surveyed every town, return to the guild that hired you and report.\n◆Tips\nSet a destination on the travel screen and choose the job's base to see where the towns of the region are.
+@7
+●Outline\nVisit houses to look for ronin. When you find one you have not met, call at the house and talk to him. Or talk to unknown ronin on the travel screen, in taverns and so on, and get acquainted. Finally, return to the ninja village and report.\nThe more ronin you find, the higher the reward.
+@8
+●Outline\nCarry out a castle survey at the drill ground of the castle named.\n◆Procedure\nSneak into the drill ground. If you get in, choose the castle survey and what to survey.\nFinally, return to the ninja village and report. The more information you gather, the higher the reward.
+@9
+◆Abilities that matter\nNinjutsu:\nThe higher, the harder you are to spot.\nTroops:\nThe more, the easier you are to spot.\nSilent Step card:\nMakes you harder to spot.
+@10
+●Outline\nGo to the castle named and sabotage it.\n◆Procedure\nGuess which castle the ninja went into. You get up to 3 tries. The fewer tries you need, the higher the reward.\nWhen done, return to the castle and report.
+@11
+◆Abilities that matter\nNinjutsu:\nThe higher, the fewer castles.\nCastle size:\nThe bigger, the faster the castles move.\nStone Pull card:\nBetter results.
+@12
+●Outline\nGo to the castle named and spread rumours.\n◆Procedure\nGuess which castle the ninja went into. You get up to 3 tries. The fewer tries you need, the higher the reward.\nWhen done, return to the ninja village and report.
+@13
+◆Abilities that matter\nNinjutsu:\nThe higher, the fewer castles.\nCastle size:\nThe bigger, the faster the castles move.\nDisguise card:\nBetter results.
+@14
+●Outline\nGo to the castle named and commit arson.\n◆Procedure\nGuess which castle the ninja went into. You get up to 3 tries. The fewer tries you need, the higher the reward.\nWhen done, return to the ninja village and report.
+@15
+◆Abilities that matter\nNinjutsu:\nThe higher, the fewer castles.\nCastle size:\nThe bigger, the faster the castles move.\nGunpowder Handling card:\nBetter results.
+@16
+●Outline\nAttack the person named.\n◆Procedure\nFind the person, then attack inside a base or ambush them on the travel screen.\nWhen done, return to the ninja village and report.
+@17
+●Outline\nGo to a castle under attack and fight as reinforcements.\n◆Procedure\nA victory raises the reward. Attacking or firing opens the combat screen.

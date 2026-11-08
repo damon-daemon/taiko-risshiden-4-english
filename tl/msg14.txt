@@ -1,0 +1,334 @@
+@0
+Welcome home... dear, you don't look well. Please get some rest.
+@0.1
+Welcome home, dear.
+@0.2
+I'm home... not that there's anyone to talk to. It's lonely.
+@0.3
+Welcome home.
+@1
+Congratulations, dear!\nI hear you've been promoted to %s.\nIt's all thanks to your hard work.\nBut even so, please don't\noverdo things...\nTake care of your health first.
+@1.1
+Congratulations, dear! I hear you've been promoted to %s. It's all thanks to your hard work.
+@1.2
+Promoted to %s,\nand no wife to celebrate with...\nTime I settled down.
+@2
+Welcome home, {02}{02}g.\nI've been waiting for you.
+@3
+Hm? A messenger from our lord?
+@4
+Yes. You, {02}{02}e, are appointed\nprovince lord and entrusted\nwith this castle.
+@5
+Yes. From this day,\nyou, {02}{02}e, are appointed\nprovince lord. So from now on,\nany castle {02}{02}e takes on a\nmission will become\n{02}{02}e's own castle.
+@6
+Understood.\nPlease tell our lord\nI humbly accept.
+@7
+Yes, sir.
+@8
+Dear, someone who has finished a mission has come to report.
+@8.1
+My lord, someone who has finished a mission is here to report.
+@8.2
+Lord {02}{02}e, someone who has finished a mission is here to report.
+@9
+Now, what shall I do?
+@9.1
+What will you do?
+@10
+How long shall I rest?
+@10.1
+How long will you rest?
+@11
+I'll rest until the council.
+@11.1
+Then rest well\nuntil the council.
+@12
+Yes, I'll take it easy for the whole day.
+@12.1
+Then have a good rest.
+@13
+Yes, I'll take it easy this month.
+@13.1
+Then have a good rest.
+@14
+How many days shall I rest?
+@14.1
+How many days will you rest?
+@15
+Will %y days do?
+@15.1
+%y days, is that all right?
+@16
+Well then, time for a rest.
+@16.1
+Have a good rest.
+@17
+I see... Please don't overdo it.
+@18
+Dear, how much healthier do you want to be?
+@18.1
+No point resting\nwhen I'm already fit.
+@19
+Let me see... By my reckoning, you'll need about %y days to get your strength back.
+@19.1
+Let's see... I'll need about %y days to get my strength back.
+@20
+Shall I rest %y days?
+@20.1
+Will you rest %y days?
+@21
+Oh, that's right, I have medicine. I'm feeling poorly; shall I take some?
+@22
+I'll do without medicine.
+@23
+What shall I take?
+@24
+I'll take the {02}{15}d.
+@25
+Ah, I feel better already. Now all I need is a good night's sleep.
+@26
+Stop resting?
+@27
+...No, no, I must get up. But I feel as if I haven't slept at all...
+@27.1
+...Oh, time to get up already? I'd like a bit more rest.
+@27.2
+...Hm, not a bad awakening. I feel much livelier.
+@27.3
+...Mmm, a fine morning.\nI'm in perfect shape.
+@28
+Dear, it's time, please get up. You look quite unwell... {02}{01}f is worried.
+@28.1
+Dear, it's time, please get up. You don't look very well... {02}{01}f is worried.
+@28.2
+Good morning, dear. Did you sleep well? Off you go, then.
+@28.3
+Good morning, dear. You slept well, didn't you? Have a good day's work.
+@29
+Dear, it seems the council is starting at the castle.
+@29.1
+Oh, the council seems to be starting. This is no time to sit at home.
+@30
+Which will you do?
+@30.1
+Which shall I do?
+@31
+I'm sorry, dear, but the safe is empty...
+@31.1
+Oh, come to think of it,\nthe safe is empty.
+@32
+Dear, there are no war funds.
+@32.1
+Oh, come to think of it, there are no war funds.
+@33
+The safe is empty right now...
+@33.1
+There are {02})e{03}/%10 kan in the safe right now. How much shall I take out?
+@33.2
+That's right, the safe is empty right now...
+@33.3
+There are {02})e{03}/%10 kan in the safe right now. How much shall I take out?
+@34
+How much will you withdraw?
+@34.1
+How much shall I withdraw?
+@35
+Here you are, dear. Don't waste it, now.
+@36
+Dear, this money belongs to everyone. You mustn't waste it.
+@37
+Dear, you have no money to deposit.
+@37.1
+Oh, come to think of it, I have no money to deposit.
+@38
+Dear, you have no money to deposit.
+@38.1
+Oh, come to think of it, I have no money to deposit.
+@39
+How much will you deposit?
+@39.1
+How much shall I deposit?
+@40
+The safe is empty right now. How much shall I put away for you?
+@40.1
+There are {02})e{03}/%10 kan in the safe right now. How much shall I put away for you?
+@40.2
+The safe is empty right now. How much shall I put away?
+@40.3
+There are {02})e{03}/%10 kan in the safe right now. How much shall I put away?
+@41
+Yes, dear. I'll keep it safe.
+@42
+Yes, dear. I'll put it into the war funds.
+@43
+Oh, I have nothing unappraised.
+@44
+Which shall I appraise?
+@45
+Hmm, this is {02}{15}d.
+@46
+Dear, everyone is out.
+@46.1
+......It seems no one is here.
+@47
+Dear, I've already served tea this month to everyone who is home.
+@47.1
+......I've already served tea this month to everyone at home.
+@48
+Right, I'll hold a tea gathering. Let's call everyone together.
+@48.1
+You'll hold a tea gathering? Then I'll call all your men. Please wait.
+@49
+{01}C*{00}, we your retainers are deeply honoured to be invited to your tea gathering.
+@49.1
+{01}C*{00}, thank you\nfor inviting me\nto your tea gathering.
+@50
+(They're my own men, and given their rank, any tea ware should do.)
+@50.1
+(They're my own men, but given their rank, it would be rude to use tea ware worth less than {02}$d.)
+@51
+(The more valuable the better. I'll use the {02}{15}d.)
+@51.1
+(Damn, all I have is the {02}{15}d, worth {02}{15}f... It can't be helped; rude as it is, I'll use it.)
+@52
+Ah, a fine performance.
+@52.1
+Thank you for the tea... a fine performance.
+@53
+(Everyone seems satisfied.)
+@53.1
+(...Hmm, as I feared, they weren't very satisfied. It was a failure.)
+@54
+This year I turn {02}{01}{7B}...
+@54.1
+Whatever happens, dear, I'm on your side.
+@54.2
+Don't work yourself too hard, dear.
+@54.3
+Dear, it's simmered sea bream tonight.
+@54.4
+Dear, buy me something once in a while, won't you?
+@56
+Dear, let's hope this is a good year too.
+@56.1
+It's so cold, it might snow.
+@56.2
+This morning I slipped on the ice\nin front of the house.
+@57
+Dear, I can't wait for spring.
+@57.1
+Dear, the plum blossoms out back were lovely.
+@58
+Dear, it was a lovely warm day today.
+@58.1
+Dear, it's starting to feel like spring.
+@58.2
+I wonder if the cherry blossoms will be out soon...
+@59
+It's so warm, I could doze off.
+@59.1
+It's almost the season for the first bonito.
+@59.2
+Dear, the breeze through the new leaves is so refreshing this time of year.
+@60
+It's so damp this time of year. I hate it.
+@60.1
+Dear, the hydrangeas are at their best.
+@61
+Dear, take care not to let this heat wear you down.
+@61.1
+When it's this hot,\nI'd like a cool bath.
+@62
+It's starting to feel like autumn, dear.
+@62.1
+Dear, the sky has grown so high.
+@62.2
+Dear, the weather is much more pleasant now.
+@62.3
+Dear, it's salt-grilled saury tonight.
+@63
+Dear, it's the season when food tastes best.
+@63.1
+Dear, it's matsutake rice today.
+@63.2
+We must start getting ready for winter soon.
+@64
+Things get so busy at the end of the year...
+@64.1
+Dear, we must get ready to welcome the New Year.
+@64.2
+Why does a year go by so fast...
+@65
+Dear, where are we moving to?
+@65.1
+Now, where shall I move?
+@66
+Shall we move to {02}{0B}d?
+@66.1
+Shall I move to {02}{0B}d?
+@67
+Very well, then\nI'll start packing at once.
+@67.1
+Right, that's decided.\nI must start packing at once......
+@68
+No, on second thought,\nI won't move.
+@69
+Dear, training in your condition is out of the question. When you're ill, rest comes first.
+@69.1
+In your condition\nyou can't train properly.\nPlease rest.
+@70
+Dear, ability training costs %m.
+@70.1
+Ability training\ncosts %m.
+@71
+Dear, you already have ample ability. There's no need to train any further.
+@71.1
+My lord, you already have ample ability. There is no need to train any further.
+@72
+You wish to train your abilities? It costs %m and takes {02}$d days. Is that all right?
+@73
+Then which ability will you train?
+@74
+You'll train %s?
+@75
+Then I'll ask\nthe teacher to come at once.
+@76
+Splendid, dear! The teacher praised you too.
+@76.1
+Splendid, my lord. The teacher praised you as well.
+@77
+Well done, dear. It didn't work out this time, but learn from it for next time.
+@77.1
+Well done, my lord. It didn't work out this time, but let it serve you next time.
+@78
+Ah, welcome home, master.
+@79
+Shall I give {02}{02}g some pocket money?
+@80
+Oh, thank you!
+@80.1
+Thank you very much!
+@80.2
+You're always so kind to me, I'm truly grateful. I'll never forget your kindness as long as I live!
+@80.3
+Thank you very much, master!
+@81
+What will you do?
+@82
+Our {02}){B6} isn't trading with any town at present. Which town shall we trade with?
+@82.1
+Our {02}){B6} currently trades with {02}{0B}d. Which town shall we trade with?
+@83
+Is {02}{0B}d OK?
+@84
+The truth is, head clerk...\nI'm thinking of closing the shop...\nI mean to become a samurai......
+@85
+Are you serious, master?!\nOnce you quit, you can never\ngo back to being a merchant!
+@86
+You truly, truly mean it?!\nThis is the last time I'll ask...\n\nYou'll really give up trade\nand become a samurai?
+@87
+Yes, I'm serious.\nI leave {02}){B6} to you.\n\nFrom now on you are master\nof {02}){B6}. Look after it.\n\nI want to become a samurai\nand chase the dream of ruling\na province and a castle.
+@88
+Very well...\nI'll take charge of {02}){B6}.\n\nTo chase your dream, master,\nyou'll need money too. I'll send\nsome of the takings every month.\nSo this is really goodbye...\nPlease take good care of yourself.\nThank you for everything... farewell.
+@89
+The daimyo houses our {02}){B6} serves as purveyor are the following {02}$d.

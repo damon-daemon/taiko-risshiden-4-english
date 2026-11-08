@@ -1,0 +1,44 @@
+@0
+●Horse Race rules\nAfter the start, the speed meter grows and shrinks. Press ○ at the right moment to set your horse's speed to the value shown. The right-hand end of the meter has a "Danger" band; pressing there gives a carrot, a rock, a pit or a fall. At the far right end is "Brute Force".\n●Pressing in the "Danger" band\nCarrot: speed up a little\nPit, rock: slow down    Fall: you fall off; the race ends
+@1
+●Horse Race rules (cont.)\nThe race ends after 8 presses. As your speed rises, the meter gets shorter. And while you are ahead of your teacher, one more "Danger" band appears. Take care.\n●Horse Race tips\nIf you race flat out from the start, "Danger" zones appear on the right of the meter and the speed is hard to keep. Stay right behind your teacher at first, then overtake him in one burst later on.
+@2
+●Bow Target rules\nFirst, allowing for the wind, pick a spot to aim at (near the target) and press × to set your sight.\n"Tail" drops less\n"Head" drops more\n"Left" drifts left\n"Right" drifts right\nFor example, with "Head 1m, Left 2m", aim above and right of the target to hit it more easily.\nBesides the wind, allow for the drop from gravity.
+@3
+●Bow Target rules (cont.)\nOnce the sight is set, you draw and the sight wavers. Press ○ when it lines up. If time runs out, the arrow is loosed automatically.\nAfter setting the sight with ×, press × again before shooting to reset it. The time limit resets too, so aim calmly and carefully.\nThe game ends after 6 shots.
+@4
+●March Sugoroku rules\nPress ○ to roll the dice and move that many squares. Repeat this and head for the goal. You can roll up to 8 times.\n●About coloured squares\nStopping on a blue square brings good luck: your next roll may be a sure 6, or you may get more rolls.
+@5
+●About coloured squares (cont.)\nStopping on a red square brings bad luck. When ambushed, you cannot move on until you roll at least the number your teacher names. Fall into a pit and you lose 2 rolls.\nStopping on a yellow square brings either good or bad luck, but a pit there costs only 1 roll.\nStopping on a purple square... wait and see what happens.
+@6
+●Picture Match rules\nA model picture flashes up briefly, then 6 pictures are shown.\nPick the one that matches the model and press ○. Picking the wrong picture or running out of time counts as wrong.\nThere are 6 questions in all.
+@7
+●Stone Hauling rules\nChoose a stone to carry from the large, medium and small ones on the left and press ○.\nLarge is about 500 kan, medium about 250 and small about 50, but each stone varies.\nAs you near the target weight, the current weight is hidden. From then on, rely on your teacher's and your own remarks and hunches.
+@8
+●Stone Hauling rules (cont.)\nA stone once carried cannot be taken back. If you go over the target weight, choose the chisel and press ○ to chip the stone. But the chisel can be used only a limited number of times.\nWhen you think "That will do", choose [Finish].
+@9
+●One-Stroke rules\nSquares you can move to are framed in red. Choose a direction with the direction keys and press ○ to till that square.\nRepeat this to keep going. But you cannot pass through a square you have already tilled.\nRocks can be broken to get past, but only a limited number of times. Think as you go so you can till as much ground as possible.\nIt ends when you can go no further.
+@10
+●Gold Vein Amida rules\nChoose where to start within the time limit; when time is up, the cursor's position is chosen for you. Move along like an amida ladder; when you hit a rock, 2 hanafuda cards appear. Guess whether the face-down card is higher or lower than the open one. Guess right to break the rock and move on, and get a small gold nugget.\nGuess wrong and you turn back.\nIf the numbers are equal, you fall into the tunnel below.
+@11
+●Bingo Duel rules\nEach card has the numbers 1 to 25 written at random.\nAt the start, a few numbers are opened as a bonus.\nTake turns naming numbers and compete for the most lines across, down or diagonally. But you cannot see your own card: watch your opponent's card and name numbers so that he makes no lines.
+@12
+●Concentration rules\nPairs of identical items are hidden. Find the pairs, as in the card game Concentration.\nOpen 2 places; if they match, open 2 more. If not, they are turned back over and it is your opponent's turn.\nRepeat this; when all are open, the target item is announced. Whoever found it gets a bonus.
+@13
+●Sentence Match rules\nThe sentence your teacher spoke is shown with 4 similar sentences.\nPick the one exactly as your teacher said it and press ○.\nPicking the wrong sentence or running out of time counts as wrong.\nThere are 6 questions in all.
+@14
+●Medicine Mixing rules\nFirst, your teacher mixes a medicine.\nThen choose the medicines in the same order as the teacher's example, pressing ○ for each.\nThere are 6 questions in all.
+@15
+●Farmer Flip rules\nOn your turn, choose one of the 3 decks and press ○ to turn a card.\nThere are 3 kinds of cards:\n[Farmer]  a few more farmers\n[Crowd]  many more farmers\n[Revolt]  all your crowd is carried off\n*5 "Farmer" cards are worth 2 "Crowd" cards.\nRepeat until the decks run out.
+@16
+●Ninja Search rules\nA ninja enters one of the castles, and they are shuffled.\nGuess which castle the ninja is in.
+@17
+●Mock Battle rules\nWin by bringing the enemy unit's troops or morale to 0, or making it retreat.\nYou can give up to 3 commands. If there is no winner after 3, it is a draw.\nIn mock battles other than [Train], you cannot use formations, [Secret Plan] or [Fall Back].
+@18
+●Gun Target rules\nTargets drift in from left and right. When the sight appears, choose where to aim and fire with ○.\nBullets drift with the wind, so allow for it.\n[Tail] drops less\n[Head] drops more\n[Left] drifts left\n[Right] drifts right
+@19
+●Gun Target rules (cont.)\nFor example, with "Head 2m, Left 2m", aim above and right of the target to hit it more easily. Wind resistance is lower than in Bow Target.\nThe wind changes along the way, so keep an eye on it.\nAfter a miss you can fire again, but reloading takes time. When the gauge fills, the sight appears and you can fire.
+@20
+●Tea Carrying rules\nWith every step the automaton takes, the tea cools by 1 degree. Guide the automaton so that it reaches the goal while the tea is at the right temperature.\nRed panels turn it left and blue panels turn it right. Each press of ○ switches between red and blue. Change the panels to guide the automaton to the goal.
+@21
+●Tea Carrying rules (cont.)\nPanels with other pictures have tricks too, which go off when the automaton passes over them. You cannot change these panels.\nIf the automaton goes off the panels, you fail.

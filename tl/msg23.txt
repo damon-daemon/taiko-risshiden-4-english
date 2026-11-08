@@ -1,0 +1,650 @@
+@0
+Playable in {02}{01}g.
+@1
+One of the Three Views of Japan. Its 260-odd islands, blue sea and pines make it the finest of the three.
+@2
+One of the Three Great Falls. Water from Lake Chuzenji plunges over a lava cliff from Mt. Nantai.
+@3
+Japan's greatest peak. Revered as sacred and loved since before history, it is the symbol of Japan.
+@4
+Japan's largest lake, called "Omi" in ancient times. It gives drinking water, shipping and much more.
+@5
+One of the Three Views of Japan: a 3 km sandbar of white sand and green pines jutting from Miyazu Bay.
+@6
+One of the Three Great Falls, on the Nachi River below Mt. Nachi. Its First Fall is superb. Long an ascetics' site.
+@7
+One of the Three Views of Japan. Itsukushima Shrine, famed for its torii in the sea, was the Taira shrine; Kiyomori came here.
+@8
+Tosa Bay, held between Capes Ashizuri and Muroto, has long known whaling. A rich sea with a southern air.
+@9
+An active volcano: the outer rim and the Five Peaks of Aso. Its caldera is the world's largest. Many hot springs.
+@10
+A cone volcano, symbol of Kagoshima. Its complex peaks, made by several great eruptions, are like a work of art.
+@11
+One of the Three Great Falls, praised by the poet-monk Saigyo. Its scenery changes completely each season.
+@12
+A hall gilded inside and out, holding the remains of three generations of the Oshu Fujiwara and an Amida triad.
+@13
+A lagoon formed as silt from the Yoneshiro and Omono rivers joined the Oga peninsula. Once second only to Lake Biwa.
+@14
+With Koya and Hiei, one of Japan's three great holy sites: a sacred peak revered since the Heian era.
+@15
+A cliff coast on the Etchu-Echigo border, so perilous that parent and child can't watch out for each other.
+@16
+Columnar cliffs facing the Sea of Japan. Legend says the wicked monk Tojinbo of Heisenji was pushed off here.
+@17
+Mountain name Jogakusan. Founded in the Asuka era, an ancient temple of no single sect, revered far and wide.
+@18
+Japan's largest dunes, heaped by wind and waves from the sand of the Sendai River and the coastal currents.
+@19
+A limestone cave in Akiyoshidai, Japan's largest karst plateau: a work of art made by water and stone.
+@20
+Shrine of Omononushi and Emperor Sutoku, famed for its 1,368 steps. Konpira pilgrimages thrived from Muromachi times.
+@21
+Duel lasting card. Reduces the damage the foe deals you. Stronger than "Iron Wall".
+@22
+Duel lasting card. Reduces the damage the foe deals you.
+@23
+Duel lasting card. Increases the damage of your attacks. Stronger than "Great Strength".
+@24
+Duel lasting card. Slightly increases the damage of your attacks.
+@25
+Duel lasting card. Restores stamina every turn. Heals more than "Dried Rice".
+@26
+Duel lasting card. Restores a little stamina every turn.
+@27
+Duel lasting card. Drains the foe's stamina every turn. Stronger than "Spring Blossom Art".
+@28
+Duel lasting card. Drains a little of the foe's stamina every turn.
+@29
+Duel lasting card. Raises the total of your cards. Stronger than "Ninja Dog".
+@30
+Duel lasting card. Raises the total of your cards.
+@31
+Duel lasting card. The foe holds one card fewer.
+@32
+Duel lasting card. Turns the foe's combos into normal attacks.
+@33
+Duel special card. If held, restores much stamina when yours hits 0.
+@34
+Duel special card. If held, restores a little stamina when yours hits 0.
+@35
+Duel special card. If held, lets you cancel the foe's attack.
+@36
+Duel special card. If held, cancels the foe's attack and lets you strike back hard.
+@37
+Duel special card. If held, lets you strike back hard when the foe attacks you.
+@38
+Duel special card. If held, lets you strike back when the foe attacks you.
+@39
+Duel special card. Removes the foe's lasting card.
+@40
+Duel special card. Swaps the foe's lasting card with your own.
+@41
+Duel special card. Restores much stamina.
+@42
+Duel special card. Restores a little stamina.
+@43
+Duel special card. Lets you flee without fail.
+@44
+Duel special card. A sure hit, but only as strong as a normal attack.
+@45
+A title for the ultimate swordsman alone. Deals great damage.\nSpecial attack level: Supreme
+@46
+Duel special card. Deals great damage to the foe.\nSpecial attack level 7
+@47
+Duel special card. Deals great damage to the foe.\nSpecial attack level 6
+@48
+Duel special card. Deals great damage to the foe.\nSpecial attack level 5
+@49
+Duel special card. Deals great damage to the foe.\nSpecial attack level 4
+@50
+Duel special card. Deals great damage to the foe.\nSpecial attack level 3
+@51
+Duel special card. Deals great damage to the foe.\nSpecial attack level 2
+@52
+Duel lasting card. Always dodges the foe's special attacks.
+@53
+Duel special card. A mighty blow taking 70% of the foe's remaining stamina.\nSpecial attack level 8
+@54
+Duel lasting card. Blocks the foe's counterattacks completely.
+@55
+Duel special card. Removes all lasting cards and deals great damage.\nSpecial attack level 1
+@56
+Duel lasting card. Makes a perfect defence likelier when you defend.
+@57
+Duel attack card. Certain combinations trigger a combo.
+@58
+Sword title. Valor +15\nGiven only to the ultimate swordsman. Deals great damage in duels.
+@59
+Sword title. Valor +10\nFor a swordsman able to match the land's famed warriors or better.
+@60
+Sword title. Valor +6\nGiven only to a swordsman good enough to live by the sword.
+@61
+Sword title. Valor +3\nGiven to a warrior better than most with the sword.
+@62
+Battle title. Leadership +15\nThe ultimate title, for a general whose feats in battle are called "matchless".
+@63
+Battle title. Leadership +10\nGiven to one who won extraordinary merit in battle.
+@64
+Battle title. Leadership +6\nFor one who reads a battle calmly and finds the way to win.
+@65
+Battle title. Leadership +3\nGiven to one who shows his skill in battle and often wins.
+@66
+Tea title. Charm +15\nFor one who grasps the heart of tea and earns a place in its history.
+@67
+Tea title. Charm +10\nFor one like Hechikan, a tea master steeped in wabi tea and Zen.
+@68
+Tea title. Charm +6\nFor one with the skill of a tea master serving a daimyo.
+@69
+Tea title. Charm +3\nFor a cultured lover of refinement and tea: a sukisha.
+@70
+Speech title. Diplomacy +15\nFor a master diplomat like Su Qin and Zhang Yi of ancient China.
+@71
+Speech title. Diplomacy +10\nFor one whose speech flows like a river down a steep slope.
+@72
+Speech title. Diplomacy +6\nFor a wandering orator who tours the land on his tongue alone.
+@73
+Speech title. Diplomacy +3\nFor one with the talent to make his way by speech.
+@74
+Politics title. Politics +15\nFor the ideal ruler, who knows the laws of heaven and earth and gives the people peace.
+@75
+Politics title. Politics +10\nFor one who has read "Jogan Seiyo" on Emperor Taizong's rule and governs well.
+@76
+Politics title. Politics +6\nFor one of outstanding administrative skill.
+@77
+Politics title. Politics +3\nFor one like a capable official who listens well to the people.
+@78
+The ultimate title, given only to one who has mastered every ninja art. You can move without using stamina.
+@79
+The ultimate title, for a great general of unrivalled merit in the realm.
+@80
+Gambling title. Given only to one of outstanding gambling talent.\nLets you play "Pinkoro".
+@81
+For a swordsman unbeaten in countless bouts, said to have no equal with the sword.
+@82
+A title for a senior ninja who has completed all training in the Kurohabaki village.
+@83
+Has completed over half the training in the Kurohabaki village; a seasoned ninja.
+@84
+A Kurohabaki ninja who has only just begun training: still green, at the bottom.
+@85
+A title for a senior ninja who has completed all training in the Fuma village.
+@86
+Has completed over half the training in the Fuma village; a seasoned ninja.
+@87
+A Fuma ninja who has only just begun training: still green, at the bottom.
+@88
+A title for a senior ninja who has completed all training in the Suppa village.
+@89
+Has completed over half the training in the Suppa village; a seasoned ninja.
+@90
+A Suppa ninja who has only just begun training: still green, at the bottom.
+@91
+A title for a senior ninja who has completed all training in the Iga village.
+@92
+Has completed over half the training in the Iga village; a seasoned ninja.
+@93
+An Iga ninja who has only just begun training: still green, at the bottom.
+@94
+A title for a senior ninja who has completed all training in the Nokizaru village.
+@95
+Has completed over half the training in the Nokizaru village; a seasoned ninja.
+@96
+A Nokizaru ninja who has only just begun training: still green, at the bottom.
+@97
+A title for a senior ninja who has completed all training in the Koga village.
+@98
+Has completed over half the training in the Koga village; a seasoned ninja.
+@99
+A Koga ninja who has only just begun training: still green, at the bottom.
+@100
+A title for a senior ninja who has completed all training in the Togiki village.
+@101
+Has completed over half the training in the Togiki village; a seasoned ninja.
+@102
+A Togiki ninja who has only just begun training: still green, at the bottom.
+@103
+A title for a senior ninja who has completed all training in the Yamakuguri village.
+@104
+Has completed over half the training in the Yamakuguri village; a seasoned ninja.
+@105
+A Yamakuguri ninja who has only just begun training: still green, at the bottom.
+@106
+Title of a merchant proven in Kyoto. You get a shop of your own.\nCapacity +10000
+@107
+Title of a merchant proven in {02}{0B}d. You get a shop of your own.\nCapacity +10000
+@108
+Title of a merchant proven in Sakai. You get a shop of your own.\nCapacity +10000
+@109
+Title of a merchant proven in Hakata. You get a shop of your own.\nCapacity +10000
+@110
+Well versed in trade, and nearly a full merchant.\nCapacity +10000
+@111
+Has trained a fair while as a merchant and at last grasps the basics.\nCapacity +10000
+@112
+New to merchant training and not yet a full merchant.\nYou can apprentice at a merchant house.
+@113
+A dark title for one who mercilessly cut down many officers.
+@114
+A dark title for one who stirred up rebellion under every lord he served and threw the land into chaos.
+@115
+A dark title for a ruthless general who rebelled and destroyed his former lord's house.
+@116
+Given to a master traveller who has journeyed all over the land.
+@117
+Given to one who has mastered guild work.
+@118
+Given to one who has mastered ninja work.
+@119
+Given to a master of the riding mini-game. Lets you skip the riding mini-game.
+@120
+Given to a master of the gunnery mini-game. Lets you skip the gunnery mini-game.
+@121
+Given to a master of the archery mini-game. Lets you skip the archery mini-game.
+@122
+Given to a master of the tactics mini-game. Lets you skip the tactics mini-game.
+@123
+Given to a master of the ninjutsu mini-game. Lets you skip the ninjutsu mini-game.
+@124
+Given to a master of the scheming mini-games. Lets you skip the scheming mini-games.
+@125
+Given to a master of the Soldier-Farmer Split and Win the People mini-games. Lets you skip them.
+@126
+Given to a master of the castle repair and expansion mini-games. Lets you skip them.
+@127
+Given to a master of the farming mini-game. Lets you skip the farming mini-game.
+@128
+Given to a master of the mining mini-game. Lets you skip the mining mini-game.
+@129
+Given to a master of the accounting mini-game. Lets you skip the accounting mini-game.
+@130
+Given to a master of the etiquette mini-game. Lets you skip the etiquette mini-game.
+@131
+Given to a master of the speech mini-game. Lets you skip the speech mini-game.
+@132
+Given to a master of the tea mini-game. Lets you skip the tea mini-game.
+@133
+Given to a master of the medicine mini-game. Lets you skip the medicine mini-game.
+@134
+The ultimate title, only for one skilled at every mini-game. Mini-games can be set to "Stop the Bar".
+@135
+For the ultimate merchant, versed in every market and in guild work.
+@136
+The ultimate title, for a master who has appraised many arms and works of art.
+@137
+The ultimate title, for a patron who backed artists and supported many works.
+@138
+The ultimate title, for a great judge of talent who found and raised many hidden men.
+@139
+Battle special card. Castle attackers only. A normal attack that also lowers the castle's defense.
+@140
+Battle special card. Field battles only. Damage +50%.
+@141
+Battle special card. Cavalry only. Damage +50%.
+@142
+Battle special card. Cavalry only. Charges 3 times in a row and throws the foe into confusion.
+@143
+Battle special card. Cavalry only. Charges twice in a row.
+@144
+Battle special card. Use when charging: fires guns, then charges twice.\nAllows mounted gunner units.
+@145
+Battle special card. Infantry only. Doubles damage and also lowers castle defense.
+@146
+Battle special card. For sieges and sea battles. Damage +50%, and lowers castle defense.
+@147
+Battle special card. Only when firing bows. Doubles damage.
+@148
+Battle special card. Only when firing bows. Fires 3 volleys in a row.
+@149
+Battle special card. Gun and cannon units defending a castle only. Fires 4 volleys in a row.
+@150
+Battle special card. Gun and cannon units only. Fires 3 volleys in a row.
+@151
+Battle special card. For castle defense, field and sea battles. Snipes and wounds an enemy unit commander.
+@152
+Battle lasting card. Field battles only. Attack +50%.
+@153
+Battle special card. Gun and cannon units only. Fires 2 volleys in a row.
+@154
+Battle special card. Castle attackers only. Talks a defending unit commander into retreat.
+@155
+Battle special card. Castle defenders only. Makes the attacking army commander retreat, ending the battle.
+@156
+Battle lasting card. Castle attackers only. Lowers the enemy castle's defense every turn.
+@157
+Battle special card. Castle attackers only. Greatly lowers castle defense.
+@158
+Battle lasting card. Castle attackers only. Cuts supply lines, lowering enemy morale every turn.
+@159
+Battle special card. Castle attackers only. Spreads ill rumours, greatly lowering enemy morale.
+@160
+Battle lasting card. Castle attackers only. Lowers castle defense and enemy morale every turn.
+@161
+Battle lasting card. Castle defenders only. Drops boulders every turn, killing many enemy troops.
+@162
+Battle special card. Insults the foe, lowering morale.
+@163
+Battle special card. A sure first strike, with no losses to your own unit.
+@164
+Battle lasting card. On a normal attack, even if the foe strikes first, you still strike after.
+@165
+Battle lasting card. Field battles only. Defense +20%.
+@166
+Battle lasting card. Field battles only. Attack +20%.
+@167
+Battle lasting card. Field battles only. Defense +50%.
+@168
+Battle lasting card. For castle defense and field battles. Cuts enemy troops when they attack directly. Works once.
+@169
+Battle special card. Restores one use of Secret Plan.
+@170
+Battle special card. For castle defenders. Restores castle defense.
+@171
+Basic battle card. Makes a normal attack.
+@172
+Basic battle card. A cavalry charge.
+@173
+Basic battle card. An indirect attack with bows, guns or cannon.
+@174
+Basic battle card. Ends the unit's confusion and raises its morale.
+@175
+Basic battle card. Removes and cancels the foe's lasting card.
+@176
+Battle formation card. A plain formation with no special traits. The basic formation.
+@177
+Formation card. Centre thrust out like fish scales. For attack.\nAttack formation level 1
+@178
+Formation card. Shaped like a flight of wild geese. For attack.\nAttack formation level 2
+@179
+Formation card. A dense mass, for a few to break through a larger army.\nAttack formation level 3
+@180
+Formation card. Spread like a crane's wings, to surround the foe.\nDefense formation level 1
+@181
+Formation card. Units in a ring, facing foes on all sides.\nDefense formation level 2
+@182
+Formation card. A crescent, best for defense; "backs to the water".\nDefense formation level 3
+@183
+Formation card. Moves like a snake, flexing to the foe's attack.\nMobile formation level 1
+@184
+Formation card. Units staggered, stressing mobility.\nMobile formation level 2
+@185
+Formation card. Units radiating from the HQ, for utmost mobility.\nMobile formation level 3
+@186
+Lets the guilds of certain towns deal in the speciality "Agate".
+@187
+Lets the guilds of certain towns deal in the speciality "Crystal".
+@188
+Lets the guilds of certain towns deal in the speciality "Sugar".
+@189
+Lets the guilds of certain towns deal in the speciality "Watermelon".
+@190
+No tax when buying trade goods at guilds.\nCapacity +10000
+@191
+A letter from the Nanban missionary Almeida. Miranda, a Nanban merchant in Hirado, will sell you cannon.
+@192
+A letter from the Nanban missionary Frois. Enrico, a Nanban merchant in Sakai, will sell you cannon.
+@193
+Faster on sea routes: you sail as fast as on lowland roads.\nCapacity +10000
+@194
+You move faster on mountain paths, plains and highlands.
+@195
+You move without a sound; covert work is harder to spot.
+@196
+Disguise yourself as others: raises the success and effect of "Rumours".
+@197
+Skill with gunpowder: raises the success and effect of "Arson".
+@198
+The art of pulling out castle stone walls. Raises the success and effect of "Wreck Castle".
+@199
+A forbidden art of steering others' hearts. Raises the success of "Recruit".
+@200
+Spreading efficient farm tools raises the effect of "New Fields".
+@201
+Refining silver with lead. Raises the effect of "Mine Work".
+@202
+Competing crews raise the effect of "Repair Castle".
+@203
+An eye for art and swords. Appraise at home.
+@204
+A decree cancelling unpayable debts. Raises the effect of "Win the People".
+@205
+A wide network of merchants and craftsmen. Raises the effect of "Expand Castle".
+@206
+A clear line between warriors and farmers. Raises the effect of "Soldier-Farmer Split".
+@207
+The speech of Kyoto's court nobles. Raises the effect of "Court Lobbying".
+@208
+The heart of tea. Holding tea ceremonies greatly raises your guests' friendship.
+@209
+Free of greed, you persuade with sincerity. Diplomatic talks work better.
+@210
+A merciful heart that treats everyone alike. Recruiting succeeds more often.
+@211
+When bandits attack you on the road, you can call on a skilled helper.
+@212
+Lets you check rice prices in every town of the Tohoku region at any time.
+@213
+Lets you check rice prices in every town of the Hokuriku region at any time.
+@214
+Lets you check rice prices in every town of the Koshin region at any time.
+@215
+Lets you check rice prices in every town of the Kanto region at any time.
+@216
+Lets you check rice prices in every town of the Tokai region at any time.
+@217
+Lets you check rice prices in every town of the Kinki region at any time.
+@218
+Lets you check rice prices in every town of the Chugoku region at any time.
+@219
+Lets you check rice prices in every town of the Shikoku region at any time.
+@220
+Lets you check rice prices in every town of the Kyushu region at any time.
+@221
+Lets you check horse prices in every town of the Tohoku region at any time.
+@222
+Lets you check horse prices in every town of the Hokuriku region at any time.
+@223
+Lets you check horse prices in every town of the Koshin region at any time.
+@224
+Lets you check horse prices in every town of the Kanto region at any time.
+@225
+Lets you check horse prices in every town of the Tokai region at any time.
+@226
+Lets you check horse prices in every town of the Kinki region at any time.
+@227
+Lets you check horse prices in every town of the Chugoku region at any time.
+@228
+Lets you check horse prices in every town of the Shikoku region at any time.
+@229
+Lets you check horse prices in every town of the Kyushu region at any time.
+@230
+Lets you check trade goods prices in the towns of the Tohoku region at any time.
+@231
+Lets you check trade goods prices in the towns of the Hokuriku region at any time.
+@232
+Lets you check trade goods prices in the towns of the Koshin region at any time.
+@233
+Lets you check trade goods prices in the towns of the Kanto region at any time.
+@234
+Lets you check trade goods prices in the towns of the Tokai region at any time.
+@235
+Lets you check trade goods prices in the towns of the Kinki region at any time.
+@236
+Lets you check trade goods prices in the towns of the Chugoku region at any time.
+@237
+Lets you check trade goods prices in the towns of the Shikoku region at any time.
+@238
+Lets you check trade goods prices in the towns of the Kyushu region at any time.
+@239
+Proof of a stay at an inn in Hirosaki, Mutsu. The inn seal shows a swan.
+@240
+Proof of a stay at an inn in Sendai, Rikuzen. The inn seal shows Miyagino bush clover.
+@241
+Proof of a stay at an inn in Tsuchizaki-Minato, Ugo. The inn seal shows a namahage.
+@242
+Proof of a stay at an inn in Sakata, Uzen. The inn seal shows cherries.
+@243
+Proof of a stay at an inn in Aizu, Iwashiro. The inn seal shows a flycatcher.
+@244
+Proof of a stay at an inn in Kashima, Hitachi. The inn seal shows a skylark.
+@245
+Proof of a stay at an inn in Ashikaga, Shimotsuke. The inn seal shows meadowsweet.
+@246
+Proof of a stay at an inn in Umayabashi, Kozuke. The inn seal shows grilled manju.
+@247
+Proof of a stay at an inn in Kisarazu, Kazusa. The inn seal shows a bunting.
+@248
+Proof of a stay at an inn in Sakura, Shimosa. The inn seal shows a yam.
+@249
+Proof of a stay at an inn in Edo, Musashi. The inn seal shows primroses.
+@250
+Proof of a stay at an inn in Odawara, Sagami. The inn seal shows a gull.
+@251
+Proof of a stay at an inn in Naoetsu, Echigo. The inn seal shows a snow camellia.
+@252
+Proof of a stay at an inn in Toyama, Etchu. The inn seal shows firefly squid.
+@253
+Proof of a stay at an inn in Wajima, Noto. The inn seal shows a golden eagle.
+@254
+Proof of a stay at an inn in Kanazawa, Kaga. The inn seal shows a black lily.
+@255
+Proof of a stay at an inn in Tsuruga, Echizen. The inn seal shows an Echizen crab.
+@256
+Proof of a stay at an inn in Komoro, North Shinano. The inn seal shows wild ferns and angelica shoots.
+@257
+Proof of a stay at an inn in Suwa, South Shinano. The inn seal shows an eel.
+@258
+Proof of a stay at an inn in Kofu, Kai. The inn seal shows hoto noodles.
+@259
+Proof of a stay at an inn in Sunpu, Suruga. The inn seal shows "first Fuji, second a hawk, third an eggplant".
+@260
+Proof of a stay at an inn in Hamamatsu, Totomi. The inn seal shows an eel.
+@261
+Proof of a stay at an inn in Okazaki, Mikawa. The inn seal shows a scops owl.
+@262
+Proof of a stay at an inn in Kiyosu, Owari. The inn seal shows a tiger prawn.
+@263
+Proof of a stay at an inn in a town of Mino. The inn seal shows milk vetch, also called renge.
+@264
+Proof of a stay at an inn in Matsukura, Hida. The inn seal shows a ptarmigan.
+@265
+Proof of a stay at an inn in Tsu, Ise. The inn seal shows a spiny lobster.
+@266
+Proof of a stay at an inn in a town of North Omi. The inn seal shows ears of rice.
+@267
+Proof of a stay at an inn in a town of South Omi. The inn seal shows a rhododendron.
+@268
+Proof of a stay at an inn in Nara, Yamato. The inn seal shows a robin.
+@269
+Proof of a stay at an inn in Kyoto, Yamashiro, from the physician Manase Dosan. The seal shows a weeping cherry.
+@270
+Proof of a stay at an inn in Kameyama, Tanba. The inn seal shows matsutake mushrooms.
+@271
+Proof of a stay at an inn in Miyazu, Tango. The inn seal shows sardines.
+@272
+Proof of a stay at an inn in Sakai, Izumi. The inn seal shows an Eiraku coin.
+@273
+Proof of a stay at an inn in a town of Settsu or Kawachi. The inn seal shows a shrike.
+@274
+Proof of a stay at an inn in Saika, Kii. The inn seal shows a tuna.
+@275
+Proof of a stay at an inn in Tottori, Inaba. The inn seal shows a flounder.
+@276
+Proof of a stay at an inn in Akasaki, Hoki. The inn seal shows mandarin ducks.
+@277
+Proof of a stay at an inn in Matsue, Izumo. The inn seal shows a peony.
+@278
+Proof of a stay at an inn in Hamada, Iwami. The inn seal shows a turban shell.
+@279
+Proof of a stay at an inn in Himeji, Harima. The inn seal shows wild chrysanthemums.
+@280
+Proof of a stay at an inn in Matsuyama, Mimasaka. The inn seal shows a yuzu.
+@281
+Proof of a stay at an inn in Osafune, Bizen. The inn seal shows a Japanese sword.
+@282
+Proof of a stay at an inn in Kurashiki, Bitchu. The inn seal shows peach blossoms.
+@283
+Proof of a stay at an inn in Mihara, Bingo. The inn seal shows an octopus.
+@284
+Proof of a stay at an inn in Itsukushima, Aki. The inn seal shows a deer.
+@285
+Proof of a stay at an inn in Akamagaseki, Nagato. The inn seal shows a fuku, or fugu.
+@286
+Proof of a stay at an inn in Marugame, Sanuki. The inn seal shows a cuckoo.
+@287
+Proof of a stay at an inn in Imabari, Iyo. The inn seal shows an Ehime iris, also called taregayuesou.
+@288
+Proof of a stay at an inn in Naruto, Awa. The inn seal shows the Naruto whirlpools.
+@289
+Proof of a stay at an inn in Urado, Tosa. The inn seal shows a bonito.
+@290
+Proof of a stay at an inn in Hakata, Chikuzen. The inn seal shows a warbler on a plum branch.
+@291
+Proof of a stay at an inn in Yanagawa, Chikugo. The inn seal shows a magpie.
+@292
+Proof of a stay at an inn in Hirado, Hizen. The inn seal shows Unzen azaleas.
+@293
+Proof of a stay at an inn in Yatsushiro, Higo. The inn seal shows gentians.
+@294
+Proof of a stay at an inn in Kokura, Buzen. The inn seal shows Kokura Gion drums.
+@295
+Proof of a stay at an inn in Funai, Bungo. The inn seal shows a kabosu.
+@296
+Proof of a stay at an inn in Obi, Hyuga. The inn seal shows a crinum lily.
+@297
+Proof of a stay at an inn in Nejime, Osumi. The inn seal shows sand lances.
+@298
+Proof of a stay at an inn in Kagoshima, Satsuma. The inn seal shows a Lidth's jay.
+@299
+Proof of your wedding to Okuni of Izumo, a flower blooming in the warring age.
+@300
+Proof of your wedding to Sae, a flower blooming in the warring age.
+@301
+Proof of your wedding to Hatsu, a flower blooming in the warring age.
+@302
+Proof of your wedding to Tsu, a flower blooming in the warring age.
+@303
+Proof of your wedding to Kinu, a flower blooming in the warring age.
+@304
+Proof of your wedding to Shino, a flower blooming in the warring age.
+@305
+Proof of your wedding to Aya, a flower blooming in the warring age.
+@306
+Proof of your wedding to Suzu, a flower blooming in the warring age.
+@307
+Proof of your wedding to Yae, a flower blooming in the warring age.
+@308
+Proof of your wedding to Ito, a flower blooming in the warring age.
+@309
+Skill card. Commanding infantry in battle. Also affects training.
+@310
+Skill card. Commanding cavalry in battle. Also affects training.
+@311
+Skill card. Commanding gun and cannon units in battle. Also affects training.
+@312
+Skill card. Commanding units in sea battles. Also affects training.
+@313
+Skill card. Affects the power of your missile attacks in battle.
+@314
+Skill card. Handling the sword. Sets how many cards you hold in duels.
+@315
+Skill card. Sets how many Secret Plans you can use in battle. Also affects training.
+@316
+Skill card. Affects covert and sabotage missions, and the chance of special cards in duels.
+@317
+Skill card. Affects castle repair and expansion.
+@318
+Skill card. The skill of opening new fields.
+@319
+Skill card. The skill of developing mines.
+@320
+Skill card. The knack of doing good business. Sets how often you can haggle when buying.
+@321
+Skill card. Knowledge of court customs and manners. Affects diplomacy and court lobbying.
+@322
+Skill card. The skill of persuasion. Affects diplomacy, rumours, winning the people and more.
+@323
+Skill card. The skill of tea. Affects court lobbying and how fast friendship grows at tea parties.
+@324
+Skill card. Medical knowledge and skill. Affects recovery from illness and stamina regained in duels.

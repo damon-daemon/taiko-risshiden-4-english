@@ -1,0 +1,38 @@
+@0
+●Enter a building\nChoose a button at the bottom right and press ○.\n●Talk to people\nWhen people are shown at the top right, you can talk to them. Press ↑ to pick one and press ○.\n●View mission details\nPress L1.\n●View job details\nPress L2.
+@1
+●Leave this place\nPress ×.\n●About the passing of time\nEntering or leaving a building takes one period of time. The same goes for leaving a base for the outside.
+@2
+●[Return to base]\nTravel to your base automatically.\n●[Set destination]\nPick a destination from the map or a list.\n●[Wait here]\nWait where you are for the given number of days.\n●Shortcuts (yellow-green buttons, middle right)\nRegister up to 5 favourite destinations. To change one, press its button and choose [No] when asked whether to travel.
+@3
+●Go anywhere on the map\nPress × for cursor mode. Move the cursor to the place you want and press ○. You can also use L and R to jump the cursor to bases and people on the map.\n●Go somewhere you have been before\nPress □ to show up to 5 bases you have visited.
+@4
+●See names of people and bases\nPoint the cursor at a person or base to show the name. People you have not met are shown as "???".\n●Talk to people\nMove close to a person and a person button appears. Select it and press ○ to talk to them.
+@5
+●Scroll the screen\nHold R1 or R2 for scroll mode, and scroll with the direction keys while holding it. Moving the cursor to the edge of the screen also scrolls.\n●Choose from a list\nPress △ to choose from a list of bases.\n●Toggle icons\nPress □ to show or hide castles, towns and ninja villages.
+@6
+●Attack\nChoose normal attack cards (green) from your hand to play, and confirm. The cards are compared, and the side with the higher total attacks. A tie is a draw.\nSpecial sets such as "1-1-1" (Storm) or "7-6-3" (Namusan) make a combo attack. A combo wins whatever the totals; if both sides have one, the stronger combo wins.
+@7
+●Defend\nBlock the enemy's attack and swap unwanted cards. Press [Atk-Def] or R2, pick up to 3 cards to discard and confirm. You defend when the cards are compared.\n●Special\nPick just 1 special card (red, blue or yellow) from your hand and confirm. It takes effect when the cards are compared.
+@8
+●Flee\nPress [Flee]. You can try this only once per fight, and it often fails.\nIn some situations you cannot flee; then the [Flee] button cannot be pressed.
+@9
+●Tips for duels\nHigher Swordsmanship gives you more cards in hand. Higher Ninjutsu makes special cards come more often. Higher Medicine makes cards and [Heal] restore more.
+@10
+A unit can only attack the unit in front of it and the two beside that. In a siege, the army commander's unit cannot be attacked until all the other units are wiped out.\n●Attack\nA direct attack. You take a counter-attack. Infantry, gunners and cannon only.\n●Charge\nA direct attack. You take a counter-attack. Cavalry only. Stronger than a normal attack, and may throw the enemy into confusion.
+@11
+●Fire\nInfantry and cavalry shoot bows, gunners shoot guns, cannon fire cannon. No counter-attack. Gunner and cannon fire may confuse the enemy, but is weaker in rain or snow.\n●Wait\nWait and pass the turn to the next unit. Morale rises a little.
+@12
+●Orders\nArmy commander only. Tell your units which enemy to attack. Without orders, each unit acts as its commander sees fit.\n●Retreat\nRetreat and leave the field. If the army commander retreats, the battle is lost.\n●Ignore the army commander's orders?\nDisobey and you earn his anger. But win great merit, and that's another story.
+@13
+●Victory terms\nThe first army to meet any of these wins:\n◎Wipe out the enemy army commander's unit.\n◎The enemy army commander's unit retreats.\n◎In a siege, bring the castle's defense to 0. (attacker)\n◎In a siege, hold out for 30 days. (defender)\n◎In a siege, the enemy accepts your peace offer. (defender)
+@14
+●How a battle goes\n(1) Check the line-up before battle. As army commander you can change it.\n(2) In field battles, the army commander picks a formation.\n(3) The army commander gives orders to each unit.\n(4) On your turn, choose a command and an enemy unit as its target.\n(5) Attacking or being attacked opens the combat screen; after the fight you return to the battle map.\nRepeat (1)-(5) and aim for victory.
+@15
+●How combat goes\nWhen the cards are dealt, swap unwanted ones: pick up to 3 to discard and confirm. Then choose cards to play: up to 3 normal attack cards (green), or just 1 special card (red, blue, yellow or pink). Then both sides' cards are compared.\nA Straight (consecutive numbers) or Triple (same numbers) is stronger. A Triple beats a Straight.
+@16
+●How combat goes (cont.)\nAmong Straights, "1-2-3" is the strongest; otherwise higher numbers are stronger. Among Triples, "1-1-1" is the strongest; otherwise higher numbers are stronger.\nWith special cards, the type of card decides the result. Some take effect whether you win or lose.\nThis repeats until one unit is wiped out or falls back, or 5 turns pass; then you return to the battle map.
+@17
+●Wait\nYou take the enemy's attack without striking back, but suffer less damage than usual.\n●Secret Plan\nSwap a card in your hand for a special card. You can do this as many times as there are red war fans at the top right. Use the [Secret Plan] button or R2.\n●Fall Back\nFall back after taking the enemy's attack. Falling back lowers morale.
+@18
+●Keys to victory\n[Secret Plan] swaps a card in your hand for a special card. How often you can use it depends on your Tactics level.\n[Attack] and [Charge] expose your unit to counter-attack, but hit harder than [Fire].\nIn rain or snow, gunner and cannon fire is weaker.

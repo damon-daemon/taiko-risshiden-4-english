@@ -1,0 +1,742 @@
+@0
+What happened? Your report is late!
+@0.1
+What happened? Your report is late!
+@0.2
+Fool! Your report is late! If you can't finish a mission in time, you're no ninja!
+@1
+...I have no excuse.
+@1.1
+...I have no excuse.
+@1.2
+...I am very sorry.
+@2
+By our rules, I must lower your rank. I ask your understanding.
+@2.1
+By our rules, I must lower your rank. I ask your understanding.
+@2.2
+As punishment, your rank is lowered! Start over!
+@3
+No, that is only right. I'll start over.
+@3.1
+No, that is only right. I'll start over.
+@3.2
+Y-yes, sir!
+@4
+From now on, please keep to it. Otherwise I can't set an example to the others.
+@4.1
+From now on, please keep to it. Otherwise I can't set an example to the others.
+@4.2
+Then start over! Apply yourself to training!
+@5
+No, it's only right. I'm sorry.
+@5.1
+No, it's only right. I'm sorry.
+@5.2
+Y-yes, sir!
+@6
+Have you finished the job?
+@6.1
+Have you finished the job?
+@6.2
+Is the job done?
+@7
+Then please finish the job as soon as you can.
+@7.1
+Then please finish the job as soon as you can.
+@7.2
+Then hurry and finish it.
+@8
+Then let me hear the results.
+@8.1
+Then let me hear the results.
+@8.2
+Then let's hear the results.
+@9
+Sorry. I got no real results.
+@9.1
+Sorry. I got no real results.
+@9.2
+I am very sorry. I got no real results.
+@10
+I've found a person called {02}{03}g.
+@10.1
+I've found a person called {02}{03}g.
+@10.2
+I have found a person called {02}{03}g.
+@11
+I've found about %u promising people.
+@11.1
+I've found about %u promising people.
+@11.2
+I have found about %u promising people.
+@12
+I've gathered some information on {02}{0D}d.
+@12.1
+I've gathered some information on {02}{0D}d.
+@12.2
+I have gathered some information on {02}{0D}d.
+@13
+I've reduced the %s of {02}{0D}d by %u.
+@13.1
+I've reduced the %s of {02}{0D}d by %u.
+@13.2
+I have reduced the %s of {02}{0D}d by %u.
+@14
+I've done some damage to the supplies of {02}{0D}d.
+@14.1
+I've done some damage to the supplies of {02}{0D}d.
+@14.2
+I have done some damage to the supplies of {02}{0D}d.
+@15
+Sorry. The attack on {02}{03}g failed.
+@15.1
+Sorry. The attack on {02}{03}g failed.
+@15.2
+I am very sorry. The attack on {02}{03}g failed.
+@16
+I attacked {02}{03}g, but they were tough... Still, I did some damage.
+@16.1
+I attacked {02}{03}g, but they were tough... Still, I did some damage.
+@16.2
+I attacked {02}{03}g, but they were tough... Still, I did some damage.
+@17
+I've finished off {02}{03}g.
+@17.1
+I've finished off {02}{03}g.
+@17.2
+I have finished off {02}{03}g.
+@18
+And this from you, Lord {02}{02}f... Frankly, I am disappointed. Please don't let it happen again.
+@18.1
+And this from you, Lord {02}{02}f... Frankly, I am disappointed. Please don't let it happen again.
+@18.2
+I thought you'd do a bit better... It seems you still lack training. Work harder.
+@19
+Thank you for your trouble. Please accept your reward of %m.
+@19.1
+Thank you for your trouble. Please accept your reward of %m.
+@19.2
+Good, well done. Here is your reward of %m.
+@20
+Right.
+@20.1
+Right.
+@20.2
+Yes, sir.
+@21
+I hope we can count on you again.
+@21.1
+I hope we can count on you again.
+@21.2
+Don't let this go to your head; keep training.
+@22
+The job seems unfinished. You say you can't carry it out?
+@22.1
+The job seems unfinished. You say you can't carry it out?
+@22.2
+The job seems unfinished. You say you can't carry it out?
+@23
+...For a ninja, the mission comes first. And this from you, Lord {02}{02}f... Please don't let it happen again.
+@23.1
+...For a ninja, the mission comes first. And this from you, Lord {02}{02}f... Please don't let it happen again.
+@23.2
+...For a ninja, the mission comes first. Idleness like yours will be your ruin! Now go and apply yourself to training.
+@24
+Why, Lord {02}{02}f. I've heard the news. You left your post, they say...
+@24.1
+Why, Lord {02}{02}f. I've heard the news. You left your post, they say...
+@24.2
+I've heard the news. I never thought I'd meet you again as a ronin.
+@25
+Yes, my post didn't suit me.
+@25.1
+Yes, my post didn't suit me.
+@25.2
+Yes, my post didn't suit me...
+@26
+I won't ask more. Then from today, please work for this village again.
+@26.1
+I won't ask more. Then from today, please work for this village again.
+@26.2
+I won't ask more. Then from today, work for this village again.
+@27
+I heard from the others that you want to train here?
+@27.1
+I am the chief of {02}{0B}d. Have you come to train?
+@28
+That is so. I wish to hone the ninja arts.
+@29
+...Did you think I wouldn't know? You're from {02}{0D}d, aren't you?
+@29.1
+...I know a little about you. You're from {02}{0D}d, aren't you?
+@30
+So you knew.
+@31
+From now on, {02}{0D}d will hunt you as a rogue ninja. Are you prepared for that?
+@32
+...Hm, that spirit is good, but do you know the ninja code?
+@33
+I see. Then I've nothing more to say. Train to your heart's content.
+@34
+But whoever breaks the code will atone with death. Never forget that.
+@35
+I'll engrave your words on my heart. I'll begin training at once.
+@36
+Then I'll tell you. Once you're a ninja of {02}{0B}d, you'll work for {02}{0B}d.
+@37
+Members are taught this village's secret arts, but betrayal is never forgiven.
+@38
+Anyone who betrays this village is dealt with at once by our hands. Death to traitors... that is the ninja code.
+@39
+Running is useless. Whoever shames the name of {02}{0B}d is hunted as a rogue ninja until dead.
+@40
+...What about you? Are you prepared to accept the ninja code?
+@41
+I can't let one who won't accept the code into this village. Leave at once.
+@42
+I can't let one without resolve into this village. Leave at once.
+@43
+What business have you with our {02}{0B}d, Lord {02}{02}g?
+@44
+...You know of me?
+@44.1
+So you already know my name.
+@45
+Heh heh, there's nothing we don't know. But you are a merchant; you cannot join our village.
+@45.1
+Heh heh, there's nothing we don't know. But you are an officer; you cannot join our village.
+@45.2
+How could I not know a member of our own village?
+@45.3
+Heh heh, there's nothing we don't know. So, have you come to train?
+@46
+I do.
+@46.1
+I do.
+@46.2
+You honour me.
+@46.3
+That is so. I wish to hone the ninja arts.
+@47
+If it's only training, train all you like. I'll ask nothing about that.
+@47.1
+Request jobs from us as you need them. Investment is welcome too.
+@47.2
+When your missions need it, request jobs from us. Investment is welcome too.
+@47.3
+Good. Do the village's work and serve the village well. I expect much of you.
+@47.4
+Train and hone your abilities. And if you do the work, the village grows. I expect much of you.
+@48
+Understood.
+@49
+Yes.
+@50
+{02}{02}f, good of you to come.
+@50.1
+Lord {02}{02}e, welcome.
+@51
+Why, Lord {02}{02}f. Welcome home.
+@52
+Oh, if it isn't {02}{02}f. Working hard for {02}{02}{A1}?
+@52.1
+Oh, if it isn't {02}{02}f. Have you been well?
+@53
+So, what can I do for you?
+@53.1
+So, what can I do for you?
+@53.2
+So, what is it?
+@53.3
+So, what brings you to our {02}{0B}d?
+@54
+You say you have no business at all?
+@54.1
+You say you have no business at all?
+@54.2
+You say you have no business at all?
+@55
+Then leave at once. You are not one of {02}{0B}d, so we can't have you lingering. If you ever need a job done, come any time. Someone, see Lord {02}{02}e out.
+@56
+I'm very sorry. There's no work at the moment.
+@56.1
+I'm very sorry. There's no work at the moment.
+@56.2
+Sorry, there's no work right now.
+@57
+Then please choose a job.
+@57.1
+Then please choose a job.
+@57.2
+Then choose a job.
+@58
+%s, %s, is it? Is that all right?
+@58.1
+%s, %s, is it? Is that all right?
+@58.2
+%s, %s, is it? Is that all right?
+@59
+Then please form your unit at once and set out.
+@59.1
+Then please form your unit at once and set out.
+@59.2
+Good. Then form your unit at once and set out.
+@60
+Splendid, Lord {02}{02}f. The client is satisfied. Please accept your reward of %u kan.
+@60.1
+Splendid, Lord {02}{02}f. The client is satisfied. Please accept your reward of %u kan.
+@60.2
+Good work. The client is satisfied. Here is your reward of %u kan.
+@61
+Thank you for your trouble. Please rest.
+@61.1
+Thank you for your trouble. Please rest.
+@61.2
+Well done. Dismissed.
+@62
+Thank you for your trouble. Sadly, the client had hoped for more... Your reward is %u kan; please accept it.
+@62.1
+Thank you for your trouble. Sadly, the client had hoped for more... Your reward is %u kan; please accept it.
+@62.2
+Well done, but you didn't meet the client's hopes. Here is your reward of %u kan.
+@63
+That will be all for now.
+@63.1
+That will be all for now.
+@63.2
+Then, dismissed.
+@64
+As you know, the deadline is 60 days. Please set out at once.
+@64.1
+As you know, the deadline is 60 days. Please set out at once.
+@64.2
+Good. The deadline is 60 days. Set out at once.
+@65
+What would you have us do?
+@65.1
+What would you have us do?
+@65.2
+What do you wish to request?
+@66
+The fee for %s is %m. Forgive me, but it seems you don't have enough money.
+@66.1
+The fee for %s is %m. Forgive me, but it seems you don't have enough money.
+@66.2
+The fee for %s is %m, but... it seems you don't have enough money.
+@67
+The fee for %s is %m. Is that all right?
+@67.1
+The fee for %s is %m. Is that all right?
+@67.2
+The fee for %s is %m. All right?
+@68
+Then, the target of the %s? Who is the target?
+@68.1
+Then, the target of the %s? Who is the target?
+@68.2
+Then, the target of the %s? Who is it?
+@69
+You won't request %s, then?
+@69.1
+You won't request %s, then?
+@69.2
+You won't request %s?
+@70
+The target of the %s is {02}{02}g, correct?
+@70.1
+The target of the %s is {02}{02}g, correct?
+@70.2
+The target of the %s is {02}{02}g, correct?
+@71
+Then please tell me the target of the %s once more.
+@71.1
+Then please tell me the target of the %s once more.
+@71.2
+Not right? Then tell me the target of the %s once more.
+@72
+%s, you say? I take it {02}{0D}d is the target... I'm very sorry, but the {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports, so I cannot accept.
+@72.1
+%s, you say? I take it {02}{0D}d is the target... I'm very sorry, but the {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports, so I cannot accept.
+@72.2
+%s, eh? I take it {02}{0D}d is the target... Kind of you to ask, but the {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports, so I can't take the job.
+@73
+{02}{0D}d, is it... I'm very sorry, but I cannot accept that. The {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports...
+@73.1
+{02}{0D}d, is it... I'm very sorry, but I cannot accept that. The {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports...
+@73.2
+The {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports, so I can't take the job.
+@74
+{02}{03}g, is it... I'm very sorry, but I cannot accept that. {02}{03}g is of {02}{03}{A1}, which our {02}{0B}d supports...
+@74.1
+{02}{03}g, is it... I'm very sorry, but I cannot accept that. {02}{03}g is of {02}{03}{A1}, which our {02}{0B}d supports...
+@74.2
+{02}{03}g, eh... Kind of you to ask, but I can't take it. {02}{03}g is of {02}{03}{A1}, which our {02}{0B}d supports.
+@75
+%s, is it... I take it {02}{0D}d is the target. Is that all right?
+@75.1
+%s, is it... I take it {02}{0D}d is the target. Is that all right?
+@75.2
+%s, eh... I take it {02}{0D}d is the target. All right?
+@76
+Then, the target of the %s? Which castle is the target?
+@76.1
+Then, the target of the %s? Which castle is the target?
+@76.2
+Then, the target of the %s? Which castle is it?
+@77
+The defense of {02}{0D}d castle is already low. There's no need to lower it.
+@77.1
+The defense of {02}{0D}d castle is already low. There's no need to lower it.
+@77.2
+The defense of {02}{0D}d castle is already low. No need to lower it further.
+@78
+The target of the %s is {02}{0D}d, correct?
+@78.1
+The target of the %s is {02}{0D}d, correct?
+@78.2
+The target of the %s is {02}{0D}d, correct?
+@79
+Understood. We'll get to work at once.
+@79.1
+Understood. We'll get to work at once.
+@79.2
+Understood. We'll get to work at once.
+@80
+Then, I'm sorry, Lord {02}{02}f, but would you wait here for about 20 days?
+@80.1
+Then, I'm sorry, Lord {02}{02}f, but would you wait here for about 20 days?
+@80.2
+You'll wait here for 20 days. We can't risk the client betraying us. All right?
+@81
+...I see.
+@81.1
+...I see.
+@81.2
+...I see. A pity.
+@82
+...And {02}$d days later
+@83
+Sorry to keep you waiting. We found a person called {02}{03}g.
+@83.1
+Sorry to keep you waiting. We found a person called {02}{03}g.
+@83.2
+Sorry to keep you. We found a person called {02}{03}g.
+@84
+I'm very sorry. We found no one of note. I'll return the fee.
+@84.1
+I'm very sorry. We found no one of note. I'll return the fee.
+@84.2
+Sorry. We found no one of note. I'll return the fee.
+@85
+Sorry to keep you waiting. We obtained castle information on {02}{0D}d.
+@85.1
+Sorry to keep you waiting. We obtained castle information on {02}{0D}d.
+@85.2
+Sorry to keep you. We got castle information on {02}{0D}d.
+@86
+Sorry to keep you waiting. We lowered the %s of {02}{0D}d by %u.
+@86.1
+Sorry to keep you waiting. We lowered the %s of {02}{0D}d by %u.
+@86.2
+Sorry to keep you. We lowered the %s of {02}{0D}d by %u.
+@87
+Sorry to keep you waiting. We cut the resources of {02}{0D}d by about %u0％.
+@87.1
+Sorry to keep you waiting. We cut the resources of {02}{0D}d by about %u0％.
+@87.2
+Sorry to keep you. We cut the resources of {02}{0D}d by about %u0％.
+@88
+Sorry to keep you waiting. We finished off {02}{02}g.
+@88.1
+Sorry to keep you waiting. We finished off {02}{02}g.
+@88.2
+Sorry to keep you. We finished off {02}{02}g.
+@89
+Sorry to keep you waiting. We badly wounded {02}{02}g... but couldn't finish them off.
+@89.1
+Sorry to keep you waiting. We badly wounded {02}{02}g... but couldn't finish them off.
+@89.2
+Sorry to keep you. We badly wounded {02}{02}g... but couldn't finish them off.
+@90
+I'm very sorry. The attack on {02}{02}g failed.
+@90.1
+I'm very sorry. The attack on {02}{02}g failed.
+@90.2
+Sorry. The attack on {02}{02}g failed.
+@91
+If you have another request, call on us any time.
+@91.1
+If you have another request, call on us any time.
+@91.2
+Come again if you have a request.
+@92
+Thank you for the offer of investment, but this village already has enough money.
+@92.1
+Thank you for the offer of investment, but this village already has enough money.
+@92.2
+Thanks for the offer of investment, but this village already has enough money. There's no need.
+@93
+Thank you for the offer of investment, but you don't seem to have enough money.
+@93.1
+Thank you for the offer of investment, but you don't seem to have enough money.
+@93.2
+Thanks for the offer of investment, but you have no money, have you?
+@94
+Oh, Lord {02}{02}f, you'll invest in us yourself? I am grateful.
+@94.1
+Oh, Lord {02}{02}f, you'll invest in us yourself? I am grateful.
+@94.2
+Oho, you'll invest in our village? Much appreciated.
+@95
+And how much?
+@96
+You'll invest %u kan?
+@96.1
+You'll invest %u kan?
+@96.2
+You'll invest %u kan in our village?
+@97
+Oh, thank you very much. We'll put it to good use.
+@97.1
+Oh, thank you very much. We'll put it to good use.
+@97.2
+Ah, much appreciated. We'll put it to good use.
+@98
+From now on, we of {02}{0B}d will aid the {02}{06}e, Lord {02}{02}f's house.
+@98.1
+From now on, we of {02}{0B}d will aid the {02}{06}e, Lord {02}{02}f's house.
+@98.2
+You've done so much for us, we can hardly refuse to aid your {02}{06}e.
+@99
+Oh, that is most welcome.
+@99.1
+Oh, that is most welcome.
+@99.2
+Ah, then...
+@100
+I look forward to your even greater deeds.
+@100.1
+I look forward to your even greater deeds.
+@100.2
+Good. From now on, our {02}{0B}d will back your {02}{06}e.
+@101
+Hm, thank you.
+@101.1
+Hm, thank you.
+@101.2
+Much appreciated!
+@102
+If there is anything else, come any time.
+@102.1
+If there is anything else, come any time.
+@102.2
+Come again if you need anything.
+@103
+What did you say? You wish to leave the village?
+@103.1
+What did you say? You wish to leave the village?
+@103.2
+What? You want to leave this village?
+@104
+Selfish as it is, I have my reasons... I wish to leave this village.
+@104.1
+Selfish as it is, I have my reasons... I wish to leave this village.
+@104.2
+Yes. Selfish as it is, I have my reasons, and wish to leave this village.
+@105
+I can't believe this from you, Lord {02}{02}f. You know the code better than anyone. Such a thing cannot be allowed.
+@105.1
+I can't believe this from you, Lord {02}{02}f. You know the code better than anyone. Such a thing cannot be allowed.
+@105.2
+You are a ninja of this village. Did you think you'd be allowed to leave now?
+@106
+Of course I know.
+@106.1
+Of course I know.
+@106.2
+I never thought I'd be let off lightly.
+@107
+...It seems you are firmly resolved.
+@107.1
+...It seems you are firmly resolved.
+@107.2
+...Oho, I see. It seems you're resolved.
+@108
+I'll ask you once more, for the last time. You will not reconsider?
+@108.1
+I'll ask you once more, for the last time. You will not reconsider?
+@108.2
+I'll ask you once more, for the last time. You won't reconsider?
+@109
+Oh, you've reconsidered? That is good.
+@109.1
+Oh, you've reconsidered? That is good.
+@109.2
+I see, that is wise. This time I'll forgive it as a whim. Never get such ideas again.
+@110
+...I see. But I cannot simply let you go. Lord {02}{02}f, prepare yourself!
+@110.1
+...I see. But I cannot simply let you go. Lord {02}{02}f, prepare yourself!
+@110.2
+...Fool. Even if you beat me, don't think you'll live in peace!
+@111
+A-as expected... ...Why don't you finish me? From now on, Lord {02}{02}f, you are a rogue ninja.
+@111.1
+A-as expected... ...Why don't you finish me? From now on, Lord {02}{02}f, you are a rogue ninja.
+@111.2
+S-splendid... ...But why don't you finish me? From now on you are a rogue ninja.
+@112
+...I don't care for needless killing. Besides, killing you would change nothing.
+@112.1
+...I don't care for needless killing. Besides, killing you would change nothing.
+@112.2
+...I don't care for needless killing. Besides, killing the chief would change nothing.
+@113
+...You have accepted all of it, then.
+@113.1
+...You have accepted all of it, then.
+@113.2
+...You don't fear being hunted? But don't think everything will go the way you want...
+@114
+...There's nothing more to say. Farewell!
+@114.1
+...There's nothing more to say. Farewell!
+@114.2
+...No reason to stay longer. Farewell!
+@115
+...Lord {02}{02}f, I follow the ninja code. Prepare yourself! Hyaaah!!
+@115.1
+...Lord {02}{02}f, I follow the ninja code. Prepare yourself! Hyaaah!!
+@115.2
+I don't know what you were plotting, but you're ready, I take it. Die! Hyaaah!!
+@116
+Guoh...!
+@117
+Lord {02}{02}f, welcome to the drill ground. Even without you here, Lord {02}{02}f, we drill daily. Rest assured.
+@117.1
+Lord {02}{02}f, welcome to the drill ground. Even without you here, Lord {02}{02}f, we drill daily. Rest assured.
+@117.2
+This is the drill ground. Those who don't belong to this village must leave.
+@118
+Oh, if it isn't {02}{02}f. Working hard for {02}{02}{A1}? We too drill daily.
+@118.1
+Oh, if it isn't {02}{02}f. Have you been well? We too drill daily.
+@119
+Why, Lord {02}{02}f. Welcome to this humble place.
+@119.1
+Why, Lord {02}{02}f. Welcome to this humble place.
+@119.2
+Lord {02}{02}e. Welcome to the drill ground.
+@120
+Our efforts have paid off; the troops are fully trained. They can march any time.
+@120.1
+Our efforts have paid off; the troops are fully trained. They can march any time.
+@120.2
+Our efforts paid off; the troops are fully trained. They can march any time.
+@121
+When there is a battle, please do call on us.
+@121.1
+When there is a battle, please do call on us.
+@121.2
+Call on us any time there's a battle. Until then.
+@122
+Training troops costs 100 kan. Please bring the money.
+@122.1
+Training troops costs 100 kan. Please bring the money.
+@122.2
+Come to train troops? But training costs 100 kan. Bring the money.
+@123
+The thought alone is appreciated. Please come any time.
+@123.1
+The thought alone is appreciated. Please come any time.
+@123.2
+The thought is appreciated. Come any time.
+@124
+You've come to train troops? Training costs 100 kan and takes 20 days. Is that all right?
+@124.1
+You've come to train troops? Training costs 100 kan and takes 20 days. Is that all right?
+@124.2
+Come to train troops, then. Training costs 100 kan and takes 20 days. All right?
+@125
+I see. Please come any time.
+@125.1
+I see. Please come any time.
+@125.2
+I see... Come any time.
+@126
+Then I leave the training to you. I'm counting on you.
+@126.1
+Then I leave the training to you. I'm counting on you.
+@126.2
+Understood. Then I leave the training to you. I'm counting on you.
+@127
+Training rose by %u.
+@127.1
+Training rose by %u.
+@127.2
+Training rose by %u.
+@128
+Good of you to come. But I have nothing more to teach you. Now you need only put your skills to use.
+@129
+Good of you to come. You've already passed the test here. Train somewhere else.
+@130
+This place is only for those who would be ninja. You are a merchant; I cannot let you train here.
+@130.1
+This place is only for those who would be ninja. You are an officer; I cannot let you train here.
+@132
+Lord {02}{02}f, welcome to the training ground. Even without you here, Lord {02}{02}f, we train daily. Rest assured.
+@133
+This is where ninja ranks are granted. You are unskilled and not fit for the test. Train first.
+@133.1
+This is where ninja ranks are granted. You are unskilled and not fit for the test. Train first.
+@134
+This place is for becoming Jonin. You are still a Genin. Train somewhere else.
+@135
+Here we teach arts only to those who hold a ninja rank. Train at Training Ground 2 first.
+@136
+Welcome to the training ground.
+@137
+Have you forgotten that before training in Ninjutsu you must donate %m to the village? Go and get the money first.
+@138
+You can't train in that condition. Heal your body first.
+@139
+Training here takes %u days. You are an officer; you'll have councils. Better not.
+@140
+You mean to train here? Hm, with your skill I don't mind, but... do you know the ninja code?
+@141
+I see. Then I'll say no more.
+@142
+Then I'll teach you\nthe ninja code.\n\nPass the trial here and you\njoin {02}{0B}d as a Genin.\nHigher rank brings more jobs.\nJob rewards grow the village\nand add training grounds.\nBut once you are one of us,\nyou work for this village alone.\nNo dealings with other villages:\nthat is the ninja code.\nThe only way out is by force,\nso don't get strange ideas.\nWe always hunt down rogue ninja.\nKnowing this, are you ready\nto train here and become\na true ninja?
+@143
+One who can't accept the code could never endure the trial here. Be gone.
+@144
+Training here takes %u days, and a donation of %m. All right?
+@145
+Then it can't be helped. Don't neglect your training.
+@146
+You've mastered it. There's nothing more to teach you here.
+@146.1
+You've improved. But you haven't mastered Ninjutsu yet. Keep working at it.
+@146.2
+You've learned the basics of Ninjutsu. But the ninja's path is long. I expect much of your efforts.
+@147
+Not enough training. But even this result will teach you. Don't give up; work harder.
+@147.1
+Not impressive. But even this result will teach you. Don't give up; work harder.
+@147.2
+You show promise. Keep working at it.
+@147.3
+Hm, good. Keep up your efforts.
+@148
+Well done, you passed the trial. I grant you this.
+@149
+There's nothing more to teach you here. Train elsewhere and aim higher still.
+@150
+Not enough training. I can't grant you a new rank. Work harder.
+@150.1
+Not impressive. You're far from a new rank. Work harder.
+@150.2
+You show promise, but I can't grant you a new rank yet. Keep working at it.
+@150.3
+Hm, not bad. The day for a new rank is near. Keep up your efforts.

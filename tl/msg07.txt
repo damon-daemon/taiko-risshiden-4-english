@@ -1,0 +1,118 @@
+@0
+The master here, {02}{03}g, is out at the moment.\nForgive me, but I must ask you to leave.
+@1
+Oh, who might you be?
+@2
+Pleased to meet you.\nI am {02}{01}g.
+@3
+A ronin, are you?\nAnyway, I look forward to knowing you.
+@3.1
+Oho, so you're...\nI look forward to knowing you.
+@3.2
+Oh, you serve the {02}{06}e, do you?\nWell, well. I look forward to knowing you.
+@4
+Good of you to come to my dojo.
+@5
+Welcome to my dojo.
+@6
+What can I do for you?
+@7
+...You look quite worn out. In that state you cannot train properly. Get some proper rest.
+@8
+...Forgive me, but you look a little tired. Do you mean to train in that condition?
+@9
+You don't seem to have any unappraised arms.
+@10
+Appraisal costs %m, but you don't seem to have enough money.
+@11
+An appraisal? Certainly. Between friends like us, I'll appraise it free of charge.
+@12
+An appraisal? I charge %m per item. Is that all right?
+@13
+Which shall I appraise?
+@14
+Ohh... this is {02}{15}d! A superb piece. You've truly found something fine.
+@14.1
+Oh, this is {02}{15}d. Quite a fine piece. You've found something good.
+@14.2
+This is {02}{15}d.
+@15
+Oh, my lord! To come all this way... I am deeply honoured.
+@15.1
+Oh, Lord {02}{02}e! To come all this way... I am deeply honoured.
+@15.2
+Ah, Lord {02}{02}e.\nThank you for your trouble.
+@16
+What do you need?
+@17
+You wish to do %s? It will take about 20 days to see results. Is that all right?
+@18
+Training rose by {02}$d. Thank you for your trouble.
+@19
+{02}$d new soldiers have joined. Thank you for your trouble.
+@20
+About our military: I believe we are short of troops.
+@20.1
+About our military: I believe the troops lack training.
+@20.2
+About our military: I believe we are short of rice.
+@20.3
+About our military: I believe we are short of war funds.
+@20.4
+About our military: I believe we are short of guns.
+@20.5
+About our military: I believe we are short of horses.
+@20.6
+At present I see no particular problems with our military.
+@21
+(Now, to sneak in.)
+@22
+Hm? I thought I heard something...\nMust be my imagination...
+@23
+(Good, I got in.)
+@24
+Who's there! An intruder?!\nEveryone, seize the intruder!
+@25
+(Damn, I've been spotted.\nTime to withdraw.)
+@26
+(What shall I investigate?)
+@27
+(Then I'll look for %s information.)
+@28
+(Hmm, so this is how things stand with the land in {02}{0B}d.)
+@29
+(Hmm, so this is how things stand with the forces of {02}{0B}d.)
+@30
+(Hmm, so this is how things stand with the supplies of {02}{0B}d.)
+@31
+(...Hmm,\nI can't find anything useful.)
+@32
+(Good, now I have all the information on this castle. No point lingering; time to leave.)
+@33
+Who's there! An intruder?!
+@34
+(Damn, I've been spotted.\nI'll run for now.)
+@35
+I'm grateful for the thought,\nbut sadly this castle has\nnot a single soldier right now.
+@36
+I'm grateful for the thought,\nbut forgive me, the money you have\nwould have no effect.
+@37
+Oh, you will give alms to the soldiers? They will be delighted. How much, then?
+@38
+Oh, thank you.\nI'll hand it out to everyone at once.
+@40
+I shall be your opponent!
+@40.1
+Think you can beat me?\nPrepare yourself!
+@40.2
+{02}{01}g, here I come!
+@41
+{02}{01}g, have at you!
+@41.1
+Let your guard down and you'll regret it!\nCome!
+@41.2
+I shall be your opponent!
+@42
+Curses... Shall we go again?
+@43
+I am the greatest in the land!

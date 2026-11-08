@@ -1,0 +1,90 @@
+@0
+Then I shall teach you how to fight one-on-one.\n\n\nThe bout is decided by the stamina shown at the top. Whoever runs out of stamina loses.\n\nWhen a fight begins, cards are dealt according to each fighter's "Swordsmanship" skill.\n\nAs this is practice, I shall deal the maximum of seven cards.\n
+@1
+First, let me explain attacking. Each of you chooses up to three cards and plays them.
+@2
+Each card has a number in its top left. Whoever plays the higher total gets to attack. If the totals are equal, neither can attack.
+@3
+The difference between the totals only decides who gets to attack; it has no effect on the damage.\nIn other words, whether the difference is 1 or 20, the damage dealt depends on Valor.\nThat is the basis of attacking!\nOnce an attack is over, the cards you used are replaced.
+@4
+Next, let me explain these "special cards."\n\n\nThere are many special cards, but this time I shall explain the main ones.\n\nFirst, unlike attack cards, special cards have no number.\n\nNor can you play several at once. You play that one card alone.
+@5
+If you play a special card while the enemy plays attack cards, you are attacked without fail.
+@6
+Some special cards, like this "Assault," can attack. These generally have a red backing.
+@7
+But an attack by a special card beats ordinary attack cards.\n\nSo if you play "Assault" and the enemy plays ordinary attack cards, you get to attack whatever the numbers.
+@8
+Besides "Assault," there are several other special cards that attack.\n\nSince special cards have no numbers, which beats which is fixed for each.\n\nYou will learn such things in time, in real fights.
+@9
+Some cards behave a little differently.\n\nThis "Great Strength" is one of them: a lasting card.
+@10
+Lasting cards are not attack cards. If the enemy plays attack cards, you are attacked without fail.\nWhen your stamina is low, you had better not play lasting cards.
+@11
+At this point, the lasting card has finally been played.\n\nYou can keep one lasting card at the top right.
+@12
+And unless it is somehow removed, or you play a different lasting card...\nit keeps working!\nIn the case of this "Great Strength," it keeps adding +5 to your attack damage.\nBy the way, when you play cards, point the cursor at a card and its effect is explained at the bottom of the screen.
+@13
+The last kind of special card is the automatic card. Let me explain this "Counter."\n\nAutomatic cards cannot be played.\n\n\nInstead, as long as you hold one, its effect works by itself.\n\nHaving explained this much, it is quicker to see it. Just watch a moment.\n
+@14
+So, this "Counter" card is an automatic card...\n\nWhen you are attacked, it is used by itself and you strike back at the enemy.
+@15
+Next, let me explain defending.\n\n\nTo defend, choose the "Attack/Defend button" on the right.
+@16
+That puts you in defence mode. To go back to attack mode, just choose the same button again.\nBy the way, the R2 button also switches between attack and defence; handy to remember.\n\nWhen defending, you must still play cards.\n\nYou play up to three, but rather than "playing" them, it is closer to "discarding" them.\nIn other words, the cards you choose here have no effect.
+@17
+In return, you can discard up to three cards, attack and special cards mixed. Of course, you can choose automatic cards too.\n\nDiscarding as many cards as you can to refresh your hand is the basis of defending.
+@18
+Defending reduces the enemy's attack by some amount.\n\nWhen you still have some stamina left but your hand is poor, it is good to defend.
+@19
+Lastly, let me explain combos.\n\n\nWhen you play three attack cards and the numbers form a certain combination, a combo is triggered.\nA combo beats ordinary attack cards, but loses to attacking special cards.\nThere are several combos, and which beats which is fixed for each.
+@20
+Once in a one-on-one fight, check "Combos" under the Info command. The Info command is opened with the triangle button.\nThe combo I shall show you now is "Namu-san": a 7, a 6 and a 3.
+@21
+Combos are generally stronger than ordinary attacks.\n\nIf you have no special cards and only attack cards in hand...\n\nhow you play your combos will be the key to winning.
+@22
+That covers the basics of fighting one-on-one... but "running away" is also a way of fighting, one could say.\n\nHowever, sometimes you can flee and sometimes you cannot.\n\nIf "Flee" on the right can be chosen, you can get away.
+@23
+If you feel "I can't win this," it is fine to make a clean break and run.\n\nBut "Flee" can only be used once per fight.\n\nAnd "Flee" does not always succeed. Use it with care.\nThe special cards used this time were ones I put in at random.
+@24
+In a real fight, you are only dealt the special cards you own. At first you have few cards, so if you mean to fight often, collect all kinds of special cards.\nAfter you get certain special cards, some cards will no longer be dealt to you...\nThat is because you have obtained a higher card. No need to worry about it.\n
+@25
+Collecting any special card you lack will make you stronger. Collect them without worrying about the kind.\nThe ways to obtain special cards vary, so I won't go into them here; you will learn in time.\nBut no matter how many special cards one holds, some people are just not cut out for fighting.\n
+@26
+In a fight, the "Valor" you were born with counts for a lot.\n\nLastly, as this was practice, I restored your stamina each turn as a special favour...\n\nBut this is the age of warring states. You never know when a real fight will come. Always look after your stamina.\nWith that, the lesson is over. Keep up your training.
+@27
+I shall take my leave.
+@28
+...No chance to run.
+@29
+Now, the quarter-finals shall begin!
+@30
+West: the ronin {02}{02}g!
+@30.1
+West: {02}{02}{A1}, {02}{02}g!
+@31
+Yes, sir!
+@32
+East: the ronin Nakayama Itto
+@32.1
+East: the ronin {02}{02}g!
+@32.2
+East: {02}{02}{A1}, {02}{02}g!
+@33
+Yes, sir!
+@34
+Both of you, give it your all!\nBegin!!
+@35
+Yeaaah!
+@36
+Ngh... I-I yield...
+@37
+Ngh... I-I yield...
+@38
+Now, the semi-finals shall begin!
+@39
+Now, the final shall begin!
+@40
+Oho... most entertaining.
+@41
+Not bad... a fine move.

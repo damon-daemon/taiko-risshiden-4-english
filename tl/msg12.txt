@@ -1,0 +1,200 @@
+@0
+{01}C*{00}, I'm sorry, but I have business to attend to. Would you leave for today?
+@1
+...Hm! {01}C*{00}...
+@2
+{01}C*{00}, forgive the sudden visit. This time I've come to you...
+@3
+I can guess why. You want me to forget the past, is that it?
+@4
+Just as you surmise... What do you say?
+@5
+Now I serve you. From now on I'll work as hard as I can for you.
+@5.1
+Now you're my subordinate. From now on, work as hard as you can for me.
+@5.2
+Now we both serve {02}{01}{A1}. Let's forget the past and join forces for {02}{01}{A1}.
+@6
+Oh! I'm grateful!
+@7
+The medicine I took is making me drowsy... Forgive me, but would you let me rest for today?
+@8
+*Cough, cough*... Forgive me, but I'm feeling unwell. Please go home for today.
+@9
+(...It can't be helped.\nI'll go home for today.)
+@10
+(They look quite ill.\n...I know, shall I give them some medicine?)
+@11
+(Which medicine shall I give?)
+@12
+(Shall I not give any medicine?)
+@13
+(Shall I give {02}{15}d?)
+@14
+Oh, this is most welcome. I'm grateful.
+@15
+Then I'll take my leave.
+@16
+Hm? And who might you be?
+@16.1
+Oh? And who might you be?
+@17
+I see, this is the first time we've met. I am {02}{01}g.
+@17.1
+Pleased to meet you.\nI am {02}{01}g.
+@17.2
+Pleased to meet you.\nI am {02}{01}g.
+@18
+Oho... a ronin, is it? A pleasure.
+@18.1
+Oh? {01}C*{00}... of the {02}{06}e, are you? A pleasure.
+@18.2
+{01}C*{00}... of the {02}{06}e, I see. A pleasure.
+@18.3
+Oh, so it's {01}C*{00}. A pleasure to meet you.
+@18.4
+Ah, so it's {01}C*{00}. Pleased to meet you.
+@19
+Oh, forgive my rudeness! {01}C*{00}, pleased to meet you. I am {02}{01}g.
+@19.1
+Oho, so it's {01}C*{00}.\nI look forward to knowing you.
+@20
+What!\n{01}C*{00} in person?\nWhat a surprise.
+@20.1
+What! One of the {02}{06}e? To walk alone into enemy land... you have admirable nerve.
+@21
+Oh, it's {01}C*{00}.
+@21.1
+{01}C*{00},\nwelcome.
+@21.2
+Oh, {01}C*{00}. Welcome.
+@21.3
+Oh! It's {01}C*{00}.\nYou're most welcome here.
+@22
+
+@22.1
+
+@22.2
+
+@22.3
+
+@22.4
+
+@22.5
+
+@22.6
+
+@22.7
+
+@22.8
+
+@24
+*Cough, cough*... What do you want! Seeing your face has made me feel worse! Now... *cough*... be gone!
+@24.1
+What do you want!\nI don't want to see you.\nBe gone at once!
+@25
+What do you want?\nI'm afraid I'm unwell... *cough, cough*\nI'd like you to leave.
+@25.1
+What do you want?\nI have nothing to say to you.\nI'd like you to leave.
+@26
+{01}C,{00} is busy\nand can't see you now.\nPlease take your leave.
+@26.1
+{01}C,{00} is busy\nand can't see you.\nPlease take your leave.
+@27
+...I see, a pity.\nThen I'll take my leave.
+@28
+What can I do for you?
+@28.1
+What on earth do you want?
+@28.2
+...What do you want?
+@28.3
+What is it?
+@28.4
+What business brings you?
+@29
+
+@29.1
+
+@29.2
+
+@29.3
+
+@29.4
+
+@31
+Some pointers, is it...? Very well. Then I shall teach you all that I know.
+@31.1
+Pointers, eh...? Very well. Then I'll teach you all I know.
+@32
+If you want to rise in rank, first carry out missions\nand earn merit. Rise higher, and you'll be given\nmore important missions. The more important the\nmission, the greater the merit. So nothing beats\npromotion, you see.
+@32.1
+To become a castle lord, you must take many castles.\n\nTake enough castles, and someone will be\nappointed lord of one of them.
+@32.2
+As a rear vassal, 20％ of the merit you earn\ngoes to your master. That makes rising in rank\nharder, but it lets you help your superior rise.
+@33
+Now that you are a castle lord or higher, you must\ngive everyone missions and build up the castle's\nstrength. Expanding your domain is your task\nfrom now on.
+@33.1
+To expand your domain, you need war. War needs\nsoldiers, so watch your troop numbers and\ntraining. Building strength also takes war funds,\nso you must think about domestic affairs too.
+@33.2
+Besides war, there is another way to bring down\nan enemy: diplomacy. Win them over without a\nfight. An alliance is good, and so is making them\nyour vassal. And you can conduct diplomacy\nyourself, my lord.
+@34
+Rumours, you say... but there is no one in this castle but me...
+@35
+Whose rumours\ndo you want to hear?
+@37
+{01}C+{00}, is it...\nVery short-tempered, that one.
+@37.1
+{01}C+{00}, is it...\nVery easygoing, that one.
+@37.2
+{01}C+{00}, is it...\nLet me see, neither particularly\nshort-tempered nor easygoing.
+@38
+{01}C+{00}, is it...\nFond of arms, I'd say,\nlike swords and armour.
+@38.1
+{01}C+{00}, is it...\nFond of art, I'd say,\nlike tea ware and screens.
+@38.2
+{01}C+{00}, is it...\nFond of books, I'd say,\nlike war tales and military texts.
+@38.3
+{01}C+{00}, is it...\nFond of goods from\nthe Nanban lands, I'd say.
+@39
+{01}C+{00}, is it...\nCan't hold their drink at all.
+@39.1
+{01}C+{00}, is it...\nJust loves sake, that one.
+@39.2
+{01}C+{00}, is it...\nLet me see, drinks\nin moderation.
+@40
+{01}C+{00}, is it...\nLoves rare things, that one.
+@40.1
+{01}C+{00}, is it...\nShows hardly any interest\nin possessions.
+@40.2
+{01}C+{00}, is it...\nLet me see, about as\nacquisitive as anyone.
+@41
+{01}C+{00}, is it...\nTends to value\nthe practical.
+@41.1
+{01}C+{00}, is it...\nTends to value ideals\nover the practical.
+@41.2
+{01}C+{00}, is it...\nLet me see, holds\nno particular principles.
+@42
+{01}C*{00}, today I have something particular to discuss.
+@43
+Yes, what is it?
+@44
+I'll come straight to the point. {01}C*{00}, what do you say... would you serve me directly?
+@45
+What!\nYou want me to serve you\ninstead of {01}C"{00}?
+@46
+Indeed. I ask because I see promise in you. I will see that {01}C"{00} is not wronged by it.
+@47
+.........
+@48
+It's not a bad offer. What do you say?
+@49
+...It is an honour beyond my station. {01}C*{00}, I gladly accept.
+@50
+Oh! I'm grateful!\nNothing could please me more!
+@51
+Then I'll go and have a word with {01}C+{00}. If you'll excuse me.
+@52
+It is an honour beyond my station, but... I must pretend I never heard it. Please leave for today.
+@53
+I see... no, forgive me. Forget what happened today. I'll take my leave.

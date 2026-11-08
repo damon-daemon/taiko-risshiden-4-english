@@ -1,0 +1,292 @@
+@0
+Officer Diagnosis\nWe'll tell you the hero who suits you best!
+@1
+War should be avoided whenever possible
+@2
+In the end, the clever ones win
+@3
+When all is said and done, lineage matters
+@4
+I only buy brand-name appliances
+@5
+I'm good about greeting people properly
+@6
+Loud, colourful clothes suit me
+@7
+I plan to live a steady, honest life
+@8
+I can't relax without tea after a meal
+@9
+Things were better in the old days
+@10
+I can write "yusoku kojitsu" in kanji
+@11
+Some day I want to do something big
+@12
+I can wear two hats at once
+@13
+Not to boast, but I'm good at studying
+@14
+Funerals matter more than weddings
+@15
+Sometimes you have to give up
+@16
+I want to earn lots of qualifications
+@17
+I'm confident in my stamina
+@18
+I can see where my life is heading
+@19
+I hand lost property in to the police
+@20
+In the end, I rely on myself
+@21
+I check the doors are locked before going out
+@22
+I max out domestic stats first thing
+@23
+I can't forgive people who break the rules
+@24
+I find meaning even in small jobs
+@25
+"A lie can be a means to an end" is well said
+@26
+Life is a piece of cake
+@27
+If anything, I'm bad at sitting still
+@28
+When I'm in trouble, everyone helps me
+@29
+I'm a practised fake smiler
+@30
+I cram for tests the night before
+@31
+When you get down to it, money is everything
+@32
+Better to go along with the powerful
+@33
+I think I can take a beating
+@34
+I feel guilty when I treat myself
+@35
+If only there were two of me
+@36
+The harder the game, the more fired up I get
+@37
+I have no attachment to the world
+@38
+I know what my parents do for a living
+@39
+I want to do right by my parents
+@40
+My reputation in the neighbourhood isn't bad
+@41
+I could never surpass my father
+@42
+I'd rather drink with my father than my mother
+@43
+I wish life had a reset button
+@44
+I'm quick to pick up on trends
+@45
+I can't help believing in fortune-telling
+@46
+I've hesitated over a choice in this quiz
+@47
+I don't mind going unshaven
+@48
+I answer New Year's cards whenever I can
+@49
+I have a wide circle of friends
+@50
+I treat my superiors with due respect
+@51
+I'm more patient than most
+@52
+Friends somehow gather around me
+@53
+I say what I think, clearly
+@54
+I think I'm pretty good at flattery
+@55
+I'd pick a friend over my boss
+@56
+I never forget a kindness
+@57
+You shouldn't be a picky eater
+@58
+I have photos and letters I can't throw away
+@59
+I always get assigned work done
+@60
+People say I'm old for my age
+@61
+Older people like me more than my peers do
+@62
+I look in the mirror five times a day or more
+@63
+My looks have worked in my favour
+@64
+I strike down whatever enemy is in front of me
+@65
+I can't let bad people get away with it
+@66
+My motto is "plain and sturdy"
+@67
+The world is a contest of stamina
+@68
+I feel safe holding something in my hand
+@69
+If anything, I'm the quiet type
+@70
+People think I'm easy to overlook
+@71
+I want to be a lone wolf
+@72
+Give me a stick and I want to swing it
+@73
+Once I decide, I go all the way
+@74
+I loved hide-and-seek
+@75
+Team rules should be kept
+@76
+I'm good at getting people moving
+@77
+I'm quick with numbers
+@78
+Everyone around me is clumsy
+@79
+Now and then I long to see the sea
+@80
+The nail that sticks out gets hammered down
+@81
+I'll be the one who laughs last
+@82
+No one dares to defy me
+@83
+The more enemies, the more fired up I get
+@84
+When in doubt, I go straight ahead
+@85
+Both my parents are drinkers
+@86
+At Setsubun, I play the demon
+@87
+Those who believe shall be saved
+@88
+Somehow I never get a good boss
+@89
+Deep down, I'm timid
+@90
+Planning is more fun than doing
+@91
+I never neglect behind-the-scenes groundwork
+@92
+There's someone I simply must defeat
+@93
+I'm good at backroom deals
+@94
+Even my patience has its limits
+@95
+I have somewhere to go, eventually
+@96
+Changing jobs can be needed to move up
+@97
+Other people's things look better
+@98
+I change the channel when the ads come on
+@99
+Sometimes I get carried away
+@100
+There are times when you must take a gamble
+@101
+No use dwelling on what happens if I fail
+@102
+My reflexes aren't bad
+@103
+When I gamble, I study the odds thoroughly
+@104
+I don't mind jigsaw puzzles
+@105
+If anything, I'm the leader type
+@106
+"If you try, you can; if not, you can't"
+@107
+My only goal is unifying the realm
+@108
+I've got this far on a winning streak
+@109
+Being liked by teachers and bosses is a talent too
+@110
+I admire artists
+@111
+My school grades are good
+@112
+I want to stand out more
+@113
+Softness overcomes hardness
+@114
+Tea Master Type\n~ Culture matters in politics too ~\nYou are... Sen Soeki!\nA tea man made tea master of the Oda by Nobunaga. After Honnoji he became Hideyoshi's chief tea master and was granted the name "Rikyu Koji" by the Emperor. He perfected tea and advised Hideyoshi on politics, so powerful that people said "private matters go through Soeki."\nOther hero candidates...\nKanamori Nagachika, Oda Nagamasu, Gamo Ujisato
+@115
+Fallen Noble Type\n~ Don't lose to the upstarts ~\nYou are... Ashikaga Yoshiteru!\nThe 13th Muromachi Shogun. He learned swordsmanship from Kamiizumi Nobutsuna and was famous as the "Swordsman Shogun." He clashed with the Miyoshi, who controlled the shogunate, and was killed fighting bravely when Miyoshi Nagayoshi's retainer Matsunaga Hisahide and others stormed his palace.\nOther hero candidates...\nAmago Yoshihisa, Ichijo Kanesada, Isshiki Yoshisada, Yamana Suketoyo
+@116
+Courtly Taste Type\n~ Bring back the elegant Heian age ~\nYou are... Asakura Yoshikage!\nHero of Hokuriku, 5th Asakura head. He fought the Ikko uprisings, but his noble pride made him soft. He could have hosted Ashikaga Yoshiaki at Ichijodani yet never stirred, and later refused Yoshiaki's order, backed by Nobunaga, to come to Kyoto. He opposed Nobunaga and was crushed.\nOther hero candidates...\nImagawa Yoshimoto
+@117
+Monk Type\n~ Pacify the age under the Buddha's protection ~\nYou are... Ankokuji Ekei!\nA Rinzai monk who handled diplomacy for the Mori. He is known for predicting the Honnoji Incident and Hideyoshi's rise that followed. He played a part in the standoff at Bitchu-Takamatsu Castle, and later also received a stipend from Hideyoshi.\nOther hero candidates...\nHongan-ji Kennyo, Maeda Gen'i
+@118
+Ordinary General Type\n~ Aim for the realm quietly, without fuss ~\nYou are... Hayashi Hidesada!\nOda chief retainer since the days of Nobunaga's father Nobuhide. After Nobuhide's death he plotted to make Nobunaga's brother Nobuyuki head, failed, and was pardoned. He served faithfully ever after, yet was suddenly banished for doing nothing remarkable.\nOther hero candidates...\nAsahina Yasutomo, Ikeda Tsuneoki, Horio Yoshiharu, Ikoma Chikamasa
+@119
+Able Official Type\n~ The battlefield isn't the only stage ~\nYou are... Natsuka Masaie!\nOnce a retainer of Niwa Nagahide. Hideyoshi saw his talent as an official and promoted him to run the finances of the Toyotomi government. Granted 120,000 koku at Minakuchi in Omi, he later served as one of the Toyotomi Five Magistrates.\nOther hero candidates...\nOkubo Nagayasu, Murai Sadakatsu
+@120
+Schemer Type\n~ A head is for more than charging head-on ~\nYou are... Matsunaga Hisahide!\nThe archetypal Sengoku villain. He seized power from his master Miyoshi Nagayoshi, killed the Shogun Ashikaga Yoshiteru, and burned Todaiji's Great Buddha Hall fighting Tsutsui Junkei. He later rebelled against Nobunaga, lost, and blew himself up at Shigisan Castle with his Hiragumo kettle.\nOther hero candidates...\nUkita Naoie, Miyoshi Nagayoshi
+@121
+Social Climber Type\n~ Get through life by luck and wits ~\nYou are... Todo Takatora!\nStarting with the Azai, he changed masters seven times before becoming the foremost outside lord of the Tokugawa, surviving the whole Sengoku age. Always cosying up to the powerful with first-rate worldly wisdom, he came through it all to rule 220,000 koku at Tsu in Ise.\nOther hero candidates...\nHosokawa Fujitaka
+@122
+Lucky Survivor Type\n~ With luck on your side, there's nothing to fear ~\nYou are... Asano Nagamasa!\nAn Oda, then Toyotomi retainer. As brother-in-law of Hideyoshi's wife Nene, he was raised up by Hideyoshi, who had few kin, and became chief of the Five Magistrates. Trusted by Hideyoshi but also friendly with Ieyasu, he joined the Eastern Army at Sekigahara.\nOther hero candidates...\nTanaka Yoshimasa, Yamauchi Kazutoyo
+@123
+Small but Surviving Type\n~ Endure, and flowers may bloom... maybe... ~\nYou are... Tsugaru Tamenobu!\nRose from a local clan of Mutsu to become an independent daimyo. First under the Nanbu, he rebelled during their civil strife. He then quickly won over the rising Hideyoshi and had his lands confirmed, always playing his cards cleverly.\nOther hero candidates...\nSagara Yoshihi, Matsumae Yoshihiro, Osaki Yoshitaka
+@124
+Unworthy Son Type\n~ Don't disgrace your father's name ~\nYou are... Imagawa Ujizane!\nHe took over the house after his father Yoshimoto was killed, but was so incompetent that his retainers abandoned him and he lost his lands to Ieyasu and Shingen. After wandering about, he ended up in the care of Oda Nobunaga, his father's enemy, and showed off his kemari football skills before him.\nOther hero candidates...\nTakeda Katsuyori, Hojo Ujimasa, Saito Tatsuoki
+@125
+Father-Hater Type\n~ I'll surpass my father, you'll see ~\nYou are... Mogami Yoshiaki!\n11th head of the Mogami of Oshu and lord of Yamagata Castle. He was the heir, but his father doted on his younger brother and meant to make him heir, so he forced the brother to kill himself and drove his father into retirement. As head he expanded his power and came to rule 570,000 koku in Dewa.\nOther hero candidates...\nTakeda Yoshinobu, Hashiba Hidetsugu
+@126
+Indecisive Type\n~ Fence-sitting is a tactic too ~\nYou are... Kobayakawa Hideaki!\nNene's nephew and Hideyoshi's adopted son, sent off to the Kobayakawa when Hideyori was born. At Sekigahara he joined the West while secretly siding with the East, then dithered on the field until an exasperated Ieyasu fired on him and he finally turned.\nOther hero candidates...\nTsutsui Junkei, Satake Yoshinobu
+@127
+Virtuous Type\n~ With virtue, anything is possible ~\nYou are... Toyotomi Hidenaga!\nHideyoshi's younger brother and the greatest supporter of his rise from behind the scenes. He shone in the conquest of Tajima and the campaigns in Shikoku and Kyushu. Honest and gentle, he was loved by all and became a pillar of the Toyotomi government.\nOther hero candidates...\nTakeda Nobushige
+@128
+Loyal Heart Type\n~ In an age of betrayal, live by loyalty ~\nYou are... Maeda Toshiie!\nOne of the Five Regents and founder of the million-koku Maeda of Kaga. An Oda retainer called "Spear Matasa" for his skill. At Shizugatake, though under Shibata Katsuie, he stayed neutral out of friendship for Hideyoshi, which cost Katsuie the battle.\nOther hero candidates...\nAzai Nagamasa, Otani Yoshitsugu, Ukita Hideie
+@129
+Devoted Retainer Type\n~ Live only for what you believe in ~\nYou are... Yamanaka Shikanosuke!\nAn Amago retainer who gave his life to restoring his house. As a boy he prayed to the moon: "Grant me seven hardships and eight sufferings." Besieged at Kozuki Castle with his lord Katsuhisa, he lost to the Mori; Katsuhisa killed himself and Shikanosuke was slain on the way to Aki.\nOther hero candidates...\nShimizu Muneharu, Torii Mototada
+@130
+Beauty Survivor Type\n~ Use your looks to take on the realm's warriors ~\nYou are... Mori Ranmaru!\nNobunaga's favourite. He served Oda Nobunaga as a page and was trusted as his messenger. At the Honnoji Incident he fought on at Nobunaga's side to the very end, and fell at the young age of 18.\nOther hero candidates...\nKimura Shigenari
+@131
+Defy Misfortune Type\n~ Face your fate and overcome it ~\nYou are... Chosokabe Motochika!\nA great lord of Tosa, gifted in war and government. Leading his "ichiryo gusoku" farmer-soldiers, he became master of all Shikoku in just ten years, but had to surrender to Hideyoshi's invasion and became one of his daimyo.\nOther hero candidates...\nDate Masamune, Kawajiri Hidetaka
+@132
+Swordsman Type\n~ Master the sword and win the title of Sword Saint ~\nYou are... Miyamoto Musashi!\nFounder of Niten Ichi-ryu. A master of two swords said never to have lost a duel, he travelled the provinces perfecting his art, and in later years was a guest of the Hosokawa. Besides his "Book of Five Rings" he left much calligraphy and many paintings.\nOther hero candidates...\nYagyu Munenori, Sasaki Kojiro
+@133
+Ninja Type\n~ Endure hard training and live as a ninja ~\nYou are... Hattori Hanzo!\nReal name Masanari, Governor of Iwami. A Jonin of Iga. After his clan helped Ieyasu escape across Iga at the time of the Honnoji Incident, he became Ieyasu's ninja chief. One of the Sixteen Generals of Tokugawa.\nOther hero candidates...\nMomochi Sandayu, Fuma Kotaro
+@134
+Pirate Type\n~ Set sail on the raging sea ~\nYou are... Kuki Yoshitaka!\nNobunaga's navy commander, said to be a Kumano pirate, famed for crushing the Mori navy with ironclads at the 2nd Battle of Kizugawa. Having sided with the West at Sekigahara, he withdrew; his son Moritaka of the East won his pardon, but he killed himself just before word came.\nOther hero candidates...\nMurakami Takeyoshi, Kono Michinao
+@135
+Gun Master Type\n~ Show the world the power of the gun ~\nYou are... Saika Magoichi!\nLeader of the Saika gun corps and son of Suzuki Sadayu, chief of the Saika band of gunners in Kishu. He fought far and wide for the Hongan-ji in the Ishiyama War, but surrendered when Nobunaga attacked Kishu in 1577.\nOther hero candidates...\nInatomi Sukenao, Suzuki Sadayu
+@136
+Demon Type\n~ Show strength worthy of the name "demon" ~\nYou are... Shimazu Yoshihiro!\n17th head of the Shimazu, called "Demon Shimazu." In the Korean campaign he beat a Ming army of 200,000 with 8,000 men, and at Sekigahara he broke through the enemy to escape the field. Not only a warrior, he was a first-rate diplomat too, avoiding a cut in his lands after Sekigahara.\nOther hero candidates...\nSatake Yoshishige, Sakuma Morimasa, Sogo Kazumasa, Mori Nagayoshi
+@137
+Fierce Warrior Type\n~ Battle is the only life for me ~\nYou are... Shibata Katsuie!\nThe Oda's fierce chief retainer, "Jar-Smashing Shibata." He once rebelled for Nobunaga's brother Nobuyuki and failed, but once pardoned became Nobunaga's loyal vassal, always leading the vanguard and taking the rear guard in hard retreats.\nOther hero candidates...\nKato Kiyomasa, Fukushima Masanori, Kikkawa Motoharu, Nabeshima Naoshige, Honda Tadakatsu
+@138
+Plotter Type\n~ Scheme your way to overturning the realm ~\nYou are... Ashikaga Yoshiaki!\nThe 15th Muromachi Shogun. A monk, he returned to lay life with help from Hosokawa Fujitaka and became Shogun backed by Nobunaga. A born schemer, he fell out with Nobunaga, was driven out and turned to the Mori. He ended his days as a companion to Hideyoshi.\nOther hero candidates...\nKuroda Nagamasa
+@139
+Life of Betrayal Type\n~ Blame the betrayed, and move on ~\nYou are... Katagiri Katsumoto!\nOne of the Seven Spears of Shizugatake. After Sekigahara he guarded Hideyori and negotiated with the Tokugawa for the Toyotomi. Just before the Osaka campaigns, Lady Yodo and Ono Harunaga falsely accused him of treason; he left Osaka Castle and attacked it for Ieyasu.\nOther hero candidates...\nIshikawa Kazumasa
+@140
+Restless Type\n~ Charge about the melee as the mood takes you ~\nYou are... Kani Saizo!\nStarting with Saito Tatsuoki, he changed masters six times, ending as a retainer of Fukushima Masanori. A master of the Hozoin spear, at Sekigahara he put bamboo leaves in the mouths of the heads he took and was called "Bamboo-Leaf Saizo."\nOther hero candidates...\nWatanabe Kanbei, Mishuku Kanbei, Maeda Keiji
+@141
+Rebel Type\n~ Trust only yourself and set the world right ~\nYou are... Akechi Mitsuhide!\nA retainer of Oda Nobunaga who rebelled and struck him down at Honnoji. He was then crushed at Yamazaki by Hashiba Hideyoshi, who had rushed back from the Chugoku. Fleeing back to his castle of Sakamoto in Omi, he was speared by peasants at Ogurusu and died.\nOther hero candidates...\nNone
+@142
+All-or-Nothing Type\n~ Seize your chance and charge down the road to conquest ~\nYou are... Oda Nobunaga!\nAt Okehazama he routed Imagawa Yoshimoto's army of 40,000 with only 2,000 men and burst onto the Sengoku stage. Backing Ashikaga Yoshiaki, he marched into Kyoto and drove on toward unifying the realm.\nOther hero candidates...\nMori Motonari, Hojo Ujiyasu
+@143
+Rising Star Type\n~ Rise on your merits and show your rivals ~\nYou are... Ishida Mitsunari!\nA page of Toyotomi Hideyoshi whose quick wits were noticed, and who rose to prominence as an official. At Sekigahara he was the true leader of the Western Army.\nOther hero candidates...\nToyotomi Hideyoshi
+@144
+Strategist Type\n~ Serve as strategist and help your lord to conquest ~\nYou are... Takenaka Hanbei!\nA brilliant strategist nicknamed "a second Zhuge Liang." Once a retainer of Saito Tatsuoki, he caught Hideyoshi's eye and was persuaded to serve him. As strategist he supported Hideyoshi's rise.\nOther hero candidates...\nKuroda Kanbei, Naoe Kanetsugu, Yamamoto Kansuke, Honda Masanobu
+@145
+Wise Man Type\n~ Help your daimyo unify the realm with wisdom ~\nYou are... Kobayakawa Takakage!\nThird son of Mori Motonari. With his brother Kikkawa Motoharu, who handled the San'in, he upheld the Mori; given charge of the San'yo, he commanded the Mori navy. In Korea he beat the Ming at Byeokjegwan. Gentle by nature, he won the trust of the whole house: a general of both brains and courage.\nOther hero candidates...\nSanada Masayuki

@@ -1,0 +1,354 @@
+@0
+Move to {02}{0B}d?
+@1
+Move toward {02}{01}g?
+@1.1
+Move toward the chosen person?
+@2
+Move to the chosen spot?
+@3
+Return to {02}{0B}d?
+@4
+Wait?
+@5
+Stop waiting?
+@6
+Stop moving?
+@7
+Enter {02}{0B}d?
+@8
+Leave {02}{0B}d?
+@9
+Register a destination?
+@10
+Choose a base to register.
+@11
+Change the registered base?
+@12
+Stop registering a base?
+@13
+Register {02}{0B}d?
+@14
+Remove {02}{0B}d from the register?
+@15
+You know no one.
+@16
+You don't belong to a daimyo house.
+@17
+You have no subordinates.
+@18
+You have no items.
+@19
+You have no trade goods.
+@20
+You have no cards.
+@21
+Suspend the game?
+@22
+Saving complete.
+@23
+You have no mission right now.
+@24
+You have no job right now.
+@25
+You have no base right now.
+@26
+Not connected to the home base.
+@27
+There are units sortied from that castle.
+@28
+......And three days later
+@29
+Oh, so this is the famous {02}{1A}e. What a view, what a view...
+@30
+Oh, so this is the renowned {02}{1A}e. A splendid sight.
+@31
+Hm? So this is the famous {02}{1A}e. Not as good as they say...
+@32
+meet
+@32.1
+meet
+@33
+Well, good day, samurai sir.
+@34
+Oh, it's {01}C*{00}... Today I would like a bout with you. Draw your sword! Come!
+@34.1
+...You! What luck to meet you here! I'll cut you down!!
+@34.2
+Hm? Who are you?
+@34.3
+Pleased to meet you. I am {02}{01}g.
+@34.4
+Hm? You called me? I'm {02}{01}g the smith. You sure you've got the right man?
+@34.5
+Well, good day, samurai sir. I am {02}{01}g.
+@35
+What do you want! I don't even want to see your face. Get lost!
+@36
+{01}C*{00}... I have nothing to say to you. Excuse me.
+@37
+Um... who are you again? Sorry, so many people ask me for guns, I can't remember every name.
+@37.1
+{01}C*{00}?
+@37.2
+Um... {02}{02}e, was it? Sorry, so many people ask me for guns, names are hard to remember.
+@37.3
+{01}C*{00}? What a coincidence.
+@37.4
+Hey, it's {02}{02}e. What are you doing here?
+@37.5
+Oh, {01}C*{00}? What a coincidence.
+@37.6
+Hey! It's {02}{02}e! Fancy meeting you here. Good to see you.
+@37.7
+Oh, {01}C*{00}! What a coincidence to {01}C{C0}{0F} you here.
+@38
+Pleased to meet you. I am {02}{01}g.
+@38.1
+Pleased to meet you. I am {02}{01}g.
+@38.2
+Pleased to meet you. I am {02}{01}g of the {02}{01}{A1}.
+@38.3
+Pleased to meet you. I am {02}{01}g.
+@39
+Pleased to meet you. I am {02}{01}g of the {02}{01}{A1}.
+@39.1
+Pleased to meet you. I am {02}{01}g.
+@40
+Oh, Lord {02}{02}g... Pleased to meet you.
+@40.1
+Oh, Lord {02}{02}g... Pleased to meet you. I am {02}{01}g.
+@40.2
+Oh, Lord {02}{02}g... Pleased to meet you. I am {02}{01}g.
+@40.3
+Oh, Lord {02}{02}g... Pleased to meet you. I am {02}{01}g of the {02}{01}{A1}.
+@40.4
+Oh, forgive my rudeness. {01}C*{00}, pleased to meet you. I am {02}{01}g.
+@40.5
+Oh, {01}C*{00}? Excuse me.
+@40.6
+Oh, {01}C*{00}? Forgive me.
+@41
+Oh, so you are Lord {02}{02}g? Forgive me. Pleased to meet you.
+@41.1
+Oh, so you are Lord {02}{02}g? Forgive my rudeness. I am {02}{01}g.
+@41.2
+Oh, so you are Lord {02}{02}g. Forgive my rudeness. I am {02}{01}g of the {02}{01}{A1}.
+@41.3
+Oh, forgive my rudeness. {01}C*{00}, pleased to meet you. I am {02}{01}g.
+@41.4
+Oh, {01}C*{00}? Excuse me.
+@41.5
+Oh, {01}C*{00}? Forgive me.
+@42
+What do you want?
+@42.1
+What business brings you?
+@42.2
+What business brings you?
+@42.3
+What business brings you?
+@42.4
+How may I help you?
+@42.5
+What business brings you?
+@43
+Your skill with a gun is splendid. As far as I know, there are only a handful as good as you.
+@43.1
+Your skill with a gun is considerable. But if you want to polish it more, come to me.
+@43.2
+If you want to get better with guns, come to me.
+@43.3
+Don't you want to get better with guns? If you do, come to me.
+@43.4
+{01}C*{00}, have you no wish to enter service?
+@43.5
+Skills for fighting with infantry and the like show their worth in war. It does no harm to train them.
+@43.6
+With a high Swordsmanship skill, you can feel safe even when you end up fighting an enemy.
+@43.7
+They say that studying Tactics lets you learn new formations. It does no harm to train it.
+@43.8
+They say training Ninjutsu helps with infiltration and the like. It does no harm to train it.
+@43.9
+The Building skill helps with repairing and expanding castles. It does no harm to train it.
+@43.10
+The Farming skill helps develop new fields. It does no harm to train it.
+@43.11
+The Accounting skill shows its worth in trading missions. It does no harm to train it.
+@43.12
+The Etiquette skill shows its worth in formal diplomacy. It does no harm to train it.
+@43.13
+The Speech skill shows its worth when negotiating with people. It does no harm to train it.
+@43.14
+The Tea skill is important for building friendships. It does no harm to train it.
+@43.15
+The Medicine skill helps restore stamina and the like. It does no harm to train it.
+@43.16
+In war, high Leadership matters above all. After that, the key is how high your skills are.
+@43.17
+Besides war, they say diplomacy can bring enemies over to your side. High Speech and Etiquette help there.
+@43.18
+Those with high court rank command respect from everyone. Start by building ties with the court.
+@45
+Skills for fighting with infantry and the like show their worth in war. It doesn't hurt to train them.
+@45.1
+Studying Tactics lets you learn new formations. It doesn't hurt to train it.
+@46
+With a high Swordsmanship skill, you can feel safe even when you end up fighting an enemy.
+@46.1
+Training Ninjutsu helps with infiltration and the like. It doesn't hurt to train it.
+@47
+The Building skill helps with repairing and expanding castles. It doesn't hurt to train it.
+@47.1
+The Farming skill helps develop new fields. It doesn't hurt to train it.
+@48
+The Accounting skill shows its worth in trading missions. It doesn't hurt to train it.
+@48.1
+The Etiquette skill helps in formal diplomacy. It doesn't hurt to train it.
+@48.2
+The Speech skill helps in negotiations with people. It doesn't hurt to train it.
+@49
+The Tea skill is important for building friendships. It doesn't hurt to train it.
+@49.1
+The Medicine skill helps restore stamina. It doesn't hurt to train it.
+@50
+In war, high Leadership matters above all. After that, the key is how high your skills are.
+@50.1
+Besides war, diplomacy can bring enemies over to your side. High Speech and Etiquette help there.
+@50.2
+Those with high court rank command respect from everyone. Ties with the court matter too.
+@51
+Come to think of it, I hear {01}C-{00} owns a fine piece called {02}{15}d. I would love to see it once.
+@52
+Come to think of it, I hear you own {02}{15}d. How enviable.
+@53
+...You say you'll sell something, but you don't have anything, do you?
+@53.1
+...You say you'll sell something, but forgive me, it seems you have nothing.
+@54
+Oh, you have something to sell... And what is it?
+@54.1
+Oh, you'll sell me something?
+@54.2
+Oho, you'll sell me something?
+@55
+Oho! Well, well... And the price?
+@55.1
+Oho, I see... And the price?
+@55.2
+Oh, this is... And the price?
+@55.3
+............ And the price?
+@56
+I see, what a pity.
+@57
+Very well. I'll buy it at that price.
+@57.1
+Very well. I'll buy it at that price.
+@58
+(They seem very pleased.)
+@59
+......Sorry, but I'll pass this time.
+@59.1
+I'm sorry, but I'll pass this time.
+@60
+(......They didn't seem to like it much.)
+@61
+Hm, you draw your sword... You mean to settle this here?
+@61.1
+What, you draw your sword... You mean to settle this here?
+@62
+Eek! S-sensei! Please!
+@63
+......Pointless. Come, then.
+@63.1
+Fool! You think you can win? I'll cut you down instead!
+@63.2
+You think you can beat me? Prepare yourself!
+@64
+Don't push your joke too far.
+@64.1
+Please, don't push your joke too far.
+@65
+Right, see you.
+@65.1
+Then excuse me.
+@65.2
+Then excuse me.
+@66
+Then excuse me.
+@66.1
+Hm, see you, then.
+@66.2
+I see. Then excuse me.
+@66.3
+No other business? Then farewell.
+@67
+{02}{0B}d is at war; you can't enter.
+@68
+Well, well, Master {02}{02}e! Actually, I have a fine piece I would very much like you to buy.
+@69
+How about it!? I've only just got it in. Isn't it splendid?\nThis must be fate. {01}C*{00}, I really wish you would buy it.
+@70
+Well, I'll give you a special price: %m! {01}C*{00}, will you buy it?
+@71
+Oh! You have a fine eye! Please, take it. I'll take my leave now.
+@72
+I see... What a pity. Another time, then.
+@73
+Hey, hey, hey! If you value your life, leave your money and cargo!
+@74
+Leave your money and trade goods behind?
+@75
+Hmph! No backbone. But since you were so obliging, I'll only take half. See ya.
+@76
+You won't hand it over! Go regret it in hell!!
+@77
+Heh! Fool. We'll take all your money and goods. See ya.
+@78
+Rogue ninja, I've found you! In the name of {02}{0B}d, I won't let you live!
+@79
+I travel the provinces every day to master the way of the sword.
+@79.1
+Come to think of it, they say Lord {02}{03}g of Minowa Castle uses a sword technique called {02}{1A}e.
+@79.2
+Come to think of it, they say Lord {02}{03}g of Konodai Castle uses a sword technique called {02}{1A}e.
+@79.3
+Come to think of it, they say Lord {02}{03}g uses a sword technique called {02}{1A}e.
+@80
+Come to think of it, they say Lord {02}{03}g uses a formation called {02}{1A}e in battle.
+@81
+Would you let me go for these {02}$d kan?
+@82
+Hm... well, for now I'll let you go for that.
+@83
+Did you think we'd back off for such a pittance?! Go regret it in hell!!
+@84
+Pay 100 kan to call for help?
+@85
+Then leave this to me.
+@85.1
+Then leave this to me.
+@85.2
+Then leave this to me.
+@85.3
+Then leave this to me.
+@86
+They weren't much of a match, so I drove them off easily. Take care on your way...
+@86.1
+They had some skill, but I drove them off easily. Take care on your way...
+@86.2
+Phew, they were quite tough, but I managed to drive them off. Then I'll be going... Farewell!
+@86.3
+Huff, huff... I-I managed to drive them off. Then I'll be going...
+@87
+No... it can't be, that I lost... I'm sorry, but the rest is up to you... Farewell...
+@87.1
+Ugh... that I should lose... Forgive me, but the rest is up to you... Farewell...
+@87.2
+Hmm... that I should lose... I'm sorry, but deal with the rest yourself. I'll take my leave... Farewell.
+@87.3
+Ugh... that I should lose... Sorry, but handle the rest yourself. Then I'll be going...
+@88
+You called for help! So you'll never hand the goods over! Go regret it in hell!!
