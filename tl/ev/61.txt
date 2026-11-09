@@ -1,0 +1,110 @@
+@0.0
+My liege!! T-terrible news!\nThe \#88F and \#87D armies\nare upon us!
+@0.1
+A dozen of your attendants are holding them off,\nbut they're hopelessly outnumbered! Flee, quickly!
+@0.3
+Ah, no, you mustn't!\nMy liege!!
+@0.4
+\#4DE, called a master swordsman though he was Shōgun, took up his sword himself and leapt into the midst of the enemy to cut them down...
+@0.5
+Ah! Here he is!\nPrepare yourself, my liege!!
+@0.6
+Stand back, knave!\nTo draw a bow against the Shōgun is an outrage!
+@0.7
+Bah, what are you doing!?\nStrike down \#4DE, quickly!!\n...Ah!
+@0.8
+So you are the ringleader of this revolt!\n\#484! Taste the sword of the one\nthey call the Swordsman Shōgun!
+@0.9
+Ngh!
+@0.10
+Gwahh...!
+@0.11
+How do you like that, \#484!\nThat is the fate of those who know not right from wrong!
+@0.12
+Bah!\nI cut and cut, and still there's no end to them!
+@0.14
+\#48F! You too!?
+@0.15
+I regret, my liege,\nthat you must die...
+@0.16
+Don't talk nonsense!\nYou think the likes of you can cut me down!?
+@0.17
+With my skill, no, I'd be no match for you...
+@0.19
+I never said I would\nbe the one to face you...\n...You there!
+@0.21
+I'm counting on you!\nSend His Highness gently to the Pure Land!
+@0.22
+Curse you...!
+@0.23
+Gahh
+@0.24
+Eek!\nW-what strength...
+@0.25
+Hah, hah...!\n\#48F! Stand right there!\n
+@0.26
+Eeek!\nS-somebody!
+@0.27
+Gwahh!\nI am undone...
+@0.28
+Phew... phew...\nFool...
+@0.29
+My liege!\nAre you unharmed!?
+@0.30
+Yes... somehow!\nI have cut down \#084 and \#08F.\nWhat of the rest of the enemy?
+@0.31
+The rest of the Miyoshi Triumvirate, \#074\nand \#083, seem to have\nsurrounded this castle.
+@0.32
+So there's truly no gap to escape through.\nWhat of the Hōkōshū... our own troops?
+@0.33
+Heartened by your lion-like valour, my liege,\nthey are slowly coming to order.\nAbout 6,000 men are able to fight...
+@0.34
+Good... Then let us drive off the rabble outside!\nEveryone, just a little longer.\nLend Us your strength!
+@0.35
+Ohhh!
+@0.36
+Then we march!\nWe sally forth!
+@0.37
+He is the Swordsman Shōgun, after all...\nBut he must be nearing his limit...
+@0.38
+Now!! Push the sliding doors down on him\nso he can't move,\nand run him through with spears all at once!
+@0.39
+Phew... phew...\nWe are at Our limit.\nHear well Our death poem!
+@0.41
+Run him through!
+@0.42
+\#3FE, the one called the Swordsman Shōgun... overwhelmed by numbers, his strength spent, he met the end of his life...
+@0.49
+Gahh...!
+@0.50
+We did it!\nThe Shōgun is slain!!
+@0.51
+H-how bitter...!
+@1.0
+Our army is collapsing!
+@1.1
+Grr... How bitter.\nRather than fall shamefully into enemy hands,\nWe shall choose death by Our own hand!
+@1.2
+My liege!\nNo, you mustn't!!
+@1.4
+Gahh...
+@1.5
+My liegeee!!
+@1.6
+\#3FE, the one called the Swordsman Shōgun... overwhelmed by numbers, his strength too spent, he met the end of his life...
+@1.7
+The enemy is fleeing!\nA great victory for our side!
+@1.8
+Yes! You all fought well!
+@1.9
+The enemy general \#083 has fallen!\n\#074 seems to have fled somewhere!
+@1.10
+Tch... So \#474 got away.\nWell, no matter.
+@1.11
+With this, the Miyoshi Triumvirate is finished...\nNo one will be foolish enough\nto defy the Shōgun now.
+@1.12
+Truly, my liege, you are Lord Tōjiin (Ashikaga Takauji)\nborn again... Please restore\nthe authority of the Muromachi house.
+@1.14
+With his tireless valour, the 13th Shōgun, \#0DE, foiled the Miyoshi Triumvirate's revolt...
+@1.15
+Bearing the hopes for a revival of the Ashikaga shōgunate, \#3FE resolved to work on for peace in the realm...

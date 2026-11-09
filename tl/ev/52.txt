@@ -1,0 +1,116 @@
+@0.13
+Write to our lord and Akechi
+@0.19
+Sir,\nunderstood.
+@0.22
+I'll send letters to our lord and Lord \#8F5.
+@1.0
+How can this be...\nThat monkey-faced upstart has avenged our lord...
+@1.2
+But I was the one our late lord trusted most!
+@1.4
+My lord...\nIs \#7FE never again to receive your praise...?
+@2.0
+\#3FE, my lord!\nRemnants of the \#A4B clan have stirred up the Ikkō rebels and are closing on this castle!
+@2.1
+What!\nCurse you... \#A4B!
+@2.2
+In any case, prepare for battle!\nSend word to the generals in the castle town!
+@3.7
+Grr... that monkey...\nHe pushed ahead of me to kill \#4F5...\nThe insolence!
+@3.8
+What shall we do, my lord?
+@3.9
+Now that \#4F5 is dead, there's no point in marching on.\nWe return to the castle for now.
+@4.0
+Ha ha ha! ...\#894!\nNow do you know the strength of the \#BF1!?
+@4.1
+Ugh...!\nI even smashed the water jars to rouse the men, and it still wasn't enough... Bitter indeed.
+@4.2
+Ugh! You'll pay for this!
+@4.3
+\#3FE, my lord,\nit seems the enemy has retreated!
+@4.4
+Good!\nAll of you fought well!
+@4.5
+Now, the battle is over!\nGo and draw all the water you want!
+@4.6
+Ei, ei, oh!!
+@4.7
+And so \#3FE drove off \#3F1's invasion and held the castle to the end...
+@4.8
+The tale of how he smashed the water jars to rouse his men would be told down the ages under the name "Jar-Smashing Shibata"...
+@5.0
+The likes of \#3F2 is no match for us!\nNo need to trouble our lord over him.\nWe'll scatter them easily!
+@5.1
+\&03!\nSomething terrible has happened!
+@5.2
+What is it!?\nDon't panic!
+@5.3
+They've cut off \40F6's water supply!
+@5.4
+What! The water supply!?
+@5.5
+Without water we can't fight properly...\nThis will hurt morale.\nLet's keep it from the men.
+@5.6
+...No, that won't do!\nBring me every jar of drinking water we have!
+@5.7
+Wh-what do you intend to do?
+@5.8
+Silence!\nBring them at once!
+@5.10
+Phew...\nWe've brought them!
+@5.11
+Good!\nAll of you in the castle, listen well!\nThe enemy has cut off our castle's water!
+@5.12
+!!!
+@5.13
+But there's no need to trouble our lord over such rotten foes!\nWe will drive the enemy off with our own strength!
+@5.14
+Here is the last of our drinking water!\nBut don't count on having it...!\nThis is what I'll do with it!!
+@5.15
+Ah!!
+@5.16
+CRASH
+@5.17
+SPLASH
+@5.18
+Ahh... our precious water...!\nIt's all gone...
+@5.19
+Listen! If you think you have water, you won't fight with all your heart, and you'll give the enemy an opening!
+@5.20
+I, \#7FE, have just smashed the water jars!
+@5.21
+If you want water, fight and win!\nWin, take back the water supply with honour, and then drink your fill!
+@5.23
+Well, what do you say!?
+@5.24
+A-aye!
+@5.25
+Now it's come to this, fighting for our lives\nis the only way we'll live!
+@5.26
+My lord! We'll win no matter what and take back the water!
+@5.27
+The castle troops' morale has risen.
+@5.28
+Right!\nNow, let's scatter the enemy!
+@6.0
+Well then, shall we begin the council...
+@6.1
+Forgive me for interrupting the council!\nSomething terrible has happened in the Kamigata!
+@6.5
+Wh-what do you mean!?
+@6.11
+Our lord and the young lord are both dead...
+@6.13
+My lord!\nWe must strike down \#4F5 and avenge our lord!
+@6.14
+Hmm...\nBut if I leave this castle now, the enemy may attack...
+@6.15
+Whatever happens, don't let the enemy learn of this disaster!
+@6.17
+My lord! Give the order to march!\nLet us avenge our lord!
+@6.18
+Fearing an enemy attack at a time like this is not the way of a true samurai!
+@6.19
+...Very well!\nThen we march!\nWe avenge our lord!

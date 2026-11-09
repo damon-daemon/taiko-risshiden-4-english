@@ -1,0 +1,34 @@
+@0.0
+In \@001/\@002, the \9079 clan at last retook every castle in Izumo.
+@0.1
+The cherished wish of the \9079 and of \#3FE was fulfilled at last...
+@0.2
+\%03, we have at last retaken Izumo.\nNothing could bring this Shikanosuke greater joy.
+@0.3
+This was thanks to everyone's strength.\nShikanosuke, you above all have borne great hardships.\nYou have my thanks.
+@0.4
+No, it was not my strength alone.\nLet us all share in this joy.
+@0.5
+\%03, let us move our seat\nto Gassan-Toda Castle at once.
+@0.6
+Indeed.\nGassan-Toda is the home of the Amago.\nWe shall move our seat there at once.
+@0.8
+Now rest well\nuntil the next council.
+@0.9
+Yes, my lord. By your leave.
+@1.0
+In \@001/\@002, despite the efforts of Yamanaka Shikanosuke and the rest, the Amago clan was destroyed.
+@1.1
+The revival of the Amago, \#3FE's cherished wish, was never to be...
+@1.2
+If only I had been stronger...\nNow I know how powerless I am.
+@1.3
+Yet I thank you, Heaven,\nfor the hardships you gave me,
+@1.4
+and for days\nfuller than any man could ask...
+@1.6
+But my life\nis not over yet.
+@1.7
+From now on, as one of the \9079,\nI must train harder still,
+@1.8
+so that I never again\nrepeat such a failure...

@@ -241,9 +241,9 @@ I'm sorry. I failed to recruit {02}{03}g.
 @42.2
 I'm sorry. I failed to recruit {02}{03}g.
 @43
-Hm, thank you for your trouble, but {02}{0B}d is already our castle. So I'm sorry, but there's no merit this time.
+Hm, thank you for your trouble, but {02}{0B}d is already our castle. I'm sorry, but there will be no merit this time.
 @44
-Hm, thank you for your trouble, but {02}{0B}d has already fallen to the enemy. So I'm sorry, but there's no merit this time.
+Hm, thank you for your trouble, but {02}{0B}d has already fallen to the enemy. I'm sorry, but there will be no merit this time.
 @45
 ...I see. It can't be helped. Thank you for your trouble.
 @45.1
@@ -269,23 +269,23 @@ Good, {01}C*{00}. Thank you for your trouble.
 @45.11
 ...{01}C*{00}, that's hardly a result to praise. Work harder from now on.
 @45.12
-From someone like {01}C*{00}... I am disappointed.
+{01}C*{00}, and from you of all people... I am disappointed.
 @45.13
-From someone like {01}C*{00}... I am disappointed.
+{01}C*{00}, and from you of all people... I am disappointed.
 @45.14
 Fool!! {01}C*{00}, what have you been doing?! Enough, get out!
 @46
-You came up from the merchant class. I cannot treat you the same as the others. So your merit will be halved.
+You rose from the merchant class, so I cannot treat you the same as the others. Your merit will be halved.
 @46.1
-You came up from the merchant class. I cannot treat you the same as the others. So your merit will be halved.
+You rose from the merchant class, so I cannot treat you the same as the others. Your merit will be halved.
 @46.2
-You came up from the merchant class. I can't treat you the same as the others. So I've halved your merit.
+You rose from the merchant class, so I can't treat you the same as the others. I've halved your merit.
 @46.3
-You came up from the ninja. I cannot treat you the same as the others. So your merit will be halved.
+You rose from the ninja, so I cannot treat you the same as the others. Your merit will be halved.
 @46.4
-You came up from the ninja. I cannot treat you the same as the others. So your merit will be halved.
+You rose from the ninja, so I cannot treat you the same as the others. Your merit will be halved.
 @46.5
-You came up from the ninja. I can't treat you the same as the others. So I've halved your merit.
+You rose from the ninja, so I can't treat you the same as the others. I've halved your merit.
 @47
 {01}C*{00}, please leave the rest of the mission money here.
 @47.1
@@ -301,7 +301,7 @@ By the way, {01}C*{00}, there's leftover mission money. What did you do with it?
 @49
 Eh?\nAh, well... um...
 @50
-............\nIt seems you have done the most shameful thing a samurai can do.
+...\nIt seems you have done the most shameful thing a samurai can do.
 @51
 Embezzling our clan's war funds for your own gain... Are you prepared for the consequences?
 @51.1
@@ -335,9 +335,9 @@ N-no! Never would I...
 @56.2
 Silence! I see through it all. Pocketing the money for your own gain... I trust you're prepared for the consequences.
 @59
-...is what I would normally say, but {01}C*{00}, you still have money hidden in your robes, I think.
+...is what I would normally say, but {01}C*{00}, surely you still have money hidden in your robes.
 @59.1
-...is what I would normally say, but {01}C*{00}, you still have money hidden in your robes, I think.
+...is what I would normally say, but {01}C*{00}, surely you still have money hidden in your robes.
 @59.2
 ...is what I would normally say, but {01}C*{00}, you're still hiding money, aren't you?
 @60
@@ -397,7 +397,7 @@ Then I'll hold council at once. You should come too.
 @71.2
 Then I'll hold council at once. You will come too.
 @72
-...I'm sorry. The truth is, I haven't yet.........
+...I'm sorry. The truth is, I haven't yet...
 @73
 {01}C*{00}! What do you take a mission for! I misjudged you!!
 @73.1
@@ -509,11 +509,11 @@ Our clan's present goal is %s: %s. Keep that in mind as you act.
 @95
 (Shall I really urge {01}C*{00} to rebel?)
 @96
-{01}C*{00}, I, {02}{01}f, speak to {01}C!{00} ready to die for it.
+{01}C*{00}, I, {02}{01}f, speak to {01}C!{00} at the risk of my life.
 @96.1
-{01}C*{00}, I, {02}{01}f, speak to {01}C!{00} ready to die for it.
+{01}C*{00}, I, {02}{01}f, speak to {01}C!{00} at the risk of my life.
 @96.2
-{01}C*{00}, I, {02}{01}f, speak ready to die for it.
+{01}C*{00}, I, {02}{01}f, speak at the risk of my life.
 @97
 ...{01}C*{00}, what's the matter? You're not yourself.
 @98
@@ -523,11 +523,11 @@ Our clan's present goal is %s: %s. Keep that in mind as you act.
 @98.2
 {01}C*{00}, do you mean to go on as just one of the {02}{06}e?
 @99
-...What are you suddenly saying?
+...What are you saying, all of a sudden?
 @99.1
-...What are you suddenly saying?
+...What are you saying, all of a sudden?
 @99.2
-...What are you suddenly saying?
+...What are you saying, all of a sudden?
 @100
 You have the makings of a daimyō. It would be a great waste to end your life a mere castle lord.
 @100.1
@@ -577,7 +577,7 @@ I owe a debt to our old lord. Rebellion is out of the question.
 @107.2
 Enough!! For your own sake, I'll pretend I never heard this.
 @108
-............
+...
 @109
 ...I'm sorry. Please go.
 @109.1
@@ -585,15 +585,15 @@ Enough!! For your own sake, I'll pretend I never heard this.
 @109.2
 Enough, you may go.
 @110
-.........Understood.
+...Understood.
 @110.1
-.........Understood.
+...Understood.
 @110.2
-.........Yes.
+...Yes.
 @111
-...My eyes are opened. Disloyalty is a small matter. It is as you say.
+...You've opened my eyes. Disloyalty is a small matter. It is as you say.
 @111.1
-...My eyes are opened. Disloyalty is a small matter. It is as you say.
+...You've opened my eyes. Disloyalty is a small matter. It is as you say.
 @111.2
 ...Understood. Disloyalty is a small matter. It is as you say.
 @112
@@ -613,7 +613,7 @@ Of course! I, {02}{01}f, will be your strength!
 @114.1
 Of course! I, {02}{01}f, will be your strength!
 @114.2
-Of course! I, {02}{01}f, wish to share life and death with {01}C!{00}.
+Of course! I, {02}{01}f, will share your fate, in life or in death.
 @115
 Gracious words! Then please give the order to your men!
 @115.1
@@ -637,9 +637,9 @@ So no one took a castle last year. That won't do. I expect much this year.
 @121
 Last year {01}C*{00}'s work stood out the most. {01}C*{00}, splendid.
 @122
-Not at all; thinking of {01}C!{00}, it was only natural.
+Not at all. For your sake, it was only natural.
 @122.1
-Not at all; thinking of {01}C!{00}, it was only natural.
+Not at all. For your sake, it was only natural.
 @122.2
 Yes, sir! I'm honoured by your praise!
 @123
@@ -709,7 +709,7 @@ Pleased to meet you. I am {02}{01}g.
 @134.2
 Pleased to meet you. My name is {02}{01}g.
 @135
-Ah, {01}C*{00}. Hmm, against {01}C!{00}, the gate guards are useless.
+Ah, {01}C*{00}. Hmm, the gate guards are no match for you.
 @135.1
 A rōnin? Insolent wretch! But you did well to get into this castle. I'll praise you for that much.
 @135.2
@@ -725,7 +725,7 @@ What! The {02}{06}e mean to break their alliance with us?
 @139
 Oho... very well. Then from today, our clan and the {02}{06}e have nothing to do with each other.
 @140
-...A joke? It's quite something, but keep it within bounds.
+...Is that a joke? Jokes are all very well, but keep them within bounds.
 @141
 Oho... the {02}{06}e say they wish for an alliance with us?
 @142
@@ -745,7 +745,7 @@ Oho... the {02}{06}e say they wish to make peace with us?
 @150
 (...Blast, I have no money at all. I can't persuade them like this.)
 @150.1
-(...Oops, I have too little money. I can't persuade them like this.)
+(...Blast, I have too little money. I can't persuade them like this.)
 @151
 (Shall I give up offering peace?)
 @152
@@ -767,7 +767,7 @@ Oho... the {02}{06}e wish for closer ties with us?
 @162
 (...Blast, I have no money at all. I can't persuade them like this.)
 @162.1
-(...Oops, I have too little money. I can't persuade them like this.)
+(...Blast, I have too little money. I can't persuade them like this.)
 @163
 (Shall I give up offering friendship?)
 @164
@@ -777,7 +777,7 @@ I see... I gratefully accept the {02}{06}e's goodwill. I hope our good relations
 @165.1
 I see... I gratefully accept the {02}{06}e's goodwill. Please give my regards to {01}C+{00}.
 @166
-...Thank you for coming, but money alone will not move my heart.
+...You've come a long way, but money alone will not move me.
 @168
 What! The {02}{06}e tell us to surrender?
 @169
@@ -787,7 +787,7 @@ What! The {02}{06}e tell us to surrender?
 @170
 Don't be absurd. Even if we submit, we will not throw away our clan's pride.
 @172
-Then please leave for today.
+Then I must ask you to take your leave for today.
 @173
 Gain more skill
 @173.1
@@ -795,7 +795,7 @@ Raise {02}%d kan in war funds
 @173.2
 Raise {02}%d kan in war funds
 @173.3
-Raise public support by {02}%d
+Raise popular support by {02}%d
 @173.4
 Raise yield by {02}%d,000 koku
 @173.5
@@ -823,7 +823,7 @@ Gather some information
 @173.16
 Lower defense by {02}%d
 @173.17
-Lower public support by {02}%d
+Lower popular support by {02}%d
 @173.18
 Burn {02}%d of military supplies
 @173.19
@@ -861,11 +861,11 @@ Rumour has it that Lord {02}{04}g incited Lord {02}{03}g to it.
 @179.1
 Rumour has it that Lord {02}{04}g gathered his generals and announced the rebellion then and there.
 @180
-Grrr......\nTell everyone at once! Hurry!
+Grrr...\nTell everyone at once! Hurry!
 @181
 Yes, my lord!!
 @182
-.........{01}C+{00}, curse you! Repaying my kindness with treachery!
+...{01}C+{00}, curse you! Repaying my kindness with treachery!
 @183
 My lord, you speak of battle, but we have too few troops. First, prepare our forces.
 @183.1
@@ -899,14 +899,14 @@ You speak of battle, but no daimyō remains hostile to our clan.
 @186.3
 My lord, you speak of battle, but no daimyō is hostile to our clan.
 @187
-I've already given {01}C!{00} enough aides. Please spare me any more.
+I've already given {01}C!{00} enough aides. Please don't ask for any more.
 @187.1
-I've already given {01}C!{00} enough aides. Please spare me any more.
+I've already given {01}C!{00} enough aides. Please don't ask for any more.
 @187.2
-I should already have given {01}C!{00} enough aides. I can't give you more.
+Surely I've already given {01}C!{00} enough aides. I can't give you more.
 @188
-I'd like to oblige you, but my castle has few direct vassals. Please spare me any more.
+I'd like to oblige you, but my castle has few direct vassals. Please don't ask for any more.
 @188.1
-I'd like to oblige you, but my castle has few direct vassals. Please spare me any more.
+I'd like to oblige you, but my castle has few direct vassals. Please don't ask for any more.
 @188.2
 I'd like to oblige you, but my castle is short of direct vassals. I can't give you more.

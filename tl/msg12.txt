@@ -3,7 +3,7 @@
 @1
 ...Hm! {01}C*{00}...
 @2
-{01}C*{00}, forgive the sudden visit. This time I've come to you...
+{01}C*{00}, forgive the sudden visit. I have come to you today...
 @3
 I can guess why. You want me to forget the past, is that it?
 @4
@@ -27,7 +27,7 @@ The medicine I took is making me drowsy... Forgive me, but would you let me rest
 @11
 (Which medicine shall I give?)
 @12
-(Shall I not give any medicine?)
+(Give no medicine after all?)
 @13
 (Shall I give {02}{15}d?)
 @14
@@ -57,7 +57,7 @@ Ah, so it's {01}C*{00}. Pleased to meet you.
 @19
 Oh, forgive my rudeness! {01}C*{00}, pleased to meet you. I am {02}{01}g.
 @19.1
-Oho, so it's {01}C*{00}.\nI look forward to knowing you.
+Oho, so it's {01}C*{00}.\nI hope we'll get along.
 @20
 What!\n{01}C*{00} in person?\nWhat a surprise.
 @20.1
@@ -65,7 +65,7 @@ What! One of the {02}{06}e? To walk alone into enemy land... you have admirable 
 @21
 Oh, it's {01}C*{00}.
 @21.1
-{01}C*{00},\nwelcome.
+{01}C*{00}, welcome.
 @21.2
 Oh, {01}C*{00}. Welcome.
 @21.3
@@ -97,9 +97,9 @@ What do you want?\nI'm afraid I'm unwell... *cough, cough*\nI'd like you to leav
 @25.1
 What do you want?\nI have nothing to say to you.\nI'd like you to leave.
 @26
-{01}C,{00} is busy\nand can't see you now.\nPlease take your leave.
+{01}C,{00} is busy and can't see you now.\nPlease take your leave.
 @26.1
-{01}C,{00} is busy\nand can't see you.\nPlease take your leave.
+{01}C,{00} is busy and can't see you.\nPlease take your leave.
 @27
 ...I see, a pity.\nThen I'll take my leave.
 @28
@@ -127,7 +127,7 @@ Some pointers, is it...? Very well. Then I shall teach you all that I know.
 @31.1
 Pointers, eh...? Very well. Then I'll teach you all I know.
 @32
-If you want to rise in rank, first carry out missions\nand earn merit. Rise higher, and you'll be given\nmore important missions. The more important the\nmission, the greater the merit. So nothing beats\npromotion, you see.
+If you want to rise in rank, first carry out missions\nand earn merit. The higher you rise, the more important\nthe missions you are given, and the more important the\nmission, the greater the merit. So it pays to climb\nthe ranks, you see.
 @32.1
 To become a castle lord, you must take many castles.\n\nTake enough castles, and someone will be\nappointed lord of one of them.
 @32.2
@@ -141,39 +141,39 @@ Besides war, there is another way to bring down\nan enemy: diplomacy. Win them o
 @34
 Rumours, you say... but there is no one in this castle but me...
 @35
-Whose rumours\ndo you want to hear?
+Whose rumours do you want to hear?
 @37
 {01}C+{00}, is it...\nVery short-tempered, that one.
 @37.1
 {01}C+{00}, is it...\nVery easygoing, that one.
 @37.2
-{01}C+{00}, is it...\nLet me see, neither particularly\nshort-tempered nor easygoing.
+{01}C+{00}, is it...\nLet me see, neither particularly short-tempered nor easygoing.
 @38
-{01}C+{00}, is it...\nFond of arms, I'd say,\nlike swords and armour.
+{01}C+{00}, is it...\nFond of arms, I'd say, like swords and armour.
 @38.1
-{01}C+{00}, is it...\nFond of art, I'd say,\nlike tea ware and screens.
+{01}C+{00}, is it...\nFond of art, I'd say, like tea ware and screens.
 @38.2
-{01}C+{00}, is it...\nFond of books, I'd say,\nlike war tales and military texts.
+{01}C+{00}, is it...\nFond of books, I'd say, like war tales and military texts.
 @38.3
-{01}C+{00}, is it...\nFond of goods from\nthe Nanban lands, I'd say.
+{01}C+{00}, is it...\nFond of goods from the Nanban lands, I'd say.
 @39
 {01}C+{00}, is it...\nCan't hold their drink at all.
 @39.1
 {01}C+{00}, is it...\nJust loves sake, that one.
 @39.2
-{01}C+{00}, is it...\nLet me see, drinks\nin moderation.
+{01}C+{00}, is it...\nLet me see, drinks in moderation.
 @40
 {01}C+{00}, is it...\nLoves rare things, that one.
 @40.1
-{01}C+{00}, is it...\nShows hardly any interest\nin possessions.
+{01}C+{00}, is it...\nShows hardly any interest in possessions.
 @40.2
-{01}C+{00}, is it...\nLet me see, about as\nacquisitive as anyone.
+{01}C+{00}, is it...\nLet me see, about as acquisitive as anyone.
 @41
-{01}C+{00}, is it...\nTends to value\nthe practical.
+{01}C+{00}, is it...\nTends to value the practical.
 @41.1
-{01}C+{00}, is it...\nTends to value ideals\nover the practical.
+{01}C+{00}, is it...\nTends to value ideals over the practical.
 @41.2
-{01}C+{00}, is it...\nLet me see, holds\nno particular principles.
+{01}C+{00}, is it...\nLet me see, holds no particular principles.
 @42
 {01}C*{00}, today I have something particular to discuss.
 @43
@@ -181,11 +181,11 @@ Yes, what is it?
 @44
 I'll come straight to the point. {01}C*{00}, what do you say... would you serve me directly?
 @45
-What!\nYou want me to serve you\ninstead of {01}C"{00}?
+What!\nYou want me to serve you instead of {01}C"{00}?
 @46
 Indeed. I ask because I see promise in you. I will see that {01}C"{00} is not wronged by it.
 @47
-.........
+...
 @48
 It's not a bad offer. What do you say?
 @49

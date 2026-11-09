@@ -1,0 +1,68 @@
+@0.4
+What!? Father!?\nWh-what do you mean!?
+@0.8
+He had only a few dozen men with him...\nIt seems \#4F5 seized the chance and rebelled!
+@0.11
+How can this be...\nFather and my brother...
+@0.12
+I should have written to Father and \#4F5 back when I heard that rumour...
+@0.13
+...Curse it! A battle of vengeance!\nGather the troops at once!\nWe strike down our hated foe, \#0F5!
+@0.14
+But when the men heard of the rebellion and that the \#8F5 army was coming, they ran away!
+@0.15
+What...!\nSpineless wretches!\nCurse it! I'll avenge him alone if I must!
+@0.16
+Ah!\nLord \#7FE!
+@1.0
+My lord...\nI have heard a strange rumour of late...
+@1.8
+And gifts for the \#958 retainers and such... that is no work for a man who holds the seat of a Castle Lord.
+@1.12
+I don't believe it
+@1.13
+Write to Father and Akechi
+@1.14
+Leave it be.\nI don't believe such rumours.\nNever speak of it again!
+@1.16
+A samurai must not be swayed by rumours!
+@1.18
+If such rumours go around in the castle, put a stop to them! Understood?
+@1.19
+Sir, understood.
+@1.20
+Rumour or not, I can't just ignore it...\nThe seeds of trouble must be removed.
+@1.21
+My lord?
+@1.22
+I'll send letters to Father and Lord \#8F5.
+@1.23
+Letters?
+@1.24
+Yes...\nasking them not to be swayed by rumours, and for lord and vassal to trust each other.
+@1.25
+Ah... I see.
+@1.26
+Mind you, don't spread rumours like this.
+@1.28
+If the rumour spreads, only the enemy will gain!
+@1.29
+I understand, my lord.
+@1.31
+\#3FE wrote letters to \#494 and \#4F5...
+@1.32
+And so strife within the \#894 clan was nipped in the bud...
+@2.0
+Wait!\nPlease, wait a moment!
+@2.2
+\#0F5 has been slain by Lord \#000!
+@2.7
+Hmm...\nSo that monkey killed \#4F5...\nHe pushed ahead of me, the son...
+@2.9
+Hmph! I won't stand for it!\nI won't let that monkey rule the \#894 clan!
+@2.10
+We understand that too, but...
+@2.11
+For now, I must bring together the men who served Father, but...
+@2.13
+But afterwards, the Oda lands were divided up among the clan's senior retainers...

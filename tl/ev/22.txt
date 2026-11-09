@@ -1,0 +1,166 @@
+@0.0
+My lord!\nSomething terrible has happened!
+@0.1
+What is it!? What a racket!
+@0.2
+Lord \#21A, master of \40F8,\nhas gone over to the \#948 clan!
+@0.3
+What!!\nIs that true!?
+@0.5
+Grr... Curse you, \#61A!\nI'll never forgive him... I'll torture him to death!\nWe attack \40F8 at once!
+@0.7
+As you have all heard,\nthat \#21A has betrayed us\nand gone over to the \#948!
+@0.8
+I will never let this pass!\nAs an example to all, he dies slowly!\nMen, we march!
+@0.9
+My lord! Please wait!
+@0.10
+What is it, \#618!\nDo you have some complaint!?
+@0.11
+The \#948 stand behind \#21A.\nIf we attack \40F8, the \#948\nwill surely send reinforcements.
+@0.12
+I think it would be better\nnot to act too hastily, but to\nwatch how things go for a while.
+@0.13
+Have you lost your nerve, \#618!?\nThere's no time to sit and watch!\nThat would only let \#61A ready for war!
+@0.14
+But... if we are to fight the \#948,\nwouldn't it be wiser to meet them\nhere at this castle?
+@0.15
+Bah, why fear the \#948 so much!\nBesides, that plan would let\nthe traitor \#61A go unpunished!
+@0.16
+Even so...
+@0.17
+Attack \#21A regardless
+@0.18
+Meet the \#948 here
+@0.19
+This is no time for arguing!\nWe march, and that's that!\nWe'll crush \#21A completely!
+@0.20
+Hear me, men!\nWe march!
+@0.22
+Hm...\nWell, \#618 does\nhave a point.
+@0.23
+It can't be helped. \#21A will be\ndealt with later. For now, prepare\nfor the \#948. Ready yourselves for war!
+@0.25
+My lord!\n\#146's forces are\nheading for this castle!
+@0.26
+So they came after all!\nIt seems \#618\nread it right!
+@0.27
+Call the men to arms at once!\nTell the generals to come\nto the castle too!
+@0.29
+Lord \#7FE!\nSomething terrible has happened!
+@0.30
+Hm?\nWhat has happened?
+@0.34
+Hmm... this is bad.\nI hope our lord doesn't\nlose his head in anger...
+@0.35
+\#21A is one thing, but the\n\#948 behind him are a real menace...\nWe must strengthen our defences first...
+@0.36
+Lord \#7FE,\nthe order has gone out\nto come to the castle at once.
+@1.0
+For now we have held off the \#948,\nbut that \#21A still has to be\ntaught a lesson...
+@1.1
+Now, there's no need to hurry...\nWith the \#948 backing gone,\nwe can attack \#21A any time.
+@1.2
+Indeed...\nAfter that we strike the \#948 themselves.\nAnd then, the unification of Kyūshū!
+@1.4
+Having beaten the \#948 at the Battle of\nOkitanawate, \#211 rose at a stroke\nto fame as the overlord of Kyūshū...
+@1.5
+My lord!\nAn envoy has come\nfrom the \#948 clan.
+@1.7
+What could he want?
+@1.8
+I come from the \#948 clan.\nI have come to deliver\nthe head of the late Lord \#211.
+@1.9
+What, our lord's head?
+@1.10
+Yes. Here it is...
+@1.11
+We do not need it...\nPlease take such an ill-omened\nthing back with you.
+@1.13
+Now, please go...
+@1.14
+Very well...\nThen I take my leave.
+@1.15
+But on the envoy's way back,\nwhen he reached the border between\n\#A11 and \#948 lands, the head of \#211 grew heavy...
+@1.16
+Thinking it hated to enter \#948 lands,\nthe envoy went back into \#A11 lands,\nburied the head and gave it proper rites...
+@1.17
+On the death of \#211,\n\33F1 succeeded him.
+@1.18
+(From now on I must carry on\nour late lord's will and\nunite Kyūshū...)
+@1.19
+(From now on... the \#948 will spread\ntheir power, and Kyūshū may be\nthrown into chaos...)
+@2.0
+My lord!\nIt seems \#146's reinforcements\nhave reached \40F8 to aid \#21A!
+@2.1
+As I feared...
+@2.2
+All the better!\nWe'll crush the \#948 too\nwhile we're at it!
+@2.3
+The enemy can't know the lie\nof the land around here...\nWe know it inside out. The advantage is ours!
+@2.4
+My lord, please wait!\nWe must not be careless!
+@3.0
+Phew, it seems we've driven\nthose \#948 dogs off...
+@3.1
+We have slain the enemy general \#146!
+@3.2
+Good! Then once again,\nwe go to attack \#21A!
+@3.3
+We must not!\nThe men are worn out.\nWe should return to the castle for now...
+@3.4
+My lord!\nLet the men rest for now.
+@3.5
+Hmm... it can't be helped.\nThen we return...\nThat \#61A has been spared.
+@3.6
+Back to the castle!!
+@3.13
+N-no...\nI can't get out of the mud...
+@3.15
+Gahh!\nTh-the shame of it...
+@3.16
+I have slain the enemy general \#211!
+@3.17
+Feared by the daimyō around him as\n"the Bear of Hizen", \#211, who ruled over Kyūshū,\nperished at Okitanawate... He was \100B.
+@3.22
+Damn... our army is routed.\nOur lord!?\nWhat has become of our lord!?
+@3.23
+They say he was slain by\nan enemy general in the chaos\nof the battle!
+@3.24
+Wh-what did you say...!?
+@3.26
+For now we must gather\nthe survivors, return to the castle\nand think about what to do next...
+@3.27
+What will become\nof the \#A11 clan now...
+@4.4
+Having beaten the \#948 at the Battle of\n\40F6, \#211 rose at a stroke\nto fame as the overlord of Kyūshū...
+@4.5
+Ugh...\nCurse you, \#948!
+@4.6
+Having beaten \#211 at the Battle of\n\40F6, the \#948 clan rose at a stroke\nto fame as the overlord of Kyūshū...
+@5.0
+How strong is \#146's army!?
+@5.1
+About 6,000 men, I believe!
+@5.2
+What, a mere 6,000!\nA force that small\nI'll scatter with ease!
+@5.3
+My lord, we must not be careless!
+@5.4
+Bah!\nWhy so faint-hearted at a time like this!\nJust advance!
+@5.6
+What happened!?
+@5.7
+The vanguard was marching along\nthe paths between the rice fields, got stuck\nin the mud and can't move!
+@5.8
+What nonsense is this!\nA muddy road, deal with it somehow!\nJust keep marching!!
+@5.9
+No, my lord!\nIf more troops pile in behind\nthe vanguard that can't move...!
+@5.10
+Blast!!\nEven my horse is stuck in the mud!
+@5.11
+That is why I warned you...
+@5.12
+The morale of the \#A11 army\nhas fallen sharply.
+@5.13
+Bah!\nDon't whine over a little thing like this!\nCrush those \#946 country bumpkins!

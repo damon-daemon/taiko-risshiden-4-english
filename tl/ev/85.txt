@@ -1,0 +1,16 @@
+@0.0
+But... come to think of it, "Mikogami Tenzen"\nreally does sound like a rōnin's name.
+@0.1
+Now that I serve a house,\nperhaps I should change my name?
+@0.2
+Change name
+@0.3
+Keep name
+@0.4
+Very well, from today\nI cast off Mikogami Tenzen\nand call myself Ono Jirōemon Tadaaki.
+@0.9
+That sounds like a proper samurai's name.
+@0.10
+Mikogami Tenzen changed his name to Ono Tadaaki.
+@0.11
+No, I'm fond of this name.\nThere's no need to go out of my way to change it.

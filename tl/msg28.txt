@@ -7,7 +7,7 @@ The final goal is to achieve one of the following:\n- Become a daimyō and unite
 @3
 When is the game over?
 @4
-It seems the game ends if any of the following happens:\n- The hero dies.\n- The clan you serve is destroyed.\n- The year 1616 arrives.\nYou die if you are cut down, or if you are captured in battle\nand take your own life.
+I hear the game ends if any of the following happens:\n- The hero dies.\n- The clan you serve is destroyed.\n- The year 1616 arrives.\nYou die if you are cut down, or if you are captured in battle\nand take your own life.
 @5
 A clan is destroyed when all its castles fall, or when its daimyō is captured in battle and killed... Let me see: that is when the daimyō's seat falls, none of his castles border it, and all the remaining castles are under his direct rule. ...But I pray nothing so dreadful ever happens.
 @6
@@ -31,13 +31,13 @@ So how about putting the starting bonus into abilities, and raising skills by tr
 @15
 How do lists work?
 @16
-You can sort a list by the contents of each column.\nTo sort, press triangle and then press the column name. Each press switches between ascending and descending order.\nFor example, when you take skill training at a Samurai Home, you can sort the officer list by the skill you want (Infantry, Cavalry...) from the highest level down. Very handy.
+You can sort a list by the contents of each column.\nTo sort, press △ and then press the column name. Each press switches between ascending and descending order.\nFor example, when you take skill training at a Samurai Home, you can sort the officer list by the skill you want (Infantry, Cavalry...) from the highest level down. Very handy.
 @17
 Also, the selected entry is shown in blue, and targets of missions or jobs (castles, officers...) in yellow. In price lists, goods dearer than usual are red, cheaper ones blue, and specialities green.
 @18
 Can I stop moving or resting?
 @19
-To change your destination while travelling on the map screen, press X to cancel the move. The same goes for stopping a rest.\nDo be careful not to sleep through your mission report...
+To change your destination while travelling on the map screen, press × to cancel the move. The same goes for stopping a rest.\nDo be careful not to sleep through your mission report...
 @20
 Well, ask me anything.\nDon't worry, I won't laugh. Ha ha ha...
 @21
@@ -61,7 +61,7 @@ A rear vassal can rise no higher than Commander. But by urging his lord to rebel
 @30
 I want retainers
 @31
-To get more retainers, recruit rōnin.\nIf there's a promising rōnin at a Common Home, go and recruit him. If you can't find any, try talking to the townsfolk at the inn. You may hear rumours.\nWhen a castle falls and a clan is destroyed, rōnin grow in nearby towns. Men who served that clan and escaped punishment move there.
+To get more retainers, recruit rōnin.\nIf there's a promising rōnin at a Common Home, go and recruit him. If you can't find any, try talking to the townsfolk at the inn. You may hear rumours.\nWhen a castle falls and a clan is destroyed, more rōnin turn up in nearby towns. Men who served that clan and escaped punishment move there.
 @32
 When recruiting, don't forget that your retainers' stipends come out of your own. For the same stipend, you'd surely rather have a capable man.\nOnce you hold a castle, you can have the daimyō's direct vassals placed under you. These are called aides. Go to the daimyō's castle to request an aide.
 @33
@@ -119,13 +119,13 @@ Which mission should I choose?
 @59
 The harder the mission you complete, the more merit you gain. Hard missions are those with a high minimum rank, that is, the ones at the top of the mission list.\nBut there's no point if you get no results. Think whether you have the skills the mission needs before you choose.
 @60
-Well, someone like you might as well stick to training.\nTraining gets no blame even if nothing comes of it.
+Well, someone like you might as well stick to training.\nNo one blames you if training comes to nothing.
 @61
 How do I earn merit quickly?
 @62
 Work that out yourself! ...is what I'd like to say, but I'll tell you, just this once.\nDo these reliably and merit will follow:\n- Distinguish yourself in battle.\n- Choose missions that earn merit and carry them out.\n- Propose policy at council.
 @63
-To gain a lot of merit at once, win glory in battle. Battle merit is converted to merit after the battle. The one with the greatest deeds is named first in merit and gains much.\nTo earn merit from missions, choose hard ones, that is, those at the top of the mission list.
+To gain a lot of merit at once, win glory in battle. Your battle deeds are converted to merit afterwards. The one with the greatest deeds is named first in merit and gains the most.\nTo earn merit from missions, choose hard ones, that is, those at the top of the mission list.
 @64
 Proposing policy at council and having it accepted also raises merit. But the likes of you meddling in our lord's policy? Out of the question. Sit and listen.
 @65
@@ -201,9 +201,9 @@ How should I spend my free time?
 @100
 Free time? Nonsense. A castle or province lord can't leave everything to his men.\n...Is domestic rule in order? You can carry out domestic policy in the castles you rule.\n...Is your army ready? At the drill ground of your castles you can separate soldiers from farmers and train them yourself. When your men are busy, rush about buying guns and horses or trading rice.
 @101
-...How are relations with other provinces? Go to another daimyō's seat yourself and you can conduct diplomacy.\n...Have you honed your own abilities? If you lack confidence, go home and use Train Abilities to hone Leadership, Valor, Politics, Intellect and Charm.\n\nWell? Still say you have time on your hands?
+...How are relations with other provinces? Go to another daimyō's seat yourself and you can conduct diplomacy.\n...Have you honed your own abilities? If you lack confidence, go home and use Train Abilities to hone Leadership, Valor, Politics, Diplomacy and Charm.\n\nWell? Still say you have time on your hands?
 @102
-I look forward to hearing what you'll say.\nCome, speak up!
+Let's hear what nonsense you come out with.\nCome, speak up!
 @103
 How do I become daimyō?
 @104
@@ -235,7 +235,7 @@ Work on the court and your court standing rises, and in time you can get ranks a
 @117
 Don't rest content with one rank. Keep working on the court and you'll get higher ones. Then you can give the lower ones you held before to your retainers. Since it's the court that grants ranks, officially you recommend your retainer for that rank. Not that the formality matters...
 @118
-I am glad if my knowledge is of use.
+I'll be glad if my knowledge is of use to you.
 @119
 How do I win a battle?
 @120
@@ -267,7 +267,7 @@ Formations can only be used in field battles, not in sieges, nor when you don't 
 @133
 How do I change the army's route?
 @134
-As army commander, you can halt the army or change its route.\nOnce you leave the castle, the army marches automatically toward its target. But press X on the march and it stops, and you can move as on the normal map screen.\nEnter an enemy castle and a siege begins; meet an enemy army and a field battle begins.
+As army commander, you can halt the army or change its route.\nOnce you leave the castle, the army marches automatically toward its target. But press × on the march and it stops, and you can move as on the normal map screen.\nEnter an enemy castle and a siege begins; meet an enemy army and a field battle begins.
 @135
 If you asked for reinforcements and change your target, they follow you. Even if you end up fighting someone other than your first target, they'll rush to help, so don't worry.
 @136
@@ -287,13 +287,13 @@ How does morale change?
 @143
 Morale is very important. Let me explain when it rises and falls.\nBefore battle, morale is raised by Train, or by giving alms at the drill ground. Once raised, it falls as time passes. Before marching out, give plenty and reward your men well.
 @144
-In battle, morale rises when you win the card battle and strike first, and falls when you lose. It also changes with the results of attacks, and with special cards that shift morale, such as "Rally" and "Abuse".\nBring the enemy's morale to 0 and you win the battle. Even when outnumbered, win the card battles and use special cards well, and you have every chance.
+In battle, morale rises when you win the card battle and strike first, and falls when you lose. It also changes with the results of attacks, and with special cards that shift morale, such as "Rally" and "Taunt".\nBring the enemy's morale to 0 and you win the battle. Even when outnumbered, win the card battles and use special cards well, and you have every chance.
 @145
 About special cards
 @146
 Battle special cards are dealt from those you've obtained so far. Choose Secret Plan to swap one card in hand for one of your special cards.\n- Red: take effect before normal attacks.\nAttack cards such as "Fire Attack" and "Quick Load".
 @147
-- Blue / Pink: take effect after normal attacks.\nBlue: "Abuse", "Demand Surrender" and so on.\nPink: only the "Rally" card.\n- Yellow: take effect after normal attacks.\nOnce played, they act every turn.
+- Blue / Pink: take effect after normal attacks.\nBlue: "Taunt", "Call to Yield" and so on.\nPink: only the "Rally" card.\n- Yellow: take effect after normal attacks.\nOnce played, they act every turn.
 @148
 About battle merit
 @149
@@ -305,7 +305,7 @@ How do I save money?
 @152
 Why not make a killing gambling, or take on guild jobs? That will earn you pocket money.\nBut if you want real money, trade goods. Buy pricey trade goods in bulk when prices are low and sell them in towns where prices are high. Tea from Edo, madder from Hamamatsu and inkstones from Matsue are good picks, for instance. You'll soon make a thousand or two thousand kan.
 @153
-But you can't start without capital to buy trade goods. I can't say it out loud, but why not borrow your mission funds? If you're given 3,000 kan, trade goods to grow it before you start on the mission. As long as you complete the mission before the deadline, there should be no problem at all.
+But you can't start without capital to buy trade goods. I can't say it out loud, but why not borrow your mission funds? If you're given 3,000 kan, buy and sell trade goods to grow it before you start on the mission. As long as you complete the mission before the deadline, there should be no problem at all.
 @154
 Secrets of haggling
 @155
@@ -403,7 +403,7 @@ Why not leave your clan for a while\nand think your life over again?
 @201
 I keep losing duels
 @202
-There are two reasons you lose: your Martial Arts level is low, or your Valor is.\nFirst, Martial Arts. A higher level means more cards in hand, so it's easier to gather high cards and play combos.\nTo raise Martial Arts, train under someone at a dojo. Bouts won't raise your swordsmanship.
+There are two reasons you lose: your Swordsmanship is low, or your Valor is.\nFirst, Swordsmanship. A higher level means more cards in hand, so it's easier to gather high cards and play combos.\nTo raise it, train under someone at a dojo. Bouts won't raise your swordsmanship.
 @203
 Next, Valor. The higher it is, the more damage each blow does. At Chief Retainer or below you can't raise your own Valor, but good arms add some. ...Come to think of it, the other day I saw a splendid sword at a merchant house in Ishiyama.\nMind you, if your Valor is very low, no famous blade will help much.
 @204

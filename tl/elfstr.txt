@@ -8,7 +8,7 @@
 3ffc58	Size: Small
 3ffc68	Size: Medium
 3ffc78	Size: Large
-3ffcd8	Unit
+3ffcd8	
 400340	Attackers
 400348	Defenders
 400350	Attacker Allies
@@ -36,10 +36,10 @@
 4009a0	Choose how to intercept.
 4009c0	Choose a plan.
 4009f0	%14s Unit
-400a10	Unit
-400a18	Army
-400a30	Unit
-400a38	Army
+400a10	
+400a18	
+400a30	
+400a38	
 400a50	%4d/%2d/%2d
 400a60	Day %2d
 400a70	%4d/%2d/%2d
@@ -182,7 +182,7 @@
 40b850	Back
 40b9f0	You can play this game without saving, but to save data\nyou need a memory card (PS2) with at least\n%w KB of free space.
 40ba70	Only MEMORY CARD slot 1 is supported.
-40bab0	Start like this?
+40bab0	Start anyway?
 40bad0	Retry saving the system data?
 40bb00	Checking the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
 40bb70	Loading from the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
@@ -591,7 +591,7 @@
 40e140	Raised court standing by %y
 40e158	Recruiting succeeded
 40e168	Recruiting failed
-40e178	Attack succeeded
+40e178	Conquest succeeded
 40e188	No results
 40e198	Captured
 40e1b0	Capturing (%y castles left)
@@ -934,7 +934,7 @@
 410f78	Battles
 410f80	Arms
 410f88	Plots
-410f90	Domestic
+410f90	Development
 410f98	Unify Prov.
 410fa8	Unify Reg.
 410fb8	Unite Realm
@@ -1617,7 +1617,7 @@
 4191f0	Owner
 4191f8	Hostess
 419200	Doctor
-419208	Smithy
+419208	Smith
 419210	Guard
 419218	Servant
 419220	Page
@@ -1684,7 +1684,7 @@
 41c6b8	Small stamina heal
 41c6d0	Sure escape
 41c6f0	Priority 10/10. Sure hit
-41c710	Priority 9/10. Strong attack
+41c710	Priority 9/10. Strongest attack
 41c730	Priority 7/10. Strong attack
 41c750	Priority 6/10. Strong attack
 41c770	Priority 5/10. Strong attack
@@ -1854,7 +1854,7 @@
 41e0b8	Base
 41e0c0	Daimyō
 41e0d0	Likes
-41e0d8	Close
+41e0d8	Bond
 41e0e0	Rank
 41e0f0	Name
 41e0f8	Foot
@@ -1896,7 +1896,7 @@
 41e240	Tea
 41e248	Gift
 41e250	Likes
-41e258	Close
+41e258	Bond
 41e268	Name
 41e270	Daimyō
 41e280	Rank
@@ -1936,7 +1936,7 @@
 41e470	OK
 41e508	Meet
 41e510	March
-41e518	House
+41e518	Clan
 41e520	Vassals
 41e528	Office
 41e530	Info
@@ -2136,7 +2136,7 @@
 421970	Charge
 421978	Fire
 4219a0	LDR:
-4219a8	Troops:
+4219a8	Men:
 4219b0	Train:
 4219b8	Morale:
 4219c0	%s Unit
@@ -2332,7 +2332,7 @@
 4249a0	March Sugoroku
 4249b0	Picture Match
 4249b8	Stone Hauling
-4249c0	One Stroke
+4249c0	One-Stroke
 4249d0	Gold Vein Amida
 4249e0	Bingo Duel
 4249f0	Concentration
@@ -2415,7 +2415,7 @@
 4261d8	Ninja Search
 4261e8	Farmer Flip
 4261f8	Stone Hauling
-426200	One Stroke
+426200	One-Stroke
 426210	Gold Vein Amida
 426220	Bingo Duel
 426230	Concentration

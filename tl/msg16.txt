@@ -43,7 +43,7 @@ Not a particularly good result. Anyway, I must report to the chief.
 @10.3
 Quite a good result. I must report to the chief.
 @10.4
-An excellent result. The chief will be pleased with this. I must report to the chief.
+An excellent result. The chief will be pleased with this. I must report to him.
 @11
 Hmm, with results like these I can hardly be satisfied...
 @11.1
@@ -61,7 +61,7 @@ The council is about to start. This is no time for detours.
 @14
 {02}{02}f, I've been waiting for you. I have a message from {01}C,{00}: "An unavoidable matter calls me away, so the council is put off until next time." That is the message.
 @15
-What, is that so...... Understood.
+What, is that so... Understood.
 @16
 Oh, my lord, welcome. As you see, we keep watch diligently every day.
 @16.1
@@ -97,19 +97,19 @@ Why, Lord {02}{02}f. Our lord told us of you. Please, go through.
 @26
 (Now, how shall I get them to let me through?)
 @27
-What's a mere rōnin saying? Go home, go home!
+Hah, a mere rōnin? Away with you, away!
 @27.1
 No one from {02}{02}{A1} passes. Begone.
 @28
 Suspicious wretch! Leave at once!
 @29
-(......Blast! I have no money to give them.)
+(...Blast! I have no money to give them.)
 @30
 Suspicious wretch! Leave now, or we'll drag you off!
 @31
 (No choice. I'll withdraw for now.)
 @32
-Come now, let this settle it.
+Come now, perhaps this will smooth things over.
 @33
 Insolent wretch! Leave now, or we'll drag you off!
 @34
@@ -117,7 +117,7 @@ Insolent wretch! Leave now, or we'll drag you off!
 @35
 Now, to sneak in.
 @36
-......Hm? I thought I heard something...... Must be my imagination.
+...Hm? I thought I heard something... Must be my imagination.
 @37
 (Good, I seem to have slipped in.)
 @38
@@ -131,7 +131,7 @@ Oh, my lord, welcome. As you see, we keep watch diligently every day.
 @40.2
 There are no officers in this castle at all. Please take your leave.
 @41
-Hm? {01}C*{00} is out......
+Hm? {01}C*{00} is out...
 @42
 Well, I got in, but what now?
 @43

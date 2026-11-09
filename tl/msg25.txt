@@ -119,7 +119,7 @@ I have photos and letters I can't throw away
 @59
 I always get assigned work done
 @60
-People say I'm old for my age
+People say I look older than I am
 @61
 Older people like me more than my peers do
 @62
@@ -189,9 +189,9 @@ I'm good at backroom deals
 @94
 Even my patience has its limits
 @95
-I have somewhere to go, eventually
+I have somewhere lined up for later
 @96
-Changing jobs can be needed to move up
+Sometimes you must change jobs to move up
 @97
 Other people's things look better
 @98
@@ -227,7 +227,7 @@ I want to stand out more
 @113
 Softness overcomes hardness
 @114
-Tea Master Type\n~ Culture matters in politics too ~\nYou are... Sen Sōeki!\nA tea man made tea master of the Oda by Nobunaga. After Honnō-ji he became Hideyoshi's chief tea master and was granted the name "Rikyū Koji" by the Emperor. He perfected tea and advised Hideyoshi on politics, so powerful that people said "private matters go through Sōeki."\nOther hero candidates...\nKanamori Nagachika, Oda Nagamasu, Gamō Ujisato
+Tea Master Type\n~ Culture matters in politics too ~\nYou are... Sen Sōeki!\nA simple tea man whom Nobunaga made the Oda tea master. After Honnō-ji he became Hideyoshi's chief tea master and was granted the name "Rikyū Koji" by the Emperor. Besides perfecting tea he advised Hideyoshi on politics, so powerful that people said "private matters go through Sōeki."\nOther hero candidates...\nKanamori Nagachika, Oda Nagamasu, Gamō Ujisato
 @115
 Fallen Noble Type\n~ Don't lose to the upstarts ~\nYou are... Ashikaga Yoshiteru!\nThe 13th Muromachi Shōgun. He learned swordsmanship from Kamiizumi Nobutsuna and was famous as the "Swordsman Shōgun." He clashed with the Miyoshi, who controlled the shōgunate, and was killed fighting bravely when Miyoshi Nagayoshi's retainer Matsunaga Hisahide and others stormed his palace.\nOther hero candidates...\nAmago Yoshihisa, Ichijō Kanesada, Isshiki Yoshisada, Yamana Suketoyo
 @116
@@ -249,7 +249,7 @@ Small but Surviving Type\n~ Endure, and flowers may bloom... maybe... ~\nYou are
 @124
 Unworthy Son Type\n~ Don't disgrace your father's name ~\nYou are... Imagawa Ujizane!\nHe took over the house after his father Yoshimoto was killed, but was so incompetent that his retainers abandoned him and he lost his lands to Ieyasu and Shingen. After wandering about, he ended up in the care of Oda Nobunaga, his father's enemy, and showed off his kemari football skills before him.\nOther hero candidates...\nTakeda Katsuyori, Hōjō Ujimasa, Saitō Tatsuoki
 @125
-Father-Hater Type\n~ I'll surpass my father, you'll see ~\nYou are... Mogami Yoshiaki!\n11th head of the Mogami of Oshu and lord of Yamagata Castle. He was the heir, but his father doted on his younger brother and meant to make him heir, so he forced the brother to kill himself and drove his father into retirement. As head he expanded his power and came to rule 570,000 koku in Dewa.\nOther hero candidates...\nTakeda Yoshinobu, Hashiba Hidetsugu
+Father-Hater Type\n~ I'll surpass my father, you'll see ~\nYou are... Mogami Yoshiaki!\n11th head of the Mogami of Ōshū and lord of Yamagata Castle. He was the heir, but his father doted on his younger brother and meant to make him heir, so he forced the brother to kill himself and drove his father into retirement. As head he expanded his power and came to rule 570,000 koku in Dewa.\nOther hero candidates...\nTakeda Yoshinobu, Hashiba Hidetsugu
 @126
 Indecisive Type\n~ Fence-sitting is a tactic too ~\nYou are... Kobayakawa Hideaki!\nNene's nephew and Hideyoshi's adopted son, sent off to the Kobayakawa when Hideyori was born. At Sekigahara he joined the West while secretly siding with the East, then dithered on the field until an exasperated Ieyasu fired on him and he finally turned.\nOther hero candidates...\nTsutsui Junkei, Satake Yoshinobu
 @127
@@ -259,7 +259,7 @@ Loyal Heart Type\n~ In an age of betrayal, live by loyalty ~\nYou are... Maeda T
 @129
 Devoted Retainer Type\n~ Live only for what you believe in ~\nYou are... Yamanaka Shikanosuke!\nAn Amago retainer who gave his life to restoring his house. As a boy he prayed to the moon: "Grant me seven hardships and eight sufferings." Besieged at Kōzuki Castle with his lord Katsuhisa, he lost to the Mōri; Katsuhisa killed himself and Shikanosuke was slain on the way to Aki.\nOther hero candidates...\nShimizu Muneharu, Torii Mototada
 @130
-Beauty Survivor Type\n~ Use your looks to take on the realm's warriors ~\nYou are... Mori Ranmaru!\nNobunaga's favourite. He served Oda Nobunaga as a page and was trusted as his messenger. At the Honnō-ji Incident he fought on at Nobunaga's side to the very end, and fell at the young age of 18.\nOther hero candidates...\nKimura Shigenari
+Beauty Survivor Type\n~ Use your looks to take on the realm's warriors ~\nYou are... Mori Ranmaru!\nNobunaga's favourite page, trusted as his messenger. At the Honnō-ji Incident he fought on at Nobunaga's side to the very end, and fell at the young age of 18.\nOther hero candidates...\nKimura Shigenari
 @131
 Defy Misfortune Type\n~ Face your fate and overcome it ~\nYou are... Chōsokabe Motochika!\nA great lord of Tosa, gifted in war and government. Leading his "ichiryo gusoku" farmer-soldiers, he became master of all Shikoku in just ten years, but had to surrender to Hideyoshi's invasion and became one of his daimyō.\nOther hero candidates...\nDate Masamune, Kawajiri Hidetaka
 @132
@@ -267,13 +267,13 @@ Swordsman Type\n~ Master the sword and win the title of Sword Saint ~\nYou are..
 @133
 Ninja Type\n~ Endure hard training and live as a ninja ~\nYou are... Hattori Hanzō!\nReal name Masanari, Governor of Iwami. A Jōnin of Iga. After his clan helped Ieyasu escape across Iga at the time of the Honnō-ji Incident, he became Ieyasu's ninja chief. One of the Sixteen Generals of Tokugawa.\nOther hero candidates...\nMomochi Sandayū, Fūma Kotarō
 @134
-Pirate Type\n~ Set sail on the raging sea ~\nYou are... Kuki Yoshitaka!\nNobunaga's navy commander, said to be a Kumano pirate, famed for crushing the Mōri navy with ironclads at the 2nd Battle of Kizugawa. Having sided with the West at Sekigahara, he withdrew; his son Moritaka of the East won his pardon, but he killed himself just before word came.\nOther hero candidates...\nMurakami Takeyoshi, Kōno Michinao
+Pirate Type\n~ Set sail on the raging sea ~\nYou are... Kuki Yoshitaka!\nNobunaga's navy commander, said to be a Kumano pirate, famed for crushing the Mōri navy with ironclads at the 2nd Battle of Kizugawa. Having sided with the West at Sekigahara, he went into seclusion; his son Moritaka of the East won his pardon, but he killed himself just before word came.\nOther hero candidates...\nMurakami Takeyoshi, Kōno Michinao
 @135
 Gun Master Type\n~ Show the world the power of the gun ~\nYou are... Saika Magoichi!\nLeader of the Saika gun corps and son of Suzuki Sadayū, chief of the Saika band of gunners in Kishu. He fought far and wide for the Hongan-ji in the Ishiyama War, but surrendered when Nobunaga attacked Kishu in 1577.\nOther hero candidates...\nInatomi Sukenao, Suzuki Sadayū
 @136
 Demon Type\n~ Show strength worthy of the name "demon" ~\nYou are... Shimazu Yoshihiro!\n17th head of the Shimazu, called "Demon Shimazu." In the Korean campaign he beat a Ming army of 200,000 with 8,000 men, and at Sekigahara he broke through the enemy to escape the field. Not only a warrior, he was a first-rate diplomat too, avoiding a cut in his lands after Sekigahara.\nOther hero candidates...\nSatake Yoshishige, Sakuma Morimasa, Sogō Kazumasa, Mori Nagayoshi
 @137
-Fierce Warrior Type\n~ Battle is the only life for me ~\nYou are... Shibata Katsuie!\nThe Oda's fierce chief retainer, "Jar-Smashing Shibata." He once rebelled for Nobunaga's brother Nobuyuki and failed, but once pardoned became Nobunaga's loyal vassal, always leading the vanguard and taking the rear guard in hard retreats.\nOther hero candidates...\nKatō Kiyomasa, Fukushima Masanori, Kikkawa Motoharu, Nabeshima Naoshige, Honda Tadakatsu
+Fierce Warrior Type\n~ Battle is the only life for me ~\nYou are... Shibata Katsuie!\nThe Oda's fierce chief retainer, "Jar-Smashing Shibata." He backed Nobunaga's brother Nobuyuki in a failed revolt, but after his pardon became Nobunaga's loyal vassal, always leading the vanguard and taking the rear guard in hard retreats.\nOther hero candidates...\nKatō Kiyomasa, Fukushima Masanori, Kikkawa Motoharu, Nabeshima Naoshige, Honda Tadakatsu
 @138
 Plotter Type\n~ Scheme your way to overturning the realm ~\nYou are... Ashikaga Yoshiaki!\nThe 15th Muromachi Shōgun. A monk, he returned to lay life with help from Hosokawa Fujitaka and became Shōgun backed by Nobunaga. A born schemer, he fell out with Nobunaga, was driven out and turned to the Mōri. He ended his days as a companion to Hideyoshi.\nOther hero candidates...\nKuroda Nagamasa
 @139

@@ -1,0 +1,284 @@
+@0.2
+Amid all this, \#01C came of age at just eleven, carrying alone the hope that the noble Date clan would rule all Ōshū.
+@0.3
+At last I too can serve\nthe Date clan as a warrior.
+@0.4
+I must grow strong quickly and make\nthe Sōma, the Ashina and the rest bow at my feet.
+@0.5
+\%03, so here you are.
+@0.6
+Ah, \%03.\nWhat is it?
+@0.7
+His lordship is calling for you.
+@0.8
+Very well, I'll come at once.
+@0.9
+\%03, you sent for me?
+@0.10
+Yes, \%03.\nFrom the next council on, you will attend as well.
+@0.11
+First you must show\nthe whole house what you can do.
+@0.12
+Do your utmost like everyone else\nand earn their trust.
+@0.13
+Yes, Father!\nAs you wish.
+@0.14
+Good, that's the spirit.\nEveryone has high hopes for you.\nDo your best.
+@1.0
+\%03, I've been waiting for you!
+@1.1
+Why, \%03.\nWhat are you doing here?
+@1.2
+Well, I heard a rumour that the \#BF0 army\nis getting ready to invade our lands.
+@1.3
+I thought at last the chance had come\nfor \%03's first battle, so here I am.
+@1.4
+Come, let's go to his lordship together\nand ask him to march!
+@1.5
+All right.\nLet's go to Father, then.
+@1.6
+Ah, \#41C.\nWhat is it?
+@1.7
+\%03, have you heard the rumour\nthat the \#BF0 army is on the move?
+@1.8
+Hmm, I have heard it,\nbut there is no telling yet whether it's true.
+@1.9
+Well, there's no need to rush.\nIt happens all the time.
+@1.10
+My lord!\nHow can you take it so calmly!?
+@1.11
+We mustn't let the enemy get the jump on us!\nDecide to march, right now!
+@1.12
+N-now wait, \#40D...\nI know you're eager for \#41C's first battle,\nbut be patient a little longer.
+@1.14
+I too want to fight beside \#41C soon.\nBut a first battle must be prepared with the utmost care.
+@1.15
+\#41C's first battle must not be lost.\nWhy can't you understand that?
+@1.16
+Father...\nI'm sorry...
+@1.17
+Good, as long as you understand.\nAlways be ready to fight.
+@1.19
+\%03...\nI spoke out of turn.\nForgive me...
+@1.20
+It's all right, \%03.\nDon't let it trouble you.
+@1.21
+More importantly, help me out in my first battle.
+@2.2
+\%03,\nyou sent for me?
+@2.5
+\%03, you jest.\nYou are hardly old enough\nto retire yet.
+@2.6
+No, I do not jest.\nI have thought long and hard about this.
+@2.7
+\%03,\ndo you truly mean to hand the house to Lord \#41C...?
+@2.8
+Yes. From now on, the head of the \#81A clan is \#41C.
+@2.10
+The age of war is in great turmoil now.\nSurviving these troubled times will not be easy.
+@2.11
+A man of old-fashioned ideas like me\ncan no longer protect the \#81A clan.
+@2.12
+With \#41C as head\nand the retainers working together,\nthe \#81A clan will be secure.
+@2.13
+But I don't yet have the strength\nto carry the \#81A clan...
+@2.14
+It is only natural that you feel uneasy.\nBut the sooner this is done, the better.
+@2.15
+Well, \#7FA?\nYou have no objection\nto \#41C becoming head?
+@2.16
+None, my lord!\nWe will gladly serve Lord \#41C.
+@2.17
+Well?\nHave you made up your mind?
+@2.18
+Yes.\nI humbly accept.
+@2.19
+Good!\nWell said!
+@3.0
+Ah, \%03.\nHow goes it? Work in the household\nkeeps you quite busy, I imagine.
+@3.1
+Ah, \#415.\nIt's just as you say, quite a struggle.
+@3.2
+Ha ha ha, you look troubled,\nhaving to do things you're not used to.
+@3.3
+But learning about our lands like this\nis something \%03\nwill need from now on.
+@3.4
+Before you become head of the Date clan,\ntoil all you can.
+@3.5
+Heh, you say so, \#415.\nBut that I can see and hear these things\nat all is thanks to you.
+@3.6
+If you hadn't cut out my blind eye,\nI'm sure I'd have seen nothing\nof the world at all.
+@3.7
+\%03...
+@3.8
+Listen, \#415.\nIf ever it seems I can't see anything,\nopen my eyes for me again.
+@3.9
+Yes. I shall strive to do so\nall my life.
+@3.10
+Good, I'm counting on you, \#415!
+@4.0
+\%03!\nWait, please!
+@4.1
+Ah, \#41D.\nWhat's all the shouting about?
+@4.2
+I'm not shouting about anything.\nA loud voice is a warrior's pride!
+@4.3
+All right, all right...\nWhat do you want, then?
+@4.4
+The fact is, I have a favour to ask of \%03.
+@4.5
+In \%03's first battle,\nlet \#41D fight by your side!
+@4.6
+I, \#41D, will be sure\nto distinguish myself!
+@4.7
+Now, now, that's for Father to decide.\nI want to fight as badly as you do.
+@4.8
+Well, don't be so impatient.\nThe day will come when we have to fight whether we like it or not.
+@4.9
+\%03...\nForgive me, I got carried away...\nI'm ashamed...
+@4.10
+Wa ha ha!\nYou're a hot-blooded one, \#41D.
+@4.11
+What are you saying!\nA warrior should always\nhave battle on his mind!
+@4.12
+I know!\nGive me a lesson in swordsmanship, \%03!
+@4.13
+I won't calm down\nuntil I've let off some steam!
+@4.14
+Accept!
+@4.15
+Decline...
+@4.16
+All right, I accept your challenge!\nNo hard feelings if you get hurt!
+@4.17
+What are you saying?\nI won't hold back, even for \%03.\nHave at you!
+@4.18
+Phew...\nYou've still a long way to go, \#41D.
+@4.19
+I'm beaten.\nAs expected of \%03!
+@4.20
+Well, I feel much better.\nI'll take my leave.
+@4.21
+But don't forget about the first battle.\nFarewell!
+@4.22
+Yes, I'm counting on you.
+@4.23
+Ugh...\nYou're good, \#41D.
+@4.24
+Well, well, that was close.\nAs expected of \%03.
+@4.25
+I feel completely refreshed.\nI'll take my leave.
+@4.28
+No, I'll pass today...
+@4.29
+I see...\nForgive my rudeness.
+@5.0
+Lord \#41C,\nplease come to the council chamber at once.\nIt seems there is urgent news.
+@5.1
+Very well.\nI'll come at once.
+@5.2
+It seems everyone is here.\nWord has just come that the \#BF0 army\nhas entered our lands.
+@5.3
+We march out to meet them!\n\#41C! At last, your first battle!\nSteel yourself!
+@5.5
+Wooooh!!!\nThe young lord's first battle at last!
+@5.6
+Everyone!\nLet's put our hearts into it!
+@5.8
+Oh!\nThe young lord's first battle!
+@5.9
+We must put our hearts into it!
+@5.11
+Good, now we march!
+@6.0
+My lord, judging by the enemy's array,\nwe seem to have the stronger force.
+@6.1
+Yes, this shouldn't be too hard.
+@6.2
+All right!\nA battle at last.\nI'm itching to fight!
+@6.3
+Young lord!\nLet's show them how strong we are!
+@6.4
+Ah, \#41D.\nLet's both fight to our hearts' content.
+@6.5
+Young lord, don't get carried away.\nCarelessness is the enemy.
+@6.6
+Y-yes...\nUnderstood...
+@6.7
+Good, then let the battle begin!\nScatter them in one blow!
+@7.0
+Hmm, no decision...\nWell, let's withdraw for now.
+@7.1
+\#41C,\nit's a pity, but victory and defeat are a matter of luck.
+@7.2
+Don't take it too hard.
+@7.3
+Yes, Father!\nNext time I'll crush them\nfor certain!
+@7.4
+Yes, that's the spirit.\nNow, let us go back.
+@7.5
+Yes!\nVictory is ours!
+@7.6
+Young lord!\nYou did it!
+@7.7
+That was a splendid fight,\nhardly what one expects of a first battle!
+@7.8
+Yes, very well done for a first time.\nThis will spread \#41C's name.
+@7.9
+But don't grow proud.\nIf you take things lightly, you will lose your life.
+@7.10
+Yes, Father!\nI'll take that to heart.
+@7.11
+My lord, let us withdraw the army.
+@7.12
+Yes, let us go back.
+@7.13
+My lord, we are losing!\nIt would be wise to withdraw...
+@7.14
+Hmm...\nThere's no help for it.\nBitter as it is, we withdraw.
+@7.15
+\#41C, do not forget this defeat...
+@10.0
+Oh!\nThe young lord is here!
+@10.1
+At last we can serve with the young lord!\n\#40D has long awaited this day.
+@10.2
+Yes, I'm counting on you.
+@10.3
+What kind words...\nTogether with \#413,\nI shall serve more faithfully than ever.
+@10.4
+\%03, my old man is past it.\nGive any orders to me instead.
+@10.5
+What did you say, you whelp!\nWhen it comes to wielding a spear,\nI'm still more than a match for the likes of you!
+@10.6
+Listen to him...\nAt your age you'd only get in the young lord's way!\nStay home and sip your tea!
+@10.7
+Grrr!\nTsunamoto, stand right there!\nI'll teach you a lesson!
+@10.8
+Now, now, what's all this noise?\nQuiet down.
+@10.9
+Ah, my lord...\nForgive me...
+@10.10
+It seems everyone is here.
+@10.11
+I expect you have already heard:\nfrom today, \#41C will also take part in the council.
+@10.12
+But he is still young and green.\nHe will fall short in many ways, but I ask you all to help him.
+@10.13
+Leave it to us!\nAll your retainers will stand behind Lord Masamune.
+@10.15
+Yes!\nLeave it to us!
+@10.17
+...Good.\nI am counting on you.
+@10.18
+And now, \#41D and \#41F,\ncome here.
+@10.20
+I have decided that these two\nwill also serve the Date clan from today,\ntogether with \#41C.
+@10.21
+I am \#01D.
+@10.22
+I am \#01F.
+@10.23
+Yes, they are still young,\nbut in valour they yield to no one.\nYoung warriors with a bright future.
+@10.24
+I ask you to support them, together with \#41C.

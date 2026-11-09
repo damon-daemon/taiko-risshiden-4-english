@@ -5,10 +5,10 @@ usage: .venv/bin/python tools/build.py [clean.bin] [out.bin]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import cdimage, datafile, disc, elfseg, elfstr, elftables, meswin, msgbuf, msgfile, names, printfnum, sentcase, setup, statusbar, text, vwf
+import cdimage, datafile, disc, elfseg, elfstr, elftables, evtl, meswin, msgbuf, msgfile, names, printfnum, scenhdr, scriptbuf, sentcase, setup, statusbar, text, vwf
 
 ROOT = disc.ROOT
-SKIP = set(filter(None, os.environ.get('TR4_SKIP', '').split(',')))   # bisecting: names,tables,elfstr
+SKIP = set(filter(None, os.environ.get('TR4_SKIP', '').split(',')))   # bisecting: names,tables,elfstr,events
 
 def build_messages(data, elf):
     blocks = msgfile.blocks(datafile.entry(data, elf, setup.MSG_ENTRY), elf)
@@ -35,6 +35,7 @@ def main():
     meswin.apply(elf, seg)
     statusbar.apply(elf, seg)
     sentcase.apply(elf, seg)
+    scriptbuf.apply(elf, seg)
     printfnum.apply(elf, seg)
     offs = msgfile.offsets(elf)
     msgbuf.apply(elf, seg, max(b - a for a, b in zip(offs[1:], offs[2:])))
@@ -43,6 +44,13 @@ def main():
                vwf.FONT_ENTRY: vwf.build_font(datafile.entry(data, elf, vwf.FONT_ENTRY), elf)}
     if 'names' not in SKIP:
         changes.update(names.apply(elf, data, seg))
+    if 'scenarios' not in SKIP:
+        print('scenario headers: %d' % scenhdr.apply(data, elf, changes))
+    if 'events' not in SKIP:
+        ev, n = evtl.apply_all()
+        if ev is not None:
+            changes[61] = ev
+        print('event scripts: %d files changed' % n)
     clean_elf = img.read_file(disc.ELF, recs)
     if 'tables' not in SKIP:
         print('tables:', elftables.apply(elf, clean_elf, seg))

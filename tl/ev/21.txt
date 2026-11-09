@@ -1,0 +1,322 @@
+@0.0
+The Mōri, once a minor clan of Aki, had risen at a stroke to daimyō rank... Yet the great Chūgoku powers, the Ōuchi and the Amago, still loomed large...
+@0.1
+But Amago Haruhisa lost men's trust by purging his own kin, the Shingu Clique, and Ōuchi Yoshitaka fell to the rebellion of his chief retainer, Sue Harukata.
+@0.2
+Little by little the Mōri slipped free of Ōuchi rule and set out on their own path as a warring daimyō...
+@0.3
+Then \#206 of Iwami broke with the Ōuchi and sided with the Mōri, and a struggle between Sue and Mōri for mastery of the Chūgoku became inevitable...
+@0.4
+\#25E tells me to strike down \#206, but our house is no longer a vassal of the \#A64...
+@0.5
+In time... I will defeat \#25E, then the \#A64, and then strike down the \#A67, and become master of the Chūgoku...!
+@0.6
+Can we truly bring down the mighty \#A64...?
+@0.7
+Do not worry, brother... Since \#25E's treason, the warriors of Suō and Nagato have turned their backs on the \#A64 house.
+@0.8
+Just so... The time of heaven and the harmony of men favour our \#A07. All that remains is the advantage of ground...
+@0.9
+And troop strength... that too.
+@0.10
+We served Lord Ōuchi Yoshioki and Lord Yoshitaka... until that \#25E rose in treason, that is.
+@0.11
+But I will never follow that heir \#65E fetched from the \#8E0 house, that adopted \#664!
+@0.12
+Now the tide is flowing from the \#A64 to the \#A07...
+@0.13
+My judgement was not wrong... That much will surely be proven.
+@0.15
+Before long I will defeat \#25E, then the \#A64, and then strike down the \#A67, and become master of the Chūgoku...!
+@1.0
+Now... to fight \#25E, the trouble is how few troops we have...
+@1.1
+Attacking \50F9 with so small a force gives us little chance... Somehow I must lure the enemy out into open battle.
+@1.2
+The question is how to drag them out...
+@1.3
+\&01, is something troubling you?
+@1.4
+Hmm... I was thinking of some bait to lure \#25E out into open battle.
+@1.5
+Open battle... Indeed, if they shut themselves up in \50F9 Castle, it would be rather troublesome.
+@1.6
+Hmm... I have it! What if we build a decoy castle on Itsukushima!
+@1.7
+Pardon? A decoy castle...?
+@1.8
+Yes... We build a castle that looks vital on flat ground of no real importance.
+@1.9
+\#65E will think that so important a castle must be crushed before it is finished, and he will march out...
+@1.11
+Good, then the building starts at once. Prepare to raise a castle near Itsukushima! If we draw them out there, the advantage is ours.
+@1.13
+Listen, do not hurry to finish it... In fact, it need never be finished at all.
+@1.14
+Rather, spread the rumour among the Ōuchi that it is a castle of great importance...
+@1.16
+Lord \#3FE, the old lord is to build a castle at Miyao.
+@1.17
+What!? Why in such a place?
+@1.18
+It does seem pointless, but the old lord has ordered us to spread rumours that the castle is of great importance.
+@1.19
+Hmm... I see. So he means to make the Ōuchi think the castle vital, and wait for them to attack it...?
+@1.20
+Most likely... With \#25E and his men holed up in a castle, they would be hard to fight.
+@1.21
+Yes, so building the castle is a ruse to lure the enemy out...
+@1.22
+So it would seem.
+@1.23
+Our old lord is as shrewd as ever... In cunning, even \#65E is no match for him.
+@1.24
+Father is as shrewd as ever... In cunning, even \#65E is no match for him.
+@2.0
+\%03, next at last we attack \50F9 Castle, held by the Amago, sworn enemies of our Mōri.
+@2.1
+Yes... but that castle is strong. Guarded by the river in front and the cliffs behind, it could truly be called impregnable.
+@2.2
+\%03, the time has come at last to settle things with the Amago. But \50F9 Castle is strong...
+@2.3
+The river before the castle forms the outer line of defence, and sheer cliffs guard the inner works. It is a mountain castle of many enclosures.
+@2.4
+Taking it by force would cost us dearly too. Now, what to do...
+@2.5
+Why not starve out \50F9 Castle?
+@2.6
+We buy up \50F9 Castle's provisions and burn its rice stores, and leave the enemy short of food.
+@2.7
+I see, that is good. Carry it out at once.
+@3.0
+My sons have been behaving in a way that troubles me...
+@3.1
+\#608 seems to envy the talents of his two able younger brothers, \#5F4 and \#5F3...
+@3.2
+And the younger ones must learn to show their elder brother a little more respect...
+@3.3
+At this rate there may be trouble. I had better give them a word of warning...
+@3.4
+Summon \#608, \#5F4 and \#5F3.
+@3.6
+Lord \#3FE! The old lord summons you.
+@3.7
+Mm, very well. I will come at once.
+@3.12
+\#5F4 is here.
+@3.13
+\#5F3 is here as well.
+@3.14
+Good, you have come.
+@3.15
+Since you two were adopted into other houses, we have had little chance to talk at leisure... But first, break this arrow.
+@3.16
+An arrow, my lord? Very well, then.
+@3.17
+Snap!
+@3.18
+Good. Now bind three of the same arrows together and break them.
+@3.19
+Yes! Here goes.
+@3.21
+Oh, they will not break!
+@3.22
+\#5F3, you try too.
+@3.25
+It seems it cannot be done.
+@3.26
+To think I cannot break a mere bundle of arrows... I still have far to go. I must train harder.
+@3.27
+Enough, \#5F4. I did not call you here to break arrows.
+@3.29
+\#608, do you understand?
+@3.30
+Is it to teach us the value of standing together?
+@3.31
+Just so. As you saw just now, a single arrow breaks easily.
+@3.32
+But three arrows bound together will not break so easily. This is an old teaching handed down from Ming.
+@3.33
+It is the same with generals... One general is easily defeated, but three together are hard to defeat.
+@3.34
+If each of you acts alone, you will soon be destroyed.
+@3.35
+But if the three of you join forces, you can protect our \#A07 house from enemies without.
+@3.36
+Put the main house of \#A07 first. That is the best way to survive this age of war.
+@3.37
+That is unexpected, Father... We have not the slightest wish to turn against the Mōri.
+@3.38
+It is as my brother says.
+@3.39
+I, \#607, know well that you have no such intent.
+@3.40
+But some may try to use your names to plot rebellion.
+@3.41
+By showing all, at home and abroad, that you put the main house of \#A07 first, you leave such fools no opening.
+@3.42
+You three are brothers by blood. Help one another and protect the main house of \#A07.
+@3.45
+I shall engrave it on my heart.
+@3.47
+I hear the old lord has summoned his second son, Lord \#5F4, and his third son, Lord \#5F3.
+@3.48
+The old lord held out three arrows to his sons.
+@3.49
+Three arrows?
+@3.50
+And then he ordered them to break them.
+@3.52
+An arrow that breaks alone would not break when three were bound.
+@3.53
+From this, they say, he taught the three to work together to protect the main house of \#A07.
+@3.54
+Hmm... the old lord does do interesting things.
+@3.55
+At any rate, this will surely bind the \#A07 house closer together.
+@4.0
+With \#25E gone, \#264 is nothing to fear...
+@4.1
+Yes... Now is the time for our \#A07 house to claim mastery of the Chūgoku.
+@4.2
+But there are still the \#984... The road is still a long one.
+@4.3
+First, let us finish off the Ōuchi now that \#25E is gone!
+@4.4
+Ha ha ha, so we shall!
+@4.5
+\#207's all-or-nothing gamble on Itsukushima ended in a great success...
+@4.6
+\#25E, branded as a man who slew his own lord and as the general who lost to \#207, would be condemned as disloyal for generations to come...
+@5.0
+Lord \#3FE! At Itsukushima our army has clashed with the forces of the \#A64!
+@5.2
+A great victory for our side! The \#A64 commander, Lord \#25E, seems to have fallen in battle!
+@5.3
+Oh, is that so... Splendid news! So even \#25E has been struck down...
+@5.4
+In \@001/\@002, \#207 crushed the great army of \#25E at Itsukushima with a surprise attack...
+@5.5
+\#207, long a subject of the Ōuchi, had slowly gathered strength and at last overthrew his former masters...
+@5.6
+and now, in name and in fact, he had won renown as master of the Chūgoku...
+@6.0
+Just as planned, \#25E took \#207's bait and marched his army onto Itsukushima...
+@6.1
+Good! Now is the time to cut down the \#A64 host!
+@6.2
+Lord \#A07, in this battle we of the Murakami navy shall lend our aid as well!
+@6.3
+Oh, I am grateful.
+@6.4
+Not at all... \#25E of the \#A64 house is a nuisance who tramples on our waters too.
+@6.5
+If we can bring down \#A5E with you, Lord \#A07, so much the better for us.
+@6.6
+Then let us vie for glory together! Forward! Our target is \#25E's head!
+@7.1
+Yes! Well fought, all of you! At last we have beaten the mighty \#A64 host!
+@7.2
+\#25E fell in battle and the \#A64 host fled. This battle showed all the land that mastery of the Chūgoku had passed from Ōuchi to Mōri.
+@7.3
+Good! Now, a triumphal return!
+@7.4
+Our army is routed!
+@7.5
+Grr! So \#25E is a seasoned general after all... He will not be beaten so easily...
+@7.6
+In any case, retreat!
+@7.7
+\#207's all-or-nothing gamble failed... The battle instead showed off \#25E's skill in turning a bad position around...
+@7.8
+And so the struggle between the \#A64 and the \#A07 for mastery of the Chūgoku went on...
+@7.12
+\#207's all-or-nothing gamble came to nothing... The battle instead showed off \#25E's skill in turning a bad position around...
+@8.0
+At last we have brought down the \#984... It was my long-held wish. Now none remain who would harm the Mōri.
+@9.0
+Ugh... What have I done? Why does \#207 treat me as his enemy?
+@9.2
+Come to think of it... what was my life? After \#25E killed Lord Ōuchi Yoshitaka, he brought me from the \#8E0 house and set me up as the heir...
+@9.3
+I became head of the Ōuchi, called the greatest house in the west, yet I had no freedom at all... \#65E held all the real power...
+@9.4
+Why did I come from Kyūshū to be adopted? To be a puppet?
+@9.6
+And after \#25E died, now \#A07 attacks me... though I never did \#A07 any harm...
+@9.7
+What grudge does \#607 hold against me!
+@9.8
+My lord... it cannot be helped. It is the way of this warring age... the fate of one who inherits a daimyō's house...
+@9.9
+However great a house's glory once was, when it loses its strength it must give way to new powers...
+@9.10
+Then I am a man the new age has no use for...
+@9.12
+In that case, I have no more ties to this world... At the last, at least, I will die like a samurai, by seppuku...
+@9.13
+My lord...! I shall go with you!
+@9.14
+You will act as my second... Understood?
+@9.15
+...Yes, my lord!
+@9.16
+"Lured, what grudge could one hold? When the time comes, the flowers too must fall, if only to the storm"...
+@9.19
+Born the son of Ōtomo Yoshiaki, later adopted by Ōuchi Yoshitaka...
+@9.21
+I bring word! \#264 seems to have taken his own life!
+@9.22
+Yes, good! Then we return!
+@10.0
+\#25E's army, camped and assembled on Itsukushima, was thrown into chaos by a surprise attack from the \#A07 side.
+@10.1
+The 20,000 men of the \#A5E army, unable to move for their own numbers in the confusion, fell away one after another...
+@10.2
+And where they fled to escape the attack, the Murakami navy lay in wait to reinforce the Mōri...
+@10.3
+Curse you, useless wretches! Why panic against a paltry \#A07 force!
+@10.4
+We have more men! Keep calm and close ranks! ...It is no use! The men will not listen!
+@10.5
+The \#A5E army was large, but in the confusion it lost all order, and only a handful of its soldiers could actually fight...
+@10.6
+Good, now! Finish off the \#A5E army!
+@11.0
+How goes the siege to starve out \50F9 Castle?
+@11.1
+We have cut \50F9 Castle's provisions by about 3,000 koku.
+@11.2
+Good. Keep at it.
+@12.0
+Well, is everyone here? Then let us begin the council.
+@12.2
+What is it! We are in council!
+@12.3
+The army of \#25E of the \#A64 house has set out from \50F9 Castle! It seems to be marching on our lands!
+@12.5
+He took the bait, the fool... Pretending to build a decoy castle was worth it.
+@12.6
+Good, we march out too. If only we drag them into open battle, the chance of victory is ours!
+@12.7
+But the \#A64 army must be very large, I fear.
+@12.8
+The \#A5E army is reported to number some 20,000 men!
+@12.9
+20,000...
+@12.10
+Bah... Once we have them in the field, the rest is simple... Next we drag them onto the sea.
+@12.11
+Unlike us, the Ōuchi are poor at fighting on water. If the battlefield is the sea, the \#A5E army will fall into disorder and stragglers will be cut off...
+@12.12
+Then their numbers will shrink even further.
+@12.13
+Yes, our advantage grows... If only we win the navies over to our side, all will be secure...
+@12.14
+Then leave it to me. I will bring the Inland Sea navies over to our side.
+@12.15
+And so \#3F1 negotiated with the navies who held the waters of the Inland Sea.
+@12.16
+Good news, my lord! The navies will join our side!
+@12.17
+Good! This battle will decide the fate of the \#A07, the battle of a lifetime! Everyone, fear nothing and win glory!

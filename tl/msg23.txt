@@ -1,5 +1,5 @@
 @0
-Playable in {02}{01}g.
+You can play as {02}{01}g.
 @1
 One of the Three Views of Japan. Its 260-odd islands, blue sea and pines make it the finest of the three.
 @2
@@ -13,7 +13,7 @@ One of the Three Views of Japan: a 3 km sandbar of white sand and green pines ju
 @6
 One of the Three Great Falls, on the Nachi River below Mt. Nachi. Its First Fall is superb. Long an ascetics' site.
 @7
-One of the Three Views of Japan. Itsukushima Shrine, famed for its torii in the sea, was the Taira shrine; Kiyomori came here.
+One of the Three Views of Japan. Itsukushima Shrine, famed for its sea torii, was the Taira shrine; Kiyomori came here.
 @8
 Tosa Bay, held between Capes Ashizuri and Muroto, has long known whaling. A rich sea with a southern air.
 @9
@@ -23,17 +23,17 @@ A cone volcano, symbol of Kagoshima. Its complex peaks, made by several great er
 @11
 One of the Three Great Falls, praised by the poet-monk Saigyo. Its scenery changes completely each season.
 @12
-A hall gilded inside and out, holding the remains of three generations of the Oshu Fujiwara and an Amida triad.
+A hall gilded inside and out, holding the remains of three generations of the Ōshū Fujiwara and an Amida triad.
 @13
 A lagoon formed as silt from the Yoneshiro and Omono rivers joined the Oga peninsula. Once second only to Lake Biwa.
 @14
 With Koya and Hiei, one of Japan's three great holy sites: a sacred peak revered since the Heian era.
 @15
-A cliff coast on the Etchū-Echigo border, so perilous that parent and child can't watch out for each other.
+A cliff coast on the Etchū-Echigo border, so perilous that parent and child can't look out for each other.
 @16
 Columnar cliffs facing the Sea of Japan. Legend says the wicked monk Tojinbo of Heisenji was pushed off here.
 @17
-Mountain name Jogakusan. Founded in the Asuka era, an ancient temple of no single sect, revered far and wide.
+Its mountain name is Jogakusan. Founded in the Asuka era, an ancient temple of no single sect, revered far and wide.
 @18
 Japan's largest dunes, heaped by wind and waves from the sand of the Sendai River and the coastal currents.
 @19
@@ -65,7 +65,7 @@ Duel lasting card. The foe holds one card fewer.
 @32
 Duel lasting card. Turns the foe's combos into normal attacks.
 @33
-Duel special card. If held, restores much stamina when yours hits 0.
+Duel special card. If held, restores a lot of stamina when yours hits 0.
 @34
 Duel special card. If held, restores a little stamina when yours hits 0.
 @35
@@ -81,7 +81,7 @@ Duel special card. Removes the foe's lasting card.
 @40
 Duel special card. Swaps the foe's lasting card with your own.
 @41
-Duel special card. Restores much stamina.
+Duel special card. Restores a lot of stamina.
 @42
 Duel special card. Restores a little stamina.
 @43
@@ -221,7 +221,7 @@ Title of a merchant proven in Hakata. You get a shop of your own.\nCapacity +100
 @110
 Well versed in trade, and nearly a full merchant.\nCapacity +10000
 @111
-Has trained a fair while as a merchant and at last grasps the basics.\nCapacity +10000
+Has trained for a fair while as a merchant and at last grasps the basics.\nCapacity +10000
 @112
 New to merchant training and not yet a full merchant.\nYou can apprentice at a merchant house.
 @113
@@ -249,7 +249,7 @@ Given to a master of the ninjutsu mini-game. Lets you skip the ninjutsu mini-gam
 @124
 Given to a master of the scheming mini-games. Lets you skip the scheming mini-games.
 @125
-Given to a master of the Soldier-Farmer Split and Win the People mini-games. Lets you skip them.
+Given to a master of the Separate Soldiers and Win Hearts mini-games. Lets you skip them.
 @126
 Given to a master of the castle repair and expansion mini-games. Lets you skip them.
 @127
@@ -275,7 +275,7 @@ The ultimate title, for a master who has appraised many arms and works of art.
 @137
 The ultimate title, for a patron who backed artists and supported many works.
 @138
-The ultimate title, for a great judge of talent who found and raised many hidden men.
+The ultimate title, for a great judge of talent who found and promoted many overlooked men.
 @139
 Battle special card. Castle attackers only. A normal attack that also lowers the castle's defense.
 @140
@@ -353,7 +353,7 @@ Basic battle card. Removes and cancels the foe's lasting card.
 @176
 Battle formation card. A plain formation with no special traits. The basic formation.
 @177
-Formation card. Centre thrust out like fish scales. For attack.\nAttack formation level 1
+Formation card. Centre pushed forward like fish scales. For attack.\nAttack formation level 1
 @178
 Formation card. Shaped like a flight of wild geese. For attack.\nAttack formation level 2
 @179
@@ -363,7 +363,7 @@ Formation card. Spread like a crane's wings, to surround the foe.\nDefense forma
 @181
 Formation card. Units in a ring, facing foes on all sides.\nDefense formation level 2
 @182
-Formation card. A crescent, best for defense; "backs to the water".\nDefense formation level 3
+Formation card. A crescent, best for defense; also called "backs to the water".\nDefense formation level 3
 @183
 Formation card. Moves like a snake, flexing to the foe's attack.\nMobile formation level 1
 @184
@@ -391,7 +391,7 @@ You move faster on mountain paths, plains and highlands.
 @195
 You move without a sound; covert work is harder to spot.
 @196
-Disguise yourself as others: raises the success and effect of "Rumours".
+The art of disguise: raises the success and effect of "Rumours".
 @197
 Skill with gunpowder: raises the success and effect of "Arson".
 @198
@@ -405,17 +405,17 @@ Refining silver with lead. Raises the effect of "Mine Work".
 @202
 Competing crews raise the effect of "Repair Castle".
 @203
-An eye for art and swords. Appraise at home.
+An eye for art and swords. Lets you appraise at home.
 @204
-A decree cancelling unpayable debts. Raises the effect of "Win the People".
+A decree cancelling unpayable debts. Raises the effect of "Win Hearts".
 @205
 A wide network of merchants and craftsmen. Raises the effect of "Expand Castle".
 @206
-A clear line between warriors and farmers. Raises the effect of "Soldier-Farmer Split".
+A clear line between warriors and farmers. Raises the effect of "Separate Soldiers".
 @207
 The speech of Kyōto's court nobles. Raises the effect of "Court Lobbying".
 @208
-The heart of tea. Holding tea ceremonies greatly raises your guests' friendship.
+The heart of tea. Holding tea ceremonies greatly strengthens your bond with guests.
 @209
 Free of greed, you persuade with sincerity. Diplomatic talks work better.
 @210
@@ -537,7 +537,7 @@ Proof of a stay at an inn in a town of South Ōmi. The inn seal shows a rhododen
 @268
 Proof of a stay at an inn in Nara, Yamato. The inn seal shows a robin.
 @269
-Proof of a stay at an inn in Kyōto, Yamashiro, from the physician Manase Dōsan. The seal shows a weeping cherry.
+Proof of a stay at an inn in Kyōto, Yamashiro, given you by the physician Manase Dōsan. Seal: a weeping cherry.
 @270
 Proof of a stay at an inn in Kameyama, Tanba. The inn seal shows matsutake mushrooms.
 @271
@@ -569,11 +569,11 @@ Proof of a stay at an inn in Mihara, Bingo. The inn seal shows an octopus.
 @284
 Proof of a stay at an inn in Itsukushima, Aki. The inn seal shows a deer.
 @285
-Proof of a stay at an inn in Akamagaseki, Nagato. The inn seal shows a fuku, or fugu.
+Proof of a stay at an inn in Akamagaseki, Nagato. The inn seal shows a pufferfish (fuku, or fugu).
 @286
 Proof of a stay at an inn in Marugame, Sanuki. The inn seal shows a cuckoo.
 @287
-Proof of a stay at an inn in Imabari, Iyo. The inn seal shows an Ehime iris, also called taregayuesou.
+Proof of a stay at an inn in Imabari, Iyo. The inn seal shows an Ehime iris, also called tareyuesou.
 @288
 Proof of a stay at an inn in Naruto, Awa. The inn seal shows the Naruto whirlpools.
 @289
@@ -643,8 +643,8 @@ Skill card. The knack of doing good business. Sets how often you can haggle when
 @321
 Skill card. Knowledge of court customs and manners. Affects diplomacy and court lobbying.
 @322
-Skill card. The skill of persuasion. Affects diplomacy, rumours, winning the people and more.
+Skill card. The skill of persuasion. Affects diplomacy, rumours, winning hearts and more.
 @323
-Skill card. The skill of tea. Affects court lobbying and how fast friendship grows at tea parties.
+Skill card. The skill of tea. Affects court lobbying and how fast bonds grow at tea parties.
 @324
 Skill card. Medical knowledge and skill. Affects recovery from illness and stamina regained in duels.

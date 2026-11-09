@@ -7,11 +7,11 @@ Please choose a scenario.
 @3
 Start the game with this hero?
 @4
-Cancel the ability settings?\nIs that all right?
+The ability settings will be cancelled.\nIs that all right?
 @5
 Not all bonus points have been assigned.\nIs that all right?
 @6
-Reset the abilities to their initial values?\nIs that all right?
+The abilities will be reset to their initial values.\nIs that all right?
 @7
 Are these settings all right?
 @8
@@ -61,6 +61,6 @@ forget about it.
 @30
 Then let the game begin.
 @31
-Load the game?\nIs that all right?
+The game will be loaded.\nIs that all right?
 @32
-Save the game?\nIs that all right?
+The game will be saved.\nIs that all right?

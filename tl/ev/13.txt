@@ -1,0 +1,276 @@
+@0.0
+Lord Maeda
+@0.1
+Uncle
+@0.6
+\N003 was the only one who could\nkeep \#158's arrogance in check...
+@0.7
+Now that \N003 is gone,\nwho knows what will happen...
+@1.0
+Lord \#3FE! Grave news!\nThe \#958 army is attacking\nour castle!
+@1.1
+It seems \#558 has ordered the other daimyō\nto make war on our house too...\nTheir armies will surely appear one after another!
+@1.2
+What! ...Curse you, \#558!\nEven after reading our rebuttal,\nyou still mean to destroy us!
+@1.3
+There is no help for it!\nWe march!
+@2.8
+We were all vassals of the Toyotomi once...\nThis infighting is ugly.
+@2.9
+Still, I understand Lord \#62C's impatience...\n\#158's arrogance\nis more than I can stomach either.
+@3.6
+What!\nAnd Lord \#958?\nDid he have Lord \#62C cut down?
+@3.8
+I see... perhaps he has\nsome scheme in mind.
+@3.9
+But there are rumours that\nafter this affair Lord \#A2C\nis as good as finished.
+@3.10
+Hmm... matters are\ngrowing serious.\nI feel for Lord \#A2C...
+@3.11
+But this may make the \#958\nmore arrogant still...\nOur house must build up its forces.
+@4.1
+What...!?
+@4.2
+Lord \#22C was captured and executed!\nAnd the daimyō who sided with Lord \#62C\nhave been punished too.
+@4.3
+What does this mean...
+@4.4
+My lord, since our house also defied the \#958,\nif we are not careful,\nwe may be destroyed...
+@4.5
+Grr...!\nWho would have thought Lord \#A2C\nwould be beaten so easily...
+@4.6
+I should have urged you more strongly\nat the time, my lord,\nto attack the \#958 army...
+@4.7
+My lord... should we not\nhave attacked the \#958 army\nat that time after all...?
+@4.8
+No, regrets are useless.\nWe have lost...
+@4.9
+I think you should send\nLord \#958 a letter of apology at once.
+@4.10
+Will something like that\nsatisfy \#558...
+@4.11
+Lord \#958 knows our strength.\nCrushing us for nothing would shake the provinces\nand hurt Lord \#958 himself...
+@4.12
+If we do things properly with an apology\nand throw ourselves on Lord \#958's mercy,\nat least our house may survive...
+@4.13
+Yes...\nThere is no other way.
+@4.14
+As expected, \#158\ndid not destroy the \#91A clan...
+@4.15
+Most of the daimyō who sided\nwith the West were destroyed, but...
+@4.16
+the \#91A clan alone\ngot off with a light loss of lands...
+@4.17
+But after this settlement,\nno power remained\nthat could stand against \#158...
+@4.19
+Our house has been moved to Yonezawa!
+@5.0
+A great victory to begin with.\nSplendid.
+@5.1
+A report!\nThe army of Lord \#22C, who rose in the Kamigata,\nhas attacked \40F5 and beaten the \#958 army!
+@5.2
+Oh, is that so!\nOur plan of east and west\nworked well!
+@5.3
+Now the \#958 can never recover.\nThe danger to our house has passed...
+@5.4
+The battle of \40F5 ended in an overwhelming\nvictory for the Western Army\nled by \#22C and \#1F6...
+@5.5
+The daimyō who sided with the \#958 army\nfled back to their own lands...
+@5.6
+Some were captured and executed,\nothers vanished...
+@5.7
+And so the Western daimyō\nstripped those who sided with the East\nand built a new Toyotomi government...
+@5.8
+The \#91A clan, which did much to\nbring down the \#958, was richly rewarded and\nregained its old domain, all of Echigo...
+@5.9
+\#158 and his heir \#178\nwere ordered to commit seppuku...
+@5.10
+The \#958 clan was allowed to survive,\nbut with its lands\ngreatly cut down.
+@5.11
+And so the \#958 rising\nthat shook the realm came to an end...
+@5.12
+From now on, our house\nwill matter more and more...
+@5.13
+The \#8DC clan has been destroyed.
+@5.14
+The \#89E clan has been destroyed.
+@5.15
+The \#8B0 clan has been destroyed.
+@5.16
+The \#A1A clan has been destroyed.
+@5.17
+The \#8B2 clan has been destroyed.
+@5.18
+The \#8A0 clan has been destroyed.
+@5.19
+The \#8AD clan has been destroyed.
+@5.20
+The \#A31 clan has been destroyed.
+@5.21
+The \#8C9 clan has been destroyed.
+@6.0
+Old lord, \#7FE is here!
+@6.1
+\#7FE! Well come!\nI leave the campaign against the \#958 army to you.
+@6.3
+\#558, you scoundrel!\nWe will strike you back!
+@6.4
+Hm?\nBut there is no sign\nof \#558's army...
+@6.5
+Hmm, true.\nWhat does this mean...?
+@6.7
+What!\nSo \#558 turned back\nin a hurry!
+@6.8
+Old lord! This is a golden chance!\nIf we strike \#558's army from behind\nas it withdraws, we can win!
+@6.9
+Hmm... but\nI cannot leave this land now.
+@6.10
+If the enemy were only the \#958 army, fine,\nbut \#558 has called on other daimyō\nto make war on us too.
+@6.11
+If I go after \#558,\n\#066 and \#01C\nwill surely attack while I am away.
+@6.12
+Then you mean to let\n\#158 go just like that!
+@6.13
+If we work with Lord \#22C\nand attack \#558 from east and west,\nI believe we are sure to win...
+@6.14
+Stay here
+@6.15
+Strike \#558
+@6.16
+No, I still think\nI should not leave this land.
+@6.17
+Is that so...
+@6.18
+Grave news!\n\#066's army is marching\non our castle!
+@6.19
+Just as I thought...\nGood, we deal with them!
+@6.21
+...Very well, I understand.\nThis is the turning point for the realm!\nWe strike \#158!
+@6.23
+Then pursue the \#958 army at full speed!
+@6.30
+Old lord, if we let this chance slip,\nwe will never defeat \#558!
+@6.31
+But still...
+@6.32
+Attack \#958 alone
+@6.33
+Hold the defence
+@6.34
+Then, old lord,\nI, \#7FE, will strike \#558\non my own!
+@6.35
+What!\nHey, wait! \#7FE!
+@6.36
+\#558!\nI'll have your head!
+@6.37
+I understand, old lord.\nIf you are so uncertain, let us give up\nthe pursuit of the \#958 army.
+@6.38
+We leave the \#958 army to Lord \#22C\nin the Kamigata, and make our rear\nsecure!
+@6.41
+Then I march at once!
+@7.0
+Our army is all but destroyed!
+@7.1
+Bah!\nHow could this happen!
+@7.2
+In any case, let us return to the castle!
+@7.3
+Grr...\nNo help for it! We go back!
+@7.4
+Victory is ours!\nThe \#866 army is in flight!
+@7.5
+Hmph... that presumptuous \#466!\nHe won't get greedy for our lands\never again!
+@7.6
+Let us return to the castle in triumph.
+@7.7
+Yes...!
+@7.9
+Bah! How galling!
+@7.10
+Let us go back to the castle for now!
+@8.4
+Victory is ours!\nThe \#958 army is in flight!
+@8.5
+Have you learned your lesson, \#558!\nYou won't get greedy for our lands\never again!
+@9.0
+Now then, shall we begin the council?
+@9.1
+Old lord... a letter has come\nfrom Lord \#958.
+@9.2
+What!\nFrom \#158!?
+@9.5
+Old lord!\nWhat does \#158 say?
+@9.6
+He says the \#91A clan\nis suspected of rebellion...
+@9.8
+That ignoring the late Lord Taikō's last wishes,\narming ourselves and repairing our castles\ncan only mean rebellion...
+@9.9
+An outrageous accusation!\nWhat on earth is \#558 thinking!
+@9.10
+No doubt he means to make an excuse\nto crush our house,\nwhich opposes the \#958...
+@9.11
+What tyranny...\nAre those the words of a regent\nwho should support the \#896 clan!
+@9.12
+Grr...\n\#558...\nto mock the \#91A like this...
+@9.13
+Old lord...\ndo not act rashly.
+@9.14
+Oh, \#52B!\nDo you have some good idea?
+@9.15
+I will write and send a rebuttal\nof the charge that our house\nis plotting rebellion!
+@9.16
+But will something like that\nsatisfy \#558...
+@9.17
+Rest assured.\nI have some confidence in my writing.
+@9.18
+I will write an argument so sound\nthat \#558 can find no fault with it.
+@9.19
+If \#558 still lays false charges on us,\nthen we in turn will tell the realm\nof \#558's wrongs.
+@9.20
+That will be the time\nfor our house to make war\non the \#958.
+@9.21
+Very well, I understand.\nI am counting on you, \#52B.
+@9.23
+Thus, it is said,\nthe famous "Naoe Letter" was written.
+@9.24
+\#12B explained carefully, with many examples,\nthat \#11A had\nno thought whatsoever of rebellion...
+@9.25
+...and ended with the defiant words:\nif \#558 still attacked,\nthey would be waiting for him at the border...
+@9.26
+Curse you... \#12B!
+@9.27
+In \1006 years of life\nI have never read\nso insulting a letter!
+@9.28
+Just you wait!\nI will destroy the \#91A clan...!
+@9.29
+In time, \#558 ordered\nthe provinces to make war on the \#91A clan...
+@9.31
+My lord... have you heard the rumour\nthat a letter has come from\nLord \#958 to the old lord?
+@9.33
+What sort of letter?
+@9.37
+An outrageous accusation!\nWhat on earth is \#558 thinking!
+@9.40
+Grr...\n\#558...\nto mock the \#91A clan like this...
+@9.41
+Good, tell the old lord!
+@9.42
+Tell him I will write and send\na rebuttal of the charge\nthat our house is plotting rebellion!
+@9.43
+But will something like that\nsatisfy \#558?
+@9.44
+Rest easy!\nI will write an argument so sound\nthat \#558 can find no fault with it!
+@9.45
+If \#558 still lays false charges on us,\nthen we in turn will tell the realm\nof \#558's wrongs!
+@9.46
+That will be the time\nfor our house to make war\non the \#958!
+@9.47
+Tell the old lord that!
+@9.49
+We must also get in touch with Lord \#22C\nand be ready to hold the \#958 in check\nfrom east and west...
+@9.50
+Damn that \#158!\nI'll break his arrogant nose for him!
+@9.51
+This is the letter of a lifetime from \#12B.\nI'll give \#558 a good look at it!
+@9.57
+Just you wait!\nI will destroy the \#91A clan...!

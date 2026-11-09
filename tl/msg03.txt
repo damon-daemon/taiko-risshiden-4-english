@@ -19,23 +19,23 @@ Besides "Assault," there are several other special cards that attack.\n\nSince s
 @9
 Some cards behave a little differently.\n\nThis "Great Might" is one of them: a lasting card.
 @10
-Lasting cards are not attack cards. If the enemy plays attack cards, you are attacked without fail.\nWhen your stamina is low, you had better not play lasting cards.
+Lasting cards are not attack cards. If the enemy plays attack cards, you are attacked without fail.\nWhen your stamina is low, it is wiser to hold back your lasting cards.
 @11
 At this point, the lasting card has finally been played.\n\nYou can keep one lasting card at the top right.
 @12
 And unless it is somehow removed, or you play a different lasting card...\nit keeps working!\nIn the case of this "Great Might," it keeps adding +5 to your attack damage.\nBy the way, when you play cards, point the cursor at a card and its effect is explained at the bottom of the screen.
 @13
-The last kind of special card is the automatic card. Let me explain this "Counter."\n\nAutomatic cards cannot be played.\n\n\nInstead, as long as you hold one, its effect works by itself.\n\nHaving explained this much, it is quicker to see it. Just watch a moment.\n
+The last kind of special card is the automatic card. Let me explain this "Counter."\n\nAutomatic cards cannot be played.\n\n\nInstead, as long as you hold one, its effect works by itself.\n\nBeyond this, it is quicker to show you. Just watch for a moment.\n
 @14
 So, this "Counter" card is an automatic card...\n\nWhen you are attacked, it is used by itself and you strike back at the enemy.
 @15
-Next, let me explain defending.\n\n\nTo defend, choose the "Attack/Defend button" on the right.
+Next, let me explain defending.\n\n\nTo defend, choose the attack/defend "Mode" button on the right.
 @16
 That puts you in defence mode. To go back to attack mode, just choose the same button again.\nBy the way, the R2 button also switches between attack and defence; handy to remember.\n\nWhen defending, you must still play cards.\n\nYou play up to three, but rather than "playing" them, it is closer to "discarding" them.\nIn other words, the cards you choose here have no effect.
 @17
 In return, you can discard up to three cards, attack and special cards mixed. Of course, you can choose automatic cards too.\n\nDiscarding as many cards as you can to refresh your hand is the basis of defending.
 @18
-Defending reduces the enemy's attack by some amount.\n\nWhen you still have some stamina left but your hand is poor, it is good to defend.
+Defending reduces the damage of the enemy's attack.\n\nWhen you still have some stamina left but your hand is poor, defending is a good choice.
 @19
 Lastly, let me explain combos.\n\n\nWhen you play three attack cards and the numbers form a certain combination, a combo is triggered.\nA combo beats ordinary attack cards, but loses to attacking special cards.\nThere are several combos, and which beats which is fixed for each.
 @20
@@ -45,7 +45,7 @@ Combos are generally stronger than ordinary attacks.\n\nIf you have no special c
 @22
 That covers the basics of fighting one-on-one... but "running away" is also a way of fighting, one could say.\n\nHowever, sometimes you can flee and sometimes you cannot.\n\nIf "Flee" on the right can be chosen, you can get away.
 @23
-If you feel "I can't win this," it is fine to make a clean break and run.\n\nBut "Flee" can only be used once per fight.\n\nAnd "Flee" does not always succeed. Use it with care.\nThe special cards used this time were ones I put in at random.
+If you feel "I can't win this," do not hesitate to run.\n\nBut "Flee" can only be used once per fight.\n\nAnd "Flee" does not always succeed. Use it with care.\nThe special cards used this time were ones I put in at random.
 @24
 In a real fight, you are only dealt the special cards you own. At first you have few cards, so if you mean to fight often, collect all kinds of special cards.\nAfter you get certain special cards, some cards will no longer be dealt to you...\nThat is because you have obtained a higher card. No need to worry about it.\n
 @25
@@ -65,7 +65,7 @@ West: {02}{02}{A1}, {02}{02}g!
 @31
 Yes, sir!
 @32
-East: the rōnin Nakayama Itto
+East: the rōnin Nakayama Ittō!
 @32.1
 East: the rōnin {02}{02}g!
 @32.2

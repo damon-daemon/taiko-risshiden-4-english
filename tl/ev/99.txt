@@ -1,0 +1,504 @@
+@0.0
+Life in \40FB isn't bad, but it's about time I went out into the world to test my skill.
+@0.1
+I wonder how well my skill will hold up against the famous masters of the sword...
+@2.0
+Might you be Lord \#23D, who defeated the Yoshioka brothers?\nWelcome, sir.
+@4.1
+Might you be Lord \#23D, who defeated the Yoshioka brothers?
+@4.2
+I'm sorry, but Lord \#288, the master of this dojo, is away.\nPlease visit again another time.
+@5.0
+I'll hide around here.
+@5.2
+Thump, thump, thump...
+@5.3
+I'm trembling...\nAm I afraid?
+@5.4
+Hm, a crowd of voices...\nAre they that close already?\nOne, two... at least twenty of them.
+@5.5
+Thump...\nthump...\nthmp...
+@5.6
+I have to finish this in one stroke...\nRight, here I go.
+@5.8
+What the hell are you!?\nIf you want to die, we'll be happy to oblige!
+@5.9
+He's strong!\nYou lot are no match for him!\nI'll cut him down myself!
+@5.10
+Hah, hah, hah...
+@5.11
+This guy...!\nIs he some kind of demon!?
+@5.12
+Raaah!
+@5.13
+Gahh!
+@5.14
+Ugh!
+@5.15
+Did I get them all...
+@5.16
+Hm?\nWhen did I take a sword in each hand...?
+@5.17
+Against that many foes, maybe I drew two swords without thinking...
+@5.18
+Whsst
+@5.19
+Whoosh
+@5.20
+Two swords...
+@5.21
+Whsst!
+@5.23
+...That's it!
+@6.0
+I've been waiting for you, \#7FE.
+@6.1
+Are you ready?
+@6.4
+None of you are to interfere!
+@6.5
+Y-yes, sir!
+@6.6
+\#7FE! Now, a fair fight!
+@6.7
+Master!
+@6.8
+(A fatal wound.\nHe won't survive.)
+@6.9
+Ugh...\nYou're good, \#7FE...\nMy brother will be no match for you either...
+@6.10
+Tell Denshichirō...\nto hold up the dojo... in my place...
+@6.11
+And tell him... never to think...\nof avenging me...\nBe sure to tell him...
+@6.12
+Ugh...
+@7.0
+Kindly leave.
+@8.1
+My name is Miyamoto Musashi.\nI request a match with Lord \#1EC.
+@8.2
+(A country bumpkin with a lot of nerve...\nLet's teach him a lesson.)
+@8.3
+Unfortunately, Master Yoshioka is away.\nIf you'll settle for me, I'll take you on.
+@8.4
+The instructor, eh.\nWhat shall I do?
+@8.5
+Fight
+@8.6
+Don't fight
+@8.7
+(Coward...)
+@8.8
+Then kindly leave.
+@8.9
+Then let us begin.
+@8.10
+Hm? Isn't that \#7FE...
+@8.11
+Ugh! I can't believe I lost to a country bumpkin like this!
+@8.12
+What are you doing!
+@8.13
+Master Yoshioka!
+@8.15
+Taking matters into your own hands while I was away!
+@8.16
+I'm terribly sorry!
+@8.17
+I do not know who you are, but please forgive his rudeness.\nI am \#1EC.
+@8.18
+I am \#23D.\nI came to request a match with Lord Seijūrō.
+@8.20
+It seems you are a man worth crossing swords with.\nI formally accept.
+@8.21
+I must see to this man's wounds, so please leave for now.\nI will face you properly another day.
+@8.22
+Very well.\nThen I'll take my leave.
+@8.23
+Interesting...
+@8.24
+Know your place.
+@9.0
+So you've come, \#7FE.
+@9.1
+It's \#7FE!\n\#7FE is here!
+@9.2
+...So you've finally shown up.
+@9.6
+\#7FE...\nyou win...
+@10.0
+You're \#3FE, aren't you!
+@10.1
+Master \#103 is away, so I can't act on my own, but by rights I'd cut you down!
+@10.2
+Get out of here at once!
+@10.3
+Master \#103 is away.\nI have been appointed instructor in his place.
+@11.0
+Why, Lord \#7FE.\nYou've come at just the right time...
+@11.1
+Eh?\n...How do you mean?
+@11.2
+Lord \#7FE, have you ever seen the pleasure quarter?
+@11.3
+The pleasure quarter... you mean where the courtesans are?
+@11.4
+Yes. A friend of mine sent me an invitation.\nWon't you come along?
+@11.5
+I'll pass.\nIt would get in the way of my training.
+@11.6
+Now, now, don't say that...\nA man who knows nothing of love can hardly be called truly strong...
+@11.7
+L-Lord \#693...
+@11.8
+Well then, Lord \#7FE, I have a favourite of my own here, so...\nDo enjoy the flowers to the full.
+@11.9
+Pleased to make your acquaintance...\nDo be sweet to me, won't you?
+@11.10
+Gulp...
+@11.11
+My, what strong arms you have, sir...\nAnd you're not bad-looking either...\nHow many girls have you made cry, I wonder...
+@11.12
+Wh-what... how many...?
+@11.13
+Do you like me, sir?\nOr is there someone else on your mind?
+@11.14
+Someone on my mind?\nI-I...
+@11.15
+There's someone I love
+@11.16
+There's no one
+@11.17
+Th-there's a woman named \#3F0\nwho has my heart!
+@11.18
+Then it wouldn't do for me to steal you away, would it...
+@11.19
+Sorry!\nI've embarrassed you...
+@11.20
+It's all right...
+@11.21
+Th-there's no one like that!
+@11.22
+I'm glad...\nThen be sweet to me tonight...
+@11.24
+Th-there's no one like that!
+@11.27
+...How was it, Lord \#7FE?
+@11.28
+...Well, er...\nIt was an education...
+@11.29
+Ha ha ha, I'm glad to hear it.\nThen it was worth bringing you.\nShall we head home?
+@12.0
+Why, Lord \#63D.
+@12.1
+Lord \#A88, I see you are a swordsman of great skill.\nI request a match.
+@12.3
+I have somewhere to be, so I must take my leave.\nWe shall meet again.
+@13.0
+I'm home at last...
+@13.1
+It feels like long ago that I resolved to become a true martial artist.
+@13.2
+And the "Book of Five Rings" I've been writing whenever I could is finally finished.
+@13.3
+I've caused \#3F0 a lot of worry...\nIt wouldn't be bad to live out my life in peace with \#3F0 from now on.
+@13.4
+But the way of the sword has no end...
+@13.5
+What matters is whether there's anything I've left undone.
+@13.6
+Have I really...
+@13.10
+After that, \#7FE wandered the provinces, seeking service.
+@13.11
+In his later years, \#7FE was welcomed as a guest of Hosokawa Tadatoshi of Higo.
+@13.12
+Given a large estate near Kumamoto Castle, \#7FE produced many fine works, such as the "Thirty-Five Articles on Strategy" and his "Daruma" paintings.
+@13.13
+Above all, the "Book of Five Rings", which set out the secrets of the sword, would be widely read for ages to come.
+@13.14
+And at \#63D's side, it is said, was always \#3F0, as fresh and sweet as ever...
+@13.15
+I still know little of the world.\nI can lose myself in thoughts any time.\nFor now I'll just do what I've left undone.
+@13.16
+I still know little of the world...\nI can lose myself in memories any time.\nFor now I'll just do what I've left undone.
+@14.0
+Well, a samurai.\nYou out to make a name with the sword too?
+@14.1
+Yes
+@14.2
+No
+@14.3
+That's right.\nTell me who the strong ones are.
+@14.5
+Around here, first of all, everyone knows the Yoshioka school of Kyōto.\nFor generations they've been instructors to the Ashikaga shōguns.
+@14.6
+Its head is \#1EC, said to have no equal in the land.
+@14.7
+His younger brother Denshichirō is said to be just as skilled, but with a fiery temper his brother lacks.
+@14.8
+Yoshioka Seijūrō and Yoshioka Denshichirō...\nThen I just have to beat those two!
+@14.9
+Beat them!?\nBoth of them?\nHa ha ha... That's a good one.
+@14.10
+If you did, your name would be known all over Kyōto.
+@14.11
+Yes.\nI must fight them, whatever it takes.
+@14.12
+Seijūrō teaches at the dojo in the castle town of Nijō, and Denshichirō at the one in Sakamoto.
+@14.13
+Nijō and Sakamoto, then.\nThank you.
+@14.14
+So you're out to beat the Yoshioka and make a name for yourself too?
+@14.15
+Hm? Yes,\nthat's my plan, actually.\nAre you planning the same?
+@14.16
+Something like that...\nWhat's your name?
+@14.17
+\#3FE.
+@14.18
+\#7FE, eh.\nI'm \#23C.\nI'm staying at the Yoshioka dojo.
+@14.19
+What!? At the Yoshioka dojo!
+@14.20
+Heh...\nI'll do things my own way.\nSee you, \#7FE.
+@14.21
+No, not especially.\nWhy?
+@14.22
+In times like these, more and more fellows try to make their way by the sword.
+@14.23
+Plenty of schools turn dojo challengers away at the gate so as not to lose face.\nThe Yoshioka school, the biggest in Kyōto, is one of them.
+@14.24
+The Yoshioka school...
+@14.25
+Its head, Yoshioka Seijūrō, teaches at Nijō Castle, and his brother Denshichirō at Sakamoto Castle.
+@14.26
+Beat either one of them, and your name would ring all over Kyōto.
+@14.27
+They're that strong...
+@14.28
+(Then if I beat them both, would my name ring across the land?)
+@14.29
+Mind you, they won't take on just anybody off the street.\nWell, good luck to you.
+@14.31
+Hm?\nAre you planning the same?
+@15.0
+Hm?\nWhat's that crowd?\nLet's go and see.
+@15.1
+What's going on?
+@15.2
+A duel, a duel!
+@15.5
+Kieee! Toh!
+@15.6
+Honestly, the weaker the dog, the louder it barks...\nWhy don't you hurry up and come at me?
+@15.7
+(Isn't that... \#63C?)
+@15.8
+Hm? Musashi...
+@15.10
+(This man isn't worth cutting down.\nBut watch closely, \#63D!)
+@15.11
+An opening! Hyaaah!
+@15.14
+Did you see it, \#63D?\nMy "Swallow Cut"!
+@15.15
+"Swallow Cut"...
+@15.16
+A killing stroke that can cut down even a swallow in flight.
+@15.19
+My sword... a monkey's imitation...
+@16.0
+Something seems wrong here...\nHey, has something happened?
+@16.1
+You'd best run too, sir.\nThose men are coming again.
+@16.2
+Those men?
+@16.3
+Bandits!\nStarving rōnin who've banded together!\nThere must be dozens of them.
+@16.4
+Hey, you!\nThis is no time to be chatting!
+@16.5
+Anyway, this town is dangerous.\nPlease get away quickly.
+@16.6
+Sorry to have held you up.
+@16.7
+What should I do...
+@16.8
+If I run, I'd better leave town now.\nIf I fight, I'd better hide somewhere in town and save my strength.
+@17.0
+Hey, \#63D.
+@17.1
+\#63C!\nWhat are you doing here?
+@17.2
+Heh, I've been waiting for you.
+@17.3
+For me?
+@17.4
+That's right, \#63D.\nI've decided it's time to formally challenge you to a duel.
+@17.5
+I knew this day would come.\nI accept gladly.
+@17.6
+I've found a place fit for you and me to die.\nGanryujima.
+@17.7
+Ganryūjima...
+@17.8
+A lone island off Akamagaseki.\nWe can fight to our hearts' content with no one to interfere.
+@17.9
+Akamagaseki, then.\nVery well, I'll be there.
+@18.0
+(Kojirō...)
+@18.1
+Sir,\nmight you be \#3FE?
+@18.3
+Ah, I thought so...\nThen you're looking for \#23C?
+@18.4
+Yes.\nYou know \#63C?
+@18.5
+...Lord \#7FE, you are too late.\nLord \#63C was waiting at an inn in this town for you to come, Lord \#7FE, but...
+@18.6
+he fell ill... and passed away...
+@18.7
+What! Kojirō!?
+@18.8
+(\#63C...\nYou went and died on your own...)
+@18.9
+You must be Lord \#63D.\nI've been waiting for you.\nLord \#63C has already left for Ganryūjima.
+@18.10
+So as not to draw attention, a boat is ready at the edge of town.\nPlease leave town first, then set out.
+@19.0
+\#7FE.
+@19.2
+\#103 asked me to give you this.
+@19.3
+A challenge...
+@19.4
+"I await you at the dojo in Sakamoto Castle..."
+@19.5
+Do you think you can win?
+@19.6
+Of course.
+@19.7
+Heh, that's the spirit.\nI'll go on ahead to Sakamoto Castle.\nI'm looking forward to it.
+@19.8
+You're \#3FE, aren't you?\nI have a message for you from Lord \#103.
+@19.9
+"I await you at the dojo in Sakamoto Castle."\nHe said you'd understand.
+@19.10
+Sakamoto Castle...\nVery well,\nI'll be there.
+@20.0
+Might you be \#3FE, who beat the Yoshioka brothers?
+@20.1
+Yes, I am \#3FE.
+@20.2
+So \#3FE has joined the ranks of first-rate martial artists.
+@20.3
+I'm hardly first-rate.\nI'm still travelling for training, as you see.
+@20.4
+Then let me tell you about the famous martial artists of the provinces.\nI hear a lot in my trade.
+@20.5
+Oh! Please do!
+@20.6
+At Yamato-Kōriyama Castle is Lord \#223, founder of the Yagyū Shinkage school.
+@20.7
+At Kōnodai Castle is Lord \#287, founder of the Ittō-ryū.
+@20.8
+At Minowa Castle is Lord \#288, founder of the Shinkage school.
+@20.9
+And then there's...
+@20.10
+the rōnin \#14B...
+@20.11
+\#14B of the \9079...
+@20.12
+the rōnin \#0D6...
+@20.13
+\#0D6 of the \907A...
+@20.14
+the rōnin \#157...
+@20.15
+\#157 of the \907B...
+@20.16
+Oh yes, I almost forgot.\nA while ago I happened to witness a duel...
+@20.17
+How strong that man was!\nHe's sure to become a famous martial artist one day.
+@20.18
+His name was... Something \#A3C, I think.
+@20.19
+\#A3C, you say!
+@20.20
+\#A3C...
+@20.21
+A handsome man carrying a long sword of over three shaku on his back...
+@20.22
+No doubt about it.\nIt's \#23C!
+@20.23
+That's about all I know.
+@20.24
+Thank you for the lesson.\nI'll keep it in mind.
+@21.0
+Phew.\nThat was close...\nI wonder if things have cooled down yet.
+@22.0
+I've broken my word as a samurai...\nForgive me, \#63C...
+@22.1
+Lord \#63D,\nI'll take you there.
+@22.4
+\#3F1...\nI'll win and come back, I swear.
+@22.5
+Lord \#63D!
+@22.6
+...\#3F0!\nIs that you, \#3F0?
+@22.7
+Haa, haa...\nI heard you were going to fight a duel, Lord \#63D...
+@22.8
+For my sake...
+@22.9
+Lord \#63D, who is this?
+@22.11
+She is my...
+@22.12
+Wife
+@22.13
+An acquaintance
+@22.14
+She is my... wife.
+@22.15
+Lord \#63D!
+@22.16
+...\#3F0 will wait for you to come home, always, always...
+@22.17
+She is... an acquaintance.
+@22.18
+Lord \#63D, please come back safely...
+@22.19
+...We've been rowing a good while.\nHow much further to Ganryūjima?
+@22.20
+Well, I reckon it'll come into view before long...
+@22.21
+I see...\nYou must be tired too.\nRest your oars for a while.
+@22.22
+Eh? Are you sure?
+@22.23
+There's no hurry...
+@22.25
+He's late... late, \#63D!\nDidn't the coward run away in fear?
+@22.26
+He'll come.\nYou just stand by and keep quiet.
+@22.27
+Hmph...
+@22.28
+Look, here he comes.
+@22.30
+However late you come,\nyou won't catch me off guard.
+@22.31
+Hm, \#63C, you are defeated!
+@22.33
+Just now you threw away your scabbard...\nSword and scabbard are one.\nIn casting away your scabbard, you cast away your fate!
+@22.34
+What!\nYou talk nonsense in the middle of a duel!\nHere I come, \#63D!
+@22.36
+\#63D...\nyou win...\nDon't let... my spirit go to waste...
+@22.37
+I thank you, \#63C...\nWithout you, I could never have grown strong...
+@22.38
+\#63C...\nyou win...

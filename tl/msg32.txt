@@ -1,5 +1,5 @@
 @0
-●Outline\nStudy under someone with a fine skill and train. The better the training goes, the more merit you earn.\n◆Procedure\nGo to the person you will study under and ask to be taught. When the training is done, return to the castle and report.\n◆Where to train\nInfantry, Archery, Building, Tactics, Mining, Navy, Speech\n...samurai quarter\nSwordsmanship...dojo
+●Outline\nStudy under someone with a fine skill and train. The better the training goes, the more merit you earn.\n◆Procedure\nGo to the person you will study under and ask to be taught. When the training is done, return to the castle and report.\n◆Where to train\nInfantry, Archery, Building, Tactics, Mining, Navy, Speech\n...Samurai Home\nSwordsmanship...dojo
 @1
 ◆Where to train (cont.)\nEtiquette...temple\nCavalry...stable\nFarming...Nanban temple\nGunnery...smithy\nTea...tea master's house\nNinjutsu...Training Ground 1 of a ninja village\nAccounting...merchant house\nMedicine...physician's house
 @2
@@ -21,7 +21,7 @@
 @10
 ●Outline\nGo to the castle named and carry out New Fields. It takes 20 days.\nNew Fields raises yield, increasing rice every September.\n◆Procedure\nPlay the mini-game "One-Stroke".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
 @11
-◆Abilities that matter\nFarming: the higher, the more rocks you can break.\nBetter Tools card: more rocks you can break.
+◆Abilities that matter\nFarming: the higher, the more rocks you can break.\nBetter Tools card: lets you break more rocks.
 @12
 ●Outline\nGo to the castle named and carry out Mine Work. It takes 20 days.\nMine Work increases the war funds from mines each month.\n◆Procedure\nPlay the mini-game "Gold Vein Amida".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
 @13
@@ -75,7 +75,7 @@
 @37
 ●Outline\nVisit the person you were told to recruit and recruit him. If you succeed, he becomes an officer of your clan.\n◆Procedure\nFirst find the person. On the travel screen, set a destination and choose the mission's base to travel to the base where he is. When you find him, talk to him and choose Recruit.
 @38
-◆Abilities that matter\nBond: the higher, the more likely to succeed.\nCharm, Speech: the higher, the more likely to succeed.\nVirtuous Heart card: more likely to succeed even if he is not close to you.\nBewilder card: more likely to succeed even with a loyal officer.
+◆Abilities that matter\nBond: the higher, the more likely to succeed.\nCharm, Speech: the higher, the more likely to succeed.\nVirtuous Heart card: more likely to succeed even if he is not close to you.\nBeguile card: more likely to succeed even with a loyal officer.
 @39
 ●Outline\nConquer the target castle, province or daimyō. You receive this mission once you are a castle lord or higher.\n◆Procedure\nTake the target castle, province or daimyō in battle, or bring it into alliance or under your rule through diplomacy.\nA castle taken in battle becomes your clan's. A clan brought under rule through diplomacy joins your side whole.
 @40

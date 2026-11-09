@@ -15,6 +15,9 @@ through CAP before returning it. CAP upper-cases an ASCII letter at a sentence s
   bare fragments callers paste into their own text ("the likes of", "our lord") never do;
 - '%' (a printf field filled in later, e.g. "%s") and digits end the sentence start, so a
   conversion letter is never touched; ESC x y is skipped, Shift-JIS and kana end it.
+Event text (scripts in TR4DATA 61) is expanded by CEventEnvironment::NewExtractMessage
+0x1ADAD0 (its \\% escapes insert the same msg00 phrases): its epilogue passes the result
+through CAP as well.
 """
 import struct
 
@@ -25,6 +28,11 @@ RET = 0x254D28      # lui at,1; addu at,s0,at; lw v0,0x414(at); lq ra,16(sp); lq
                     # addiu sp,sp,0x20; jr ra; nop
 ORIG = [0x3C010001, 0x02010821, 0x8C220414, 0x7BBF0010, 0x7BB00000, 0x27BD0020,
         0x03E00008, 0x00000000]
+
+EV_RET = 0x1ADB84   # lq ra,64 / s3,48 / s2,32 / s1,16 / s0,0(sp); addiu sp,0x50; jr ra; nop
+                    # then 3 nops of padding before NewExtractMessageCore 0x1ADBB0
+EV_ORIG = [0x7BBF0040, 0x7BB30030, 0x7BB20020, 0x7BB10010, 0x7BB00000, 0x27BD0050,
+           0x03E00008, 0, 0, 0, 0]
 
 def _word(elf, va):
     return struct.unpack_from('<I', elf, va - BASE + FOFF)[0]
@@ -131,3 +139,8 @@ def apply(elf, seg):
     _put(elf, RET, assemble(RET, [
         ('lui', 'at', 1), ('addu', 'at', 's0', 'at'), ('jal', cap), ('lw', 'a0', 0x414, 'at'),
         ('lq', 'ra', 16, 'sp'), ('lq', 's0', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 0x20)]))
+    assert [_word(elf, EV_RET + 4 * i) for i in range(len(EV_ORIG))] == EV_ORIG, 'NewExtractMessage epilogue'
+    _put(elf, EV_RET, assemble(EV_RET, [
+        ('jal', cap), ('addu', 'a0', 'v0', 'zero'),
+        ('lq', 'ra', 64, 'sp'), ('lq', 's3', 48, 'sp'), ('lq', 's2', 32, 'sp'),
+        ('lq', 's1', 16, 'sp'), ('lq', 's0', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 0x50)]))

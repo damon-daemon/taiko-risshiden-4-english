@@ -5,11 +5,11 @@ Oh, who might you be?
 @2
 Pleased to meet you.\nI am {02}{01}g.
 @3
-A rōnin, are you?\nAnyway, I look forward to knowing you.
+A rōnin, are you?\nAnyway, I hope we'll get along.
 @3.1
-Oho, so you're...\nI look forward to knowing you.
+Oho, so you're...\nI hope we'll get along.
 @3.2
-Oh, you serve the {02}{06}e, do you?\nWell, well. I look forward to knowing you.
+Oh, you serve the {02}{06}e, do you?\nWell, well. I hope we'll get along.
 @4
 Good of you to come to my dojo.
 @5
@@ -93,9 +93,9 @@ Who's there! An intruder?!
 @34
 (Damn, I've been spotted.\nI'll run for now.)
 @35
-I'm grateful for the thought,\nbut sadly this castle has\nnot a single soldier right now.
+I'm grateful for the thought, but sadly this castle has not a single soldier right now.
 @36
-I'm grateful for the thought,\nbut forgive me, the money you have\nwould have no effect.
+I'm grateful for the thought, but forgive me, the money you have would have no effect.
 @37
 Oh, you will give alms to the soldiers? They will be delighted. How much, then?
 @38

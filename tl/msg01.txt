@@ -127,11 +127,11 @@ this
 @11.4
 
 @12
-Don't joke with a face like that... ha ha
+Your face is joke enough... ha ha
 @12.1
 Don't tell lies... ahem
 @12.2
-You do love your jokes... ahem
+You're quite the joker... ahem
 @12.3
 Don't tell lies! ...Ahem
 @12.4
@@ -761,7 +761,7 @@ My, how generous
 @86.2
 My, how generous of you
 @86.3
-Oh, bold
+Oh, bold of you
 @86.4
 Going big from the start, eh
 @87
@@ -785,17 +785,17 @@ forget
 @89
 Shall I explain "oicho-kabu"?
 @90
-To play "oicho-kabu", first you have to buy betting cards.
+To play "oicho-kabu", first you have to buy betting coins.
 @91
-The price of the cards depends on the market rate. They cash in at 80% of the rate.
+Coin prices follow the market rate, and they cash in at 80% of it.
 @92
-You can buy up to %w cards at a time. If you run out of cards, just buy more.
+You can buy up to %w coins at a time. If you run out of coins, just buy more.
 @93
 Well then, let me explain how "oicho-kabu" is played. It's not such a hard game.
 @94
 The cards are numbered from 1 to 10. Out of 40 cards in all, you are dealt two or three.
 @95
-Whoever's total is closest to 9, "kabu", wins. If the total goes over 10, the ones digit is your score.
+Whoever's total is closest to 9, "kabu", wins. If the total goes past 10, only the ones digit counts.
 @96
 Then you play your cards against the dealer's.
 @97
@@ -807,13 +807,13 @@ Well then, let's actually try it. First the dealer deals one card face up to eac
 @100
 Then the dealer deals himself one card face down.
 @101
-Next, going right from the dealer, each player places a bet. You can bet up to %w cards.
+Next, going right from the dealer, each player places a bet. You can bet up to %w coins.
 @102
 You can't bet on a pile someone has already taken.
 @103
 You then play with the cards dealt to the pile you bet on.
 @104
-Well then, for now let's say we bet 10 cards here.
+Well then, for now let's say we bet 10 coins here.
 @105
 Next the dealer deals the second cards face down, but to make it easy to follow, I'll deal them face up.
 @106
@@ -885,25 +885,25 @@ But of course, against an "arashi" he loses no matter what.
 @139
 Let's say players bet on these three piles, and you can't see their second cards.
 @140
-Then the first pile looks suspicious. For someone who drew a third card, a 9 isn't it...
+Then the first pile looks fishy: they took a third card, and it's a 9...
 @141
-It looks like they blew it, so "Showdown!" He plays the first pile.
+They must have blown it. So he calls "Showdown!" on the first pile.
 @142
 And when he turns it over, sure enough, "shini".
 @143
-How's that? The dealer wins and takes the bet. On a roll, so on to the next!
+How's that? The dealer wins and takes the bet. Now, riding his luck, on to the next!
 @144
 That's what I'd like to say, but wait a moment. The other two look suspicious as well.
 @145
-I keep a straight face, but with this "roppo" I think I can't win.
+I keep a straight face, but I don't think this "roppo" can win.
 @146
 Naturally. They could be "%s" or "shippin".
 @148
-Well, you can't see them, but if you think you can't win, you may draw a third card while opponents remain, even after one showdown.
+Well, you can't see their cards, but if you don't think you can win, you may draw a third card even after one showdown, as long as opponents remain.
 @149
 Pfft
 @150
-Well, 1, "inketsu"!
+What! A 1, "inketsu"!
 @151
 But moan as you might, once you've drawn a third card you must play every remaining pile.
 @152
@@ -919,15 +919,15 @@ And the hands are named, from 0...
 @157
 "Roppo," "naki," "oicho" and "kabu." It helps to remember them.
 @158
-Oh, and gambling makes you lose track of time. Be careful with the time.
+Oh, and gambling makes you lose track of time. Keep an eye on the clock.
 @159
 There, that's the end of the "oicho-kabu" explanation. Well, got it?
 @160
 Well then, shall I explain again from the start?
 @161
-One betting card costs about this much. What will you do?
+One betting coin costs about this much. What will you do?
 @162
-If you want to play "oicho-kabu", buy some cards.
+If you want to play "oicho-kabu", buy some coins.
 @163
 You're flat broke. Come back when you've got some money.
 @164
@@ -951,7 +951,7 @@ Where will you bet?
 @170.3
 Where are you betting?
 @171
-Decide how many cards to bet. You can bet up to 30 at a time.
+Decide how many coins to bet. You can bet up to 30 at a time.
 @172
 Sorry, that's mine!
 @172.1
@@ -987,7 +987,7 @@ I have a good feeling this time
 @178
 Now, now, what should I do...
 @178.1
-Hmmm......
+Hmmm...
 @178.2
 How should I play this one?
 @179
@@ -1035,7 +1035,7 @@ Money talks, even in hell
 @191
 Unbelievable!
 @191.1
-So the gods were here
+The gods were with me after all
 @191.2
 Well, these things happen
 @192
@@ -1047,7 +1047,7 @@ Don't scare me like that
 @193
 My luck's in today
 @193.1
-Hand over the cards
+Hand over the coins
 @193.2
 Oh, looks like I won
 @194
@@ -1065,7 +1065,7 @@ Buddha's grace, maybe
 @197.1
 Use your head and you win
 @198
-Your luck seems low today
+Your luck's trading low today
 @198.1
 I hope you won't take offense
 @199
@@ -1075,7 +1075,7 @@ This is why I can't quit gambling
 @200
 That was close
 @200.1
-I won for living righteously
+That's my reward for clean living
 @201
 In trade and gambling, timing is everything
 @201.1
@@ -1093,7 +1093,7 @@ My win, I'm afraid. Do forgive me
 @204.1
 Too bad
 @205
-Shall I build a storehouse at this rate?!
+At this rate I'll be building a new storehouse!
 @205.1
 Serves you right
 @206
@@ -1103,11 +1103,11 @@ Delightful
 @207
 No complaints, I trust
 @207.1
-I'm a little confident in my skill
+I do have some faith in my skill
 @208
 Yahoo!
 @208.1
-Come on, give me the cards!
+Come on, give me the coins!
 @209
 A fine play, don't you think?
 @209.1
@@ -1155,7 +1155,7 @@ Tch, no luck
 @221
 Hmmm...
 @221.1
-A short break, a short break
+Time for a breather
 @222
 Time to get serious
 @222.1
@@ -1171,7 +1171,7 @@ This won't do at this rate
 @225
 Well, well... not bad
 @225.1
-It won't go like this next time
+It won't go so easily next time
 @227
 A draw, eh
 @227.1
@@ -1223,13 +1223,13 @@ This won't do at this rate
 @240
 A draw, it seems
 @240.1
-It won't go like this next time
+It won't go so easily next time
 @241
-The house is out of cards.
+The house is out of coins.
 @242
-Pay for the missing cards in coin.
+The rest was paid out in cash.
 @243
-If you want to go on, buy some cards.
+If you want to go on, buy some coins.
 @244
 Looks like you're bled dry. Mind how you go home.
 @245
@@ -1237,17 +1237,17 @@ Next, I'm the dealer.
 @246
 One more!
 @247
-My, my, you've won quite a lot. I know! I've got some goods I seized instead of bets people couldn't pay... They're no use sitting here, so I'll let them go for {02}$d cards each. Want to see?
+My, my, you've won quite a lot. I know! I've got some goods I seized instead of bets people couldn't pay... They're no use sitting here, so I'll let them go for {02}$d coins each. Want to see?
 @248
 Calling it quits?
 @249
-Then I'll cash in your cards.
+Then I'll cash in your coins.
 @250
 You're strong! Small fry around here are no match for you. Next time you come, I'll have some real gambling ready. Come again.
 @251
 What! You've got nothing left?!
 @252
-Then leave something valuable
+Then leave something valuable behind
 @253
 {02}{15}d was taken!
 @254
@@ -1261,9 +1261,9 @@ Not enough... Nowhere near enough!
 @258
 Making us go to all this trouble, you bastard!
 @259
-What a joke of a fellow. Hey! Boys, show him some love.
+Think this is a joke, do you? Hey! Boys, show him some love.
 @260
-Yes, sir! Hey, you, strutting around dressed like a samurai, you cheeky bastard! You fool!
+You got it! Hey, you! Strutting around dressed up like a samurai, you cheeky bastard! You idiot!
 @261
 Oh, you won't get away!\n
 @262
@@ -1275,15 +1275,15 @@ Big brother!
 @265
 Heh, not as tough as you look
 @266
-From now on, walk on the side of the road
+From now on, stay out of our way
 @267
 Shall I explain "chinchirorin"?
 @268
-To play "chinchirorin", first you have to buy betting cards.
+To play "chinchirorin", first you have to buy betting coins.
 @269
-The price of the cards depends on the market rate. They cash in at 80% of the rate.
+The price of the coins depends on the market rate. They cash in at 80% of the rate.
 @270
-You can buy up to %w cards at a time. If you run out, you can buy more.
+You can buy up to %w coins at a time. If you run out, you can buy more.
 @271
 Well then, let me explain how "chinchirorin" is played.
 @272
@@ -1307,7 +1307,7 @@ If your "hand" beats the dealer's, you win; if it's weaker, you lose.
 @281
 Then, depending on the "hands," the bets go back and forth.
 @282
-In your case, it'll be one way only...
+In your case, they'll only ever go one way...
 @284
 {01}C:{04}\nIf the hands are equal, the bet goes back to the player. That ends one round.
 @285
@@ -1321,13 +1321,13 @@ That was a bad pun, sorry.
 @289
 How's that?
 @290
-......And the remaining "four" is the "point," which makes a "hand."
+...And the remaining "four" is the "point," which makes a "hand."
 @291
 In short, with no "pair," there's no "point" and no "hand."
 @292
 That was a poor explanation...
 @293
-.........Ignore the onlookers. Well then, you try rolling.
+...Ignore the onlookers. Well then, you try rolling.
 @294
 "Two, four, five"... No "pair." So no "point."
 @295
@@ -1341,15 +1341,15 @@ Oh, "six, six, five." That makes the "point" a "five."
 @299
 If I were the dealer and you a player... I have "four," you have "five," so you win.
 @300
-See, just as I thought, it's one way for you...
+See, just as I thought. For you, they only go one way...
 @301
 ...\n{01}C;{04}
 @302
 So the basic "hands" of chinchirorin are made of a "pair" and a "point", and the higher "point" wins.
 @303
-Easy so far, right? When you win on the "point" like this, the cards move by the amount bet.
+Easy so far, right? When you win on the "point" like this, the coins move by the amount bet.
 @304
-But chinchirorin also has special "hands", and with those more cards change hands than were bet.
+But chinchirorin also has special "hands", and with those more coins change hands than were bet.
 @305
 "Arashi" pays many times the bet. I just love "arashi".
 @306
@@ -1387,7 +1387,7 @@ That's the end of the "hands." Well then, next let me explain by playing.
 @322
 First, let's say I'm the dealer.
 @323
-And say you bet ten cards.
+And say you bet ten coins.
 @325
 When all players have bet, the dealer rolls. Well then, let's roll.
 @326
@@ -1397,19 +1397,19 @@ When all players have bet, the dealer rolls. Well then, let's roll.
 @328
 I'm strong when it's practice.
 @329
-{01}C,{04}\nWell then, let's go again. Say you bet ten cards, and I roll.
+{01}C,{04}\nWell then, let's go again. Say you bet ten coins, and I roll.
 @330
 {01}C<{04} Looks like I'm finally back on form.
 @331
-............
+...
 @332
 With "hifumi," a "point" of "one," or no "hand" after three rolls, the dealer loses.
 @333
-So you bet ten cards, and I rolled "hifumi", so you win twenty.
+So you bet ten coins, and I rolled "hifumi", so you win twenty.
 @334
 Well then, one last time.
 @335
-At last, the specialty! This one always loses, then keeps whining "one more go."
+There it is at last, his specialty! This guy always loses, then pesters everyone for "one more round."
 @336
 Never mind that. Well then, let's roll.
 @337
@@ -1431,7 +1431,7 @@ Sigh... Now you know about "chinchirorin" too. {01}C7{04}
 @345
 Also, the dealer role moves to the right. As long as you don't lose, you stay dealer.
 @346
-The dealer has it easy. So when they're dealer, everyone prays not to lose.
+Being dealer is when you rake it in. So when it's their turn to deal, everyone prays not to lose.
 @347
 But gambling makes you forget the time, so be careful.
 @348
@@ -1455,7 +1455,7 @@ Money goes round and round. Come back when it has come round to you. Namu Amida 
 @351.5
 A samurai keeps his pride though he starves, but playing still takes money.
 @351.6
-No use for anyone without money! Come back another day!
+I've no use for anyone without money! Get lost!
 @352
 What, quitting already? The night's still young.
 @352.1
@@ -1471,7 +1471,7 @@ Do you see now you're no match for me?
 @352.6
 What, quitting?
 @353
-Going against the dealer is cruel!
+Cross the dealer and you'll be sorry!
 @353.1
 The dealer role's come round nicely
 @353.2
@@ -1499,7 +1499,7 @@ You're just my type, handsome. Come again!
 @354.7
 See you, come again
 @355
-Cards are %m each. How many will you buy?
+Coins are %m each. How many will you buy?
 @356
 Will you go on?
 @356.1
@@ -1551,7 +1551,7 @@ A 2, eh
 @364.1
 A 2, eh, pathetic
 @365
-2, eh, not good
+A 2, eh? Not good
 @366
 A 3, eh
 @366.1
@@ -1633,11 +1633,11 @@ The pot keeps growing like this, and whoever rolls double ones, "pinzoro," colle
 @392
 But pinzoro doesn't come up all that easily.
 @393
-2000 or 3000 kan in one go is common, and sometimes it reaches tens of thousands.
+2,000 or 3,000 kan a round is nothing unusual, and sometimes it reaches tens of thousands.
 @394
-When it gets that big, the back of your ears starts tingling and your head goes fuzzy.
+When it gets that big, the backs of your ears start tingling and your head goes fuzzy.
 @395
-And that fuzzy feeling while you wait is just wonderful.
+And that fuzzy feeling is just wonderful.
 @396
 Oh, but while playing you tend to forget the time, so be careful. One round of turns takes a period.
 @397
@@ -1645,11 +1645,11 @@ Well then, shall we start for real?
 @398
 No use for anyone without money.
 @399
-Will you buy into pinkoro, the gambling of hell?
+Will you buy into pinkoro, the gamble from hell?
 @400
 Play like your life depends on it
 @400.1
-Welcome to the ant pit
+Welcome to the antlion pit
 @400.2
 There's no turning back now
 @400.3

@@ -1,0 +1,20 @@
+@0.13
+...But then again,\n\#4F5 may well attack this castle...
+@0.14
+I must flee at once...!\nIt's not safe here!
+@2.1
+What!?\nHas \#8F5 made some move?
+@2.7
+I see...\nSo the Monkey killed \#4F5.\nThen I can rest easy.
+@2.8
+From now on, Lord \#800's voice will carry more weight, I expect...
+@2.9
+No. With Father and my brother dead, I, the second son, am head of the Oda clan!
+@2.10
+We understand that too, but...
+@2.11
+What's more, with our hated foe \#0F5 slain, there is no problem at all.\nIf I succeed to the Oda clan, all will be well.
+@2.12
+Well...\nBut whether the other senior retainers will follow you, my lord...
+@2.13
+Wh-what!\nAre you saying no one would follow me!?

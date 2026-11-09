@@ -23,9 +23,9 @@ No, that is only right. I'll start over.
 @3.2
 Y-yes, sir!
 @4
-From now on, please keep to it. Otherwise I can't set an example to the others.
+From now on, please keep to it. Otherwise it sets a poor example for the others.
 @4.1
-From now on, please keep to it. Otherwise I can't set an example to the others.
+From now on, please keep to it. Otherwise it sets a poor example for the others.
 @4.2
 Then start over! Apply yourself to training!
 @5
@@ -53,11 +53,11 @@ Then let me hear the results.
 @8.2
 Then let's hear the results.
 @9
-Sorry. I got no real results.
+Sorry. I have nothing much to show for it.
 @9.1
-Sorry. I got no real results.
+Sorry. I have nothing much to show for it.
 @9.2
-I am very sorry. I got no real results.
+I am very sorry. I have nothing much to show for it.
 @10
 I've found a person called {02}{03}g.
 @10.1
@@ -175,7 +175,7 @@ So you knew.
 @31
 From now on, {02}{0D}d will hunt you as a rogue ninja. Are you prepared for that?
 @32
-...Hm, that spirit is good, but do you know the ninja code?
+...Hm, a fine spirit. But do you know the ninja code?
 @33
 I see. Then I've nothing more to say. Train to your heart's content.
 @34
@@ -331,11 +331,11 @@ The fee for %s is %m. Is that all right?
 @67.2
 The fee for %s is %m. All right?
 @68
-Then, the target of the %s? Who is the target?
+Now, the target for the %s. Who will it be?
 @68.1
-Then, the target of the %s? Who is the target?
+Now, the target for the %s. Who will it be?
 @68.2
-Then, the target of the %s? Who is it?
+Now, the target for the %s. Who is it?
 @69
 You won't request %s, then?
 @69.1
@@ -367,11 +367,11 @@ Not right? Then tell me the target of the %s once more.
 @73.2
 The {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports, so I can't take the job.
 @74
-{02}{03}g, is it... I'm very sorry, but I cannot accept that. {02}{03}g is of {02}{03}{A1}, which our {02}{0B}d supports...
+{02}{03}g, is it... I'm very sorry, but I cannot accept that. {02}{03}g belongs to the {02}{03}{A1}, which our {02}{0B}d supports...
 @74.1
-{02}{03}g, is it... I'm very sorry, but I cannot accept that. {02}{03}g is of {02}{03}{A1}, which our {02}{0B}d supports...
+{02}{03}g, is it... I'm very sorry, but I cannot accept that. {02}{03}g belongs to the {02}{03}{A1}, which our {02}{0B}d supports...
 @74.2
-{02}{03}g, eh... Kind of you to ask, but I can't take it. {02}{03}g is of {02}{03}{A1}, which our {02}{0B}d supports.
+{02}{03}g, eh... Kind of you to ask, but I can't take it. {02}{03}g belongs to the {02}{03}{A1}, which our {02}{0B}d supports.
 @75
 %s, is it... I take it {02}{0D}d is the target. Is that all right?
 @75.1
@@ -379,11 +379,11 @@ The {02}{0D}k, who hold {02}{0D}d, are a house our {02}{0B}d supports, so I can'
 @75.2
 %s, eh... I take it {02}{0D}d is the target. All right?
 @76
-Then, the target of the %s? Which castle is the target?
+Now, the target for the %s. Which castle will it be?
 @76.1
-Then, the target of the %s? Which castle is the target?
+Now, the target for the %s. Which castle will it be?
 @76.2
-Then, the target of the %s? Which castle is it?
+Now, the target for the %s. Which castle is it?
 @77
 The defense of {02}{0D}d castle is already low. There's no need to lower it.
 @77.1
@@ -573,11 +573,11 @@ Oh, you've reconsidered? That is good.
 @109.1
 Oh, you've reconsidered? That is good.
 @109.2
-I see, that is wise. This time I'll forgive it as a whim. Never get such ideas again.
+I see, that is wise. This time I'll let it pass as a moment's folly. Never entertain such ideas again.
 @110
-...I see. But I cannot simply let you go. Lord {02}{02}f, prepare yourself!
+...I see. But I will not be bested so easily. Lord {02}{02}f, prepare yourself!
 @110.1
-...I see. But I cannot simply let you go. Lord {02}{02}f, prepare yourself!
+...I see. But I will not be bested so easily. Lord {02}{02}f, prepare yourself!
 @110.2
 ...Fool. Even if you beat me, don't think you'll live in peace!
 @111
@@ -611,11 +611,11 @@ S-splendid... ...But why don't you finish me? From now on you are a rogue ninja.
 @115.2
 I don't know what you were plotting, but you're ready, I take it. Die! Hyaaah!!
 @116
-Guoh...!
+Urgh...!
 @117
-Lord {02}{02}f, welcome to the drill ground. Even without you here, Lord {02}{02}f, we drill daily. Rest assured.
+Lord {02}{02}f, welcome to the drill ground. Even in your absence, we drill daily. Rest assured.
 @117.1
-Lord {02}{02}f, welcome to the drill ground. Even without you here, Lord {02}{02}f, we drill daily. Rest assured.
+Lord {02}{02}f, welcome to the drill ground. Even in your absence, we drill daily. Rest assured.
 @117.2
 This is the drill ground. Those who don't belong to this village must leave.
 @118
@@ -685,7 +685,7 @@ This place is only for those who would be ninja. You are a merchant; I cannot le
 @130.1
 This place is only for those who would be ninja. You are an officer; I cannot let you train here.
 @132
-Lord {02}{02}f, welcome to the training ground. Even without you here, Lord {02}{02}f, we train daily. Rest assured.
+Lord {02}{02}f, welcome to the training ground. Even in your absence, we train daily. Rest assured.
 @133
 This is where ninja ranks are granted. You are unskilled and not fit for the test. Train first.
 @133.1
@@ -719,7 +719,7 @@ You've mastered it. There's nothing more to teach you here.
 @146.1
 You've improved. But you haven't mastered Ninjutsu yet. Keep working at it.
 @146.2
-You've learned the basics of Ninjutsu. But the ninja's path is long. I expect much of your efforts.
+You've learned the basics of Ninjutsu. But the ninja's path is long. I look forward to your progress.
 @147
 Not enough training. But even this result will teach you. Don't give up; work harder.
 @147.1

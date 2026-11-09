@@ -1,0 +1,342 @@
+@0.0
+Hmm...\nThe \#894 clan keeps invading\nour Mino, and yet...
+@0.1
+Our lord's taste for pleasure never wanes.\nDrinking day after day...\nIn these times of war, it could be fatal...
+@0.2
+Perhaps I should\nremonstrate with him once...
+@1.1
+Hm? Ah, \#630.\nGood of you to come! Have a cup, won't you?
+@1.2
+...Drinking again?\nPlease, my lord, show a little restraint.
+@1.3
+Don't be so stiff!\nWith that Fool of Owari pestering us with his raids,\nhow can a man not drink these days!
+@1.4
+My lord... your retainers and people alike\nhope you will lead the way\nand scatter the \#894 armies.
+@1.5
+Hmph! As if I didn't know!\nIn their hearts they all call me\na dim lord, a foolish lord.
+@1.6
+Why would you say such a thing...\nIn any case, my lord!\nPlease, come to your senses!
+@1.7
+Silence, \#630!\nI've no wish to see your face!\nNever appear before me again!
+@1.8
+My lord! You have had a little too much...
+@1.9
+Bah, now you too!?\nGet out! Get out, I say!
+@1.11
+Lord \#A30, please don't take offence...\nOur lord didn't refuse to see you\nbecause he hates you, Lord \#A30...
+@1.12
+I know... it's the drink talking.\nNo doubt he fears the Owari attacks\nand cannot keep from drinking...
+@1.13
+But unless he puts a stop to it,\nhis retainers and people will only\ndrift further away from him.
+@1.14
+Lord \#A30...
+@1.15
+If it has come to this, I must\nteach our lord a little lesson...
+@2.0
+Now, let me think of a way\nto teach our lord a lesson.
+@2.1
+And so \#230\ndevised an astonishing plan...
+@2.2
+To bring \#070 to his senses,\nhe would seize Inabayama Castle\nfrom \#470...
+@2.3
+It was to rebuke \#470's dissipation,\nand at the same time show him in person\nhow poorly Inabayama Castle was guarded...
+@2.4
+Lord \#BFE!\nAll is ready!
+@2.5
+Good!\nThen let's go and teach our lord a lesson.
+@2.6
+Is everyone here?
+@2.7
+Yes, sir!\nOnly ten-odd men.\nRather few, I fear...
+@2.8
+Surely we should\ngather a few more men...
+@2.9
+...No matter.\nThat many is plenty.\nWith more men, the secret would only leak.
+@2.11
+Now, let's go!
+@2.12
+Ah, Lord \#A30!
+@2.13
+Damn!\nHave we been found!?
+@2.14
+No, don't worry.\nThis man is on our side.
+@2.15
+Lord \#A30...\nThis is a secret passage into the castle\nthat bypasses the main gate.
+@2.16
+As expected of Lord \#A30.\nEverything is prepared.
+@2.17
+We are few.\nWe must keep fighting to a minimum.
+@2.18
+Clatter
+@2.19
+Hm?\nDid I hear something...?
+@2.20
+(Damn...\n I hope he doesn't notice...)
+@2.21
+Meow...\nMeeow...
+@2.22
+Hm? A cat?\n...No, that's a man's voice\npretending to be a cat!
+@2.23
+F-fool!\nWhat did you do that for!
+@2.24
+I-I'm terribly sorry.\nI was sure I could do a good cat...
+@2.25
+Intruders!!\nWhere on earth did you get in...!?
+@2.26
+Bah! It's all up.\nThere's no help for it, we'll fight our way through.
+@2.27
+Luckily, the enemy seems to be alone.\nI'll deal with him here!\nThe rest of you, do as planned...
+@2.28
+Go into our lord's bedchamber\nand confine him!
+@2.29
+But... what about you, Lord \#A30?
+@2.30
+I'll be fine!\nGo, quickly! Speed is everything in war!
+@2.32
+Curse you, intruder!\nI'll beat you to a pulp!
+@2.33
+Guh! Ugh...
+@2.35
+With the back of my blade...\nSleep here a while.
+@2.36
+Now then...\nhow has the seizure of the castle gone?
+@2.37
+Ah, Lord \#BFE.\nAll went as planned:\nwe have taken the castle!
+@2.38
+And our lord?
+@2.39
+He was dumbstruck by the shock...\nNow, as you instructed, Lord \#BFE,\nhe is resting in the dungeon.
+@2.40
+What a splendid plan it was!\nTo take this mighty castle so easily...\nI never imagined it.
+@2.41
+Every castle has a weak spot, however strong...\nStrike there and it falls easily.
+@2.42
+So now, Lord \#BFE,\nyou are master of this castle.\nHow does it feel?
+@2.43
+Don't jest!\nThat is not why\nI made this plan.
+@2.44
+Yes, sir!\nI spoke out of turn.
+@2.45
+But truly, if you became our lord,\nLord \#BFE, it would be better for Mino...
+@2.46
+Don't say such reckless things!\nI have never forgotten my loyalty to the Saitō house!
+@2.47
+Then, what do you\nintend to do now?
+@2.48
+Well...\nFirst, let our lord\ncool his head for a while.
+@2.49
+And tighten the guard so that\nword of this doesn't reach the people.
+@2.50
+Worse, if this got out\nto other provinces, it would be a disaster...\nThat is not what I intend.
+@2.52
+Then, once our lord\nhas reflected for a while,\nI'll return the castle to him...
+@2.53
+Lord \#BFE!\nAn envoy has come from the \#894 clan!
+@2.54
+What!?\n...Well, show him in.
+@2.56
+Ah, Lord \#BFE!\nCongratulations on your great feat!
+@2.57
+Forgive my manners!\nI am \#000 of the \#894 clan.\nI hope you will remember me...
+@2.58
+I heard of your great feat, Lord \#BFE,\nand came to offer\nmy heartiest congratulations.
+@2.59
+There is nothing to congratulate...
+@2.60
+Come now, you are too modest!\nYou've made yourself master of Inabayama Castle...
+@2.61
+How... do you know that?
+@2.62
+W-well, never mind that.\nMy lord \#094\nhas been quite taken with your talent.
+@2.63
+He says that if you would hand\nthis castle over to the \#894 clan,\nhe will give you half of Mino...
+@2.64
+There is no need.\nThat is not why\nI took the castle.
+@2.65
+But...
+@2.66
+I took this castle\nsolely to bring my lord \#070 to his senses...\nI have no other motive!
+@2.67
+...Then, never mind the castle.\nWould you not come to us yourself?\nAfter this you can hardly stay with the \#870.
+@2.68
+That too I must decline.\nMy lord is \#070,\nand he alone.
+@2.69
+I understand...\nThen I will go home today.\nBut... I won't give up.
+@2.70
+Not on the castle, but on you.\nI don't believe staying with the \#870\nwill do you any good.
+@2.71
+Enough!\nSomeone!\nOur guest is leaving!
+@2.72
+Until next time, then...
+@2.73
+It will be the same however often you come.
+@2.74
+I have seen the envoy out.
+@2.75
+Good...\nOur lord should have cooled his head by now.\nBring him here.
+@2.77
+Ah, my lord.\nHow was the dungeon?\nHave you sobered up?
+@2.78
+\#7FE!\nWhat do you think you're doing!\nMaking a fool of me like this!!
+@2.79
+All this was to make you reflect, my lord...\nIf you let your guard down, there's no knowing\nwhen the enemy may come.
+@2.80
+Learn from this: drink less from now on\nand devote yourself to arms and to governing...
+@2.81
+Silence!!\nHow dare you speak so to your lord!\nSomeone! Seize this traitor!
+@2.84
+Ugh... Curse you! Are you all in league!?\nBah! Then I'll beat him\nmyself!
+@2.85
+Whack! Thwack!
+@2.87
+Hmph! How's that!?\nThis won't heal my humiliation!
+@2.88
+My lord!! Please stop!\nLord \#BFE did it for your sake\nand for Mino...
+@2.89
+What! You too!?
+@2.90
+My lord!!\nPlease try to understand\nhow Lord \#BFE feels!
+@2.92
+Lord \#A30 had to defy his lord\nagainst his own wishes...\nWe feel the same!
+@2.93
+We didn't defy you\nbecause we hate you, my lord!\nWe only want you to be a wise ruler...
+@2.94
+Hmph! I'm in a foul mood!\nI'm going to bed! All of you, get out!\nI don't want to see you! Sake! Bring me sake!
+@2.96
+Lord \#A30... please don't lose heart.\nI'm sure our plea\nreached our lord at least a little...
+@2.98
+Exactly.\nOur lord will surely drink a little less now.
+@2.100
+Lord \#A30...?\nSurely you're not thinking\nof committing seppuku!?
+@2.101
+Y-you mustn't!\nOur lord and all his retainers would grieve!\nAnything but seppuku!!
+@2.102
+...Don't worry.\nI have no intention of cutting my belly...
+@2.103
+Lord \#A30...
+@2.104
+...I've given you all a lot of trouble.\nThank you for your work.\nI'm going home...
+@2.105
+(Dear me...\n Even remonstrance at the risk of my life\n doesn't reach him... What am I to do...)
+@2.106
+How's that, intruder!\nHave you learned your lesson!?
+@2.107
+Ugh...\nThud.
+@2.108
+Hmph! Sneaking into Inabayama Castle...\nhe was bold, but put up little fight...\nHm? I've seen that face somewhere...
+@2.109
+Guh...
+@2.110
+Huh!! Wh-why, it's\nLord \#A30!?\nWh-why would Lord \#A30 be in a place like this...
+@2.111
+\#230, a young man of great ambition,\nhad tried a daring plan to bring his lord to his senses...
+@2.112
+But the plan failed,\nand his young life was wasted...
+@3.1
+Ah, Lord \#BFE!\nI've let myself in!
+@3.2
+What!!\nLord \#800!?
+@3.3
+I've been waiting for you to come home.
+@3.4
+Why...\nisn't this rather rude?\nWalking into another man's house...
+@3.5
+I know it's rude.\nBut I simply must have you,\nLord \#A30, come over to our side...
+@3.6
+...I believe I have already\nrefused you on that matter!
+@3.7
+One failure won't\ndiscourage \#400.
+@3.9
+I'll keep coming back\nuntil you give me a good answer, Lord \#630!
+@3.10
+Then it's no use.\nHowever often you come, my answer will be the same.
+@3.11
+No, no.\nI believe that with the \#870\nyou cannot show your true ability.
+@3.13
+Come to the \#894 clan!\nMy lord \#094 is a man of great generosity...\nYour genius will surely be put to full use.
+@3.14
+In any case, I don't want to\nthink about such things now...\nWould you leave me alone?
+@3.15
+You seem to be out of sorts today.\nVery well...\nI'll come again another day.
+@3.16
+There's no need...\nI have no wish to serve the Oda...
+@3.17
+Now, now,\nsave that for next time!\nWell then, farewell!
+@4.0
+Phew... Another tiring day.
+@4.1
+Lord \#BFE!\n\#000 is here again!
+@4.2
+You again...\nYou truly are persistent.
+@4.3
+However many times you try to persuade me,\nI have no intention of serving the \#894 clan.
+@4.4
+Lord \#630...\nAre you truly content with this life?
+@4.7
+...As a man,\nI admit I have such spirit.
+@4.10
+I too\nhave the ambition to make\na name for myself in the realm.
+@4.11
+And, though I'm ashamed to say it,\nI'm proud to think I have more talent\nthan the ordinary man.
+@4.13
+I was a lowly needle peddler,\nbut meeting Lord \#494\nmade me a samurai...
+@4.16
+No, it would have been impossible.\nLord \#494 and Lord \#070 are of a different calibre.
+@4.19
+With your talent and spirit, Lord \#630,\nthe \#894 clan would surely give you high office.
+@4.20
+Lord \#070 hasn't the calibre to make use of you.\nYour remonstrance at the risk of your life, taking\nInabayama Castle... none of it seems to have reached him...
+@4.22
+What? A crime against the realm?
+@4.24
+To leave it to rot unused\nis a crime against the realm!
+@4.26
+What do you say?\nWon't you put that talent\nto full use in the \#894 clan?
+@4.27
+...Lord \#800.
+@4.28
+Serve \#000
+@4.29
+Serve the \#894 clan
+@4.30
+Refuse him
+@4.32
+Indeed, as a daimyō,\nLord \#894 is of greater calibre\nthan my lord \#070.
+@4.38
+Good!\nThen we'll meet in \40F6!
+@4.39
+Heh heh... Life is full of surprises.\nWho'd have thought I would serve the Oda?
+@4.43
+"A man of honour dies for one who knows his worth," they say.\nI entrust my life to \&03.
+@4.45
+I look forward to serving with you...
+@4.46
+The pleasure is mine!\nThen we'll meet in \40F6!
+@4.48
+Such sophistry won't work on me.\nI've never met anyone as rude as you!
+@4.49
+Lord \#A30...!
+@4.50
+Please go home now!\nAnd never show your face\nbefore me again.
+@4.51
+I apologise if I went too far!\nPlease... come to the Oda!
+@4.52
+Enough!\nIf you don't stop,\nI'll have to take matters into my own hands!
+@4.53
+Into your own hands... meaning?
+@4.54
+I'll cut you down!
+@4.55
+...I understand.\nI didn't think you'd be so stubborn...
+@4.57
+I'll give up on you for good.\nNext time, we'll meet on the battlefield\nas enemies.
+@4.58
+I look forward to it.
+@4.59
+Mind you don't show up as a severed head!\nWell then, farewell!
+@5.0
+So Lord \#659 has passed away,\nand Lord \#470 has succeeded him...
+@5.1
+Even so... can nothing be done\nabout our lord's taste for pleasure...
+@5.2
+Born into a samurai house,\nyet he cares nothing for arms or strategy...\nI dread to think of the future.

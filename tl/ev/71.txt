@@ -1,0 +1,50 @@
+@0.0
+So this is \40F5...
+@0.1
+Ah, Lord \#3FE!\nWe have been expecting you.\nMy lord awaits you too!
+@0.2
+Much obliged.\nAnd is Lord \#800 at the castle?
+@0.3
+Yes.\nPlease go and meet him at once.
+@0.4
+Ah, welcome, Lord Hideyasu.
+@0.5
+I am truly grateful\nfor this adoption.
+@0.6
+Now, now,\nlet's do without the stiff greetings.
+@0.8
+In any case,\nthanks to you, the \#800 and \#958 clans\nare now allies.
+@0.9
+I am very glad of it.
+@0.10
+Yes! You are the bond\nthat ties the \#800 and \#958 clans!
+@0.12
+Stay by my side always.
+@0.13
+Ah... Thank you, my lord.\nFrom now on, I, \#7FE, shall serve heart and soul\nas a warrior of the \#800 clan.
+@0.14
+Yes, that's the spirit.\nWhat a promising young warrior...
+@0.15
+Perhaps because he had no son of his own, \#000 is said to have doted on \#573.
+@0.16
+And \#573 in turn grew into a fine warrior of the \#800 clan...
+@1.0
+Lord \#3FE,\nI have news!
+@1.2
+Yes!\nThere is word from the old lord\nfor you, Lord \#3FE.
+@1.3
+What is it?
+@1.4
+Yes! Well...\nit concerns an adoption...
+@1.5
+What!?\nI'm already the old lord's adopted son!
+@1.6
+It seems...\nit has been decided that you are to be adopted\ninto the Yūki, a noble house of Shimōsa.
+@1.7
+Why...?\nHe was always so kind to me...
+@1.8
+It seems a son has been born to the old lord.\nRumour has it that is why this adoption came about.
+@1.10
+In \@001/\@002, \#173 was adopted into the Yūki, a noble family of Shimōsa, and changed his name to Yūki Hideyasu.
+@1.15
+From now on, \#3FE's seat will be \40F7.

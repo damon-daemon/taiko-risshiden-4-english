@@ -1,0 +1,96 @@
+@0.0
+Now...\nI must settle the turmoil\nwithin the house.
+@0.1
+Yes, my lord!\nYour first task as the new\nhead of the Oda clan.
+@0.2
+After that, the old retainers of \#494\nwent over to \#65A\none after another...
+@0.3
+The \#A5A clan\nwas united once more...
+@0.4
+We may have held off my brother's army...\nbut we still cannot let our guard down.
+@0.5
+But we mean to support\nyou, Lord \#65A, as the true\nhead of the Oda clan.
+@0.6
+Indeed... One day the time\nwill come to bring my brother down...
+@0.7
+Hmm... a total defeat.\nMy cause is lost...
+@0.8
+It has come to this. We can only\nthrow ourselves on the old lord's\nmercy and beg forgiveness.
+@0.9
+You tell me to bow to my brother...
+@0.10
+There is no other way...\nFortune was not with us...
+@0.11
+...Ngh.\nBut my brother is a cruel man...\nHe'll never forgive me for rebelling.
+@0.12
+We will plead with all our might...\nAt least your life, my lord!
+@0.13
+...It can't be helped.\nI'm counting on you...
+@0.16
+How did it go...
+@0.17
+Thanks to our desperate pleas,\nthe old lord has agreed...\nYou will not be punished, my lord.
+@0.18
+...Truly!
+@0.19
+But on one condition:\n"Never harbour rebellion again"...
+@0.21
+If you fail to keep it,\nthere will be no mercy next time...\nSo he sternly declared.
+@0.22
+...I see.\nYou did well.
+@0.23
+My lord, we beg you as well.\nPlease get along with the old lord,\nand never again rebel...
+@0.24
+I know...\nEnough already.
+@0.26
+And so \#25A's rebellion\nwas settled, for the time being...
+@2.0
+Victory is ours!\nLord \#494's army has fled!
+@2.1
+What became of my brother!?
+@2.2
+One of my men\nslew him!
+@2.3
+Truly!?\nThat is splendid!
+@2.4
+With their commander \#094 dead,\nhis retainers wavered, and more and more\nsubmitted to \#65A...
+@2.5
+And so \#25A\ninherited the headship\nof the Oda clan...
+@2.6
+Indeed! But we could not\nslay my brother...
+@2.7
+It can't be helped...
+@2.8
+And so \#25A broke away from his\nbrother Nobunaga and went on\nas an enemy daimyō...
+@2.10
+Grr... as expected of my brother.\nHe is not easily beaten...
+@2.11
+Ah! My lord, look out!
+@2.12
+Whoosh!
+@2.13
+Gahh...\nA stray arrow!!
+@2.14
+My lord!!
+@2.15
+\#65A, who rose against\nhis brother \#494, met\na sudden, sorry end...
+@2.16
+M-my lord!!\nI will follow you!
+@2.17
+\#3FE too followed \#65A\nand took his own life...
+@2.19
+Grr... there's nothing for it.\nFall back!
+@3.0
+\#65A...
+@3.1
+Well, brother...?\nIt is I who am fit\nto head the Oda clan after all...
+@3.2
+Hmph... I wonder.\nWith you as its head, the Oda clan\nwill not last long, I'd say...
+@3.3
+...Is that all you have to say?
+@3.5
+Then you will die.\nFarewell, brother!
+@3.8
+Cut him down!
+@3.9
+And so the stormy son of Owari...\nno, the Fool lord, \#094,\nended his life all too suddenly...

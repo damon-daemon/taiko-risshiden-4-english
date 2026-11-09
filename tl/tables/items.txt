@@ -9,21 +9,21 @@
 7	Matsushima
 8	Hiragumo
 9	Matsumoto
-10	Juko Nasu
+10	Jukō Nasu
 11	Mikazuki Jar
 12	Hatsuhana
 13	Narashiba
 14	Nitta Caddy
 15	Fujisan Bowl
 16	Shichiri Bowl
-17	Joo Nasu
+17	Jōō Nasu
 18	Otogoze
 19	Yamanoi Caddy
 20	Asakura Caddy
 21	Star Temmoku
 22	Hayabune Bowl
 23	Tsutsuizutsu
-24	Sogō Nasu
+24	Sōgo Nasu
 25	Plover Censer
 26	Aoido Shibata
 27	Hashidate Jar
@@ -44,7 +44,7 @@
 42	Ashiya Kettle
 43	Kiseto Bowl
 44	Kiseto Vase
-45	Tenmyo Kettle
+45	Tenmyō Kettle
 46	Black Raku
 47	Red Raku
 48	Celadon Vase
@@ -87,18 +87,18 @@
 85	Tale of Heike
 86	Book of Han
 87	Tongjian
-88	Gukansho
+88	Gukanshō
 89	Kojiki
 90	Nihon Shoki
 91	Tale of Genji
 92	Pillow Book
-93	Kokin Wakashu
-94	Man'yoshu
-95	Hojoki
+93	Kokin Wakashū
+94	Man'yōshū
+95	Hōjōki
 96	Tsurezuregusa
 97	Tales of Ise
 98	Bamboo Cutter
-99	Kagero Diary
+99	Kagerō Diary
 100	Eiga Tales
 101	World Map
 102	Chime Clock
@@ -147,7 +147,7 @@
 145	Honebami
 146	Sadamune
 147	Nihongō
-148	Dojigiri
+148	Dōjigiri
 149	Kanemitsu
 150	Kikuichimonji
 151	Munechika
@@ -208,4 +208,4 @@
 206	Sojintan
 207	Saibatan
 208	Raikiri
-209	Setsuyoshu
+209	Setsuyōshū

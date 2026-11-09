@@ -10,12 +10,12 @@
 8	Mt. Aso
 9	Sakurajima
 10	Fukuroda Falls
-11	Chusonji Hall
-12	Lake Hachiro
+11	Chūsonji Hall
+12	Lake Hachirō
 13	Mt. Osore
 14	Oyashirazu
-15	Tojinbo
-16	Zenkoji
+15	Tōjinbō
+16	Zenkō-ji
 17	Tottori Dunes
-18	Shuhodo Cave
+18	Shūhōdō Cave
 19	Kotohira Shrine

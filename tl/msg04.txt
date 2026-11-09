@@ -57,7 +57,7 @@ Not connected to the home base.
 @27
 There are units sortied from that castle.
 @28
-......And three days later
+...And three days later
 @29
 Oh, so this is the famous {02}{1A}e. What a view, what a view...
 @30
@@ -73,7 +73,7 @@ Well, good day, samurai sir.
 @34
 Oh, it's {01}C*{00}... Today I would like a bout with you. Draw your sword! Come!
 @34.1
-...You! What luck to meet you here! I'll cut you down!!
+...You! I've got you at last! I'll cut you down!!
 @34.2
 Hm? Who are you?
 @34.3
@@ -239,7 +239,7 @@ Oho, I see... And the price?
 @55.2
 Oh, this is... And the price?
 @55.3
-............ And the price?
+... And the price?
 @56
 I see, what a pity.
 @57
@@ -249,11 +249,11 @@ Very well. I'll buy it at that price.
 @58
 (They seem very pleased.)
 @59
-......Sorry, but I'll pass this time.
+...Sorry, but I'll pass this time.
 @59.1
 I'm sorry, but I'll pass this time.
 @60
-(......They didn't seem to like it much.)
+(...They didn't seem to like it much.)
 @61
 Hm, you draw your sword... You mean to settle this here?
 @61.1
@@ -261,7 +261,7 @@ What, you draw your sword... You mean to settle this here?
 @62
 Eek! S-sensei! Please!
 @63
-......Pointless. Come, then.
+...Pointless. Come, then.
 @63.1
 Fool! You think you can win? I'll cut you down instead!
 @63.2
@@ -303,7 +303,7 @@ Leave your money and trade goods behind?
 @75
 Hmph! No backbone. But since you were so obliging, I'll only take half. See ya.
 @76
-You won't hand it over! Go regret it in hell!!
+Won't hand it over, eh?! Then go regret it in hell!!
 @77
 Heh! Fool. We'll take all your money and goods. See ya.
 @78
@@ -321,7 +321,7 @@ Come to think of it, they say Lord {02}{03}g uses a formation called {02}{1A}e i
 @81
 Would you let me go for these {02}$d kan?
 @82
-Hm... well, for now I'll let you go for that.
+Hm... fine, I'll let you go this time.
 @83
 Did you think we'd back off for such a pittance?! Go regret it in hell!!
 @84
@@ -343,7 +343,7 @@ Phew, they were quite tough, but I managed to drive them off. Then I'll be going
 @86.3
 Huff, huff... I-I managed to drive them off. Then I'll be going...
 @87
-No... it can't be, that I lost... I'm sorry, but the rest is up to you... Farewell...
+No... I can't believe I lost... I'm sorry, but the rest is up to you... Farewell...
 @87.1
 Ugh... that I should lose... Forgive me, but the rest is up to you... Farewell...
 @87.2

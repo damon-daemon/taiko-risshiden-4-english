@@ -1,0 +1,178 @@
+@0.0
+How dull...
+@0.1
+Since that monkey-faced fellow left,\nthere's nobody to tease.\nIt's no fun at all!
+@0.2
+The Monkey, eh...\nThey say he's serving the \#894 clan.
+@0.3
+Him, in service?\nI can't picture it at all.
+@0.4
+Ain't that the truth.
+@0.5
+Still, how dull...
+@0.6
+It's because there's not enough sake.\nOi, you lot!\nWe're going drinking!
+@0.7
+Aye.
+@1.0
+Lord \#62A!
+@1.1
+Oh, if it isn't \#400.\nIt's been a while.
+@1.3
+Not really.\nI may not look it, but I've been feeling low.
+@1.18
+Exactly.\nThat's why I came to see you.
+@1.21
+Of course I know.\nDon't take the river men of Mino lightly.\nThat failed too, didn't it?
+@1.24
+Actually, I talked it over with \#629...
+@1.31
+Ah, \#629.\nI've hit on a fine plan\nfor building the castle at \50FA.
+@1.46
+It will take a lot of men,\nand men who know the lie of the land...
+@1.50
+Actually, I've been\nthinking it over myself...
+@1.58
+That's it!\nThe river men!\nKoroku of the Hachisuka band!
+@1.59
+(The rascal...\n He was thinking\n the same as me...)
+@1.60
+...So that's the idea.\nAt the next council I'll propose it\nand take on the job myself.
+@1.62
+Yes, and for that\nI want the help of you river men.
+@1.71
+But I trust you.\nI won't serve \#094.\nI'll serve \#000.
+@1.76
+Thank you!\nThen carry things out as planned.\nI'll take on the job at the next council.
+@1.81
+I look forward to it.\nWell then, let's go and\ncut the timber right away.
+@1.82
+There should be good trees\njust outside the town.
+@2.0
+I have a report.\n\#0AF has failed\nto build the castle at \50FA.
+@2.1
+As I thought.\nI didn't think \#8AF's brute force\nwould work...
+@2.2
+Unless they rethink how they build it\nfrom the ground up, they'll never succeed.
+@3.2
+They say \#494 is finally\nmoving on \50F9 Castle.
+@3.3
+I see...\nBut \50F9 Castle is an impregnable fortress.\nIt won't fall easily...
+@4.1
+The problem is how to carry the\nmaterials for the castle all the way there.
+@4.2
+And the time to shape and assemble them...\nThe longer it takes, the more dangerous.
+@4.3
+...Hmm.\nThis looks rather difficult.
+@4.4
+I'll have a drink\nand think it over...
+@5.0
+Lord \#62A.
+@5.1
+Oh, \#400!\nSo the castle building went well.
+@5.2
+Indeed.\nAll thanks to you, Lord \#62A.
+@5.3
+When the rafts came down the river,\nthe timber was exactly as calculated.
+@5.4
+Though it's a pity\nthe castle fell into enemy hands\nafterwards...
+@5.5
+You've truly done a great deal for me this time.
+@5.6
+For this work\nI've been made Ashigaru General.
+@5.7
+Oh,\nso you've finally moved up a step.
+@5.8
+As Ashigaru General\nI can have rear vassals.\nSo I wanted to ask you...
+@5.9
+So I wanted to ask you...
+@5.10
+Lord \#62A, I would very much like you\nto become my rear vassal.
+@5.11
+You remember?\nWhen you took on the castle job,\nyou said you'd become my man.
+@5.12
+Yes, I said it.\nI won't serve \#094,\nI'll serve \#000!
+@5.13
+That's right.\nAfter this success, Lord \#494 has allowed me\nto take you as my rear vassal, Lord \#62A.
+@5.15
+Oh, \#400!\nI hear the enemy took\nthe castle you built.
+@5.16
+That's right.
+@5.17
+I managed to take it back afterwards,\nbut I'll never forget the humiliation\nof losing a castle I'd just built.
+@5.18
+That's right.\nIt was as good as handing the enemy a castle.
+@5.19
+That's what galls me.
+@5.20
+But Lord \#494\nthought highly of the building method.
+@5.21
+He has allowed me to employ\nLord \#22A, who helped build it,\nas my rear vassal.
+@5.22
+I see.\nSo at last I'm officially your rear vassal!
+@5.23
+Then I'll take this chance\nto change to a proper samurai name.
+@5.24
+"Koroku" is the name handed down\nto every head of the Hachisuka band.
+@5.25
+Then how about\n"Masakatsu"?
+@5.26
+Good! From now on\nI'll go by the name\nHikoemon Masakatsu.
+@5.27
+Oh!\nThat's a fine name!
+@5.28
+\#400's merit rose by 100.
+@5.30
+\#62A changed his name\nto Hachisuka Masakatsu
+@5.31
+and entered the service\nof \#400 as his rear vassal.
+@5.36
+A house has been prepared\nfor you, Lord \#22A, in \40FC.
+@5.37
+Now that you're a samurai,\nyou must attend the councils.\nMind you're not late.
+@5.38
+Understood.
+@6.0
+Looks like building the castle\nat \50FA didn't work out.
+@6.1
+All our trouble has gone to waste.
+@6.2
+With \#894 and \#870 allied,\nthe castle building is called off...
+@6.4
+With the \#870 clan destroyed,\nthe castle building is called off...
+@7.2
+They say \#494 is going to\nbuild a castle at \50FA again!
+@7.3
+They say \#000\nhas set out for \50FA.
+@7.4
+At last.
+@7.5
+\#494 must be staking a lot\non the castle at \50FA.
+@7.6
+Right, fell the timber,\nmake rafts and float it down the river.
+@7.7
+\#3FE and his men mobilised every hand,\nfelled the trees, made them into rafts\nand floated them down the river.
+@7.8
+Good!\nNow we just wait for \#400\nto assemble the castle downstream.
+@8.0
+Looks like \#470's army\nhas noticed the castle building.
+@8.1
+Hmm...\n\#400,\ndon't mess this up!
+@8.2
+With the \#894 and \#870 clans allied,\nit seems the castle building was called off.
+@8.3
+With the \#870 clan destroyed,\nit seems \#400 called off the castle building.
+@9.0
+\#000 has succeeded in\nbuilding the castle at \50FA.
+@9.1
+Has he!\n\#400,\nwell done!
+@9.2
+I must report!\nThe castle \#000 built at \50FA\nhas been taken by \#070.
+@9.3
+\#400...\nso he failed...
+@10.2
+They say \#494 is going to\nbuild a castle at \50FA!
+@10.4
+Yes.\nThey say \#4AF\nhas set out for \50FA.
+@10.5
+\#494 is taking a bold step...

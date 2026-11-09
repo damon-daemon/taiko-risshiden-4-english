@@ -1,0 +1,60 @@
+@0.0
+I know, I've had a fine idea.\nShall I give our lord a little surprise...?
+@0.1
+\&01,\nI have a favour to ask.
+@0.2
+What is it, all of a sudden?\nNot another impossible request, I hope.
+@0.3
+The truth is, I wish to change my name.
+@0.4
+What, change your name?\nWhat do you mean?
+@0.5
+Thanks to your great kindness I now eat the Uesugi clan's rice, my lord, but I was born a Maeda.
+@0.6
+Hm, and?
+@0.7
+It is hardly right that I, who have left the Maeda, should go on calling myself "Maeda".
+@0.8
+Oho... so you wish to change your family name.\nTo what?
+@0.9
+What would you say to the family name "Kokuzōin"?
+@0.10
+Wh-what!? Kokuzōin?\nWhat is that supposed to mean?
+@0.11
+Nothing in particular.\nAnd at the same time I shall change my given name to "Hyottokosai".
+@0.12
+What!? "Hyottokosai"?\nAs in... "fool-faced"?
+@0.13
+"Hyottoko" indeed, like the clown's mask, my lord.
+@0.14
+Wh-what! That name!?\nAre you making a fool of me?
+@0.15
+Not at all, my lord.\nIt is purely out of deference to the Maeda and loyalty to the Uesugi...
+@0.16
+I-I won't allow it! A name like that...!\nI cannot allow it!
+@0.21
+Even if you won't allow it...\nthere's no going back now.\nWell then, I take my leave!
+@0.22
+H-hey, wait!\nWait, I say!
+@0.23
+Walking off and leaving his lord standing...\nHonestly, these eccentrics are a trial.
+@0.24
+Well, that wild horse won't listen even if I try to stop him...\nI suppose I'll let him do as he likes.
+@0.25
+Still... "Kokuzōin Hyottokosai"!\nWa ha ha ha! What an outlandish name!
+@0.26
+Ha ha ha ha!\nOur lord was surprised, all right.\nHe looked like a pigeon hit by a peashooter.
+@0.27
+Well then,\nfrom now on I shall live as "Kokuzōin Hyottokosai"!
+@0.28
+Go by Kokuzōin Hyottokosai
+@0.29
+Go back to Maeda Keiji
+@0.30
+Right.\nI regret nothing!
+@0.31
+Maeda Keiji changed his name to "Kokuzōin Hyottokosai".
+@0.36
+Well, I've had my fun teasing our lord.\nThat will do...
+@0.37
+No, I'd better not.\nThere's no point troubling our lord with pranks.

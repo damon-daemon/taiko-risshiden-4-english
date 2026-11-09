@@ -11,13 +11,13 @@ Congratulations, dear!\nI hear you've been promoted to %s.\nIt's all thanks to y
 @1.1
 Congratulations, dear! I hear you've been promoted to %s. It's all thanks to your hard work.
 @1.2
-Promoted to %s,\nand no wife to celebrate with...\nTime I settled down.
+Promoted to %s, and no wife to celebrate with...\nTime I settled down.
 @2
 Welcome home, {02}{02}g.\nI've been waiting for you.
 @3
 Hm? A messenger from our lord?
 @4
-Yes. You, {02}{02}e, are appointed\nprovince lord and entrusted\nwith this castle.
+Yes. You, {02}{02}e, are appointed province lord and entrusted with this castle.
 @5
 Yes. From this day,\nyou, {02}{02}e, are appointed\nprovince lord. So from now on,\nany castle {02}{02}e takes on a\nmission will become\n{02}{02}e's own castle.
 @6
@@ -41,7 +41,7 @@ How long will you rest?
 @11
 I'll rest until the council.
 @11.1
-Then rest well\nuntil the council.
+Then rest well until the council.
 @12
 Yes, I'll take it easy for the whole day.
 @12.1
@@ -67,7 +67,7 @@ I see... Please don't overdo it.
 @18
 Dear, how much healthier do you want to be?
 @18.1
-No point resting\nwhen I'm already fit.
+No point resting when I'm already fit.
 @19
 Let me see... By my reckoning, you'll need about %y days to get your strength back.
 @19.1
@@ -97,9 +97,9 @@ Stop resting?
 @27.3
 ...Mmm, a fine morning.\nI'm in perfect shape.
 @28
-Dear, it's time, please get up. You look quite unwell... {02}{01}f is worried.
+Dear, it's time, please get up. You look quite unwell... I'm worried about you.
 @28.1
-Dear, it's time, please get up. You don't look very well... {02}{01}f is worried.
+Dear, it's time, please get up. You don't look very well... I'm worried about you.
 @28.2
 Good morning, dear. Did you sleep well? Off you go, then.
 @28.3
@@ -115,7 +115,7 @@ Which shall I do?
 @31
 I'm sorry, dear, but the safe is empty...
 @31.1
-Oh, come to think of it,\nthe safe is empty.
+Oh, come to think of it, the safe is empty.
 @32
 Dear, there are no war funds.
 @32.1
@@ -169,11 +169,11 @@ Hmm, this is {02}{15}d.
 @46
 Dear, everyone is out.
 @46.1
-......It seems no one is here.
+...It seems no one is here.
 @47
 Dear, I've already served tea this month to everyone who is home.
 @47.1
-......I've already served tea this month to everyone at home.
+...I've already served tea this month to everyone at home.
 @48
 Right, I'll hold a tea gathering. Let's call everyone together.
 @48.1
@@ -181,7 +181,7 @@ You'll hold a tea gathering? Then I'll call all your men. Please wait.
 @49
 {01}C*{00}, we your retainers are deeply honoured to be invited to your tea gathering.
 @49.1
-{01}C*{00}, thank you\nfor inviting me\nto your tea gathering.
+{01}C*{00}, thank you for inviting me to your tea gathering.
 @50
 (They're my own men, and given their rank, any tea ware should do.)
 @50.1
@@ -191,9 +191,9 @@ You'll hold a tea gathering? Then I'll call all your men. Please wait.
 @51.1
 (Damn, all I have is the {02}{15}d, worth {02}{15}f... It can't be helped; rude as it is, I'll use it.)
 @52
-Ah, a fine performance.
+Ah, a fine bowl of tea.
 @52.1
-Thank you for the tea... a fine performance.
+Thank you for the tea... a fine bowl indeed.
 @53
 (Everyone seems satisfied.)
 @53.1
@@ -213,7 +213,7 @@ Dear, let's hope this is a good year too.
 @56.1
 It's so cold, it might snow.
 @56.2
-This morning I slipped on the ice\nin front of the house.
+This morning I slipped on the ice in front of the house.
 @57
 Dear, I can't wait for spring.
 @57.1
@@ -241,7 +241,7 @@ When it's this hot,\nI'd like a cool bath.
 @62
 It's starting to feel like autumn, dear.
 @62.1
-Dear, the sky has grown so high.
+Dear, the autumn sky is so high and clear.
 @62.2
 Dear, the weather is much more pleasant now.
 @62.3
@@ -269,17 +269,17 @@ Shall I move to {02}{0B}d?
 @67
 Very well, then\nI'll start packing at once.
 @67.1
-Right, that's decided.\nI must start packing at once......
+Right, that's decided.\nI must start packing at once...
 @68
 No, on second thought,\nI won't move.
 @69
 Dear, training in your condition is out of the question. When you're ill, rest comes first.
 @69.1
-In your condition\nyou can't train properly.\nPlease rest.
+In your condition you can't train properly.\nPlease rest.
 @70
 Dear, ability training costs %m.
 @70.1
-Ability training\ncosts %m.
+Ability training costs %m.
 @71
 Dear, you already have ample ability. There's no need to train any further.
 @71.1
@@ -291,7 +291,7 @@ Then which ability will you train?
 @74
 You'll train %s?
 @75
-Then I'll ask\nthe teacher to come at once.
+Then I'll ask the teacher to come at once.
 @76
 Splendid, dear! The teacher praised you too.
 @76.1
@@ -319,11 +319,11 @@ Our {02}){B6} isn't trading with any town at present. Which town shall we trade 
 @82.1
 Our {02}){B6} currently trades with {02}{0B}d. Which town shall we trade with?
 @83
-Is {02}{0B}d OK?
+{02}{0B}d, is that right?
 @84
-The truth is, head clerk...\nI'm thinking of closing the shop...\nI mean to become a samurai......
+The truth is, head clerk...\nI'm thinking of closing the shop...\nI mean to become a samurai...
 @85
-Are you serious, master?!\nOnce you quit, you can never\ngo back to being a merchant!
+Are you serious, master?!\nOnce you quit, you can never go back to being a merchant!
 @86
 You truly, truly mean it?!\nThis is the last time I'll ask...\n\nYou'll really give up trade\nand become a samurai?
 @87

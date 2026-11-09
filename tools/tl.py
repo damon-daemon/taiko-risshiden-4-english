@@ -24,7 +24,7 @@ their block and checked: lines per page, the message buffer (window blocks), and
 whole message re-parsed must keep the Japanese structure.
 
 usage:
-    tl.py show  NN [from] [to] [--todo]  # print Japanese units (codes visible) to translate
+    tl.py show  NN [from] [to] [--todo] [--en]  # print Japanese units (codes visible); --en: current English under each
     tl.py apply NN [batch.txt]     # merge batch into tl/msgNN.txt, validate, rebuild
                                    # script/msg/msgNN.json (no batch: tl/msgNN.txt only)
     tl.py stats                    # progress per block
@@ -609,7 +609,7 @@ def tr5_hints():
                         _TR5.setdefault(key, unit_str(et[c:d]).replace('\n', '\\n'))
     return _TR5
 
-def show(n, a=0, b=None, todo=False):
+def show(n, a=0, b=None, todo=False, en=False):
     rows = load(n)
     hints = tr5_hints()
     path = os.path.join(TL, 'msg%02d.txt' % n)
@@ -623,6 +623,9 @@ def show(n, a=0, b=None, todo=False):
                 continue
             print('@%d%s%s%s  %s' % (r['id'], '.%d' % u if u else '', ' [done]' if (r['id'], u) in done else '',
                                      '  # ' + ctx if ctx else '', jp.replace('\n', '⏎')))
+            if en and (r['id'], u) in done:
+                print('    EN: ' + done[(r['id'], u)].replace('\n', '⏎'))
+                continue
             hint = hints.get(b''.join(t for k, t in toks[x:z] if k == 'text'))
             if hint:
                 print('    TR5: ' + hint.replace('\n', '⏎'))
@@ -641,8 +644,8 @@ def stats():
 if __name__ == '__main__':
     cmd = sys.argv[1] if len(sys.argv) > 1 else ''
     if cmd == 'show':
-        args = [a for a in sys.argv[2:] if a != '--todo']
-        show(int(args[0]), *(int(x) for x in args[1:3]), todo='--todo' in sys.argv)
+        args = [a for a in sys.argv[2:] if a not in ('--todo', '--en')]
+        show(int(args[0]), *(int(x) for x in args[1:3]), todo='--todo' in sys.argv, en='--en' in sys.argv)
     elif cmd == 'apply':
         sys.exit(0 if apply(int(sys.argv[2]), sys.argv[3] if len(sys.argv) > 3 else None) else 1)
     elif cmd == 'stats':

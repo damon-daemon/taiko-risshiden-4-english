@@ -1,0 +1,242 @@
+@0.0
+Four years had already passed since \#25E, a senior retainer of the Ōuchi, rebelled against his lord Ōuchi Yoshitaka, too fond of the arts, and drove him to his death...
+@0.1
+\#65E took Haruhide, adopted from the \#8E0 clan of Bungo, renamed him \#664 and set him up as lord, so that on the surface the \#A64 lived on in peace...
+@0.2
+But the warriors of the Chūgoku and northern Kyūshū who had long followed the \#A64 gradually gave up on the \#A64 and turned to the \#A07 and others...
+@0.3
+The fall of a great house had begun...
+@0.4
+Adopted into the \#A64 clan, fine, but my men are all deserting me...
+@0.5
+What on earth have I done... Could it be the fault of \#25E...?
+@0.6
+I was not wrong to strike down Lord Yoshitaka...
+@0.7
+Lord Yoshitaka's pleasures made Yamaguchi alone splendid, while the fortunes of the \#A64 clan declined. He would not heed our warnings.
+@0.8
+Why am I called wicked for removing such a lord by force...
+@0.9
+I have no intention of taking the \#A64's place. As proof, I serve Lord \#664, brought in from the Ōtomo clan, as my lord.
+@0.10
+I have done nothing to be called a cruel traitor... And yet the \#A64 warriors...
+@0.11
+abandon the \#A64 and run to the \#A07... Do they not understand the way of heaven?
+@0.12
+It is certain that Lord \#25E brought on the decline of the \#A64 clan...
+@0.13
+But it is just as certain that our house could not survive without \%0425E...
+@0.14
+What will become of the \#A64 now...
+@1.0
+My lord! \#207 is about to build a new castle near Itsukushima!
+@1.1
+Itsukushima? Why in such a place... Is he provoking us?
+@1.2
+Well... His true aim is unknown, but Lord \#25E says we must be very wary.
+@1.3
+You reported to \#65E before me, the head of this house?
+@1.4
+...F-forgive me!
+@1.5
+...Well, never mind. True, no one in our house knows war better than \#65E.
+@1.7
+But I am the head of the \#A64 clan. Do not forget that.
+@1.9
+Lord \#3FE! \#207 is about to build a new castle near Itsukushima!
+@1.10
+Itsukushima? Why in such a place... \#607 is a cunning schemer, never to be trusted... Could it be some ploy?
+@1.11
+Well... His true aim is unknown, but our scouts report that the purpose of the castle is a closely kept secret.
+@1.12
+So it is a castle of great importance... Indeed, Itsukushima may be a key stepping stone for an attack on Yamaguchi...
+@1.13
+If possible, I would like to crush it before it is finished... Shall I propose it to our lord at the next council...
+@1.14
+But to attack Itsukushima we will surely need naval power. And the man who leads the Inland Sea navies is... \#042.
+@1.15
+But would \#042 really side with the \#A64...
+@1.16
+Lord \#3FE, \#207 is about to build a new castle near Itsukushima!
+@1.19
+Hmm... What is \#207 up to...
+@2.0
+It has been a long time... Lord \#042.
+@2.1
+...Well, well, Lord \#A5E, who rules the \#A64 roost. What brings you here?
+@2.2
+In truth, I wish to apologise for what happened some years ago...
+@2.3
+... What has blown you this way?
+@2.4
+Some time ago, \#25E, as chief retainer of the \#A64 clan, sought to unite the navies of the Inland Sea and joined hands with the \#842 navy...
+@2.5
+But the navies, robbed of freedom and privileges under \#A64 rule, came to oppose the \#A64 clan...
+@2.6
+And it was \#25E who crushed by force the navies that defied the \#A64...
+@2.7
+Back then we did not know the ways of the navies... We never meant to take your privileges.
+@2.9
+Will you not join hands with us once more... We of the \#A64 clan have learned that we cannot stand with the navies against us...
+@2.10
+...For Lord \#25E, steward of the \#A64, to humble himself so far... There must be something behind it.
+@2.12
+Ha ha ha, I can't fool you. Just so... in truth, the \#A07 are acting strangely.
+@2.13
+They mean to make war on us before long, I'd wager... That is why I have come.
+@2.14
+In short, I am laying the groundwork for war.
+@2.15
+Heh heh... You are honest.
+@2.16
+So, will you not side with us? Name your reward.
+@2.17
+In truth, Lord \#A5E... the very same request has come from the \#A07.
+@2.18
+What!? I knew it. \#207 is quick, as ever... And the \#842 navy's answer?
+@2.19
+I have not answered yet... It is a decision that will decide the fate of the \#842 navy... To tell the truth, I was undecided myself.
+@2.20
+I beg you, Lord \#442! Even if you will not side with the \#A64, at least do not aid the \#A07!
+@2.23
+Ha ha ha! You win, Lord \#A5E... The \#842 navy will send help to neither side. Will that do?
+@2.24
+Oh! I am grateful... Do you truly mean it!?
+@2.25
+Yes... In truth, I had been thinking of siding with the \#A07, but...
+@2.26
+you, Lord \#A5E, took the trouble to come and see me in person.
+@2.27
+I thank you! I am in your debt!
+@2.28
+Well, the \#A64 and the \#A07... fight it out as you please. We shall sit back and watch.
+@2.29
+Let us see who becomes master of the Chūgoku.
+@3.0
+My lord, Lord \#25E has returned.
+@3.1
+My lord, I have defeated \#207!
+@3.2
+Ah, you are back. Well done! You are truly the guardian of the \#A64.
+@3.3
+You are too kind... I, \#65E, am resolved to serve the \#A64 clan with every ounce of my strength from now on!
+@3.4
+Yes, reassuring words! Well done!
+@3.5
+Once hailed as the mightiest in the west, the great \#A64 house that had even marched on the capital with the Shōgun... was about to rise again...
+@3.6
+Ah, Lord \#25E! Welcome back! My lord! My lord!
+@3.10
+Yes, reassuring words! You fought well!
+@4.0
+Lord \#3FE! At Itsukushima our army has clashed with the \#A07 army.
+@4.2
+We have lost... It seems our commander, Lord \#25E, has fallen...
+@4.5
+\#207, long under Ōuchi rule, had slowly gathered strength until at last he surpassed his former masters, the Ōuchi...
+@5.0
+What! The enemy came by sea! A surprise attack! Everyone, be on guard!
+@5.1
+Ah! Lord \#A5E! A fleet, out across the sea!
+@5.2
+Ugh...! So the \#842 navy sided with the \#A07 after all.
+@5.3
+Then we are at a great disadvantage.
+@5.4
+Bah, stop whining! Scatter the \#A07 rabble without a word!
+@5.6
+It seems we outnumber the \#A07.
+@5.7
+Yes! As promised, the \#842 navy did not side with the \#A07 and stayed neutral!
+@5.8
+Good! We'll throw back their cowardly surprise attack! We'll send them running instead!
+@6.0
+It's hopeless! Our army is routed!!
+@6.1
+Ugh...! The shame of it!
+@6.2
+Lord \#A5E! Escape this way...
+@6.3
+N-no good... there are enemies here too. It seems our retreat is cut off...
+@6.4
+How bitter...
+@6.5
+My fate ends here, it seems... There is nothing left but to take my own life... You, be my second.
+@6.6
+...As you wish.
+@6.7
+...Even in the next world, I could not face the late Lord Yoshitaka...
+@6.12
+News! Lord \#25E's army has been defeated by \#207 at Itsukushima!
+@6.13
+What!? And \%0425E?
+@6.14
+His retreat completely cut off by the \#A07 army and the Inland Sea navies, he took his own life!
+@6.15
+Ugh... How could this be... Without \%0425E, what will become of the \#A64...
+@6.18
+We did it! A great victory for our side!
+@6.19
+Yes! Good! What of \#207!?
+@6.20
+\#607 seems to have fallen!
+@6.21
+Well done! Now no one is left to threaten the \#A64...
+@6.22
+Congratulations, my lord!
+@6.23
+Yes. I can report to our lord with my head held high.
+@6.24
+From Yoshida-Kōriyama Castle, \#207 had risen from a petty lord until he could stand against great daimyō like the Ōuchi and the Amago...
+@6.25
+But he was no match for \#25E, guardian of the \#A64, victor of many battles...
+@6.26
+Having lost its pillar \#207, the \#A07 clan never again expanded its lands...
+@6.27
+Good! We return!
+@6.28
+News! Lord \#25E's army has won a great victory over \#207 at Itsukushima!
+@6.29
+What! That is wonderful!!
+@6.30
+The enemy commander \#207 seems to have fallen!
+@6.31
+Splendid... For our house this is the greatest good fortune!
+@7.2
+When I think of it... what has my life been? After \#25E killed Lord Ōuchi Yoshitaka, he brought me from the \#8E0 clan and made me the adopted heir...
+@7.18
+My lord! I will follow you!
+@8.1
+My lord, I have something to tell you!
+@8.2
+What is it? Speak...
+@8.3
+\#207 is about to build a castle at Miyao, near Itsukushima!
+@8.4
+It must be a castle important to the enemy's strategy. If so, we must crush it before it is finished.
+@8.5
+What do you propose?
+@8.6
+Give me an army. Before it is finished it will have few defenders. I will scatter them for you.
+@8.7
+Are you sure it will be all right...?
+@8.8
+My lord! Do you not trust me?
+@8.9
+...It is not that, but...
+@8.10
+Allow the attack
+@8.11
+Refuse
+@8.12
+...Very well. Then march out and defeat \#207!
+@8.15
+No, I will not! It must be a trap. Otherwise he would not build a castle so openly.
+@8.16
+... As you wish.
+@8.18
+\#264's decision was by no means a mistake...
+@8.19
+Seeing the \#A64 had no will to attack, \#207 gave up building the castle.
+@8.20
+The decisive battle between the \#A64 and the \#A07 was averted...

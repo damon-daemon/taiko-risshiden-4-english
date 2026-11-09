@@ -1,0 +1,860 @@
+@0.0
+My lord, a gift has arrived from Lord \#000.
+@0.1
+What!? From Lord \#800?
+@0.2
+Yes. Here it is.
+@0.3
+Hmm, a splendid great pearl.
+@0.4
+But why would Lord \#800 suddenly...? I do not understand.
+@0.5
+But, my lord... now that he has sent a gift, it would be discourteous not to send an envoy with thanks...
+@0.6
+Mm... so it would. Very well, summon \#15B.
+@0.8
+My lord, you sent for me?
+@0.9
+Yes. I want you to go to Lord \#800.
+@0.10
+Pardon? As your envoy to Lord \#800?
+@0.11
+Yes. He has sent me a gift out of season... I want you to find out what he really means by it.
+@0.12
+Understood. Then I will find out Lord \#800's true intent.
+@0.13
+Good. I am counting on you.
+@0.14
+Yes, my lord. I will be back within ten days.
+@1.0
+My lord, \#15B has just returned.
+@1.1
+Ah, \#55B. How was it? How did Lord \#000 seem?
+@1.2
+Well... I really cannot say.
+@1.3
+You cannot say?
+@1.4
+When I called on Lord \#800, he gave me a tremendous welcome...
+@1.5
+Oh?
+@1.6
+Why, every day was one feast after another... When I raised the matter of the gift, he said it was simply a token of his regard for Lord \#958.
+@1.8
+It seems Lord \#800 had no hidden motive and sent the gift simply as a sign of friendship.
+@1.9
+...I see. That will do. You have done well.
+@1.10
+Yes, my lord. I take my leave.
+@1.11
+(Hmm... It seems this was too much for \#55B... He has been nicely won over.)
+@1.12
+My lord... I have heard a strange rumour.
+@1.13
+A strange rumour?
+@1.14
+They say Lord \#15B was offered a post by Lord \#800 at a handsome stipend...
+@1.16
+The rumour is that Lord \#95B was sorely tempted...
+@1.17
+Surely not...
+@1.18
+Oh, but it is true. The castle town is talking of nothing else.
+@1.19
+Believe the rumour
+@1.20
+Dismiss the rumour
+@1.21
+Indeed... a rumour I cannot ignore.
+@1.22
+Shall we question Lord \#95B?
+@1.23
+No, there is no need. Let us watch for a while...
+@1.25
+Hmph, nonsense. Do not spread such rumours.
+@1.27
+Enough. I trust \#55B.
+@2.0
+I am already \1007... It is time I thought seriously about my heir...
+@2.1
+At this time there were three of \#158's sons who could be called candidates for heir...
+@2.2
+The second son, \#173...
+@2.3
+The third son, \#178...
+@2.4
+And the fourth son, \#171...
+@2.5
+Ever since he had sent \#573 to be adopted by Toyotomi Hideyoshi years before, \#558 had named \#578 as his heir...
+@2.6
+But the other two were also able sons, and \#558 was torn...
+@2.7
+\#558 gathered his chief retainers and asked which of his sons should be his heir...
+@2.8
+I have called you here for one reason only: to decide who should be my heir.
+@2.9
+What!? Surely you had already chosen Lord \#578 as your heir?
+@2.10
+Just so... To change an heir once chosen would be the seed of strife within the house.
+@2.11
+Yes, but \#578 arrived late, of all battles, at Sekigahara. One cannot help but doubt his fitness to command.
+@2.12
+So I ask you: who is fit to be my heir? Speak your minds freely...
+@2.13
+I... cannot give an answer.
+@2.14
+I too will simply follow the heir our lord chooses.
+@2.15
+Hmm, \#564, what say you?
+@2.16
+With respect, if I may speak freely, I believe Lord \#573 is the fittest.
+@2.17
+What did you say!!
+@2.18
+Though he was adopted out, Lord \#573 seems truly to have inherited the most of our lord's qualities.
+@2.19
+Is not Lord \#573 the fittest to carry on the mantle of our lord, who mastered this warring age...?
+@2.20
+What are you saying! Once the heir has been decided as Lord \#578...
+@2.21
+it is true loyalty for us to support him.
+@2.22
+Then, \#576, you think \#578 is fit?
+@2.23
+Of course! Lord \#578 has made no blunder that should cost him his place as heir!
+@2.24
+The late arrival at Sekigahara was the fault of us retainers! I beg you, do not abandon the young lord!
+@2.25
+Then, \#572, what say you?
+@2.26
+I... think it should be either Lord \#573 or Lord \#578.
+@2.27
+That makes it sound as though Lord \#571 were quite incompetent! Is that not insolent!
+@2.28
+No, I meant nothing of the sort...
+@2.29
+I believe Lord \#571 is the fittest!
+@2.31
+Of the brothers, I believe Lord \#571 is the most respected! I put forward Lord \#571!
+@2.32
+Hmm... Opinions are divided.
+@2.33
+My lord, whichever it is, please decide soon.
+@2.34
+Delay will be the seed of strife within the house...
+@2.35
+Whomever you choose, we will follow your decision!
+@2.36
+What will you do?
+@2.38
+Make \#573 heir
+@2.39
+Make \#578 heir
+@2.40
+Make \#571 heir
+@2.41
+Good, I have decided. My heir shall be \#573.
+@2.42
+My lord...!
+@2.43
+Then we will support Lord \#573 with all our strength!
+@2.44
+Yes, I am counting on you.
+@2.45
+And so \#158 chose \#173 as his heir...
+@2.50
+Good, I have decided. My heir shall be \#578.
+@2.51
+Understood. So it stays as it was before.
+@2.52
+Then we will support Lord \#578 with all our strength!
+@2.54
+And so \#158 chose \#178 as his heir...
+@2.55
+Good, I have decided. My heir shall be \#571.
+@2.57
+Then we will support Lord \#571 with all our strength!
+@2.59
+And so \#158 chose \#171 as his heir...
+@3.0
+My lord, a letter has come from our ally, Lord \#094.
+@3.1
+Mm... Show me.
+@3.2
+The letter was an invitation from \#094.
+@3.3
+During their long alliance, the two had found fewer and fewer chances to meet...
+@3.4
+so he was inviting him to come and visit \50FB.
+@3.5
+Hmm... It would certainly not be unwelcome to go and see Lord \#894...
+@3.6
+My lord... why not stretch your wings for once?
+@3.7
+Lord \#894's invitation is a good chance. Why not see the sights of Kyōto and Sakai and enjoy the journey?
+@3.9
+Accept \#494's invitation
+@3.10
+Decline with regret
+@3.11
+Good, I will call on him at \50FB.
+@3.12
+A fine idea, my lord.
+@3.13
+Let us prepare at once. It is only a pleasure trip, so a small escort will do.
+@3.14
+But, my lord, please take great care...!
+@3.15
+I know.
+@3.16
+No... I had better not after all. We are both busy men.
+@3.18
+I will send Lord \#894 a courteous letter of refusal...
+@3.19
+But, my lord, you should rest once in a while.
+@3.20
+Yes, yes, I know.
+@4.1
+Yes, I am back.
+@4.2
+Dear, I have heard a rather unpleasant rumour...
+@4.3
+An unpleasant rumour?
+@4.4
+Yes. They say you, my lord, of all people, mean to join \#094 and betray the \#84F...
+@4.6
+Surely such a rumour cannot be true!?
+@4.8
+\#558's wife, Lady Tsukiyama, was originally called Princess Sena, the daughter of Imagawa Yoshimoto's chief retainer \#054.
+@4.9
+While \#558 was an Imagawa hostage in Sunpu, Sena was adopted by Yoshimoto and married to \#558 as part of a plan to bind the \#958 to the Imagawa.
+@4.10
+Lady Tsukiyama was, so to speak, the bond between the \#84F and the \#958.
+@4.11
+Well, what is it? My lord...
+@4.12
+A woman should not meddle in politics.
+@4.13
+No, I will speak. I am the adopted daughter of Imagawa Yoshimoto!
+@4.15
+I will never allow it...! \#094 is the enemy who slew my adoptive father! To ally with such a man...!
+@4.16
+Enough, I understand. Say no more.
+@4.18
+I told you to be quiet!
+@4.20
+No, I am sorry I shouted. But I am tired.
+@4.22
+You are my wife. Could you not show some concern for your husband's weariness?
+@4.23
+Very well. I will say no more. But...
+@4.25
+I do wish you would at least understand how I feel.
+@4.27
+(Phew, good grief... At this rate, who knows what she will say when I truly break from the Imagawa...)
+@4.28
+(Ally with \#894, or stay on the \#84F side... At any rate it is a weighty matter. Perhaps I should call my retainers and decide in council...)
+@5.0
+Gah! M-my lord!
+@5.1
+\#55B, it has been a long time.
+@5.2
+I-I... I beg your pardon!
+@6.0
+My lord, grave news!
+@6.1
+\#7FA? What is it?
+@6.2
+They say \#15B fled late last night!
+@6.4
+The wretch seems to have swallowed Lord \#800's bait whole...
+@6.5
+That is absurd... Surely not \#55B...
+@6.6
+This is grave. Every secret of our army's organisation will be laid bare to the \#800 house!
+@6.7
+...Curse you, \#55B! At any rate, we change our army's organisation at once!
+@6.8
+Yes, I have it. Adopt the military system of the Takeda house, destroyed a few years ago!
+@6.9
+Yes, my lord! As for the Takeda system, there should be men in our house who know it well.
+@6.10
+Even so, to lure away \#55B, a hereditary retainer who served us so many years! That man \#000 is truly fearsome...
+@7.0
+Ah, Lord \#BFE. Welcome, welcome. I am \#0F5, your host for this visit.
+@7.1
+I am unworthy, but I will gladly show you around.
+@7.2
+Why, Lord \#8F5, I am honoured by your courteous greeting.
+@7.3
+We will be in your care as well.
+@7.4
+Lord \#958 and your retainers, please take your time and enjoy the sights of the castle town.
+@7.9
+And Lord \#8F5 is such a fine guide... Now I know \50F9 in every detail.
+@7.13
+Lord \#8F5 here kindly showed me all around \50F9.
+@7.14
+Mm, \#4F5. I trust there was no discourtesy to Lord \#958!
+@7.19
+Ha ha ha, I am glad Lord \#958 enjoyed himself! ...\#4F5!
+@7.23
+I thank you for your careful attention, Lord \#8F5.
+@7.30
+\#4F5!
+@7.44
+Hmph! Idiot!
+@7.45
+...Lord \#894, was that not a little harsh? Lord \#8F5 will lose face.
+@7.46
+No, it is fine. Lately the fellow has been getting above himself. He needs a scolding now and then.
+@7.47
+...I see.
+@7.48
+(That \#0F5 seems a sensitive man... I hope he does not bear a grudge...)
+@7.49
+Well, I have had a pleasant day. Thank you very much.
+@7.50
+Not at all. Come and visit again any time.
+@7.52
+So, what will you do now?
+@7.53
+I was thinking of seeing the sights of Sakai.
+@7.54
+I see... I would gladly show you Sakai myself, but unfortunately I have business.
+@7.55
+No, no, please do not trouble yourself.
+@7.56
+That \#000 has asked for reinforcements... I must go to him.
+@7.57
+Ha ha ha. We will see the sights on our own, so please do not worry about us.
+@7.58
+Good. Then fare you well.
+@7.59
+And you, Lord \#894...
+@8.0
+Sakai truly is a lively place...
+@8.1
+Yes, I wonder if I should buy some souvenirs...
+@8.2
+Lord \#958! Terrible news!!
+@8.3
+What, is that not \#240? Why are you here? Have you come to see Sakai too?
+@8.4
+Nothing of the sort! Lord \#094 has been slain by \#0F5 at Honnō-ji in Kyōto!
+@8.5
+What! That is terrible!!
+@8.7
+Hm? And who are you?
+@8.8
+I am \#240, a merchant who trades in Kyōto.
+@8.9
+I have something I must tell Lord \#958 without fail, and so I have come!
+@8.10
+Something you must tell me?
+@8.11
+Lord \#094 has been slain by \#0F5 at Honnō-ji in Kyōto!
+@8.12
+What! That is grave news!!
+@8.13
+But why, of all things...?
+@8.14
+The reason is not certain. But I heard that you, Lord \#958, had gone to Sakai with only a few men...
+@8.15
+and I came to warn you, for it would be terrible if the \#8F5 army attacked you on your way home...
+@8.16
+I see! Thank you for telling us!
+@8.17
+My lord, what shall we do!?
+@8.18
+Wh-what am I to do!? With Lord \#894 slain... I am finished too...!
+@8.19
+My lord, please calm yourself. There is always a way out.
+@8.20
+Leave it to me.
+@8.21
+\#570! Do you have a plan?
+@8.22
+The \#8F5 army is probably holding the key points on the highways. We take the back roads through Iga...
+@8.23
+If we return to our lands along the mountain paths, the \#8F5 army will not find us...
+@8.24
+I know the ways of Iga well, even the game trails.
+@8.25
+My lord, it is the only way to get home!
+@8.26
+Very well, \#570! Lead the way!
+@9.0
+My lord! We have reached the Iga villages. It seems the \#8F5 army has not found us.
+@9.1
+But beyond this point there will be bandits and the like about.
+@9.2
+So we cannot let our guard down...
+@9.3
+Oh! A fleeing samurai? Looks like a high-ranking one too. Hey! Ye're not getting past here!
+@9.4
+Ngh! Bandits! Curse you...!
+@9.5
+My lord, leave this to us! We will handle them!
+@9.6
+Oh! Want a fight, do ye? Heh! Ye look handy enough, but what can ye do with so few?
+@9.8
+One shout from me and a hundred of my lads'll be here to give the lot of ye a beating!
+@9.9
+Grr...!
+@9.10
+Wait! Wait a moment! Leave this to me.
+@9.11
+Hm? \#640, what do you mean to do?
+@9.12
+Now, now, good bandits, I will pay! How much do you want?
+@9.13
+Clink, clink
+@9.14
+Whoa! Gold, gold! With this, we got no complaints! Go on through!
+@9.15
+Why, thank you. Then we will pass. Come, everyone! Let us go!
+@9.16
+\#640, you saved us.
+@9.17
+Oh, at times like these, a merchant's gold is worth rather more than a samurai waving his long sword about.
+@9.19
+Ah, no... That was a slip of the tongue.
+@9.20
+Ha ha ha ha!
+@9.21
+Well, you saved us all the same. Now, let us hurry on.
+@10.0
+Phew... good grief. Somehow we made it home.
+@10.1
+I am glad above all that you are safe.
+@10.2
+Even I thought I was going to die this time!
+@10.3
+Ha ha ha... No, it is no laughing matter.
+@10.4
+At any rate, first I must avenge Lord \#894! Send out an army to punish \#8F5!
+@10.7
+What is it! At a busy time like this!
+@10.16
+I see... Hmm.
+@10.17
+My lord! About sending out the army...
+@10.18
+Now that \#4F5 has been struck down, there is no cause left to send troops...
+@10.20
+Even so, to think it was \#000... He has done it, that Monkey...
+@10.21
+If \#8F5 has been struck down, Kyōto must be safe again. Then I will take my leave and go home too.
+@10.22
+Oh, \#240... you are going home? I truly owe you a great deal for this. Thank you.
+@10.23
+Not at all, all I did was pay out some money... Money is no use without your life, after all.
+@10.24
+Well then, some day, do visit my shop in Kyōto. Farewell.
+@10.25
+...The man who did the most for us this time was him.
+@10.26
+My lord! Please do not forget my services too!
+@10.28
+(But... from now on, will \#000 take Lord \#894's place and rule the realm...?)
+@10.30
+No one could object to \#400 taking over the former lands of \#0F5...
+@11.0
+Ah, Lord \#958, welcome. Our lord is waiting for you.
+@11.1
+Lord \#894 is?
+@11.2
+Come, first please enter the castle.
+@11.4
+My lord, I have brought Lord \#158.
+@11.5
+Ah, Lord \#558! It has been a long time! Have you been well!?
+@11.6
+You look well too, Lord \#494.
+@11.7
+Yes. Good, you may withdraw. I wish to speak with \#558 alone.
+@11.9
+Now, let us skip the formalities and get to the point.
+@11.11
+Will you form an alliance with us?
+@11.12
+That is just what I came for.
+@11.13
+Oh, is that so? Then this will be quick!
+@11.14
+\#04F has not the ability to hold the lands of his father, Yoshimoto.
+@11.15
+Yes... They say he is a fool of a lord.
+@11.16
+So I thought there was nothing for it but to join with you, Lord \#894, to the west.
+@11.17
+That frees me from worry in the east too. I am grateful.
+@11.18
+You were good to me when I was a hostage, Lord \#894.
+@11.19
+Ha ha ha. Those were the days. By the way, \#558... no, Lord \#958.
+@11.20
+What is it?
+@11.21
+I thought we might make a bond to strengthen this alliance further...
+@11.22
+A bond... meaning?
+@11.23
+You have a son, Lord \#958?
+@11.24
+Yes. I have given him my own childhood name, Takechiyo.
+@11.25
+Would you take my daughter Toku as a bride for this young Takechiyo?
+@11.26
+What, your daughter, Lord \#894! Why, I accept such an offer gladly!
+@11.27
+I see. Thank you for agreeing so readily.
+@11.28
+And while we are at it, I would like to give Takechiyo the name "Nobuyasu", one character from your name and one from mine...
+@11.29
+Takechiyo is a fortunate boy. When he comes of age, he shall be called Nobuyasu.
+@11.30
+Well, splendid, in any case. Now that the alliance is made, Lord \#958, you attack to the east!
+@11.31
+I will push west!
+@11.32
+Yes. Now our house can attack the \#84F without worry.
+@11.33
+Good. Now, sake, sake! Someone bring sake!
+@11.35
+So \#094 and \#158 formed a firm alliance... the founding of what the world calls the "\50F8 Alliance".
+@12.0
+Ah, my lord. How did it go?
+@12.1
+Yes, it went splendidly. I have made an alliance with Lord \#894 without a hitch.
+@12.2
+Oh, congratulations, my lord!
+@12.3
+Now we can attack the \#84F without worry!
+@12.4
+Yes. What is more, Lord \#894's daughter is to marry Takechiyo.
+@12.5
+But... I am worried about my wife.
+@12.6
+As for her ladyship, there is nothing to worry about.
+@12.8
+While you were away, my lord, all of us retainers talked her ladyship round.
+@12.9
+And besides, her ladyship dotes on young Takechiyo.
+@12.10
+A wedding for him will surely please her no end.
+@12.11
+I see.
+@12.12
+Speak to her with an easy mind.
+@12.14
+I am back.
+@12.16
+You see, Tsukiyama...
+@12.17
+...and so, this is a happy thing for Takechiyo too.
+@12.18
+I understand. I will say nothing more.
+@12.19
+You understand, then...
+@12.20
+Yes. To me, \#094 is the enemy of my family... but to Takechiyo he will be a father-in-law...
+@12.22
+If I insist on my own way, it is Takechiyo who will suffer...
+@12.23
+As his mother, how could I not rejoice at my son's wedding?
+@12.24
+Sena...
+@12.25
+This alliance... I too will accept it.
+@12.26
+Thank you for understanding! I am grateful...!
+@12.28
+That year \#158 changed his name to Ieyasu, casting off the character "Moto" he had received from Imagawa Yoshimoto, to walk a new path in life...
+@12.29
+He also gave up the family name Matsudaira and took the new name "Tokugawa".
+@12.30
+It recalled the old name "Tokugawa" of the Nitta line of the Seiwa Genji, a way of stressing his descent from the Minamoto.
+@12.31
+The "Ie" of his new name "Ieyasu" also recalled the great Minamoto general Hachiman Tarō Yoshiie.
+@12.32
+Only descendants of the Seiwa Genji could hold the office of Shōgun... or so it had long been said.
+@12.33
+It seems that in the heart of Matsudaira Motoyasu, now Tokugawa Ieyasu, there lay the thought that one day that Shōgun's seat would...
+@12.38
+From now on my family name is "Tokugawa", of the line of the Nitta.
+@12.39
+Some day, without fail... I will become Shōgun.
+@13.0
+Well... I have managed to unite Mikawa. From now on I must widen my lands further.
+@13.1
+My lord, grave news!
+@13.2
+What is it? What a commotion.
+@13.3
+Word has come that the Ikkō believers in our province have risen in revolt!
+@13.4
+What! An Ikkō uprising!
+@13.5
+Mikawa was a land with a great many Ikkō believers, and there were many among the \#958 retainers as well...
+@13.6
+With an Ikkō uprising in the province, it was inevitable that unrest would spread within the \#958 house too...
+@13.7
+The Ikkō temples of Mikawa, above all the three temples Jōgū-ji, Honshō-ji and Shōman-ji, are stirring up the believers!
+@13.8
+Ngh! And just when I had united Mikawa...
+@13.9
+At any rate, I must call a council at once and decide what to do...
+@14.0
+I have even lost \#564, a retainer I could never replace...
+@14.1
+So my hold on the land is still nothing before the Ikkō rebels...
+@14.2
+My lord, it seems the Ikkō uprising in our province has died down.
+@14.3
+Mm... And what of the monks of Jōgū-ji, Shōman-ji and Honshō-ji?
+@14.4
+Well... they say they will make peace if their temple halls, ruined in the fighting, are restored as they were...
+@14.5
+What brazen terms... Those are no terms for the losing side to set!
+@14.7
+Very well... I accept the peace.
+@14.9
+Yes. Tell the three temples at once that, as promised, I will restore things as they were.
+@14.11
+My lord, word has come from the three temples that they accept the peace.
+@14.12
+I see... Good! Is anyone there!?
+@14.14
+Set fire to the three temples, Jōgū-ji, Shōman-ji and Honshō-ji! Burn them to the ground!
+@14.16
+Did you not hear me! Burn them all!
+@14.17
+My lord! But the promise...
+@14.18
+Promise? What promise? I only said I would "restore things as they were"!
+@14.20
+"As they were" means the empty field before the temples were built!
+@14.22
+Monks who, far from chanting the nenbutsu, stir up believers to revolt will only cause trouble later if left alone!
+@14.23
+I see. So that was your intention from the start, my lord...
+@14.24
+Just so! I have not broken my promise, have I?
+@14.25
+Indeed not!
+@14.26
+In \@001/\@002, \#158 ordered the three temples of Mikawa burned and torn down.
+@14.27
+From then on the power of the Ikkō sect in Mikawa waned, and \#558 made his rule of Mikawa secure...
+@15.0
+My lord! My lord!
+@15.2
+Have you forgotten me? It is I, \#164.
+@15.3
+Oh, \#564! How could I forget! You came back alive...
+@15.4
+As promised, after ten years of leave, I have returned...!
+@15.5
+Yes, welcome back! From now on, serve me!
+@15.6
+That goes without saying. From now on I mean to work myself to the bone for you.
+@15.7
+I do not think of you as my retainer.
+@15.9
+Not a retainer, but a friend! Advise me as a friend!
+@15.10
+My lord...! I am unworthy of such words... I, who once turned against my lord...
+@15.11
+Wa ha ha. That was the folly of youth, was it not?
+@15.12
+Let us leave it at that.
+@15.13
+Ha ha ha ha.
+@15.14
+From then on \#164 served \#158 again, a returned retainer.
+@15.15
+\#564 worked himself to the bone for \#558, and they say the two were more like close friends than lord and vassal...
+@16.1
+Now that I hold Tōtōmi as well as Mikawa, Okazaki here is rather inconvenient...
+@16.2
+My lord, why not move your base to \50F9?
+@16.3
+Oh, \#7FA. Move my base to \50F9?
+@16.4
+Yes. I believe \50F9 is truly well suited for bringing the Tōkai region under control.
+@16.5
+Hmm... But Mikawa is the land of my forefathers... To leave Mikawa...
+@16.6
+My lord, you are one who should aim for the realm. You should not stay in cramped \50F8.
+@16.8
+Move base to \50F9
+@16.9
+Stay in \50F8
+@16.10
+Good! Then I will move my base to \50F9!
+@16.11
+Yes, my lord! Then I will make preparations at once!
+@16.12
+Good, I leave it to you!
+@16.13
+No, I had better not after all... I cannot leave the birthplace of the \#958 house.
+@17.0
+So you are here after all... \#564!
+@17.1
+My lord... forgive me. I... cannot abandon my faith.
+@17.2
+Say no more! ...I disown you! We are no longer lord and retainer!
+@17.4
+Am I right, or are you... Let us settle it!
+@18.0
+It seems your faith has won...
+@18.2
+\#158, warlord of Mikawa, was defeated by the Ikkō rebels in \@001, and so ended his eventful life...
+@18.3
+\#564! So you still forsake me to live by your faith?
+@18.6
+My lord, I, \#564, was wrong. I am still your retainer after all.
+@18.7
+Then come back!
+@18.8
+...That I cannot do.
+@18.9
+Why not!
+@18.10
+I am a traitor who once drew a bow against his lord... If I came straight back, it would set a bad example to your retainers.
+@18.12
+I ask for leave from your service.
+@18.13
+Leave?
+@18.14
+Ten years! In ten years, when things have cooled down, I, \#564, will return to you!
+@18.15
+Ten years!?
+@18.16
+When that time comes... will you welcome me warmly?
+@18.17
+Yes, very well. Then go and train yourself in the provinces for ten years!
+@18.19
+And when you return, you will serve me as a truly loyal retainer this time?
+@18.20
+I, \#564, swear it on my life!
+@18.21
+Good. Then, for ten years... farewell!
+@19.1
+My lord, we have a proposal.
+@19.2
+Hm, what is it?
+@19.3
+Lord \#44F, who succeeded Lord Imagawa Yoshimoto, is said to be a real dullard... We should abandon the \#84F and ally with the \#894.
+@19.4
+So you think the same.
+@19.5
+Then you too, my lord...!?
+@19.6
+Yes. That is the only path for our Mikawa, and yet...
+@19.7
+Do you have some concern?
+@19.8
+My wife, you see...
+@19.9
+Her ladyship?
+@19.10
+I see, her ladyship comes from the \#84F... Yet this is a grave matter for the house. It is hard on her, but...
+@19.11
+Be silent, Lord \#BFA!
+@19.12
+Eek! Your ladyship...!
+@19.13
+Retainers who should support my lord telling him to abandon the \#84F and side with the \#894, of all things! What is the meaning of this!
+@19.14
+Tsukiyama, what is this! You have no business in the council chamber!
+@19.15
+Just so. Matters of state, please leave to us...
+@19.16
+I will not leave it to you! Listen, \#094 is the enemy of my adoptive father! Is he not the enemy of this house too!
+@19.17
+But, my lord! We should ally with the \#894!
+@19.18
+No! The \#894 are the enemy!
+@19.19
+Phew, what am I to do...
+@19.20
+Ally with Oda
+@19.21
+Ally with Imagawa
+@19.22
+Good, I have decided. Our house will ally with the \#894!
+@19.23
+Oh! A bold decision, my lord!
+@19.24
+...Are you truly sure you will not regret it?
+@19.25
+Good, I have decided. Our house will ally with the \#84F!
+@19.26
+Oh! A bold decision, my lord!
+@19.30
+Oh, what is it?
+@19.31
+A letter has come from Lord \#094!
+@19.32
+What? A letter from \#494...? Such a thing...!
+@19.33
+Now, wait, wait. I will read it! Let me see...
+@19.34
+To Lord \#158: I would speak with you of the realm. It will surely be a more interesting talk than any with the lord of Imagawa.
+@19.35
+I shall await you at \50F8.\n    \#894 Saburō \#494
+@19.36
+What does Lord \#494 say?
+@19.37
+Hmm. It says, "I shall await you at \50F8."
+@19.38
+You must not, my lord! \#494 is a violent man... He will kill you!
+@19.39
+Do not worry, Tsukiyama. Before I was a hostage of the Imagawa, I was a hostage of the \#894 too.
+@19.40
+Back then, young Kippōshi... the present Lord \#494... was kind to me...
+@19.41
+Then, my lord, you intend to go to \50F8?
+@19.42
+Yes. I like this letter from Lord \#894 saying he wants to talk about the realm!
+@19.43
+A fine decision, my lord! Ally with the \#894, by all means!
+@19.45
+Tsukiyama, say no more. I have decided this myself. As my wife, obey me.
+@19.46
+...Very well.
+@19.48
+...But I have not forgiven \#094!
+@19.49
+Phew... she has gone. Good grief, there is no beating her ladyship.
+@19.50
+Then that is all for today's council.
+@20.1
+My lord, have you heard about the Ikkō uprising!
+@20.2
+Yes... A grave situation.
+@20.3
+In truth... we too are Ikkō believers.
+@20.4
+What! Then you too are on the rebels' side...!
+@20.5
+No, we agonised over it... whether to choose our lord or our faith...
+@20.7
+And in the end we resolved that we could not abandon you, and made up our minds to give up the Ikkō sect.
+@20.8
+Well said! It must have been hard for you...
+@20.9
+No, we mean to follow you wherever you go, my lord!
+@20.10
+Understood! I thank you! Hm? Come to think of it, I do not see \#164...
+@20.11
+\#564... seems to have chosen the teachings of the Ikkō sect over you, my lord!
+@20.12
+What! \#564, so loyal a man!? Surely not... I cannot believe it.
+@20.13
+In that case, we must put down the rebels without a moment's delay.
+@20.14
+Yes! We march!

@@ -1,5 +1,5 @@
 @0
-◆What does higher Infantry do?\nYou fight better leading infantry in battle, and are more likely to be put in charge of infantry.\n◆How to train\nChoose [Skill Training] then [Infantry] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Infantry is higher than yours.
+◆What does higher Infantry do?\nYou fight better leading infantry in battle, and are more likely to be put in charge of infantry.\n◆How to train\nChoose [Skill Training] then [Infantry] at a Samurai Home in a castle town. The teacher must be a close officer of your clan whose Infantry is higher than yours.
 @1
 ◆Training begins!\nFight a mock battle. A win gives a lot of experience; even in defeat you gain experience by how well you did. [Attack] or [Fire] opens the combat screen.\n◆Abilities that matter\nLeadership: the higher, the stronger your attacks.\n◆Cards you can get\n"Ambush", "Tenfold Trap", "Pursuit"
 @2
@@ -11,11 +11,11 @@
 @5
 ◆Training begins!\nShoot at moving targets. You can fire again after a miss, but reloading takes time. A target that slips off the edge unhit is a failure. The more you shoot down, the more experience.\n◆Abilities that matter\nLeadership, Valor: the higher, the faster you reload.\n◆Cards you can get\n"Quick Load", "Triple Volley", "Rolling Fire"
 @6
-◆What does higher Navy do?\nYou fight better on the water.\n◆How to train\nChoose [Skill Training] then [Navy] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Navy is higher than yours.
+◆What does higher Navy do?\nYou fight better on the water.\n◆How to train\nChoose [Skill Training] then [Navy] at a Samurai Home in a castle town. The teacher must be a close officer of your clan whose Navy is higher than yours.
 @7
 ◆Training begins!\nFight a mock battle at sea. A win gives a lot of experience; even in defeat you gain experience by how well you did. [Attack], [Charge] or [Fire] opens the combat screen.\n◆Abilities that matter\nLeadership: the higher, the stronger your attacks.\n◆Cards you can get\n"Godspeed", "Pincer", "Fire Pots"
 @8
-◆What does higher Archery do?\n[Fire] hits harder when you lead infantry or cavalry in battle.\n◆How to train\nChoose [Skill Training] then [Archery] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Archery is higher than yours.
+◆What does higher Archery do?\n[Fire] hits harder when you lead infantry or cavalry in battle.\n◆How to train\nChoose [Skill Training] then [Archery] at a Samurai Home in a castle town. The teacher must be a close officer of your clan whose Archery is higher than yours.
 @9
 ◆Training begins!\nAllow for wind direction and strength, and shoot at the target within the time limit. The more hits, the more experience.\n◆Abilities that matter\nValor: the higher, the less your aim wavers, and the slower it moves.\n◆Cards you can get\n"Fire Arrows", "Strong Bow", "Steady Rain"
 @10
@@ -23,7 +23,7 @@
 @11
 ◆Training begins!\nChoose cards to play; the side with the higher total attacks. Repeat this; whoever drops to 0 stamina first loses. You gain experience by how the bout went.\n◆Abilities that matter\nValor: the higher, the stronger your attacks.\nSwordsmanship: the higher, the more cards in hand.\n◆Cards you can get\n"Counter Cut", "Vajra Might", "Body Blow"
 @12
-◆What does higher Tactics do?\n[Separate Soldiers] and [Train] give better results. Training Tactics also teaches you formations.\n◆How to train\nChoose [Skill Training] then [Tactics] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Tactics is higher than yours.
+◆What does higher Tactics do?\n[Separate Soldiers] and [Train] give better results. Training Tactics also teaches you formations.\n◆How to train\nChoose [Skill Training] then [Tactics] at a Samurai Home in a castle town. The teacher must be a close officer of your clan whose Tactics is higher than yours.
 @13
 ◆Training begins!\nRoll the dice, move that many squares and head for the goal. You can roll up to 8 times. Reaching the goal raises your level; if you fall short you still gain experience by distance.\n◆Abilities that matter\nLeadership: the higher, the lower the roll needed against ambushes, and the better your rolls.\n◆Cards you can get\nVarious formation cards
 @14
@@ -31,7 +31,7 @@
 @15
 ◆Training begins!\nWithin the time limit, pick the picture that matches the model from among 6. The more correct answers, the more experience.\n◆Abilities that matter\nValor: the higher, the longer the model picture is shown.
 @16
-◆What does higher Building do?\n[Repair Castle] and [Expand Castle] give better results.\n◆How to train\nChoose [Skill Training] then [Building] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Building is higher than yours.
+◆What does higher Building do?\n[Repair Castle] and [Expand Castle] give better results.\n◆How to train\nChoose [Skill Training] then [Building] at a Samurai Home in a castle town. The teacher must be a close officer of your clan whose Building is higher than yours.
 @17
 ◆Training begins!\nCarry stones to get as close as you can to the target weight. If you go over, chip some off with a chisel. The closer the weight, the more experience.\n◆Abilities that matter\nPolitics: the higher, the more times you can chip, and the fewer digits are hidden.\n◆Cards you can get\n"Fire Attack", "Rockfall", "Flooding"
 @18
@@ -39,7 +39,7 @@
 @19
 ◆Training begins!\nTill the wasteland as you go, covering as much ground as you can. It ends when you can go no further. The more you till, the more experience.\n◆Abilities that matter\nPolitics: the higher, the more rocks you can break.\n◆Cards you can get\n"Better Tools", "Sword Hunt", "Nanban Refining"
 @20
-◆What does higher Mining do?\n[Mine Work] gives better results.\n◆How to train\nChoose [Skill Training] then [Mining] at a samurai quarter. The teacher must be a close officer of your clan whose Mining is higher than yours.
+◆What does higher Mining do?\n[Mine Work] gives better results.\n◆How to train\nChoose [Skill Training] then [Mining] at a Samurai Home. The teacher must be a close officer of your clan whose Mining is higher than yours.
 @21
 ◆Training begins!\nFollow the tunnels like an amida ladder and hunt for a big gold vein. The more gold you get, the more experience.\n◆Abilities that matter\nPolitics: the higher, the better your odds when choosing hanafuda cards.\nLeadership: the higher, the more time to choose a starting point.\n◆Cards you can get\n"Rush Repair", "Plan Refill"
 @22
@@ -51,9 +51,9 @@
 @25
 ◆Training begins!\nFind matching items, as in Concentration. The target item is shown at the top right; find it to earn a bonus at the end. The more you find, the more experience.\n◆Abilities that matter\nDiplomacy: the higher, the more lenient the teacher.\n◆Cards you can get\n"Debt Amnesty", "Split Works", "Court Speech"
 @26
-◆What does higher Speech do?\nHaggling succeeds more easily, and [Win Hearts] gives better results.\n◆How to train\nChoose [Skill Training] then [Speech] at a samurai quarter in a castle town. The teacher must be a close officer of your clan whose Speech is higher than yours.
+◆What does higher Speech do?\nHaggling succeeds more easily, and [Win Hearts] gives better results.\n◆How to train\nChoose [Skill Training] then [Speech] at a Samurai Home in a castle town. The teacher must be a close officer of your clan whose Speech is higher than yours.
 @27
-◆Training begins!\nWithin the time limit, pick the sentence that matches what the teacher said. The more correct answers, the more experience.\n◆Abilities that matter\nDiplomacy: the higher, the longer the time limit.\n◆Cards you can get\n"Abuse", "Demand Surrender", "Offer Peace"
+◆Training begins!\nWithin the time limit, pick the sentence that matches what the teacher said. The more correct answers, the more experience.\n◆Abilities that matter\nDiplomacy: the higher, the longer the time limit.\n◆Cards you can get\n"Taunt", "Call to Yield", "Offer Peace"
 @28
 ◆What does higher Tea do?\n[Tea Party] and [Tea] have greater effect.\n◆How to train\nChoose [Tea Training] at a tea master's house. You need tea ware whose value suits your level.
 @29

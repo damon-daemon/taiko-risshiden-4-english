@@ -1,0 +1,432 @@
+@0.3
+What!?\nLord \#89B has...
+@0.4
+With Lord \#89B gone, the one man who kept both the Toyotomi and the Tokugawa in check... there's no telling what will happen now...
+@1.0
+Lord \#3FE!\nAt last \#22C and \#158 have fought\na great battle at Sekigahara!
+@1.1
+What!?\n...And the outcome?
+@1.2
+Lord \#22C was easily defeated,\nand \#158 won a great victory!
+@1.3
+I see... A pity.\nSo Lord \#A2C was no match\nfor the \#958 after all...
+@1.4
+They say Lord \#158 has punished the daimyō who sided with \#62C.
+@1.5
+A good thing our house didn't meddle...
+@1.6
+Victorious at Sekigahara, \#158 crushed the daimyō of the Western Army and shared out their lands between himself and the Eastern generals.
+@1.7
+Yet the \#9A3 clan had stayed neutral in this war, and even \#558 could not touch it...
+@1.8
+Its strength survived intact...\nStaying neutral was, it seems, a shrewd choice by \#5A3.
+@2.0
+That year, with the death of the Taikō Toyotomi Hideyoshi, \#158 rose above all the daimyō as head of the Five Regents.
+@2.2
+And \#22C, head of the Five Magistrates who had upheld the Toyotomi government, grew wary of \#958 power...
+@2.3
+\#62C sought to join forces with the \#9F6, the \#91A and others...
+@2.5
+But such moves by \#62C only made him disliked by the other Toyotomi daimyō...
+@2.6
+For \#62C had risen as an official, and earned the resentment of warrior daimyō such as \#0A0...
+@2.7
+It seems Lord \#09E, Lord \#0A0 and others have been airing all sorts of grievances against Lord \#22C...
+@2.8
+They all served the Toyotomi once...\nSuch infighting is ugly.
+@2.9
+At any rate,\nit looks like trouble is coming...
+@3.0
+Have you heard\nthe rumour about Lord \#91A?
+@3.1
+What?\nWhat rumour is that?
+@3.2
+They say Lord \#11A, long unhappy with Lord \#958, has lately been building up his forces as if to provoke the \#958...
+@3.4
+If Lord \#958 orders a campaign against the \#91A, our house will surely be asked to send troops, given where our lands lie...
+@3.5
+But I cannot turn my troops against Lord \#91A.
+@3.6
+There's also a rumour that in the Kamigata, Lord \#22C was attacked by generals friendly to the \#958.
+@3.7
+What dangerous times these are...
+@4.0
+Terrible news!\n\#178's army\nis bearing down on this castle!
+@4.1
+What!?
+@4.2
+Hearing that \#22C had risen, \#158 split his army in two, and both are heading for the Kamigata...
+@4.3
+I see... \#558's army takes the Tōkaidō,\nand \#578's army heads for the Kamigata\nby another road...
+@4.4
+\#178 will probably not\nattack this castle...
+@4.5
+But if we hold up \#578's army here, it would help Lord \#22C...
+@4.6
+Stop \#578's advance
+@4.7
+Let him pass
+@4.8
+Good, let's hold \#578's army up. \#578 is young... provoke him, and he's sure to attack this castle.
+@4.9
+Sure enough, \#178 rose to \#1A3's bait and stubbornly pressed a needless attack on \40F7...
+@4.10
+...Waiting to see how things go is one way too.
+@4.11
+Father, let us attack \#178!
+@4.12
+Leave him be.\nThis is not our fight.
+@4.13
+But Father, then...
+@4.14
+Our house takes neither side.\nWe stay neutral...
+@4.16
+Then surely he'll come\nand attack this castle too...
+@4.17
+Sure enough, \#178 rose to \#1A3's bait and stubbornly pressed a needless attack on \40F7...
+@5.0
+After his great victory at Sekigahara, \#158 weakened the large daimyō of the Western side...
+@5.1
+...and crushed the small ones. Thus every daimyō in the land bowed to the \#958...
+@5.3
+For \#558, the only obstacle left was the \#896 clan...
+@5.13
+And the \#9A3 clan...\nwas blamed for making \#178's army late...
+@5.14
+...was held responsible, and destroyed.
+@5.15
+\#1AA became a rōnin\nand moved to the town of Komoro...
+@5.16
+If only I had sided\nwith the \#958 back then...
+@5.17
+\#1A3 became a rōnin\nand moved to the province of Kii...
+@5.18
+Curses...
+@5.19
+Later, \#195's talents were noticed, and he entered the service of the \#896 clan.
+@5.20
+To stand against the \#958, the \#896 clan was gathering able rōnin from every province...
+@5.21
+Farewell, \50FB...\nI must go to \50FA\nas a retainer of the \#896.
+@5.22
+\#558, damn you...\nI'll make you regret\ntaking my homeland from me...
+@5.23
+\#195 has become a retainer of the \#896. From now on, your base is \50FA Castle.
+@5.24
+\#595 too followed his father to the province of Kii and became a rōnin...
+@6.0
+Listen.\n\#178 plans to pass through our lands\nand join up with \#558.
+@6.1
+To him, the \#9A3 clan is just\none provincial daimyō.
+@6.2
+He must think he can brush us aside with ease.
+@6.3
+But if we can hold him here, \#558 will have to fight the \#896 army with fewer men.
+@6.4
+Whether the realm turns or not\nrests on what we do here.
+@6.5
+Show them the spirit of the \#9A3!
+@7.0
+Men!\nWe now attack \50F8 Castle!
+@7.1
+Look! The \#9A3 clan means to shut itself up in the castle like a clam in its shell!
+@7.2
+Listen, the \#9A3 clan is nothing to fear! Crush them in one blow and show them the might of Lord \#558!
+@7.3
+Chaaarge!!
+@7.4
+Ohhh!
+@7.7
+An ambush! Fall back, fall back!
+@7.8
+Wh-what...\nThe town below \50F8 Castle is a maze!
+@7.9
+Take that, you cursed \#558!
+@7.12
+What, from the houses!?\nDamn you, \#5A3!\nYou disguised your soldiers as townsfolk!
+@7.13
+The enemy is routed! After them!\nOur target is \#3F0's head!
+@7.14
+Raaagh!
+@7.15
+H-help meee!
+@7.16
+N-no good!\nThe river is swollen after days of rain!
+@7.17
+Halt, halt!
+@7.18
+W-waaah
+@7.19
+Splash! Sploosh!
+@7.20
+You won't escape!\nWhere is the commander of the \#958 army!?\nHere stands \#3FE!
+@7.21
+Oh! That's \#3FE!\nStand fast, all of you!\nAny man who falls back further will be cut down!
+@8.1
+That should have held them up long enough.
+@8.2
+A report!\nAt Sekigahara, \#158 has fought\n\#22C!
+@8.3
+What!?\nYou say \#558 started the battle\nwithout waiting for \#578!?
+@8.4
+Yes!\n\#558 defeated \#62C,\nand \#62C has been executed!
+@8.5
+What!?\nSo our delaying action came to nothing...
+@8.7
+Curses...\nI underestimated \#178!
+@8.8
+Thanks to \#178's unexpectedly fierce fighting, \40F8 fell all too easily...
+@8.9
+Thus the \#9A3 clan, which had held northern Shinano for three generations since \#1B7, collapsed with barely a fight...
+@8.10
+A report!\nThe enemy is still intact.
+@8.11
+The enemy has given up on taking our castle.\nThey are pulling out.
+@9.0
+Ha ha ha!\nWhatever tricks these country samurai play, they're no match for the elite \#958 army!
+@9.1
+Ugh...\nWe must fall back for now.
+@9.2
+Look! The \#958 army is turning tail\nand running home!
+@9.3
+So sorry we had nothing to offer you!
+@9.4
+Ha ha ha!
+@9.5
+Ugh, curses...\nWhat am I to tell Lord \#558...
+@9.7
+The \#958 army seems to have given up its attack on \50F8 Castle and withdrawn.
+@9.8
+Somehow we held out...\nBut will \#558 really back off\njust like that...?
+@11.0
+My lord! A letter has come\nto the old lord from Lord \#958.
+@11.1
+What does the letter say?
+@11.2
+It seems to ask our house to send troops for the campaign Lord \#958 has ordered against Lord \#11A.
+@11.3
+This is bad...\nMany in our house resent Lord \#958...
+@11.4
+But defying the \#958 now gains us nothing...\nI must advise the old lord so...
+@11.5
+Right... I'll go to \40F7\nand give my opinion.
+@11.7
+...So, what will you do, Father?
+@11.9
+Forgive me for interrupting the council!\nSomething grave has happened in the Kamigata!
+@11.10
+What has happened!
+@11.11
+Sir!\nLord \#22C has rallied the daimyō opposed to the \#958 and raised an army!
+@11.14
+Oh, \#5AA!\nSo you've come.
+@11.15
+Father!\nWe should join hands with \#158.
+@11.16
+With the Taikō gone, there is nothing to gain by opposing Lord \#958, the greatest power in the land.
+@11.17
+If we side with Lord \#958, our house will survive.
+@11.18
+Brother, do you know nothing of honour?
+@11.20
+Now that the Taikō is gone, this is the very time to stand by Lord \#096.
+@11.21
+At such a time, \#558 means to snatch the realm. He is a usurper if ever there was one.
+@11.22
+If we side with him, the \#9A3 will be scorned as traitors to the realm.
+@11.23
+\#595,\nthis is no time\nfor such talk.
+@11.24
+The Taikō's realm is over.\nFrom now on a new age begins\nwith the \#958 at its heart.
+@11.25
+We must not choose the wrong path if we are to survive.
+@11.26
+\#5AA, if you mean to go to \#558, I will not stop you.
+@11.27
+\#595 and I will stay here. To keep the \#9A3 name alive, it is no bad thing to walk different paths.
+@11.29
+...Then I take my leave
+@11.30
+I won't abandon the \#9A3
+@11.31
+Parent against child, brother against brother:\nsuch is the way of this warring age.
+@11.32
+This way, whichever side wins,\nthe \#9A3 name will live on...
+@11.33
+Father...
+@11.34
+\#595, don't die.\nDon't let the \#9A3 line die out.
+@11.35
+Don't worry about us.\nWe'll show the \#958 the spirit\nof the \#9A3!
+@11.36
+Take care, Brother.
+@11.37
+Farewell, \50F9...\nFarewell, Father, Brother...\nFrom today I am a retainer of the \#958...
+@11.38
+Well said!\nThen we'll show the \#958 the spirit\nof the \#9A3!
+@12.0
+My lord!\nA letter has come from Lord \#958.
+@12.1
+Hmm... Let me see it.
+@12.3
+...What does Lord \#958 say?
+@12.4
+He has ordered a campaign against Lord \#11A.\nOur house too is asked to send troops.
+@12.35
+Farewell, \50F9...\nFrom today I am a retainer of the \#958...
+@12.38
+Parent against child, brother against brother:\nsuch is the way of this warring age.
+@13.0
+My lord, a letter has come from \#158.
+@13.1
+Good, give it here.
+@13.5
+What!!
+@13.6
+What is it, \&03?
+@13.7
+Of all the...!\nThat \#558 wants me to hand our \50F9 Castle\nover to \#1C0!
+@13.9
+And in exchange, \#558 says he'll give us other lands! Does he think \#5A3 would believe such a thing!?
+@13.10
+\#558, damn him...
+@13.11
+My lord, \#558 can no longer be trusted.
+@13.12
+He allies with the \#9C0 clan and then demands \#9A3 lands - outrageous! We should break off the alliance with the \#958 at once.
+@13.13
+But the \#958 are formidable.\nWe must weigh our response carefully.
+@13.14
+If I may,\nI see three courses open to us.
+@13.15
+\#595?\nVery well, speak.
+@13.16
+First, we accept the demand. We step back for now and, like a sleeping dragon, wait to rise again.
+@13.17
+Second, we reject the demand, ready to die defending the castle.
+@13.18
+Third, we ignore the demand and buy time to build up our forces.
+@13.19
+It is just as \#195 says.\nPerhaps this is the moment to decide...
+@13.20
+\#7FE, \&00 ask you:\nwhat would you do?
+@13.21
+\&00 would...
+@13.22
+Accept the demand
+@13.23
+Reject the demand
+@13.24
+Ignore the demand
+@13.25
+Hmm, it can't be helped.\nNow is the time to endure.
+@13.26
+\50F9 Castle was handed over to \#1C0.
+@13.27
+Good, \&00 have made up my mind!
+@13.28
+Write a reply: \50F9 Castle was never a gift from the \#958 clan!
+@13.30
+Good, \&00 have decided!
+@13.31
+We shall ignore the \#958 clan's demand! A decisive battle cannot be avoided, so we must build up our forces before then.
+@13.32
+Men, I am counting on you all!
+@13.36
+\#158 demanded that \50F9 Castle be handed to \#1C0, but the old lord refused.
+@13.37
+There may be war soon...
+@14.0
+A letter has come from \#158.
+@14.1
+\#158 says he'll make peace\nif \&00 go to him as a hostage.
+@14.3
+The \#958 army is mighty,\nnot to be taken lightly.
+@14.4
+If \#558 takes the field himself, the \#9AA clan will face its moment of truth.
+@14.5
+...That may well be so.
+@14.6
+What \&00 choose to do will decide the fate of the \#9AA clan.
+@14.7
+In truth, Father has already\nordered me to go as a hostage...
+@14.8
+...And what is your answer?
+@14.9
+\&00...
+@14.10
+Agree to be hostage
+@14.11
+Call it unwise
+@14.12
+Defy Father, go alone
+@14.13
+\&00 mean to be the bridge\nbetween the \#9AA and the \#958.
+@14.14
+That is best for the \#9AA clan.
+@14.15
+For the sake of the \#9AA clan...\nHow painful...
+@14.16
+Even when I've gone to the \#958,\nI'm counting on you.
+@14.17
+Yes, my lord!
+@14.18
+I told Father that giving a hostage is no more than a stopgap, and unwise.
+@14.19
+Father agreed, so \&00 will not go to the \#958.
+@14.20
+I'm relieved to hear it.
+@14.21
+Wh... You mean rebellion?
+@14.22
+Submitting to the \#958 is the height of folly.
+@14.23
+But I can no longer leave the \#9AA clan to a father who would bow to the \#958's demands.
+@14.24
+Well? Will you follow where \&00 lead, even to hell?
+@14.25
+Gulp...
+@14.26
+In \@001, \#1AA made \40FB his base and declared his independence.
+@14.27
+A letter has come from \#158.
+@14.28
+...In exchange for peace,\nhe wants \#5AA sent as a hostage.
+@14.30
+We've crossed swords with them and I know: the \#958 army is mighty, not to be taken lightly.
+@14.31
+If \#558 takes the field himself, the \#9A3 clan will face its moment of truth.
+@14.33
+(\&00 must decide this.\nWhat should be done?)
+@14.34
+Send \#5AA as hostage
+@14.35
+Keep \#5AA here
+@14.36
+If the survival of the \#9A3 clan comes first, there is no choice left.
+@14.37
+We accept \#158's demand and send \#5AA to the \#958 as a hostage. That is all!!
+@14.39
+(\#5AA, forgive me...)
+@14.40
+\&00 have made up my mind.\nI will not buy peace by sending\n\#5AA as a hostage!
+@14.41
+If the survival of the \#9A3 clan comes first, \#5AA should be sent.
+@14.43
+And yet!
+@14.44
+In times like these, even sending \#5AA as a hostage would not make the \#9A3 clan safe.
+@14.45
+\#5AA,\nwhat do you think?
+@14.47
+I'll go, for the \#9AA
+@14.48
+A hostage is a stopgap
+@14.49
+That's the spirit!
+@14.51
+(\&03...)
+@14.52
+Mm, \&00 think so too.
+@14.53
+\&00 have decided!\nWe will not send \#5AA as a hostage,\nnor bow to \#158's demand!

@@ -1,7 +1,7 @@
 @0
 ●Hero cards\n<<How to get>>\nGiven by people you have become close to. Some cannot be obtained unless certain conditions are met.\n\n<<Effect>>\nLets you play as that person when you start a new game.
 @1
-●Title cards\n<<How to get>>\nAwarded to those who master Swordsmanship, Ninjutsu, Tea and the like.\n\n<<Effect>>\nRaise your abilities. Some have no effect and are purely an honour.
+●Title cards\n<<How to get>>\nAwarded to those who master Swordsmanship, Ninjutsu, Tea and the like.\n\n<<Effect>>\nRaises your abilities. Some have no effect and are purely an honour.
 @2
 ●Duel cards\n<<How to get>>\nSteal an opponent's technique in a duel, or train at a ninja village or a physician's house.\n\n<<Effect>>\nCan be used as special cards in duels.
 @3
@@ -9,7 +9,7 @@
 @4
 ●Sights cards\n<<How to get>>\nVisit famous sights on the travel screen.\n\n<<Effect>>\nCollection cards. Collect them all and...
 @5
-●Skill cards\n<<How to get>>\nKeep training your skills.\n\n<<Effect>>\nRaise the level of a skill.
+●Skill cards\n<<How to get>>\nKeep training your skills.\n\n<<Effect>>\nRaises a skill's level.
 @6
 ●Other cards\n<<How to get>>\nKeep training your skills. Some are obtained in events.\n\n<<Effect>>\nVarious, such as better mission results or more specialities.
 @7
@@ -21,17 +21,17 @@
 @10
 ●Leadership\nThe higher, the stronger your attacks in battle, and the better you do when training Tactics, Mining, Infantry and Navy.\n●Valor\nThe higher, the stronger your attacks in duels and the less likely you are to be wounded in battle, and the better you do when training Cavalry, Gunnery, Archery, Swordsmanship and Ninjutsu.\n●Politics\nThe higher, the better you do when training Building, Farming, Mining and Accounting.
 @11
-●Diplomacy\nThe higher, the more likely diplomacy succeeds, and the better you do when training Etiquette and Speech.\n●Charm\nThe higher, the faster your troops recover from confusion in battle, and the better you do when training Tea and Medicine.\n●Infantry\nThe higher, the better you fight leading infantry in battle, and the more likely you are put in charge of infantry. Train it at a samurai quarter.
+●Diplomacy\nThe higher, the more likely diplomacy succeeds, and the better you do when training Etiquette and Speech.\n●Charm\nThe higher, the faster your troops recover from confusion in battle, and the better you do when training Tea and Medicine.\n●Infantry\nThe higher, the better you fight leading infantry in battle, and the more likely you are put in charge of infantry. Train it at a Samurai Home.
 @12
 ●Cavalry\nThe higher, the better you fight leading cavalry in battle, and the more likely you are put in charge of cavalry. Train it at a stable.\n●Gunnery\nThe higher, the better you fight leading gunners or cannon in battle, and the more likely you are put in charge of them. Train it at a smithy.
 @13
-●Navy\nThe higher, the better you do in sea battles and in training. Train it at a samurai quarter.\n●Archery\nThe higher, the stronger your units fire when you lead infantry or cavalry in battle. Train it at a samurai quarter.\n●Swordsmanship\nThe higher, the more cards you are dealt in duels. Train it at a dojo.
+●Navy\nThe higher, the better you do in sea battles and in training. Train it at a Samurai Home.\n●Archery\nThe higher, the stronger your units fire when you lead infantry or cavalry in battle. Train it at a Samurai Home.\n●Swordsmanship\nThe higher, the more cards you are dealt in duels. Train it at a dojo.
 @14
-●Tactics\nThe higher, the better the results of Separate Soldiers and Train, and the more Secret Plans you can use in battle. Train it at a samurai quarter.\n●Ninjutsu\nThe higher, the easier it is to slip into other clans' castles and the better your sabotage goes. Special cards also come more often in duels. Train it at a ninja village.
+●Tactics\nThe higher, the better the results of Separate Soldiers and Train, and the more Secret Plans you can use in battle. Train it at a Samurai Home.\n●Ninjutsu\nThe higher, the easier it is to slip into other clans' castles and the better your sabotage goes. Special cards also come more often in duels. Train it at a ninja village.
 @15
-●Building\nThe higher, the better the results of Repair Castle and Expand Castle. Train it at a samurai quarter.\n●Farming\nThe higher, the better the results of New Fields. Train it at a Nanban temple.\n●Mining\nThe higher, the better the results of Mine Work. Train it at a samurai quarter.
+●Building\nThe higher, the better the results of Repair Castle and Expand Castle. Train it at a Samurai Home.\n●Farming\nThe higher, the better the results of New Fields. Train it at a Nanban temple.\n●Mining\nThe higher, the better the results of Mine Work. Train it at a Samurai Home.
 @16
-●Accounting\nThe higher, the more times you can haggle over prices. Train it at a merchant house.\n●Etiquette\nThe higher, the more likely diplomacy succeeds. Train it at a temple.\n●Speech\nThe higher, the better the results of Win Hearts, Separate Soldiers and diplomacy, and the more likely haggling succeeds. Train it at a samurai quarter.
+●Accounting\nThe higher, the more times you can haggle over prices. Train it at a merchant house.\n●Etiquette\nThe higher, the more likely diplomacy succeeds. Train it at a temple.\n●Speech\nThe higher, the better the results of Win Hearts, Separate Soldiers and diplomacy, and the more likely haggling succeeds. Train it at a Samurai Home.
 @17
 ●Tea\nThe higher, the greater the effect of tea parties and tea. Train it at a tea master's house.\n●Medicine\nThe higher, the more you recover in duels. Train it at a physician's house.
 @18
@@ -43,7 +43,7 @@
 @21
 ●Main castle\nA main castle is marked "Main" ([M] in lists). It is the central castle of a province; ruling it raises the daimyō's power.\n●Affiliation (clan)\nThe clan that rules the castle.
 @22
-●Castle size\nFour levels: Small, Medium, Large and Huge. It affects the castle's maximum defense, troop growth and so on, and rises with Expand Castle. A mountain castle can only reach "Large".\n●Castle site\nThree kinds: flatland, mountain and harbour castles. The site affects the maximum castle size.
+●Castle size\nFour levels: Small, Medium, Large and Giant. It affects the castle's maximum defense, troop growth and so on, and rises with Expand Castle. A mountain castle can only reach "Large".\n●Castle site\nThree kinds: flatland, mountain and harbour castles. The site affects the maximum castle size.
 @23
 ●Castle lord\nThe officer appointed lord of the castle by the daimyō. The daimyō is lord of his own direct-rule castles, so direct-rule castles other than his residence have no lord.\n●Rice\nPaid by the people every September, used up by battles and the like. The higher the yield and popular support, the more is paid. (max 9999999)
 @24
@@ -51,7 +51,7 @@
 @25
 ●Yield\nCurrent yield / the most that can be farmed. The higher it is, the more war funds every month and rice every September, and the faster the population grows. It rises with New Fields. The maximum depends on castle size.\n●Mines\nCurrent mine output / the most that can be developed. The higher it is, the more war funds every month. It rises with Mine Work.
 @26
-●Popular support\nHow well you hold the people's hearts. The higher, the more war funds each month and rice in September. It rises with Win Hearts but falls naturally every September, and falls when other clans spread rumours. (max 100)\n●Defense\nHow strong the castle is. The higher, the harder it falls. It rises with Repair Castle; castle size sets the limit. (max: Small 50 to Huge 200)
+●Popular support\nHow well you hold the people's hearts. The higher, the more war funds each month and rice in September. It rises with Win Hearts but falls naturally every September, and falls when other clans spread rumours. (max 100)\n●Defense\nHow strong the castle is. The higher, the harder it falls. It rises with Repair Castle; castle size sets the limit. (max: Small 50 to Giant 200)
 @27
 ●Troops\nSoldiers in the castle. They grow with Separate Soldiers, and with population, yield, morale, castle size and so on. (max 50000)\n●Morale\nThe soldiers' fighting spirit. At 0 in battle a unit retreats. It rises with training at the drill ground. (max 100)\n●Training\nHow well drilled the soldiers are. The higher, the stronger their attacks in battle. It rises with Train. (max 100)
 @28

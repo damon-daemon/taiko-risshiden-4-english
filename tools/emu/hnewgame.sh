@@ -4,7 +4,7 @@
 D=$(cd "$(dirname "$0")" && pwd)
 "$D/headless.sh" stop; timeout 2 tail -f /dev/null
 "$D/headless.sh" "$1" || exit 1; timeout 15 tail -f /dev/null
-"$D/hpress.sh" /dev/null Return w w X w w Return w w w X w w w      # title, はじめから, scenario 1
+"$D/hpress.sh" /dev/null w w w w Return w w w w Up w X w w Return w w w X w w w   # title, はじめから (Up: the cursor starts on Continue once the card has saves), scenario 1
 "$D/hpress.sh" /dev/null X w w X w w X w w w w X w w w              # intro, 可, hero list, details
 "$D/hpress.sh" /dev/null X w w X w w w w w X w w w         # abilities, confirm 可
 "$D/hpress.sh" /dev/null X w w w w X w w w X w w w w w w w w w w w w   # settings, OK, 可

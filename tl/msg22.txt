@@ -5,7 +5,7 @@ Taishaku Kurige　　　　　 Movement up\nKatō Kiyomasa's horse. Over 1.9 m t
 @2
 Hōjō Tsukige　　　　　　　 Movement up\nUesugi Kenshin's horse, also "Hosho Tsukige": a pale grey with a reddish tinge. Kenshin is said to have ridden it in his duel with Shingen at the 4th Kawanakajima.
 @3
-Shiroishi　　　　　　　　 Movement up\nTokugawa Ieyasu's horse. Despite "white" in its name, it is said to have been black. Ieyasu is said to have ridden it at Sekigahara.
+Shiroishi　　　　　　　　 Movement up\nTokugawa Ieyasu's horse. Despite the "white" in its name, it was reportedly black. Ieyasu is said to have ridden it at Sekigahara.
 @4
 Kurokumo　　　　　　　　 Movement up\nTakeda Shingen's horse. So wild that only a superb rider could handle it.
 @5
@@ -27,7 +27,7 @@ Hatsuhana Katatsuki　　　　　 Politics +5\nOne of the Three Great Shouldere
 @13
 Narashiba Katatsuki　　　　　 Politics +5\nOne of the Three Great Shouldered Caddies, also called the "Hakata caddy" as the Hakata merchant and tea master Shimai Sōshitsu owned it. Presented to Hideyoshi in the Kyūshū campaign.
 @14
-Nitta Katatsuki　　　　　　　 Politics +5\nFirst of the Three Great Shouldered Caddies. Owned by Murata Juko, it was called "the finest caddy in the realm". It passed to Nobunaga, Ōtomo Sorin and Hideyoshi, then to the Tokugawa.
+Tsukumo Nasu Caddy　　　　 Politics +10\nA Chinese eggplant caddy, first of the Four Eggplants of the Realm. Named for the 99 kan that Murata Juko, father of the tea ceremony, paid for it. Lost in the Honnō-ji fire.
 @15
 Fujisan Bowl　　　　　　　　 Politics +5\nA raku bowl by Hon'ami Kōetsu, one of his Five Bowls. White above and black below like Mt. Fuji, named "Fujisan" as a work too fine to make twice.
 @16
@@ -89,7 +89,7 @@ Kiseto Tea Bowl\n{1B}HA bowl fired in Seto-type kilns near Kukuri in Kani, Mino,
 @44
 Kiseto Vase\n{1B}HA flower vase fired in Seto-type kilns near Kukuri in Kani, Mino, late 16th to early 17th century. Momoyama Kiseto has a thicker, opaque yellow glaze than Muromachi wares.
 @45
-Tenmyo Kettle\nTea kettles made at Tenmyo in Sano, Shimotsuke. Tea masters loved their rustic style; with Ashiya kettles they were famed as "Ashiya in the west, Tenmyo in the east".
+Hayabune Bowl　　　　　　　 Politics +1\nBy the potter Chojiro: a famed red raku bowl, first of Chojiro's Seven. Named for Rikyū sending a fast boat to fetch it for a tea party. Later passed to Gamō Ujisato.
 @46
 Black Raku Bowl\nA raku bowl finished in black. Raku is shaped all by hand without a wheel and fired by sudden heat and cooling. Rikyū liked black raku; Hideyoshi liked red, they say.
 @47
@@ -111,11 +111,11 @@ Ink Bamboo\nBy Wu Hong of Linchuan, a literati painter of the Eight Masters of J
 @55
 Wind and Rain Landscape\nSaid to be by Xia Gui: a landscape veiled in wind and rain. A late Southern Song painter, he greatly influenced Japanese ink landscapes from the Muromachi era.
 @56
-Sunset Landscape\nBy Ma Lin. His father Ma Yuan, a leading Southern Song court painter, founded the Ma school, making the most of empty space. It deeply shaped Japanese ink landscapes.
+Hashidate Jar　　　　　　　 Politics +1\nA huge leaf-tea jar holding seven kin, named after Amanohashidate in Tango, where it was found. Ashikaga Yoshimasa's beloved jar, later treasured by Rikyū for its wabi.
 @57
 Fishing Village at Dusk\nSaid to be by Muqi: the Xiao and Xiang rivers meeting south of Lake Dongting. One of the Eight Views of Xiaoxiang; once a single scroll owned by Ashikaga Yoshimitsu.
 @58
-Flowers and Birds\nPaintings of flowers, birds and insects, a set theme since the Song era, brought to Japan in the Muromachi era. Kaihō Yusho's peacocks and pines is famous.
+Flowers and Birds\nPaintings of flowers, birds and insects, a set theme since the Song era, brought to Japan in the Muromachi era. Kaihō Yūshō's peacocks and pines are famous.
 @59
 Bamboo and Fowl\nBy Luochuang: a lifelike ink painting of a rooster, with light colour on the comb and legs. A late Southern Song Zen monk, said to be heir to the ink master Muqi.
 @60
@@ -131,7 +131,7 @@ Chishakuin Maples　　　　　 Diplomacy +1\nWall paintings by Hasegawa Tōhak
 @65
 Cypress Screen　　　　　 Diplomacy +1\nBy Kanō Eitoku: lavish colour on gold, with one huge cypress that overwhelms the viewer. Now a screen, it was once sliding doors in Prince Hachijo's palace.
 @66
-Maple Viewing Screen\nBy Kanō Hideyori, a masterpiece of early genre painting: samurai, monks and ladies enjoying the autumn leaves at Takao, in brilliant colour.
+Nitari Nasu Caddy　　　　　　 Politics +1\nOne of the Four Eggplants of the Realm, also "Hyakkan Nasu" as Shioya Soetsu of Sakai paid 100 kan for it. "Nitari" (alike): its price was so near the Tsukumo's 99.
 @67
 Merrymaking Under Blossoms\nBy Kanō Naganobu, Eitoku's brother: women dancing before a young lord on an octagonal hall, and ladies feasting under full cherry blossom, using ink techniques.
 @68
@@ -149,7 +149,7 @@ Mencius\nA Confucian classic, one of the Four Books with the Analects, Great Lea
 @75
 Three Strategies\nA book of war setting out rules of government, command and strategy in three parts. Paired with the "Six Secret Teachings" as "Rikuto Sanryaku".
 @79
-Han Feizi\nBy Han Feizi of China's Warring States era: law and punishment as the base of government.
+Han Feizi\nBy Han Feizi of China's Warring States era. It argues that law and punishment should be the basis of government.
 @81
 Book of Five Rings　　　　 Leadership +5\nA book of strategy Miyamoto Musashi wrote in old age in seclusion at Reigando cave, in five books: Earth, Water, Fire, Wind and Void. A practical philosophy from his life and thought.
 @84
@@ -175,17 +175,17 @@ Hojoki\nEssays by Kamo no Chomei, written in the early Kamakura era. Rooted in t
 @96
 Essays in Idleness\nEssays by the monk Kenko of the late Kamakura era. With "The Pillow Book", called a twin peak of essay literature.
 @97
-Tales of Ise\nA tale in poems, said to be written by several authors from the poems of the Heian poet Ariwara no Narihira.
+Tales of Ise\nA tale in poems, said to have been written by several authors, based on the poems of the Heian poet Ariwara no Narihira.
 @98
 Tale of the Bamboo Cutter\nJapan's oldest work of fiction, written in the early Heian era. Author unknown.
 @99
 Kagero Diary\nA diary by the mother of Fujiwara no Michitsuna, Major Captain of the Right, recording her days and feelings.
 @100
-Eiga Monogatari\nA historical tale said to be by Akazome Emon. Centred on the glory of Fujiwara no Michinaga, it shows Heian noble life in story form. Also "Eiga Monogatari".
+Eiga Monogatari\nA historical tale said to be by Akazome Emon. Centred on the glory of Fujiwara no Michinaga, it shows Heian noble life in story form.
 @101
 World Map Screen　　　　　　 Charm +10\nA screen painted with a map of the world, based on a map made in Portugal.
 @102
-Striking Clock　　　　　　　 Charm +10\nA Nanban clock, run by gears, that came in the Muromachi era. Named for the bell that rings the hours, they say. Also a chiming clock.
+Striking Clock　　　　　　　 Charm +10\nA Nanban clock, run by gears, that came in the Muromachi era. Named, they say, for the bell that rings the hours.
 @103
 Gold Watch　　　　　　　　 Charm +10\nA lavish clock with gold used inside and out.
 @104
@@ -197,7 +197,7 @@ Luzon Jar　　　　　　　　　 Charm +5\nA large pottery tea jar from sout
 @107
 Jewel Box　　　　　　　　　 Charm +1\nA box for jewels, itself richly decorated.
 @108
-Music Box\nA toy that plays a little tune when you open the lid. A music box.
+Music Box\nA toy that plays a little tune when you open the lid.
 @109
 Pocket Watch\nA clock made small enough to carry in the breast of your robe.
 @110
@@ -211,7 +211,7 @@ Crucifix　　　　　　　　　 Charm +1\nA Christian sign for worship and d
 @114
 Celestial Globe　　　　　　　 Charm +1\nA globe of the heavens around the earth, used at sea.
 @115
-Harpsichord\nA keyboard instrument that plucks its strings with quills. Widely used from the 16th to 18th centuries, it faded after the piano was invented. The harpsichord.
+Harpsichord\nA keyboard instrument that plucks its strings with quills. Widely used from the 16th to 18th centuries, it faded after the piano was invented.
 @116
 Flute\nA Western transverse flute, a woodwind with a clear, brilliant tone. Most are now metal.
 @117
@@ -255,7 +255,7 @@ Muramasa　　　　　　　　　 Valor +10\nMade by Muramasa of Ise, a famed 
 @144
 Onimaru　　　　　　　　　 Valor +10\nHanded down in the Hōjō, regents of the Kamakura shōgunate. After they fell it passed to Nitta Yoshisada, the Ashikaga shoguns, Nobunaga, Hideyoshi and others: prized as a great blade.
 @145
-Yoshimitsu Honebami　　　　　 Valor +10\nMade by Awataguchi Yoshimitsu of Kyōto. The Ōtomo gave it to the Ashikaga shoguns; via Matsunaga Hisahide it came back to them, and after Kyūshū they gave it to Hideyoshi.
+Yoshimitsu Honebami　　　　　 Valor +10\nMade by Awataguchi Yoshimitsu of Kyōto. The Ōtomo gave it to the Ashikaga shoguns; via Matsunaga Hisahide it came back to them, and after the Kyūshū campaign they gave it to Hideyoshi.
 @146
 Sadamune　　　　　　　　　 Valor +5\nMade by Sadamune of Sagami, Masamune's adopted son, said to be heir to his style above all others.
 @147
@@ -271,7 +271,7 @@ Mikazuki Munechika　　　　　　 Valor +5\nSigned Sanjo. Made by Sanjo Kokaj
 @152
 Heshikiri　　　　　　　　　　 Valor +5\nNobunaga's sword, made by Hasebe Kunishige of Kyōto. Named for when Nobunaga cut a tea servant hiding under a kitchen shelf, shelf and all.
 @153
-Kagehide　　　　　　　　　 Valor +5\nDate Masamune's sword. In Korea he cut an enemy general down to the saddle, so it is also called "Saddle Cutter".
+Kagehide　　　　　　　　　 Valor +5\nDate Masamune's sword. In the Korean campaign he cut an enemy general down to the saddle, so it is also called "Saddle Cutter".
 @154
 Sadatoshi　　　　　　　　　 Valor +5\nMade by Sadatoshi of Yamashiro: graceful and elegant.
 @155
@@ -283,7 +283,7 @@ Daihannya Nagamitsu　　　　　 Valor +1\nMade by Nagamitsu of Bizen. It cost
 @158
 Tonbogiri　　　　　　　　　 Valor +1\nHonda Tadakatsu's spear. A dragonfly that landed on its tip fell cut in two, hence the name: "dragonfly cutter".
 @159
-Amakuni　　　　　　　　　　 Valor +1\nA Heike heirloom, said to be given by the court to Taira no Sadamori for defeating Fujiwara no Sumitomo. Deeply curved, double-edged over half its length.
+Amakuni　　　　　　　　　　 Valor +1\nA Heike heirloom, said to have been given by the court to Taira no Sadamori for defeating Fujiwara no Sumitomo. Deeply curved, double-edged over half its length.
 @160
 Fukuoka Ichimonji\nMade by the Fukuoka branch of the Ichimonji school of Bizen, whose smiths include Norimune of Kiku-ichimonji fame.
 @161
@@ -301,7 +301,7 @@ Plain Spear\nThe basic spear: a straight head on a plain, slender shaft.
 @168
 Wakizashi\nA wakizashi by a nameless smith: a short sword worn at the hip for protection, mostly under 60 cm long.
 @169
-Paladin's Armour　　　　　　　 Valor +16\nLegendary Western armour, said to be worn by a holy knight.
+Paladin's Armour　　　　　　　 Valor +16\nLegendary Western armour, said to have been worn by a holy knight.
 @171
 Black Laced Domaru　　　　　 Valor +17\nLegendary armour said to be Minamoto no Yoshitsune's favourite.
 @172
@@ -313,7 +313,7 @@ Gold-Scale Many-Colour Armour　　 Valor +5\nSplendid armour of fine gilt scale
 @175
 Gold Lacquer Armour　　　　　 Valor +5\nLavish armour covered in gold leaf. Ieyasu wore it to bring provisions into Odaka Castle at Okehazama; also called the Odaka Provisioning Armour.
 @176
-Silver Lacquer Armour　　　　　 Valor +5\nLavish armour covered in silver leaf, said to be owned by Yoshinari, Ieyasu's ninth son and founder of the Owari Tokugawa.
+Silver Lacquer Armour　　　　　 Valor +5\nLavish armour covered in silver leaf, said to have been owned by Yoshinari, Ieyasu's ninth son and founder of the Owari Tokugawa.
 @177
 Red-Laced White-Shoulder Armour　 Valor +1\nSplendid armour laced in red and white. One was offered by Ōuchi Yoshitaka to Itsukushima Shrine.
 @178
@@ -325,13 +325,13 @@ Red-Laced Small Haramaki\nA small haramaki of fine black scales laced in red. Sa
 @181
 Blue-and-Red Laced Armour\nStandard domaru-style armour that Hideyoshi gave Wakisaka Yasuharu, with lacquered iron scales on body and skirt.
 @182
-Nanban Cuirass Armour\nArmour from Nanban lands. Inspired by it, the Sengoku era made modern armour with fittings matched to helmet and body.
+Nanban Cuirass Armour\nArmour from Nanban lands. Inspired by it, Sengoku armourers made modern armour with fittings matched to helmet and body.
 @183
 Chain Armour\nSmall metal plates joined by chain.
 @184
 Jewelled Crown\nA crown adorned with jewels, gold and silver. A symbol of power.
 @185
-Diamond\nAlso called the hard stone. The costliest of gems, from clear to blue, yellow, red and more.
+Diamond\nAlso called kongoseki, "hard stone". The costliest of gems, from clear to blue, yellow, red and more.
 @186
 Ruby Ring\nA ring set with a clear red ruby.
 @187
@@ -355,7 +355,7 @@ Temple Sake\nA famous sake of Yamato and Iga, brewed in temples. Nara's temple s
 @197
 Fine Sake\nA famous sake of Yamashiro: refined and mellow with a clean finish. After temple sake rose, regional breweries gained ground in the Bunmei years, and the fine sake of Nishinomiya reached Kyōto too.
 @201
-Beer\nA drink of barley malt and water heated to sugar, then fermented with hops and yeast. Beer.
+Beer\nBarley malt and water heated to make sugars, then fermented with hops and yeast. Beer.
 @202
 Rikyū Sake\nSpirits flavoured with herbs, sugar and the like. Liqueur.
 @203
@@ -367,7 +367,7 @@ Cold Medicine\nMedicine to cure a cold.
 @206
 Sojintan\nA tonic: clove, aconite, cinnamon and many more rolled into pills.
 @208
-Raikiri　　　　　　　　　　　 Valor +1\nTachibana Dosetsu's sword. Named for when he cut what seemed to be the thunder god as lightning struck him.
+Raikiri　　　　　　　　　　　 Valor +1\nTachibana Dōsetsu's sword. Named for when he cut what seemed to be the thunder god as lightning struck him.
 @209
 Setsuyoshu Dictionary\nA dictionary of everyday words by topic, mid-Muromachi era, author unknown. Printed by the townsman scholar Manjuya Soji.
 @72
@@ -405,9 +405,9 @@ Oracion　　　　　　　　　 Valor +19\nA Western treasure sword: a legend
 @143
 Masamune　　　　　　　　　 Valor +10\nMade by Masamune, a famed swordsmith of Sagami. His style of beautiful temper lines influenced all Japan.
 @166
-Vermilion Spear\nA spear with its shaft lacquered vermilion. At the Shotokuji meeting Nobunaga had his foot soldiers carry 500 vermilion spears and 500 guns. Maeda Toshiie and his nephew Keiji bore them too.
+Vermilion Spear\nA spear with its shaft lacquered vermilion. At the Shotokuji meeting Nobunaga had his foot soldiers carry 500 vermilion spears and 500 guns. Maeda Toshiie and his nephew Keiji carried them too.
 @170
-Chiyou's Armour　　　　　　 Valor +15\nLegendary Chinese armour, said to be made by Chiyou.
+Chiyou's Armour　　　　　　 Valor +15\nLegendary Chinese armour, said to have been made by Chiyou.
 @195
 Nerizake\nA famous white sake of Chikuzen: steamed glutinous rice and koji fermented in sake, then milled and strained.
 @198

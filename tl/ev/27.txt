@@ -1,0 +1,80 @@
+@0.1
+Ah, \&01.
+@0.2
+I've just been working up\na sweat at the dojo.
+@0.3
+Oh... you work hard.\nAre you studying the art of war too?
+@0.4
+Yes.\nThough I am still no match for you, Father.
+@0.5
+What are you saying...\nI know my own measure.\nYour talent is many times mine.
+@0.6
+Father, surely not...
+@0.7
+I could not do much to make\nthe house I inherited from my father prosper...\nBut with you, the Azai clan can hope to flourish...
+@0.8
+No, I still have far to go...\nI am still in training.
+@0.9
+No, you are a son I am proud of...\nAnd so, \#4D0,\nthere is something I wish to discuss.
+@0.11
+I intend to hand the headship\nof the \#8D0 over to you...\nI mean to retire.
+@0.12
+You, retire, Father!?\nYou mean to hand\nthe headship to me!?
+@0.13
+That's right...\nYou have no objection, I trust?
+@0.14
+But... you are still\nin fine health, Father!\nWhy speak of retiring...
+@0.15
+It is as I said before...\nI am certain the \#A62 clan will\nflourish more with you as its head than with me.
+@0.17
+Are you ready to inherit the\nnorthern Ōmi \#A62 clan that\nmy father Sukemasa built...?
+@0.20
+Weighing his own talent against\nthat of his heir \#4D0, \#262\ndecided to hand the headship to \#4D0...
+@0.21
+\#0D0 succeeds \#262\nas daimyō.
+@0.22
+Lord \#3FE,\nthe old lord is calling for you.
+@0.23
+What, Father is?\nI wonder... what could it be.
+@0.24
+Ah, \#4D0! You've come.
+@0.25
+Father, what is the matter?
+@0.26
+The truth is, I intend to hand\nthe headship of the \#8D0 over to you...\nI mean to retire.
+@0.30
+I know my own measure.\nYour talent is many times mine.
+@0.32
+As head of the house, I could not do much\nto make what I inherited from my father prosper...\nBut with you, the Azai clan can hope to flourish...
+@0.34
+No, you are a son I am proud of...\nI am certain the \#A62 clan will\nflourish more with you as its head than with me.
+@0.41
+(So I am... head of the house.\nFrom now on I must\nbrace myself...)
+@0.43
+I wonder... what could it be?
+@0.44
+Are you all gathered?
+@0.45
+This sudden summons...\nWhat on earth is the matter?
+@0.46
+The truth is, I intend to hand\nthe headship of the \#8D0 over to \#4D0...\nI mean to retire.
+@0.61
+(So \#4D0 is head of the house now...\nI must work hard too, so that\nthe \#8D0 clan flourishes all the more...)
+@1.0
+Lord \#3FE!\nI've been waiting for you!\nThe old lord is here.
+@1.2
+Ah, \#4D0! You're back.
+@1.19
+\#3FE's base is now \40F6.
+@1.21
+Lord \#3FE,\nthe old lord has retired.
+@1.22
+What, the old lord!?\nWhat do you mean?
+@1.23
+He has handed the headship\nto the young lord, \#4D0.
+@1.24
+But... the old lord is still in fine health.\nWhy retire...
+@1.25
+The old lord believes the \#8D0 clan will\nflourish more if the young lord succeeds him...
+@1.26
+Hmm, I see...\nThe young lord's ability is indeed splendid...\nThe old lord's decision may well be right...

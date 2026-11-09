@@ -1,0 +1,1572 @@
+@1.0
+Welcome home.
+@1.1
+Mm, I'm back.
+@1.2
+Dear...
+@1.3
+Hm? What is it, \#7F0?
+@1.4
+You seem to have taken on\na great many officers.
+@1.5
+Capable men, every one. Most reassuring.
+@1.6
+That is all very well, but...
+@1.7
+If you have something to say,\ndon't talk around it.\nSay it plainly.
+@1.8
+Please give a little thought\nto our purse as well.
+@1.9
+Mm... that is so.
+@1.10
+I never knew how much\nhardship I was causing \&01.\nI will take your words to heart.
+@1.11
+(Hm... that such skilled men\nshould become the arms and legs\nof one like \&00... nothing could be more reassuring.)
+@1.12
+(But with so many retainers,\nmaking the stipends stretch\nis no easy task...)
+@2.0
+\&01!
+@2.1
+Oh, \#598.\nWhat is it?
+@2.2
+Would you look at this?
+@2.3
+This is... a sash?
+@2.4
+No, not a sash.\nIt is a cord.
+@2.5
+Rather flat for a cord...
+@2.6
+It is woven like a tube,\nso it is very strong.
+@2.7
+Let me see...\nMm, ngh, nnngh...
+@2.8
+It is strong indeed...
+@2.9
+Oh, dear...\nYou're all out of breath. What happened?
+@2.10
+Ah, \#7F0.\n\#598 has come up with this cord.
+@2.11
+\#598,\nwhat do you mean to do with it?
+@2.12
+A cord this strong\nwould be useful for all manner of things.
+@2.13
+What if we had merchants sell it,\nand used the money for our men's stipends,\nor kept it as funds for an emergency?
+@2.14
+I see, that is a fine idea.
+@2.15
+So this cord is woven?\nThen if you wove pretty patterns into it,\nI think people would like it even more.
+@2.16
+True enough... This could work.
+@2.17
+This should bring in\na steady income every month.\nWell done, \#598.
+@2.18
+Thank you, my lord!
+@2.19
+In \@001/\@002, the flat cord\nput on sale in \40F5\nquickly won the public's favour.
+@2.20
+Warriors everywhere took notice\nand used it for sword cords,\nhilt wrappings and the like.
+@2.21
+This "Sanada cord" is still used\ntoday, for tying paulownia boxes\nand the like.
+@3.1
+My name is \#195.\nIs Lord \#074 here?
+@3.2
+You're an acquaintance of Lord \#474?\nPlease, this way...
+@3.3
+Uuugh... uuugh...
+@3.4
+\#474, are you all right?\nIt is \&00, \#595!
+@3.6
+This is a grave illness indeed...
+@3.7
+I've tried all sorts\nof medicine, but...
+@3.8
+Unless it's a good medicine,\nit may not work...
+@3.9
+The only medicine we haven't tried\nis Sojintan, I suppose...
+@3.10
+Sojintan? That is fortunate.\nAs it happens, \&00 have some.\nLet us try it.
+@3.11
+Oh! Do you mean it?\nWhat a kind-hearted man...\nHere, Lord \#474, take this...
+@3.12
+Uuugh, mm, mmm...
+@3.13
+Gulp
+@3.14
+Now all we can do is wait and see.
+@3.15
+Yes...
+@3.16
+Sojintan, is it? Very well,\n\&00 will find some.\nI cannot abandon him.
+@3.17
+Oh! Do you mean it?\nWhat a kind-hearted man...
+@3.18
+Landlady, please look after\nLord \#474 for a while.
+@4.0
+Lord \#595, were you able\nto find the Sojintan?
+@4.1
+Yes, here it is.\nGive it to Lord \#474 at once.
+@4.2
+Here, Lord \#474, take this...
+@4.7
+No, the truth is I don't have it yet.\nForgive me, could you wait a little longer?
+@4.8
+Please get Lord \#474\nback on his feet\nas soon as you can.
+@5.0
+Lord \#595!!
+@5.1
+Oh, Lord \#474.\nYou have recovered at last.
+@5.2
+I hear you gave\nprecious medicine\nfor the likes of \&00.
+@5.3
+That's right, brother.\nWithout Lord \#595,\nwho knows what would have become of you.
+@5.4
+No, no.\nGetting well comes before anything...
+@5.5
+And so I have one more\nearnest request to make\nof you, Lord \#595.
+@5.6
+This life I once nearly threw away,\nI wish to place in your hands,\nLord \#595!
+@5.7
+What?
+@5.8
+\&00 too am won over\nby your character, Lord \#595.\nWe brothers wish to serve you together.
+@5.9
+...I see, your minds are made up.\nIt is just what I had hoped for.
+@5.10
+Th-then...
+@5.11
+Indeed! \#474, \#479,\nI expect great things of you both!
+@5.14
+\#074 and\n\#079\nhave joined you.
+@5.15
+...So you're leaving.
+@5.16
+You have done much for me.\nSadly, from now on \&00 am\nin the service of Lord \#595.
+@5.17
+It will be lonely, but the parting\nof man and woman is a passing pain.
+@5.18
+Forget about \&00.\nFarewell...
+@5.19
+Lord \#474...
+@5.20
+How is Lord \#474 doing?
+@5.21
+The medicine seems to be working\nlittle by little, but it looks\nlike his recovery will take a while.
+@5.22
+Leave Lord \#474 to me,\nLord \#595. You should think\nabout making your own way.
+@6.0
+Well, well, Lord \#595.\nGood timing. Will you join me?
+@6.1
+Why not?\nSince you ask, I'll keep you company.
+@6.2
+That's the spirit...\nCome, here you are.
+@6.3
+Glug glug...
+@6.4
+Whoa, whoa...
+@6.6
+Ha ha, what fun, what fun!\nYou're absolutely right, Lord \#595.
+@6.7
+To hear you say so\nmakes \&00 glad as well.
+@6.8
+Landlady, sparrow!
+@6.9
+Sorry, sir.\nWe're all out of sparrow.
+@6.10
+Hmm, a pity.\nThen I'll just go and fetch some...
+@6.11
+Hey, Lord \#599...
+@6.12
+Lord \#599, what are you...\nWhat, a gun!?
+@6.14
+BANG!
+@6.15
+Lord \#599!
+@6.16
+...Thud
+@6.17
+This is...
+@6.18
+...a sparrow!?
+@6.19
+Now we have something to go with the sake.\nCome, Lord \#595, let's drink again.\n...Hic.
+@6.20
+(Drunk as he is,\nhe brought down a sparrow\nin flight with a single shot...)
+@6.21
+...Ah, I'm content, content.\nThank you for keeping me\ncompany, Lord \#595.
+@6.22
+Lord \#599, perhaps this is not\nsomething to raise over sake, but...
+@6.23
+Whatever it is,\nplease say it.
+@6.24
+Your skill with the gun has no equal\nin the land, Lord \#599. Would you\nentrust that skill to \#595?
+@6.26
+To hear such words\nfrom a man like you, Lord \#595,\nis more of an honour than I deserve.
+@6.27
+But this is very sudden,\nso I'd like some time\nto think it over...
+@6.28
+Understood.\nI'll look forward to a good answer.
+@7.0
+You, girl, are you single?
+@7.1
+Please, sir, don't...
+@7.2
+To think such a beauty lived\nso close by!\n\&00 am called...
+@7.3
+Lord \#59D, what are you doing?
+@7.4
+Wh-whoa.\nWhy, it's Lord \#595.\nN-nothing, nothing at all.
+@7.5
+Please help me.\nThis gentleman won't leave me alone...
+@7.6
+H-hey!\nWhat do you mean, won't leave you alone!
+@7.7
+Lord \#59D, there is nothing wrong\nwith chasing after women, but\nperhaps choose your time and place a little better.
+@7.8
+I'm ashamed...
+@8.0
+Welcome...\nOh, sir, you're an acquaintance\nof Mister \#99D, aren't you?
+@8.1
+Has something happened?
+@8.2
+I wonder if he's gone on a journey.\nI haven't seen him around lately.
+@8.3
+Hmm, what could have become of him?
+@8.4
+There have been more bandits lately.\nEven if he's travelling,\nI do hope he's safe...
+@9.0
+Oh, a face I haven't seen. A traveller?\nWell, well, lucky you got here in one piece.
+@9.1
+My, you look strong...
+@9.2
+H-hey, don't touch me so freely.\n...And what you just said,\nwhat did you mean?
+@9.3
+They've been showing up a lot lately.\nBandits, at the edge of town.
+@9.4
+They especially go after\npeople of high standing\nwho look like they've got money.
+@9.5
+The town sent men to deal with them\na few times, but they say\ntheir chief is fearfully strong.
+@9.6
+With things like that,\ntravellers are a rare sight\nin this town.
+@9.7
+Hm, I see...
+@9.8
+Say,\nif you've nowhere to stay tonight,\nyou can come to my place...
+@9.9
+Well...?
+@9.10
+N-no, thank you all the same.\nNow, if you'll excuse me.
+@10.0
+(Phew, I'm home...)
+@10.1
+Lord \#595.
+@10.2
+Hm, Lord \#597...
+@10.3
+How did you get in here?
+@10.4
+The gatekeeper has an upset stomach.\nHe's in the privy right now.
+@10.5
+Hm, so you...
+@10.6
+I-I did give him\nsomething to settle his stomach.
+@10.7
+What business brings you to \&00?
+@10.8
+About the poison the other day...\nit was just as you said, Lord \#595.\n\&00 was in the wrong.
+@10.9
+I lost my father young,\nso until now I had no one\nto set me right like that.
+@10.10
+My father was a wandering warrior who\nwent from battlefield to battlefield, and\n\&00 followed him there from a young age.
+@10.11
+Knowing how my father lived,\nI still thought poison was acceptable...\n\&00 am an unworthy son.
+@10.12
+Lord \#595,\nyou scolded \&00.\nFor that I cannot thank you enough.
+@10.13
+I beg of you!\nTake \#597 into your service, Lord \#595!\nI will serve you with all my strength!
+@10.14
+Very well.\nNor did \&00 ever think\nill of you, \#597.
+@10.15
+Work hard enough for your father's share too!
+@10.16
+Yes, my lord! Thank you!
+@10.17
+\#197 has joined you.
+@11.0
+Is a clash with the \#958 clan\nno longer avoidable...?
+@11.3
+If it comes to that,\nwe must make our forces\nready for war.
+@11.4
+Counting the daimyō under them,\nthe \#958 clan's strength\nis far from ordinary.
+@11.5
+For our part, I believe our first\nstep is to take on the rōnin of every\nprovince left masterless by the last war.
+@11.9
+And so rōnin from every province\ngathered one after another\nunder \#096.
+@11.11
+The rōnin had different aims,\nbut every one of them shared\nthe wish to bring down \#958.
+@12.0
+Hm? And who might you be?
+@12.1
+My name is \#195.
+@12.2
+\#195...\nYou live in \40F5, if I recall?
+@12.3
+(He knows of \&00...\nHeard rumours in town, perhaps, or...)
+@12.4
+(This man is no ordinary fellow...\nShould I ask him to join me right away?)
+@12.5
+Invite him
+@12.6
+Don't invite him
+@12.7
+I say this having seen your skill,\nLord \#59A. Would you work under \&00?
+@12.8
+Sadly, \#59A has no\nwish to serve anyone\nat present.
+@12.9
+(Blast...\nThere is an order to these things after all.)
+@12.10
+I would like to be on\nfriendly terms with you, Lord \#59A.\nI hope you'll remember me.
+@12.11
+Then I'll take my leave for today...
+@12.12
+...Heh.\n\#195...\nQuite a fine man, isn't he?
+@13.0
+I ask once more for your help.
+@13.1
+Then let me test your ability,\nLord \#595. Is that all right?
+@13.2
+Of course
+@13.3
+Another time
+@13.4
+Splendid, Lord \#595.
+@13.5
+Then...
+@13.6
+Humble as my strength is,\nI will serve you faithfully\nas a horse or a dog, Lord \#595.
+@13.7
+Oh, I'm grateful!\nWith you at my side I have the strength of a hundred!
+@13.8
+Kirigakure Saizō has joined you.
+@13.9
+If I may, Lord \#595,\nI have a proposal.
+@13.10
+What is it?
+@13.11
+I know of someone whose ninja\nskills surpass even \&00's.
+@13.12
+What, truly!?\nMore skilled than the famous \#59A?
+@13.13
+His name is \#19B.\nThey say he got the name because\nhe is as nimble as a monkey.
+@13.14
+As a boy he was discovered by\nTozawa Hakuunsai of Kōga. He has already\nmastered every art; every ninja knows his name.
+@13.15
+So such talent\nstill lies hidden in the world...
+@13.16
+Now, \#59A,\nyou said you know \#59B.\nCould you put in a word for me?
+@13.17
+The trouble is, he is not\nan easy man to handle...
+@13.18
+\#59B is now in the town of Tsu,\nso it would be best if you went\nthere yourself, Lord \#595...
+@13.19
+I see, very well.\nThe town of Tsu, then.
+@13.20
+A pity, but you still have a long way to go.
+@13.22
+I'll be waiting any time.
+@13.23
+(The time seems right to invite him...)
+@13.24
+Lord \#59A, I ask once more.\nWill you lend your strength\nto this \#195?
+@13.26
+\#59A believes he knows your\ncharacter, Lord \#595,\na man rich in honour.
+@13.27
+But whether you have\nthe calibre to survive\nthis age of war, I cannot yet judge.
+@13.28
+Allow me to test\nyour calibre, Lord \#595.\nIs that all right?
+@13.30
+Splendidly done, Lord \#595.
+@13.32
+Humble as my strength is,\n\#19A will serve you faithfully\nas a horse or a dog, Lord \#595.
+@13.34
+\#19A has joined you.
+@13.43
+The trouble is, he is quite\na slippery fellow...
+@13.46
+A pity, but you do not yet seem\nto have the calibre,\nLord \#595.
+@13.47
+Ugh, I am ashamed.
+@13.48
+Surely in time, Lord \#595,\nyou will become a man worth serving.\nWhen that time comes, ask me again.
+@14.0
+A pleasure to meet you.\nMy name is...
+@14.1
+Why...\nif it isn't Lord \#195.\nI am \#19B. I hope you'll remember me.
+@14.2
+!?\nHave we met before?
+@14.3
+We needn't have met for me to know\nyou well. You serve as \C03E\nin \40F5.
+@14.4
+\&00 have no wish\nto serve anyone,\nbut what business brings you here?
+@14.5
+(He keeps one step ahead of me.\nHe's not an easy man to handle, it seems.\nBest to withdraw for now.)
+@14.6
+I'll take my leave for today.\nI'll come to pay my respects another time.
+@14.7
+Next time you visit,\nI'd like you to bring\nsome persimmons as a gift.
+@14.8
+Er, "persimmons"...
+@15.0
+Lord \#59B, it's been a while.\nI've brought you persimmons as a gift.
+@15.1
+Welcome, Lord \#195... munch munch.\nAlas, as you see, I already have\npersimmons and am eating them... munch munch.
+@15.2
+Next time you visit,\nI'd be glad if you brought\nsome daikon radish.
+@15.3
+Understood.\nDaikon, then.\nI'll take my leave...
+@15.4
+...Hm?\nI feel there are fewer\npersimmons than before...
+@15.5
+...Hm?\nThe persimmons are gone. Did I drop them?
+@15.6
+Hm? Lord \#195,\nhaven't you forgotten something?
+@15.7
+(Come to think of it,\nhe did say he wanted persimmons...)
+@16.0
+Lord \#59B, it's been a while.\nI've brought you daikon as a gift.
+@16.1
+Welcome, Lord \#195... scrape scrape.\nAs you see, I already have daikon. I'm grating\nit for daikon rice... scrape.
+@16.2
+Next time you visit,\nI'd be glad if you brought\nsome natto.
+@16.3
+Understood.\nNatto, then.\nI'll take my leave...
+@16.4
+...Hm?\nI feel there are fewer\ndaikon than before...
+@16.5
+...Hm?\nThe daikon are gone. Did I drop them?
+@16.7
+(Come to think of it,\nhe did say he wanted daikon...)
+@17.0
+Lord \#59B, it's been a while.\nI've brought you natto as a gift.
+@17.1
+Welcome, Lord \#195... squish squish.\nAs you see, I already have natto.\nI'm just stirring it to eat... squish squish...
+@17.2
+A pity...\nHm? What? Eh?\nWhere did it go...
+@17.3
+Is something wrong?\nSquish squish...
+@17.4
+It seems I've lost a one-mon coin\nthe innkeeper's child gave me\nas a good-luck charm...
+@17.5
+Oh my, that's too bad.\nDid the coin have any mark on it?\nSquish squish...
+@17.6
+The character "hit" is written\nsmall on it in ink.
+@17.7
+"Hit"...?\nSquish squish...
+@17.8
+Lord \#59B, forgive me,\nbut may I borrow your chopsticks?
+@17.9
+...?\nGo ahead...?
+@17.10
+...Ah, there it is.
+@17.11
+Look, the coin was in the natto.
+@17.12
+Hit
+@17.14
+Ha ha ha ha ha!\nYou got me there!\nWell played, Lord \#595!
+@17.15
+I never meant to test you,\nLord \#595.\nPlease forgive me.
+@17.16
+You seemed to know a great deal\nabout \&00, though?
+@17.17
+I heard all sorts of things\nfrom a certain man.
+@17.18
+And who is this man?
+@17.19
+A "slippery" fellow,\nthe same as \&00.
+@17.20
+\#59A! Why, that rascal...
+@17.21
+In any case, \#59B will spare\nno effort. I would be honoured to join\nthe lowest ranks of your men, Lord \#595.
+@17.22
+Indeed, I'm counting on you!
+@17.24
+\#19B has joined you.
+@17.25
+In any case, \#59B wishes\nto work under you, Lord \#595.
+@17.26
+I'll be waiting, so rise\nin the world quickly and\ncome for me.
+@17.28
+(Come to think of it,\nhe did say he wanted natto...)
+@18.1
+A pleasure to meet you.\nMy name is \#195.
+@18.2
+Oh, so you are Lord \#595.
+@18.3
+You know of me?
+@18.4
+I heard of you from \#479.\n\#079 is \&00's younger brother...
+@18.5
+I see.
+@18.6
+I'm a little busy right now\nand can't spare the time.\nForgive me, could we talk later?
+@18.7
+Understood.\nThen I'll take my leave...
+@18.8
+You have good eyes, you.\nI'm a little busy right now,\nso could we talk later?
+@19.4
+I heard of you from \#474.\n\#074 is \&00's elder brother...
+@20.0
+And who might you be?
+@20.2
+I've heard the rumours.\nI've been wanting to meet you.
+@20.3
+(Hm? A paintbrush...)
+@20.4
+I'm intruding, it seems.\nLet's talk at length another time.
+@20.5
+My apologies. Once I pick up\na brush, I can't stop.
+@20.6
+Then...
+@21.0
+Lord \#4CF, it's been a while.
+@21.2
+Lord \#4CF, is something wrong?
+@21.3
+Why, Lord \#595, I didn't notice you...\nI was lost in thought.
+@21.4
+Oh? If you don't mind,\nI'd like to hear about it.
+@21.5
+Lord \#595, do you know\nan artisan of Sakai\nnamed \#291?
+@21.6
+Yes, I know of him.
+@21.7
+No, I don't.
+@21.8
+Against the gorgeous splendour of\nthe Kanō school, Lord \#291 is a painter\nwith a fresh, bold style.
+@21.10
+The Kanō school knows\nhow to get on in the world;\nit has already won over the powerful.
+@21.11
+Warriors favour\nthe Kanō school's\nforceful style.
+@21.12
+And so \&00 have thought\nthe world rates Lord Tōhaku\nunfairly low.
+@21.13
+But men like Sen no Rikyū\nvalue the subtle depth\nthat Lord \#691 brings out.
+@21.14
+Lord \#595,\nwhich do you think is greater?
+@21.15
+Kanō Eitoku
+@21.16
+Hasegawa Tōhaku
+@21.17
+I see...\nThen \&00 see it differently.
+@21.18
+Oh! So you think so too,\nLord \#595!\nAh, I'm so glad, so glad!
+@22.0
+Lord \#4CF, it's been a while...\nHm? What is that box?
+@22.1
+This?\nIt is something to be delivered\nto Lord \#691...
+@22.2
+Oh, a hanging scroll?\nYour devotion to \#291\nis remarkable, Lord \#4CF.
+@22.3
+When did this fever of yours\nbegin, I wonder?
+@22.4
+The truth is, \&00\nused to be a sailor...
+@22.5
+Oh? That's news to me.
+@22.6
+By chance a painting came into my\nhands, and how splendid it was...\nI gazed at it every day without tiring.
+@22.7
+When I looked into who painted it,\nit turned out to be\nthe work of Lord \#291.
+@22.8
+So that's how it was...
+@22.9
+Lord \#595, I have\nan earnest favour to ask.
+@22.11
+Would you deliver\nthis hanging scroll\nto Lord \#291?
+@22.12
+\&00 should?
+@22.13
+I beg of you!
+@22.14
+I don't mind.\nIs there a message\nyou'd like me to pass on?
+@22.15
+No, just handing it over\nwill be enough.
+@22.16
+\#291...\nIn the town of Sakai, wasn't it?
+@23.0
+Why, Lord \#595, what brings you here?
+@23.2
+A pleasure to meet you.\nMy name is \#195.
+@23.3
+And what can I do for you?
+@23.4
+I was asked by Lord \#0CF\nto bring you this.
+@23.5
+\#0CF...?
+@23.7
+Wh-why, this is...!
+@23.8
+Is something wrong?
+@23.9
+Isn't this a work of mine that was\nstolen by pirates years ago\nwhen I was travelling by ship...?
+@23.10
+What did you say!!
+@23.11
+This man \#0CF...\nwhat does he look like?
+@23.12
+He's sturdily built,\nbut has clear, cool eyes...
+@23.13
+Perhaps he was the chief\nof those pirates back then...
+@23.14
+Now that you mention it,\nhe did say he was a sailor\nfor a time.
+@23.15
+I see...\nI wonder if he has changed his ways.
+@23.16
+\&00 am on friendly terms\nwith \#0CF, and I don't\nbelieve he is a bad man.
+@23.17
+...If a man like you\nsays so,\nthen surely it is true.
+@23.18
+Then would you\ngive that man\na message from me?
+@23.19
+"I no longer bear a grudge"...
+@23.20
+...I will.
+@24.0
+Lord \#4CF,\nI have delivered the scroll.
+@24.1
+I'm grateful...
+@24.2
+I have a message\nfrom Lord \#691...
+@24.3
+Don't say it, I don't want to hear it.\n\&00 have hurt\ninnocent people.
+@24.4
+And \&00 have even deceived you,\nLord \#595,\nwho has been so good to me...
+@24.5
+You say so, but \&00\nwas not deceived.
+@24.6
+Lord \#4CF, you are honest to the core.\nWasn't it simply that you\ncouldn't tell the truth?
+@24.7
+Oh! Lord \#595!
+@24.8
+Lord \#691 said\nhe no longer bears a grudge...
+@24.9
+Ugh, ugh...
+@24.10
+A crime once done cannot be erased.\nThen you must make amends\nwith your own life.
+@24.11
+From now on, help the weak\nand humble the strong...
+@24.12
+Yes...
+@25.0
+And who might you be?
+@25.2
+Why, Lord \#595.\nI have long heard the rumours about you.
+@25.3
+Rumours? What sort of rumours?
+@25.4
+That you are not only brave,\nbut a man of learning.
+@25.5
+\&00 still have a long way to go.
+@25.6
+I'm busy copying a book right now.\nOne day let's sit down and talk properly.\nA man of learning is always welcome.
+@26.0
+Why, Lord \#595,\nyou've come at a good time.
+@26.2
+I was just discussing strategy\nwith a friend.
+@26.3
+Lord \#595, what do you hold\nto be the secret of the art of war?
+@26.4
+Let me see...
+@26.5
+Wind, Forest, Fire, Mountain
+@26.6
+Win without fighting
+@26.7
+Oh ho...\nAs befits the son of Lord \#1A3.\nYou carry on Lord \#5AD's teachings.
+@26.8
+As I thought, Lord \#595, you are\nno common reckless boar;\nyou are a sharp man.
+@26.9
+"Winning without fighting"\nis the highest strategy, after all.
+@26.10
+What do you say?\nWill you join us, Lord \#595,\nand talk strategy to our heart's content?
+@26.11
+Then, if I may be so bold...
+@26.12
+\#195 and \#198\ndebated the art of war\nto their heart's content.
+@26.13
+\#198's views on strategy\nwere backed by\nbroad learning...
+@26.14
+...enough to impress even\n\#195, a veteran\nof many battles.
+@26.15
+That was time well spent.\nI thank you, Lord \#595.
+@26.16
+Lord \#598, it would be a shame for\na man like \&01 to stay buried.\nWould you serve \#595?
+@26.17
+Well now...\nLet me think it over for a while.
+@26.18
+I'll look forward to a good answer.
+@27.4
+Splendid, Lord \#595.\nIt seems \&00's eye\nwas not mistaken.
+@27.6
+From this moment on,\nI will serve you with all my heart and soul!
+@27.7
+\#198 has joined you.
+@27.11
+Well, have you made up your mind?
+@27.12
+\#198 thinks you, Lord \#595,\nare a man without equal\nin this age of war.
+@27.13
+But that doesn't mean\n\&00's eye\ncannot be wrong.
+@27.14
+So, forgive me,\nbut I'd like to test you,\nLord \#595. Is that all right?
+@27.15
+Then I'll show you\nwhat \#595\nis made of.
+@27.20
+A pity, but it seems\nthe time to serve you\nhas not yet come.
+@28.2
+Oh...\nSo \&01 are the \#195\nwho's been making a name lately.
+@28.4
+Oh, if I've offended you,\nplease forgive me.
+@28.5
+I've been hearing \&01's name\na lot lately. Saying one word too many\nis a bad habit of \&00's.
+@28.6
+If that's all, don't let it worry you.
+@28.7
+I'm grateful... Around here they take\nme for an oddball, so I have no friends\nto lament the state of the world with.
+@28.8
+If you feel like it, come and talk to me again.
+@29.2
+Oh, I know of you.\nI am \#199.\nI hope we'll get along.
+@29.3
+Is that a rabbit?
+@29.4
+I just went out hunting a bit.\nI may not look it, but I'm\nconfident in my skill with a gun.
+@29.5
+What do you say?\nSince you're here, join me for a hotpot.
+@29.6
+(No reason to refuse.\nI'll accept his hospitality.)
+@29.7
+\#3FE shared a hotpot\nwith Kakei Jūzō.
+@29.8
+The flavour was rich and mellow,\nand quite delicious.
+@29.9
+\#3FE ate his fill\nof the hotpot.
+@29.10
+Finished already?\nYou can still manage more.\nCome, help yourself.
+@29.11
+Then I'll have some
+@29.12
+No, I'm full
+@29.13
+Then I won't hold back...
+@29.14
+You polished off the rest of the hotpot.
+@29.15
+Ugh... urp.
+@29.16
+Are you all right, Lord \#595!
+@29.17
+Th-thank you for the meal...\nLet us meet again...urp.
+@29.18
+(I got carried away and ate too much... urp.)
+@29.19
+That was more than enough.\nThank you very much.
+@29.20
+I see.\nIt was a pleasant time.\nLet us surely meet again.
+@29.21
+That was delicious...
+@30.1
+Then allow me to see\nwhat you are made of,\nLord \#595. Is that all right?
+@30.6
+From this day on, the right arm\nof \#199 belongs to\nyou, Lord \#595!
+@30.7
+\#199 has joined you.
+@30.8
+A pity, but I cannot enter your service.
+@30.10
+I'll be waiting any time.
+@30.11
+I'd like to hear your answer.
+@30.12
+Before that, there are two things\nI must say to you,\nLord \#595.
+@30.13
+First...
+@30.14
+\&00 do not wish to take\na man's life, even an enemy's.
+@30.15
+In every battle I have fought,\nI never shot the enemy in the head,\nonly in the arms and legs.
+@30.16
+If you cannot allow this,\nI cannot enter your service.
+@30.17
+Second...
+@30.18
+It is not that \#599 has never\nbeen offered a post before.
+@30.19
+I never took one because\nthey all seemed to regard \&00's\nskill as a kind of sideshow.
+@30.20
+If you see \&00's skill\nas a sideshow, I cannot\nenter your service.
+@30.21
+...Very well.\nLet me start with the first.
+@30.22
+If "winning without fighting" is\nthe best strategy, "winning without killing"\nis a fine one too. So I allow it.
+@30.23
+And \&00 believe guns decide\nthe outcome of battles, so I don't\nsee your skill as a sideshow.
+@30.24
+If you cannot trust\nthe word \&00 give,\nI'll show you my own skill with the gun.
+@30.25
+Well said!\nThen let me see what you can do.
+@30.28
+From this day on, the right arm\nof \#199 belongs to\nyou, Lord \#595!
+@31.2
+Oh, why...\nI am called \#19D.
+@31.3
+I have long heard of you,\nLord \#595, the man of honour.\nI hope we'll get along.
+@31.4
+I'm sorry, but\n\&00 have a small errand to run,\nso I must ask you to leave.
+@31.5
+Then another time...
+@32.2
+I am \#197.\nI have heard of you, Lord \#595.\nI hope we'll get along.
+@32.3
+I have some business to attend to,\nso let us talk at length\nanother time.
+@33.0
+Why, Lord \#595.
+@33.1
+You seem busy.\nWhat on earth are you doing?
+@33.2
+This?\nI'm kneading medicine.
+@33.3
+Oh ho... pills, are they?
+@33.4
+They're made from several kinds of\nmedicinal herbs: bellflower root,\ndokudami, plantain and so on.
+@33.5
+They help you recover from fatigue.\nWould you like to try some?
+@33.7
+Don't drink
+@33.8
+For you, Lord \#595,\nabout three pills should do.
+@33.10
+(Bitter...)
+@33.11
+It'll take effect little by little...
+@33.12
+I see.\nThey work quite well, you know.
+@34.0
+Ah, why, Lord \#595.
+@34.1
+Kneading medicine again, I see.\nWhat kind of medicine\nis it this time?
+@34.2
+This is poison.
+@34.3
+Poison!?\nWhat on earth would you use it for?
+@34.4
+Nothing in particular.\nI'm just making it\nto learn.
+@34.5
+Then what will you do with it\nonce it's made?
+@34.6
+I'll test it, of course.\nI was thinking of catching\nsome dog or cat around here.
+@34.7
+If it works, it could become\na powerful weapon for getting\nrid of people in the way.
+@34.8
+...Lord \#597.
+@34.9
+Yes?
+@34.10
+\&00 would not have you treat\nlives carelessly, not even\nthose of animals.
+@34.11
+For a samurai, dying at the hands\nof the enemy is an honour,\nbut dying without a wound is a disgrace.
+@34.12
+A ninja using poison is one thing,\nbut for a samurai to use poison\nis shameful. Know that!
+@34.13
+Lord \#595...
+@36.0
+I bought persimmons and daikon\nfor \#59B, but something is odd...\nThey keep vanishing before I know it.
+@36.1
+I see...\nThat fellow is toying\nwith \&00 using ninjutsu.
+@36.2
+Ha ha ha, how amusing!\nThen I have an idea of my own.\nNext time it won't go so easily.
+@37.0
+Lord \#595, I've heard!\nYou're getting medicine\nfor my elder brother.
+@37.1
+I'm grateful.\nI will repay this kindness without fail.
+@37.2
+Between you brothers and \&00,\nthere's no need for ceremony.
+@37.3
+Those words go to my heart.\n\&00 will go to my brother,\nso I'll be away for a while.
+@37.4
+I see. Go to him quickly.
+@37.5
+Then I'll take my leave.
+@38.0
+Murmur, murmur...
+@38.1
+Hm? I wonder what happened.
+@38.2
+Come quietly and be bound!
+@38.3
+What on earth has \&00 done!?\nI haven't hurt a single soul!
+@38.4
+Silence, silence!\nMaking suspicious things...\nYou mean harm to our lord!
+@38.5
+What nonsense is this!
+@38.6
+Wait a moment.\nThis man is not one to plot\nsuch a thing.
+@38.7
+Oh, Lord \#595!
+@38.8
+Eh!? \#595... Lord?\nF-forgive me.\nThen I'll be going...
+@38.9
+Are you all right, Lord \#59C?
+@38.10
+Ha ha, I'm not hurt.\nIn every age, petty officials\nlove to throw their weight around.
+@38.11
+That's what comes of doing\nstrange experiments.
+@38.12
+I'm ashamed.\nFrom now on I'll do my experiments\ndeeper in the mountains.
+@38.13
+What, \#595?\nCould it be the \#195...
+@38.14
+Indeed, \&00 am \#195.
+@38.15
+(Tch, picked the wrong man.)
+@38.16
+You there, I'll let it go for today.\nNext time, expect your head to roll...
+@38.19
+...But I can't just laugh it off.\nFrom now on I'll have to risk\nmy life to do my experiments.
+@38.20
+...Lord \#59C.
+@38.21
+Hm?
+@38.22
+Why not\nserve \&00 instead?\nThen there should be no trouble.
+@38.23
+Oh ho... So you can't bear to watch\nand would take \&00 in\nas one of your men?
+@38.25
+Forgive me, I let my tongue run away...
+@38.26
+Lord \#595, that you would\ntrouble yourself over the likes of \&00\nmakes me truly glad.
+@38.27
+I wish to repay this kindness\nby serving you with all\nmy heart and soul!
+@38.28
+Excellent! I'm counting on you, \#59C.
+@38.29
+Yes, my lord! I'll surely\nprove useful to you!
+@38.30
+\#19C has joined you.
+@40.0
+Excuse me, sir samurai.
+@40.2
+A moment ago I happened to\noverhear you talking\nwith the landlady of the inn...
+@40.3
+The other day I saw Mister \#59D\nwander out of town.
+@40.4
+He was heading south,\nso maybe he's somewhere around\nthe town of Kōfu.
+@40.5
+The town of Kōfu...
+@41.0
+\@001/\@002...\nThe Ten Sanada Braves gathered\nunder \#195!
+@41.1
+The deeds of those who served\n\#195 so loyally would be\ntold for ages to come...
+@43.0
+Lord \#7FE, a grave matter!\nPlease come to the castle at once.
+@43.1
+What is it?
+@43.2
+It seems Lord \#958 has raised\nobjections to the inscription on\nthe newly cast bell of Hōkō-ji.
+@43.3
+What!?
+@43.4
+This is a troublesome turn of events...
+@43.5
+What on earth does this mean?
+@43.6
+Those words were drafted with\nall his heart by Reverend Seikan,\nthe renowned monk of Nanzen-ji.
+@43.7
+What about them could possibly\nhave offended Lord \#958?
+@43.8
+It is a part near the end\nof the inscription... the passage\n"Kokka Ankō, kunshin hōraku"...
+@43.11
+He says these words are surely\nmeant to curse the \#958 clan\nand bring it harm.
+@43.14
+Ah... how can this be...\nI only wished to show the world\nthe glory of my late father...
+@43.16
+The Taikō's glory still lives.\nIf we call on the lords, a hundred\nthousand men would gather at once.
+@43.17
+Let us teach them who\nis master and who is vassal!
+@43.21
+Lord \#496, now is the time for patience.\n\#558 is already an old man.\nHe will be dead in a few years.
+@43.22
+You, my lord, are young by comparison.\nIf we are to act, let it be\nafter \#558 is dead...
+@43.23
+Opinions are divided...\n\#7FE, what do you think?
+@43.24
+In \&00's view...
+@43.25
+No need to bow to \#558
+@43.26
+We should apologise to \#558
+@43.27
+It is as Lord \#BF1 says.\n\#558 is nothing to fear.
+@43.29
+Hmm, I see...
+@43.30
+But \&00 think stirring\nup trouble would\nnot be wise.
+@43.33
+If we give way,\n\#558 will be satisfied.\nThere will be no needless strife...
+@43.34
+It is as Lord \#BF0 says.
+@43.35
+Raising troops in the heat of\nthe moment is easy. But that is\nexactly what \#558 is after.
+@43.36
+\#558 surely wants\na just cause to destroy\nthe \#896 clan.
+@43.37
+There is no need to throw\nourselves knowingly into\nsuch a provocation.
+@43.40
+Then, \#7F0 and \#7F1,\nyou will both go to Lord \#158\nand explain ourselves!
+@44.0
+Lord \#7FE,\nLord \#BF0 and Lord \#BF1\nhave returned.
+@44.1
+Please come to the castle at once.
+@44.2
+Right, I understand.
+@44.6
+Well, how did it go?\nDid Lord \#558 understand\nthat we mean him no ill?
+@44.8
+What are these three conditions?\nTell me quickly.
+@44.10
+Second...\nThat your mother, Lady Yodo,\nbe sent to \40F5 as a hostage...
+@44.13
+What is this!?\nNone of it can possibly be accepted...
+@44.16
+But the third...\nhanding \40F6 over to \#958\nis worth considering.
+@44.17
+As I have said before,\nLord \#958 is an old man...
+@44.18
+It would be wisest to move\nour base for now and build\nour strength to rise again.
+@44.21
+\40F6 is the mark of the realm's\nunification achieved by Lord Taikō.\nGiving it up is surrender to \#958.
+@44.23
+Lord \#BF0, I cannot understand\nhow you could urge such\na poor plan on Lord \#496...
+@44.25
+...Lord \#496,\nlet me tell you how\nthis really came about.
+@44.27
+Lord \#7F0,\ndid you meet Lord \#958\nin person this time?
+@44.28
+W-well, no...\nI was not granted an audience...
+@44.29
+\&00 met\nLord \#958 in person.
+@44.31
+Lord \#958 wore a gentle look\nthroughout. He hardly seemed\nlikely to set such harsh conditions.
+@44.38
+Th-that is...
+@44.51
+Did you not hear me\ntell you to withdraw?
+@44.53
+...Lord \#496, what shall be done\nwith \#7F0?
+@44.54
+\&00 am weary.\nI leave it to \#7F1.
+@44.57
+(This is bad...\nThis plays right into \#558's hands.)
+@44.60
+Tch, one step too late...\nI must report to Lord \#496...
+@45.0
+\%03,\nthe \#958 forces seem to have moved\ntheir army toward \50F8 Castle!
+@45.3
+Day after day they debated holding\nthe castle or sallying out, but\nthey could not agree...
+@45.7
+Unless we blunt the enemy's\nadvance, our men's spirits\nwill never rise!
+@45.10
+If we don't move, neither can\nthe enemy. To foil \#558's plans,\nholding the castle is best.
+@45.11
+Why are you all\nso faint-hearted!
+@45.14
+True enough.\nIf we only defend from the start,\nwe have no chance of winning.
+@46.0
+Learning that the \#896 side was\narming again, \#558 at once\nbegan to march on \40F5.
+@46.1
+The \#81C and \#91A armies\nand others followed\nthe \#958 clan.
+@46.2
+The armies of the other daimyō\nsiding with the \#958 clan\nfollowed as well.
+@46.3
+Before long the eastern armies\nclosed in on \40F5\none after another...
+@46.4
+The decisive battle that would\nfollow Sekigahara was\nabout to begin...
+@46.5
+We of the \#BFE unit will now\ncharge straight at the headquarters\nof \#558's army!
+@46.6
+Our target is\n\#558's head alone!
+@46.7
+Men!\nShow them the spirit\nof the \#BFE!
+@47.0
+Come.\nGo before Lord \#496.
+@47.2
+Ah, so you have come.
+@47.3
+Lord \#558...
+@47.4
+Lord \#496,\nyou have grown into a fine man...
+@47.5
+\&00 find this\nmost regrettable...
+@47.6
+After my father died, I hoped\nyou would support the \#896 clan,\nLord \#558...
+@47.7
+Why did it ever\ncome to crossing spears...
+@47.8
+Every man born in an age of war...\ndreams at least once.\n\&00 merely kept chasing that dream.
+@47.9
+The dream of ruling the realm by force...
+@47.10
+Lord \#558, that is ambition beyond\nyour station. As the late Taikō decreed,\nthe master of the realm is the \#896 clan...
+@47.11
+You are a retainer of the \#896 clan.\nYou forgot that and did as you pleased...\nThis is simply what you deserve.
+@47.12
+To the lady mother I have no reply...\n...but I too have something to say.
+@47.13
+After the Taikō's death, Lord \#496\nwas too young to rule the realm...\nI was not the only one who thought so.
+@47.14
+Seeking a more stable world,\nI merely tried to unite the daimyō\nand build a firm government...
+@47.16
+That is presumption itself...\nUniting the realm is \#496's role.\nIt is no business of an old man like you...
+@47.17
+Mother, that is too harsh on Lord \#558...
+@47.18
+Ha ha... It's all right, Lord \#496.\nTo Lady Yodo, this \#558\nhas truly been a mortal enemy...
+@47.19
+...Lord \#494 pounded the rice cake,\nLord \#400 kneaded it...
+@47.20
+...and \&00 never\ngot to eat it...
+@47.21
+I'm tired from talking too much...\nMy age, perhaps.
+@47.22
+It is time.\nMay I ask Lord \#3FE\nto act as my second?
+@47.23
+I gladly accept the duty.
+@47.24
+I am grateful...
+@47.25
+In \@001/\@002,\n\#158, hero of the Warring States,\ncommitted seppuku.
+@47.26
+With this, the map of Japan,\nnearly all \#958 colours,\nwould be greatly redrawn.
+@47.27
+For his great deeds, \#3FE\nwas allowed by \#496 to stand\non his own as a daimyō.
+@47.28
+And so \#7FE\nrestored the \#BFE clan.
+@48.0
+Fine weather, isn't it?
+@48.1
+How about a bout of sumo?
+@48.2
+Ha ha, don't, \#479.\nYou'll get hurt.
+@48.3
+Nonsense! This \#479\nis still in his prime!
+@48.4
+I'm not so weak yet\nas to lose to a youngster!
+@48.5
+If you insist, so be it.\nThen... hakkeyoi...
+@48.6
+Nokotta!!
+@48.7
+THUD!
+@48.10
+...Not bad, \#479!
+@48.11
+...Nor you, \#59D!
+@48.12
+One minute later...
+@48.13
+(Hnnngh... This is getting nowhere!)
+@48.14
+(Time to settle this in one go.)
+@48.15
+Ooryah!!
+@48.16
+Seiya!!
+@48.17
+CRASH!
+@48.18
+There! I win!
+@48.19
+What are you talking about!\nOf course I won!
+@48.20
+What!\nHm? Isn't that\nLord \#595 over there?
+@48.21
+Just right. Let's go again\nand have Lord \#595 judge\nwhich of us is stronger.
+@48.22
+Gladly!\nHey, Lord \#595...\nHm? What's that?
+@48.23
+Lord \#595!\nPlease wait!
+@48.25
+Tap tap tap
+@48.26
+Your life...
+@48.27
+Whoosh
+@48.28
+...is mine!!
+@48.29
+Blast, a kunoichi!
+@48.31
+Lord \#595!!
+@48.32
+BANG
+@48.33
+Ugh... g-gunners!?
+@48.34
+I spared you because you're a woman!\nLeave at once, or next time\nit won't be your arm!
+@48.35
+I failed... retreat!
+@48.36
+\#599,\nI owe you my life.\nThank you.
+@48.37
+That woman seemed to be idly\nfollowing you around, Lord \#595...\nIt's a good thing I kept watch.
+@48.38
+Lord \#595!
+@48.39
+Huff, huff, I'm so glad you're safe...\nI thought my heart would stop.
+@48.40
+So \&00 have become\na man worth sending\nninja after.
+@48.41
+...Lord \#595, against ninja,\nmere strength like \#59D's\nor \#479's is not enough to win.
+@48.42
+Wh-what did you say!
+@48.43
+I can't let that pass!\nDepending on what you mean,\nan arm or two might...
+@48.44
+Now, wait.\nLet's hear what \#599 has to say.
+@48.45
+That kunoichi just now, as far as\n\&00 could see, was nothing\nbut a lowly underling.
+@48.46
+And yet she nearly took\nyour life, Lord \#595.
+@48.47
+That alone shows\nhow fearsome ninja are.
+@48.48
+...Hmph.
+@48.49
+...He may have a point.
+@48.50
+Set a ninja to catch a ninja, then.
+@48.51
+I've heard rumours of a ninja\nnamed \#19A in\nsouthern Ōmi.
+@48.52
+They say he mastered the Iga arts\nbut disliked the rank of jōnin\nand left his village.
+@48.53
+If you could win \#59A over,\nyou could sleep soundly at night.
+@48.54
+Southern Ōmi...
+@49.0
+Bump
+@49.1
+Whoa.
+@49.2
+Forgive me, I'm in a hurry... oh,\nwhy, Lord \#595.
+@49.3
+Isn't it Lord \#479?\nWhat's the rush?
+@49.4
+The truth is, my brother\nhas caught the sickness\nthat's going around.
+@49.5
+Oh?\nThat sturdy Lord \#474...\nHow is he doing?
+@49.6
+It's the first time in his life\nhe's been ill, so he's\nsuffering badly.
+@49.7
+A man living alone can't manage,\nso I moved him to the inn and asked\nthe landlady to look after him.
+@49.8
+So now I'm going back\nto fetch my brother's\nbelongings.
+@49.9
+I see.\nThen \&00 will visit him later.
+@50.0
+Lord \#595! Lord \#595!
+@50.2
+Huff, huff, huff...\nPlease wait...
+@50.3
+Lord \#4CF, what's the matter?
+@50.4
+I wish to atone for\nall I have done\nin your service, Lord \#595.
+@50.5
+I've already settled my affairs.\nPlease, I beg you, take \#4CF\ninto your service, Lord \#595.
+@50.6
+...It will be lord and retainer.\nThings won't be as they were.\nAre you sure about that?
+@50.7
+I understand that fully.
+@50.8
+Good.\nThen I expect great things of you, \#4CF!
+@50.10
+\#0CF has joined you.
+@51.0
+BOOM
+@51.1
+Wh-what was that!?\nIt came from over there...
+@51.2
+Oh, well, well, Lord \#595.
+@51.3
+Isn't it Lord \#59C?\nWhat on earth is this...
+@51.6
+This? This is an experiment\nwith a new gunpowder!
+@51.7
+From now on it won't be cavalry\nor guns; the age of cannon\nis surely coming!
+@51.8
+Tremendous power.
+@51.9
+Look here. I packed gunpowder\ninto a bamboo tube and threaded a fuse.\nYou can even throw it at the enemy.
+@51.10
+The fuse is sealed with wax,\nso a little rain won't put it out.\n...Here goes!
+@51.12
+This is too much for me.\n\&00 will be leaving first...
+@52.0
+(Supposing Lord \#59D really\ndid head for the town of Kōfu...)
+@52.1
+(Lord \#59D may also have\nfallen into the bandits' hands.)
+@52.2
+(But he is no man to be\nbeaten by common bandits...)
+@52.3
+(Which means...)
+@52.4
+Hey, you there! Samurai!\nIf you value your life,\nhand over everything you've got!
+@52.5
+(Here they are...)
+@52.6
+I'll not give the likes of you\na single coin! Give up banditry and\nleave the mountains, or I'll cut you down!
+@52.7
+Heh.\nIt's too early\nfor you to be dreaming!
+@52.8
+Ugh... He's too strong.\nBoss!
+@52.10
+Boss! Boss!
+@52.11
+Huff, huff, huff...\nSo the chief himself appears.\nJust what I wanted.
+@52.12
+...What!
+@52.14
+Lord \#59D!\nSo you're the bandit chief!
+@52.16
+B-boss, it's all yours!
+@52.17
+Ugh, Lord \#595, forgive me!
+@52.18
+Run for it! The boss is beaten!
+@52.19
+Ngh... As expected of Lord \#595.
+@52.20
+Why on earth\nare you a bandit chief?
+@52.21
+It is all due to my own\nlack of virtue, but...
+@52.22
+On my way to the town of\nKōfu to look for work,\nI was attacked by bandits.
+@52.23
+When I dealt with them easily,\nthe bandits offered me money\nand begged me to be their chief...
+@52.24
+Better than toiling away at work,\nI thought, an easy bandit's life\nisn't bad, just for a while.
+@52.25
+But water flows downhill,\nand I just couldn't bring myself\nto mend my ways...
+@52.26
+As you see,\nmy men have already fled.\nA bandit's end is a sorry thing.
+@52.27
+Come,\ncut me down and be done with it.
+@52.28
+...I will not cut you down.
+@52.29
+Why not!
+@52.30
+You must live\nand atone for your crimes...
+@52.31
+Farewell, Lord \#59D.
+@52.32
+Please wait!\nTake \&00 with you!
+@52.34
+\&00 wish to atone for my crimes\nunder you, Lord \#595.
+@52.35
+Please, I beg you,\ntake \&00 with you.\nI ask this with all my life.
+@52.36
+You say you wish to atone.\nMay I trust those words?
+@52.38
+\&00 do not fight for personal gain.\nMark that well.\nUnderstood, \#59D?
+@52.40
+\#19D has joined you.
+@52.41
+Ugh... \&00 am beaten.\nIf you'll kill me, do it.
+@52.42
+...Hey, let's go.
+@52.43
+Y-yes, sir...\nBut are you really letting this guy go?\nEh? Boss, wait for us!
+@52.44
+Lord \#59D...\nwhy...
+@52.45
+Oh, you won't get away! Wait!
+@52.46
+Huff, huff, huff...\nI managed to escape, it seems.
+@53.0
+My lord!\nOur army is losing!
+@53.1
+Ugh, regrettably,\nwe have no choice but to fall back for now.
+@53.2
+It seems the odds are against us.
+@53.3
+Look, Lord \#496.\nIf only we had held the castle\nas \&00 said...
+@53.4
+My lord!\nVictory is ours!
+@53.5
+So we drove off the \#958 army.
+@53.6
+It seems we have the upper hand.
+@53.7
+Today the \#958 army was surely\njust testing us. Next time it may\nnot go so well...
+@53.8
+The battle swings\nback and forth.
+@53.9
+We shouldn't push it.\nWe should fall back.
+@53.10
+Hmm...\nAn even fight.
+@53.15
+What was that sound...?
+@53.21
+Don't die! You mustn't die!\nAh... Mother! Mother!\nAre you safe!?
+@54.0
+Lord \#7FE!\nOur army is routed!
+@54.1
+Ugh!\nCurse you, \#558!
+@54.2
+Our allied generals are\nfleeing one after another!
+@54.3
+My lord! We should withdraw\nand regroup!
+@54.4
+Fool!\nIf we fall back now, the castle will fall!
+@54.5
+With \#558 right before me,\nhow could I face the late Lord Taikō!
+@54.7
+Our target is one thing!\n\#558's head!
+@54.8
+Yes, my lord!\nI'm with you!
+@54.9
+Follow me!
+@54.10
+Ready to die in battle,\nthe \#BFE army fought\nwith tremendous fury.
+@54.11
+Twice \#3FE charged into\nthe headquarters of \#158.
+@54.12
+At that moment, it is said, \#558\nthought all was lost and\nconsidered seppuku.
+@54.13
+But in the end, \#3FE\ncould not take \#558's life.
+@54.14
+\#3FE, who had ridden freely\nall through the \#958\nheadquarters...
+@54.15
+...at last ran out of strength...
+@54.17
+There's \#558!\nAfter him!\nDon't let him escape!
+@54.20
+\#558...\nyou won't escape...
+@54.21
+Huff, huff, huff...\nUgh...\nHe's catching up...
+@54.22
+Ooryah!
+@54.23
+Ngh!
+@54.25
+Bl-blast...
+@54.26
+I have captured \#558!
+@54.27
+Oh!\nOur lord has finally taken \#158!
+@54.28
+Look!\nThe daimyō on the \#958 side\nhave started attacking the \#958 army!
+@54.29
+They've turned traitor!\nThe \#958's rule of the realm\nis over!
+@54.30
+Having lost \#558,\nthe \#958 army\ncollapsed.
+@54.31
+Thanks to the valour of \#3FE and his men,\nthe battle ended in a great\nvictory for the \#896 side.
+@54.37
+With \#558 right before me,\nhow could I face the late Taikō!
+@55.0
+Sales of Sanada cord\nbrought a profit of \1006 kan.
+@55.1
+From now on, the profit\nfrom Sanada cord sales will go\ninto the hero's home savings each month.
+@56.0
+Sales of Sanada cord\nhave fallen sharply.
+@56.1
+The sales no longer\nbring any profit.\nThere will be no more income from Sanada cord.
+@58.0
+At this time, \#195\nchanged his name\nto Sanada Yukimura.
+@58.1
+Now that I've taken a name\nafter my father, I must become\na man worthy of it.
+@59.4
+Ah, \#7F0.\nWhat is it?
+@59.5
+In the last war against \#958,\nby strength of arms the Western Army\nshould have won.
+@59.8
+Hm... my father's virtue...\nAnd how would we do that?
+@59.9
+Yes, my lord!\nI believe the best way is to build\ntemples and shrines to honour the Taikō...
+@59.14
+What is it, \#7F1?
+@59.15
+In times of peace, building\ntemples and shrines is all very well.
+@59.16
+But now is the time to lie low\nand build our strength.\nWe must not waste money for nothing!
+@59.17
+Lord \#496, the late Lord Taikō\nhad the Great Buddha brought\nfrom Kamakura for his heirs' prosperity.
+@59.28
+In \@001/\@002, the Toyotomi clan\ndecided to repair and build temples\nand shrines in its domain.
+@60.0
+Lord \#496,\nthe \#958 soldiers are\nfilling in the inner moat!
+@60.1
+What!!\nThe agreement was only\nfor the outer moat...!!
+@60.3
+Hmm... I suppose I must\nprotest to \#558 directly.
+@60.5
+Indeed... but while we send an envoy,\nthe moats will be filled in fast!\nThe castle will soon be bare!
+@60.9
+Please wait,\nLord \#496.
+@60.10
+Hm!?
+@60.11
+Filling in even the inner moat\nis surely \#558's scheme.
+@60.12
+But if we dig it out again,\nwe give \#558 a reason\nto start the war anew.
+@60.13
+And that is\n\#558's true scheme.
+@60.14
+Whether we push or pull,\n\#558 loses nothing.
+@60.15
+Then what should we do?
+@60.16
+The men filling in the moats\nare misfits, even among\nthe \#958's own troops.
+@60.17
+A little money in their hands,\nand getting them to stop work\nwill be easy.
+@60.18
+Meanwhile we send envoys\nto \#558.
+@60.19
+Naturally \#558 will make\nsome excuse or other\nto avoid seeing them.
+@60.20
+So the envoys we send\nmust be men of\nexceptional quality.
+@60.21
+Someone shrewd enough to see through lies...\nSomeone strong-willed and unbending...
+@60.22
+And, in case he pleads illness,\nsomeone with knowledge\nof medicine.
+@60.23
+We must send several men\nwho have these\nqualities.
+@60.24
+\&00's retainers\nhave all of them.
+@60.25
+If you permit it, Lord \#496,\nthe negotiations will\nsurely succeed.
+@60.26
+That is too slow, I tell you!\nOnce the castle is stripped bare,\nit will be too late.
+@60.27
+Just so... wasn't it the \#958 side\nthat broke the agreement first!?\nThe fault cannot be ours.
+@60.28
+Lord \#496! Every moment counts.\nYour decision!
+@60.30
+Very well, \#7F0.\nDo as you see fit.
+@60.31
+Yes, my lord! Leave it to me!
+@60.32
+\#496!! Well decided.\nThe \#958 side is in the wrong!
+@60.33
+Mother...
+@61.0
+Lord \#496,\na letter has come\nfrom \#958.
+@61.5
+Sophistry!\nIt is the \#958 side\nthat broke it!
+@61.11
+What do they take the \#896 clan,\nmasters of the realm, for!
+@61.14
+That depends on\nyour wishes, Lord \#496.

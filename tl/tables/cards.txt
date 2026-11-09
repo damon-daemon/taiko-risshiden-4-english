@@ -98,7 +98,7 @@
 96	Kurashiki Seal
 97	Mihara Seal
 98	Miyajima Seal
-99	Akamaseki Seal
+99	Akamagaseki
 100	Marugame Seal
 101	Imabari Seal
 102	Naruto Seal

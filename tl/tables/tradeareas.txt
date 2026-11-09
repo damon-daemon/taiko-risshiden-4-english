@@ -1,12 +1,12 @@
 # tradeareas: index<TAB>English (tools/elftables.py)
-0	N. Oshu
-1	S. Oshu
+0	N. Ōshū
+1	S. Ōshū
 2	Hokuriku
 3	N. Kantō
 4	S. Kantō
 5	Kōshin
-6	E. Chubu
-7	W. Chubu
+6	E. Chūbu
+7	W. Chūbu
 8	N. Kinki
 9	S. Kinki
 10	San'in

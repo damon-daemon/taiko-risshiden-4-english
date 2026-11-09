@@ -18,9 +18,10 @@ if HEADLESS:
     DATA = os.path.join(ROOT, 'build', 'pcsx2h', 'PCSX2')
 
 # PS2 button -> keyboard key (Japanese convention: Circle confirms, Cross cancels)
+# (PCSX2's Qt key names: 'Backspace'; xkeys.py takes the X keysym 'BackSpace')
 PAD = {'Up': 'Up', 'Down': 'Down', 'Left': 'Left', 'Right': 'Right',
        'Circle': 'X', 'Cross': 'Z', 'Triangle': 'S', 'Square': 'A',
-       'Start': 'Return', 'Select': 'BackSpace', 'L1': 'Q', 'R1': 'W', 'L2': '1', 'R2': '2'}
+       'Start': 'Return', 'Select': 'Backspace', 'L1': 'Q', 'R1': 'W', 'L2': '1', 'R2': '2'}
 SET = {'UI': {'ConfirmShutdown': 'false', 'PauseOnFocusLoss': 'false', 'StartFullscreen': 'false'},
        'EmuCore': {'EnablePINE': 'true'},
        'EmuCore/GS': {'upscale_multiplier': '1', 'ScreenshotSize': '2', 'ScreenshotFormat': '0'},

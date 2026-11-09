@@ -103,11 +103,11 @@ Calling off the move?
 @12.3
 Call off moving the base?
 @13
-.........{01}C*{00}, what? Did I hear you wrong?
+...{01}C*{00}, what? Did I hear you wrong?
 @13.1
-.........{01}C*{00}, what? Did I hear you wrong?
+...{01}C*{00}, what? Did I hear you wrong?
 @13.2
-.........{01}C*{00}, what? Surely I misheard you?
+...{01}C*{00}, what? Surely I misheard you?
 @14
 You didn't mishear. I am declaring independence in this land.
 @15
@@ -167,7 +167,7 @@ You are that determined... Very well. Then I will share my fate with you, {01}C*
 @25.1
 You are that determined... Very well. Then I will share my fate with you, {01}C*{00}!
 @25.2
-.........Yes, sir!
+...Yes, sir!
 @26
 From this moment on, I proclaim myself a daimyō before the realm! This is a new beginning.
 @27
@@ -543,21 +543,21 @@ There's no one else who can be made strategist.
 @96.3
 There is no one else who can be appointed strategist.
 @97
-I am your strategist at present. Will you change to someone else?
+I am your strategist at present. Would you replace me with someone else?
 @97.1
-I'm the strategist now. You'll change to someone else?
+I'm the strategist now. You want someone else?
 @97.2
-I'm the strategist now. You'll change to someone else?
+I'm the strategist now. You want someone else?
 @97.3
-I am your strategist at present. Will you change to someone else?
+I am your strategist at present. Would you replace me with someone else?
 @98
-{01}C+{00} is the strategist at present. Will you change to someone else?
+{01}C+{00} is the strategist at present. Will you appoint someone else?
 @98.1
-{01}C+{00} is the strategist now. You'll change to someone else?
+{01}C+{00} is the strategist now. You want someone else?
 @98.2
-{01}C+{00} is the strategist now. You'll change to someone else?
+{01}C+{00} is the strategist now. You want someone else?
 @98.3
-{01}C+{00} is the strategist at present. Will you change to someone else?
+{01}C+{00} is the strategist at present. Will you appoint someone else?
 @99
 Whom will you appoint as strategist?
 @99.1
@@ -585,9 +585,9 @@ No strategist, then. Understood.
 @101.3
 You won't appoint a strategist. Understood.
 @103
-You seem to have arrived. Thank you for coming.\n\nFirst, before the council, I have news: our lord has ordered that I be made province lord.
+Ah, you've arrived. Thank you for coming.\n\nFirst, before the council, I have news: our lord has ordered that I be made province lord.
 @103.1
-You seem to have arrived. Thank you for coming.\n\nFirst, before the council, I have news: our lord has ordered that I be made province lord.
+Ah, you've arrived. Thank you for coming.\n\nFirst, before the council, I have news: our lord has ordered that I be made province lord.
 @103.2
 Ah, you've come. Thank you for coming.\n\nBefore the council, some good news: our lord has ordered that I be made province lord.
 @103.3
@@ -663,7 +663,7 @@ Hmm, impressive, {01}C*{00}...
 @114.1
 Hmm, I didn't want to lose to {01}C*{00} of all people... I must work harder.
 @115
-Hmph, that's all {01}C*{00} can do. What could you ever achieve? You could stand to learn a thing or two from me.
+Hmph, so that's the best {01}C*{00} can do. What could you ever achieve? You'd do well to learn from me.
 @115.1
 Hmph, so that's all {01}C*{00} can do... No, if I'm pleased to beat the likes of {01}C*{00}, I still have far to go.
 @116
@@ -807,19 +807,19 @@ Now, about what comes next. As you know, our house's final goal is %s.
 @144.1
 Now, about what comes next. As you know, our house's final goal is %s.
 @145
-To expand our domain, this month I want to carry out %s.
+To expand our domain, this month our focus will be %s.
 @146
-First we must strengthen our defences. This month I want to carry out %s.
+First we must strengthen our defences. This month our focus will be %s.
 @147
-To take {02}{0B}d, this month I want to carry out %s.
+To take {02}{0B}d, this month our focus will be %s.
 @148
-To defeat the {02}{06}e, this month I want to carry out %s.
+To defeat the {02}{06}e, this month our focus will be %s.
 @149
-To take {02}{10}d, this month I want to carry out %s.
+To take {02}{10}d, this month our focus will be %s.
 @150
-To take %s, this month I want to carry out %s.
+To take %s, this month our focus will be %s.
 @151
-To unify the realm, this month I want to carry out %s.
+To unify the realm, this month our focus will be %s.
 @152
 Do you have any views on this policy?
 @152.1
@@ -859,7 +859,7 @@ As I see it, our house should make "%s" its final goal from now on. What do you 
 @160
 {01}C*{00}, with respect, I too think {01}C+{00}'s view is the right one.
 @161
-Hm... "%s", is it...
+Hm... %s, is it...
 @162
 ...I see, I understand. {01}C*{00}'s view makes sense. From now on, our house will pursue "%s".
 @162.1
@@ -873,7 +873,7 @@ Oh, you'll take my advice? Thank you.
 @163.2
 Oh, {01}C*{00}! I'm deeply honoured that you'd take my advice!
 @164
-............
+...
 @165
 As expected of {01}C+{00}! Now our house will prosper even more.
 @166
@@ -905,27 +905,27 @@ Yes, sir!
 @172
 {01}C*{00}...
 @173
-(Now, if I propose "%s", what should I name as the target?)
+(Now, if I propose a focus on %s, what should I name as the target?)
 @175
-{01}C*{00}, as I see it, this time we should carry out "%s".
+{01}C*{00}, as I see it, this time our focus should be %s.
 @175.1
-{01}C*{00}, as I see it, this time we should carry out "%s".
+{01}C*{00}, as I see it, this time our focus should be %s.
 @175.2
-{01}C*{00}, as I see it, this time it would be best to carry out "%s".
+{01}C*{00}, as I see it, this time it would be best to focus on %s.
 @176
-{01}C*{00}, as I see it, "%s" is fine, but the target should be {02}{0B}d.
+{01}C*{00}, as I see it, a focus on %s is fine, but the target should be {02}{0B}d.
 @176.1
-{01}C*{00}, as I see it, "%s" is fine, but the target should be {02}{0B}d.
+{01}C*{00}, as I see it, a focus on %s is fine, but the target should be {02}{0B}d.
 @176.2
-{01}C*{00}, as I see it, I have no objection to "%s", but {02}{0B}d would be a better target.
+{01}C*{00}, as I see it, I have no objection to a focus on %s, but {02}{0B}d would be a better target.
 @180
 Hm... {02}{0B}d instead, eh...
 @181
-...I see, I understand. {01}C*{00}'s view makes sense. This time we will carry out "%s".
+...I see, I understand. {01}C*{00}'s view makes sense. This time our focus will be %s.
 @181.1
-...I see, I understand. {01}C*{00}'s view makes sense. This time we will carry out "%s".
+...I see, I understand. {01}C*{00}'s view makes sense. This time our focus will be %s.
 @181.2
-...Right, understood. {01}C*{00}'s view makes sense. This time we'll carry out "%s".
+...Right, understood. {01}C*{00}'s view makes sense. This time our focus will be %s.
 @182
 ...I see, I understand. {01}C*{00}'s view makes sense. The target will be {02}{0B}d.
 @182.1
@@ -941,17 +941,17 @@ As expected of {01}C+{00}. A splendid idea.
 @186.2
 ...{01}C*{00}'s view certainly has points worth hearing, but I'll pass on it this time.
 @190
-Nothing, then? Then, as I planned, this month we will carry out %s.
+Nothing, then? Then, as I planned, this month our focus will be %s.
 @190.1
-Nothing, then? Then, as I planned, this month we will carry out %s.
+Nothing, then? Then, as I planned, this month our focus will be %s.
 @190.2
-Nothing, eh? Then, as I planned, this month we'll carry out %s.
+Nothing, eh? Then, as I planned, this month our focus will be %s.
 @190.3
-Nothing, eh? Then, as I planned, this month we'll carry out %s.
+Nothing, eh? Then, as I planned, this month our focus will be %s.
 @190.4
-Nothing, it seems. Then, as I planned, this month we'll carry out %s.
+Nothing, it seems. Then, as I planned, this month our focus will be %s.
 @190.5
-Nothing, it seems. Then, as I planned, this month we'll carry out %s.
+Nothing, it seems. Then, as I planned, this month our focus will be %s.
 @191
 Then let's move on to forming units.
 @192
@@ -977,23 +977,23 @@ Right.
 @196.2
 Yes, sir!
 @197
-I ask you to carry out %s at {02}{0B}d.
+I ask you to take on the %s mission at {02}{0B}d.
 @197.1
-I ask you to carry out %s at {02}{0B}d.
+I ask you to take on the %s mission at {02}{0B}d.
 @197.2
-I order you to carry out %s at {02}{0B}d. I'm expecting much of you.
+I order you to take on the %s mission at {02}{0B}d. I'm expecting much of you.
 @198
-I ask you to carry out %s on the rōnin {02}{03}g.
+I ask you to take on the %s mission for the rōnin {02}{03}g.
 @198.1
-I ask you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}.
+I ask you to take on the %s mission for {02}{03}g, a retainer of {02}{03}{A1}.
 @198.2
-I ask you to carry out %s on the rōnin {02}{03}g.
+I ask you to take on the %s mission for the rōnin {02}{03}g.
 @198.3
-I ask you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}.
+I ask you to take on the %s mission for {02}{03}g, a retainer of {02}{03}{A1}.
 @198.4
-I order you to carry out %s on the rōnin {02}{03}g. I'm expecting much of you.
+I order you to take on the %s mission for the rōnin {02}{03}g. I'm expecting much of you.
 @198.5
-I order you to carry out %s on {02}{03}g, a retainer of {02}{03}{A1}. I'm expecting much of you.
+I order you to take on the %s mission for {02}{03}g, a retainer of {02}{03}{A1}. I'm expecting much of you.
 @199
 I ask you to serve as envoy to the Imperial Court.
 @199.1
@@ -1341,11 +1341,11 @@ So this month I'm thinking of carrying out %s.
 @220.2
 So this month I'm thinking of carrying out %s.
 @221
-So this month I'm thinking we finally attack {02}{0B}d.
+So this month I'm thinking it's time we attacked {02}{0B}d.
 @221.1
-So this month I'm thinking we finally attack {02}{0B}d.
+So this month I'm thinking it's time we attacked {02}{0B}d.
 @221.2
-So this month I'm thinking we finally attack {02}{0B}d.
+So this month I'm thinking it's time we attacked {02}{0B}d.
 @223
 Oh, then what do you think we should do?
 @223.1
@@ -1377,9 +1377,9 @@ Hmm... Your view has a point, but this month's policy will be %s.
 @227.2
 Hmm... Your view has points worth hearing, but this month we'll go with %s.
 @102
-You seem to have arrived. Thank you for coming. Let us begin the council.
+Ah, you've arrived. Thank you for coming. Let us begin the council.
 @102.1
-You seem to have arrived. Thank you for coming. Let us begin the council.
+Ah, you've arrived. Thank you for coming. Let us begin the council.
 @102.2
 Ah, you've come. Thank you for coming. Let's begin the council.
 @102.3

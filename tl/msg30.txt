@@ -3,13 +3,13 @@
 @1
 ◆Tips\nSpecialities can often be bought cheaply, so buy at the guild of a town where the goods are a speciality. Choose [Market Prices] at a guild to learn that town's specialities and trade goods prices. Prices of surveyed towns can be checked under trade goods prices.\nSurvey the prices of towns around the land in advance and the job goes smoothly.
 @2
-●Outline\nTreasures are bought from peddlers; merchant houses and Nanban trading houses do not sell them. Peddlers travel the travel screen and offer their wares when you come near. But they ignore you unless you carry at least 400 kan.\nOnce you have bought it, return to the guild that hired you and hand over the treasure.
+●Outline\nTreasures are bought from peddlers; merchant houses and Nanban trading houses do not sell them. Peddlers roam the travel screen and offer their wares when you come near. But they ignore you unless you carry at least 400 kan.\nOnce you have bought it, return to the guild that hired you and hand over the treasure.
 @3
 ●Outline\nDeliver trade goods to the guild of the town named. Once delivered, return to the guild that hired you and report.\n◆Tips\nOnce you take a delivery job, you cannot buy or sell trade goods at the hiring guild until it is done. Before taking the job, buy goods likely to sell well at the destination.
 @4
-●Outline\nDeliver a treasure to the person named. Once delivered, return to the guild that hired you and report.\n◆Tips\nEven if you do not know where the person is, set a destination on the travel screen and choose the job's base to travel to the base where the person is.
+●Outline\nDeliver a treasure to the person named. Once delivered, return to the guild that hired you and report.\n◆Tips\nEven if you do not know where the person is, set a destination on the travel screen and choose the job's base: you will travel to wherever the person is.
 @5
-●Outline\nCollect money from the person named, then return to the guild that hired you and hand it over. If they cannot repay it all at once, you must call on them again and again.\n◆Tips\nEven if you do not know where the person is, set a destination on the travel screen and choose the job's base to travel to the base where the person is.
+●Outline\nCollect money from the person named, then return to the guild that hired you and hand it over. If they cannot repay it all at once, you must call on them again and again.\n◆Tips\nEven if you do not know where the person is, set a destination on the travel screen and choose the job's base: you will travel to wherever the person is.
 @6
 ●Outline\nGo to the towns of the region named and choose [Market Prices] or [Talk] at the guild. When you have surveyed every town, return to the guild that hired you and report.\n◆Tips\nSet a destination on the travel screen and choose the job's base to see where the towns of the region are.
 @7

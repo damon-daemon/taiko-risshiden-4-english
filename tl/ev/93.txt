@@ -1,0 +1,188 @@
+@0.0
+Driven from their home province of Izumo by the Mōri, the remnants of the Amago clan chose to seek the protection of the Oda clan.
+@0.1
+After Yamanaka Shikanosuke approached the Oda senior retainer \#000, Amago Katsuhisa was made Castle Lord of Kōzuki Castle.
+@0.2
+But Kōzuki Castle lay right under the nose of their sworn enemy, the Mōri. Could the Amago withstand the Mōri onslaught?
+@0.3
+And could Yamanaka Shikanosuke achieve his cherished dream of restoring the Amago clan...?
+@0.4
+I've drifted far and ended up an Oda retainer, but \%00 have not given up the dream of restoring the Amago.
+@1.0
+...Ah, \%03.\nI let myself in.
+@1.1
+Why, \%03.\nWhat brings you here so suddenly?
+@1.2
+Well...\nTruth is, I am more ashamed than I can say...
+@1.4
+My father has given in to the \9079's persuasion and decided to betray the Amago clan.
+@1.5
+What!
+@1.6
+Without my knowing, the \9079 had been working on my father.\nIf only I had known...
+@1.7
+But it is already decided.\nBound by my father's ties, I too mean to leave the Amago clan.
+@1.8
+What grievance did your father have, to resolve to leave the Amago clan?
+@1.9
+If you ask me that...\nI can only call it my father's petty ambition.
+@1.10
+Please forgive my foolish father, and his worthless son.
+@1.11
+Is there no chance at all that your father will think again?
+@1.12
+I'm sorry.\nFather decided it on his own, and everything is already arranged.
+@1.13
+You and I have been friends since long ago.\nI could not bear to leave without a word; I wanted to tell you face to face.
+@1.14
+...I understand.\nI'm more grateful than I can say that you came to tell me.
+@1.15
+But if it's decided, then from tomorrow we are enemies...
+@1.16
+...Ha ha, that's right.\nIf we meet on the battlefield, I'll show no mercy, \%03 or not.
+@1.17
+Ha ha... Do you think you can beat me?
+@1.18
+That's \%03 for you, so sure of yourself.\nThen shall we try it here and now?
+@1.19
+Gladly
+@1.20
+No need to fight here
+@1.21
+Don't hold back.\nNow, have at you!
+@1.22
+\%03! Are you all right!?
+@1.23
+Heh... as expected of \%03...\nSp-splendid...
+@1.24
+\%03, why did you walk into that last blow?\nDon't tell me you meant to lose from the start...
+@1.25
+Don't be a fool...\nI am now... a \9079 general.\nOf course I'd strike down... an enemy...
+@1.26
+...\%03, take care of \%04182...\nand of the Amago clan...
+@1.28
+At the very end... I got to fight you, \%03...\nI'm... glad...
+@1.29
+\%03!!
+@1.31
+...I'm fine.\nThanks to you holding back.
+@1.32
+...! So you knew...
+@1.33
+Of course.\nWe've fought side by side all this time.\nI know well what you can do.
+@1.35
+\%03, then let's have a drink and talk.
+@1.36
+Yes, let's.
+@1.37
+And so the two shared a farewell cup.
+@1.38
+...Well, I should be going.
+@1.40
+I can't bring myself to face Lord Katsuhisa or \%04183.\nPlease give them my regards, \%03.
+@1.41
+Then I'll tell them at the council.\nIt's best to let a little time pass first.
+@1.42
+...Thank you.\nFarewell, \%03.
+@1.44
+You're right, there's no need to fight here...
+@1.50
+I can't bring myself to face Lord Katsuhisa or \%04183.\nPlease pass on my regards, \%03.
+@1.51
+Then I'll tell them at the council.\nIt's best to let that much time pass.
+@1.55
+And so the Amago clan lost yet another important retainer.\nWhat would become of the Amago...
+@3.0
+Everyone seems to be here.\nLet us begin the council... Hm?
+@3.1
+Well, well, everyone's here!\nPerfect timing!
+@3.2
+Ah, \%03.\nWhat brings you here?
+@3.3
+I've brought good news for you all.\nI'm sure everyone will be delighted.
+@3.4
+\%04094 has said that once the Mōri are defeated, \%04182 will be made daimyō of Izumo!
+@3.6
+\%03, is that true?
+@3.7
+I wouldn't joke about a thing like this.\nFrom now on we'll need you all to give your best against the Mōri.
+@3.8
+Of course.
+@3.9
+So, for now, you shall become a daimyō here at Kōzuki Castle, as a vassal of our Oda clan.
+@3.10
+Then, once Izumo falls, you'll move there in exchange.\nWell? Isn't that a fine offer?
+@3.11
+An offer we could only dream of.
+@3.12
+Right, I'll tell \%04094 the rest myself.\nNow, I must take my leave.
+@3.13
+Ah! \%03!
+@3.14
+He came and went in a flash...\nA busy man.
+@3.15
+In any case, \%03, congratulations.
+@3.16
+Yes, the backing of the Oda clan is reassuring above all.
+@3.17
+Just so, my lord.
+@3.19
+...?\nHisaie, what's wrong?\nYou look downcast.
+@3.20
+...No, it's nothing.
+@3.21
+Then let us begin the council afresh.
+@4.0
+...I don't see Hisaie.\nWhat has happened?
+@4.1
+Hm? I've no idea.
+@4.2
+...I must report, my lord.\nHisaie has gone over to the \9079.
+@4.4
+\%03, is that true!?
+@4.5
+Yes.\nThe other day Hisaie came to my house and confessed that he would betray us.
+@4.6
+How could this be... Why!?
+@4.7
+It seems Hisaie's father was lured by the \9079 and decided to turn traitor.\nHisaie said he would follow him...
+@4.8
+...An honest man.\nTo take the trouble to tell you that.
+@4.9
+\%03, I don't ask for mercy toward a traitor, but Hisaie had his reasons.
+@4.10
+I only ask that you understand it was never Hisaie's true wish...
+@4.11
+...You're saying it couldn't be helped?
+@4.12
+Hisaie and I have been friends for many years.\nEven so, I could not stop his betrayal.
+@4.13
+But for Hisaie, too, it must have been a bitter decision.
+@4.14
+And I am also at fault for failing, as his friend, to stop him.
+@4.15
+I beg you, for Shikanosuke's sake...
+@4.16
+...Very well.\nSay no more.
+@4.18
+Grave news, my lord!
+@4.19
+What now?
+@4.20
+The Ukita and the Mōri have formed an alliance!
+@4.21
+Impossible!
+@4.22
+And \#1F4 of the \9079 is preparing to march!\nHe is expected here in about \101D days!
+@4.23
+Hmm, what is this...\nThey move as if by design.
+@4.24
+It seems the \9079 mean to crush our Amago clan whatever it takes...
+@4.25
+\%03, it has come to this.\nWe can only steel ourselves.
+@4.26
+...Yes, you're right.\nAll of you, forget your missions.\nRest well and prepare for battle!
+@4.28
+This dire strait, too, may be a trial sent by Heaven...\nThen I can only overcome it!
+@4.29
+He said they'd arrive in about \101D days.\nI'll rest well, then.

@@ -59,13 +59,13 @@ The "Four Heavenly Kings of Ryūzōji" set is complete!\nYou obtain the "{02}{03
 @21
 The "Three Ōtomo Brothers" set is complete!\nYou obtain the "{02}{03}g" card.
 @22
-The "Three Generals: Sea, Red, Rain" set is complete!\nYou obtain the "{02}{03}g" card.
+The "Three Azai Generals" (Kaihō, Akao, Amenomori) set is complete!\nYou obtain the "{02}{03}g" card.
 @23
 The "Three Okazaki Commissioners" set is complete!\nYou obtain the "{02}{03}g" card.
 @24
 All ten number cards from "One" to "Ten" are complete!\nYou obtain the "{02}{03}g" card.
 @25
-Flower, Bird, Wind and Moon are complete! A true man of taste of the warring age:\nyou obtain the "{02}{03}g" card.
+Flower, Bird, Wind and Moon are complete!\nTruly the most refined soul of the warring age!\nYou obtain the "{02}{03}g" card.
 @26.*
 I
 @27.*
@@ -287,4 +287,3 @@ Lord {02}{03}g
 @45.12
 {02}{03}g
 @46-73.*
-

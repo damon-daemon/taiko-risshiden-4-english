@@ -89,7 +89,7 @@
 87	Sakamoto
 88	Hino
 89	Shigisan
-90	Yamato-Koriyama
+90	Yamato-Kōriyama
 91	Iga-Ueno
 92	Nijō
 93	Tanba-Kameyama
@@ -122,8 +122,8 @@
 120	Bitchū-Takamatsu
 121	Mihara
 122	Kabutoyama
-123	Yoshida-Koriyama
-124	Sato-Kanayama
+123	Yoshida-Kōriyama
+124	Satō-Kanayama
 125	Sakurao
 126	Yamaguchi
 127	Katsuyama
@@ -158,7 +158,7 @@
 156	Ōsumi-Koyama
 157	Kajiki
 158	Utsu
-159	Okuchi
+159	Ōkuchi
 160	Gifu
 161	Nagahama
 162	Azuchi
@@ -176,7 +176,7 @@
 174	Uto
 175	Nakatsu
 176	Takamatsu
-177	Highland
+177	Takayama
 178	Minakuchi
 179	Hirosaki
 180	Sendai

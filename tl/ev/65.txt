@@ -1,0 +1,514 @@
+@0.0
+My lord! The old lord at \50FA has sent for you.
+@0.1
+What, the old lord sent for me? Now, what could he want?
+@0.2
+It seems Lord \#158, our ally, is coming to visit \50FA...
+@0.3
+And the old lord says he wants you to be his host.
+@0.4
+I see... Well, hosting Lord \#958 is a heavy responsibility...
+@0.5
+It shows how much the old lord trusts you.
+@0.6
+I hope that is so...
+@0.7
+Is something troubling you?
+@0.8
+No, nothing... I shall show Lord \#958 a welcome such as I, \#0F5, give but once in a lifetime.
+@0.9
+\#3FE had rare delicacies gathered from every province, and ordered the best cook in Kyōto to be found...
+@0.10
+Well then, I am off to \50FA.
+@0.11
+Yes! We will await your return...
+@1.0
+My lord... About your mother... I am truly...
+@1.1
+...Say no more! Leave me!
+@1.2
+M-my lord! Please wait.
+@1.3
+The truth is... when your mother left as a hostage, she gave me... this...
+@1.4
+This is... the book my mother loved to read... Why do you have it...?
+@1.5
+She told me that if anything happened to her, I was to give it to you as a keepsake...
+@1.8
+I see... M-Mother... *sob*...
+@1.9
+My lord... Please take it.
+@1.10
+Y-yes... You have my thanks.
+@2.0
+Ah, Lord \#BFE. Thank you for your trouble as my host.
+@2.1
+Lord \#958, welcome. Please enjoy your stay in \50F9 at your leisure.
+@2.2
+Then I shall not hold back.
+@2.3
+How was it? That is a brief look around...
+@2.4
+Beyond all my expectations. Just what I would expect of Lord Oda's castle: there is nothing to match its grandeur...
+@2.5
+You are too kind.
+@2.6
+And you are such a fine guide, Lord \#BFE... Now I know \50F9 inside out.
+@2.7
+I am honoured by your praise.
+@2.8
+Oho, Lord \#958! You are here already! You should have come to greet me at once!
+@2.9
+I was just about to come, my lord.
+@2.10
+Lord \#BFE here has been showing me around \50F9.
+@2.11
+Hm, \#7FE. I trust there has been no discourtesy toward Lord \#958!
+@2.12
+Yes! Of course not. I have seen to everything...
+@2.13
+Good. Now, Lord \#958, let us go up to the keep at once!
+@2.15
+Ah... The view from the keep is something else. I am truly impressed.
+@2.16
+Hahaha, I am glad you like it, Lord \#958! ...\#7FE!
+@2.18
+Is the food and drink not ready yet!? With Lord \#958 so taken with this view, how could we not drink...
+@2.19
+Yes, my lord. It is ready.
+@2.20
+Lord \#BFE, so attentive... I thank you.
+@2.21
+Come, Lord \#958, first a cup...
+@2.22
+Ah... You are too kind.
+@2.23
+No ceremony here! Drink up, drink up! And the fish here is delicious, too.
+@2.24
+Let me try some... Indeed, it is very good.
+@2.25
+Is it not? Let me have some too... ...Hm?
+@2.26
+Lord \#894, is something wrong?
+@2.28
+Yes, my lord! I am here.
+@2.29
+What is this fish!?
+@2.30
+My lord... It was caught only this morning, fresh, and...
+@2.31
+Do not lie to me! This fish is rotten!
+@2.32
+Surely that cannot be... I checked it myself before it was served to you...
+@2.33
+How dare you talk back to your lord!
+@2.34
+...F-forgive me.
+@2.35
+To serve such fish to Lord \#958, our precious ally... This is your failure!
+@2.37
+Enough... Leave!
+@2.39
+Did you not hear me!? I said leave!
+@2.41
+Why... I prepared perfectly fresh fish... Is there something wrong with the old lord's nose?
+@2.42
+Lord \#3FE, the old lord has orders for you.
+@2.43
+For me?
+@2.44
+Yes. You, Lord \#BFE, are relieved of your duty as Lord \#958's host.
+@2.45
+Wha...!
+@2.46
+Such a thing... It cannot be!
+@2.47
+Hm, \#7FE. For now, Lord \#958 is resting at his lodgings.
+@2.48
+My lord, about my duty as host...
+@2.49
+Ah, that. The truth is, I want you to go and reinforce \#000.
+@2.50
+?? Reinforce Lord \#800...?
+@2.51
+Yes, it seems the Monkey is having a hard time of it. He has sent me a letter.
+@2.52
+I will follow later with Nobutada. I will stay a while at Honnō-ji in Kyōto, then set out!
+@2.54
+What sort of answer is that? This is more worthwhile work than playing host...
+@2.55
+If you help the Monkey and win merit, I will give you the two provinces of Izumo and Iwami.
+@2.57
+But those two provinces do not belong to our house...
+@2.58
+Exactly, do you not see? They are yours for the taking. Win your own lands yourself!
+@2.59
+However, your present lands are forfeit!
+@2.60
+What are you saying!?
+@2.61
+I am giving you Izumo and Iwami in place of your present lands.
+@2.62
+But...
+@2.63
+What, are you displeased?
+@2.64
+N-no...
+@2.65
+(My lands, which I worked so hard to build up...)
+@2.66
+If you understand, then go and reinforce the Monkey at once!
+@2.68
+Cruel... Far too cruel...
+@2.69
+Does the old lord find me a nuisance...?
+@2.70
+That I, of the noble Toki Genji line, should serve the upstart Oda Nobunaga and obey such unreasonable orders...
+@3.0
+Ah, my lord! You are back early... Did you carry out your duty as Lord \#958's host?
+@3.1
+No, I was dismissed...
+@3.3
+Far from it. We must prepare for war...
+@3.4
+What do you mean!?
+@3.5
+The truth is...
+@3.6
+...That is far too cruel!
+@3.7
+It is the old lord's order...
+@3.8
+And you will meekly obey it, my lord!?
+@3.10
+Of late there is no feeling at all in the way the old lord treats people!
+@3.11
+Refuse such an unreasonable order!
+@3.13
+...My lord?
+@3.14
+(It is true that lately the old lord...)
+@3.15
+(...Should I rise against him myself? If only that man were gone, I would not have to suffer such humiliation...)
+@3.17
+(But if I rebel... can I really win...?)
+@3.18
+My lord! What will you do? A letter to the old lord refusing...
+@3.19
+...I have decided!
+@3.21
+Refuse the order
+@3.22
+I will strike down \#094!
+@3.23
+...What? My lord... what did you just say!?
+@3.24
+I said I will strike down \#094!
+@3.25
+My lord! You must not! Anything but that...!
+@3.26
+No, my mind is made up!
+@3.30
+\#494 has grown arrogant. He will have only a handful of men with him...
+@3.37
+Good! Then we march!
+@3.39
+...I will refuse this order after all.
+@3.40
+I think that is wise...
+@3.43
+\#3FE's lands were taken from him, and he was demoted to Chief Retainer...
+@3.44
+It cannot be helped...
+@3.47
+Merit fell to 3000. \#3FE's seat moved to \40F8.
+@5.0
+\#3FE, my lord! \#18A has rejected our demands and is preparing to fight!
+@5.1
+What! That fool \#98A... If he wants war so badly, we must take the field ourselves.
+@5.2
+Give the order to march at once!
+@5.3
+Yes! Spread the word in the castle town: we march to punish \#98A!
+@6.0
+My lord! Lord \#98A has arrived.
+@6.1
+I see. Then show him into the castle.
+@6.3
+Lord \#8F5, I am \#18A.
+@6.4
+An honour to meet you. I am \#18A.
+@6.5
+Welcome... Then we may proceed with the peace, I take it?
+@6.6
+Yes, I ask for your good offices.
+@6.7
+Lord \#4F5, about the hostage...
+@6.8
+I know... \&03!
+@6.9
+...Yes. Everything is ready.
+@6.10
+\&03, escort Lord \#8F5's mother courteously to \40F8. I leave the castle in your hands while I am away.
+@6.11
+Yes! Then, by your leave.
+@6.12
+And so, escorted by \#18D, \#4F5's mother entered \40F8 as a hostage.
+@6.13
+Once Lord \#494 himself has confirmed our lands and the peace is made, I will return your mother with all courtesy.
+@6.14
+Understood... Now, Lord \#58A, I, \#4F5, will take you to \50FA.
+@6.15
+Yes, I am in your hands...
+@7.0
+Lord \#98A, this is \50FA. Now, let us go before Lord \#494.
+@7.2
+Hm, \#7FE. Have you finished conquering Tanba?
+@7.3
+Hm, \#7FE. Have you finished off the \#98A clan?
+@7.4
+Hm, \#7FE... What is it?
+@7.5
+Yes, my lord. I have come with good news.
+@7.6
+Oh, what is it?
+@7.7
+I have made peace with \#18A, guaranteeing the lives of the whole \#98A clan and their lands, and brought him here. Without losing a single soldier...
+@7.8
+You... fool!!
+@7.10
+Peace with \#98A, you say? Who gave you leave to do that!?
+@7.11
+B-but... \&03 told me to deal with \#98A quickly...
+@7.12
+I told you to attack \#98A quickly! Who told you to make peace!?
+@7.13
+Yes... I beg your pardon.
+@7.14
+Hmph! ...And where is \#18A?
+@7.15
+Yes, he waits in the next room...
+@7.16
+Ho there, someone!?
+@7.18
+Seize \#18A.
+@7.21
+P-please wait! What do you mean to do with \#58A!?
+@7.22
+...Kill him!
+@7.23
+\&03!! For this peace, I gave my own mother to the \#98A as a hostage!
+@7.24
+If anything happens to \#18A, my mother's life is forfeit! I beg you, spare \#58A's life!
+@7.25
+...No! \#98A is a two-faced man who does not know a samurai's duty. I cannot forgive him.
+@7.26
+Making peace on your own without knowing your place is outrageous... \#4F5... you have brought this on yourself!
+@7.28
+If you want to save your mother, take \40F8 with all your might before the \#98A learn of \#58A's execution!
+@7.30
+\#4F5!! Go, now!
+@7.31
+...Yes, my lord.
+@7.32
+Ah, what a terrible thing... At any rate, I must hurry back to \50F8!
+@7.33
+\#18A, seized by \#494, was put to death at Jion-ji in the castle town...
+@7.34
+As \#4F5 returned to his castle in despair, a black resentment began to settle in his heart...
+@8.0
+Pay for betraying our lord, \#4F5!
+@8.1
+Ngh! At a time like this...
+@8.2
+Y-you were lucky, \#4F5... But Lord \#58D will avenge us... Heh heh heh... Urgh...
+@8.3
+Wahahaha! I have slain \#0F5, our lord's enemy! How do you like that, Mitsuhide!
+@8.4
+Ugh...
+@8.5
+M-Mother... Forgive... me! Ah... to end like this...
+@9.0
+Phew, phew... At last I am back in \50F8... I must save Mother at once!
+@9.1
+Lord \#0F5... I have sad news...
+@9.2
+When \#18D learned of his brother \#58A's execution, he flew into a rage... and in revenge, your mother... was crucified...
+@9.3
+What...!? M-Mother... Tell me it is a lie!?
+@9.4
+... I am sorry... It is the truth.
+@9.5
+Aaargh...!! Forgive me... Mother!!
+@9.6
+All because I, Mitsuhide... did not think it through! Forgive me!!
+@9.7
+What is more... all Tanba feels betrayed by you, Lord \#8F5, and is rising against \#894 and \#8F5!
+@9.8
+Ngh... *sob*... Curse you, \#98D! I will make you pay!!
+@9.9
+Thus the war in Tanba, which had seemed to die down, flared up again between \#58D, sworn to avenge his brother, and \#4F5, who had lost his mother.
+@10.0
+Why, if it isn't \&03! It has been a long time. Lovely weather lately...
+@10.1
+\&03... Forgive me, but I am in a hurry.
+@10.2
+Now, now, don't say that... It has been a long time\&05...
+@10.3
+I said I have no time to talk with \&01 right now! Excuse me!!
+@10.4
+What is that about... He went pale as a ghost...
+@10.5
+Ngh, I must hurry!!
+@11.7
+\#494 is off his guard with only a handful of men! Now is our only chance to strike!
+@11.8
+Attack! The enemy is at Honnō-ji!
+@11.9
+My lord! Terrible news! Enemy troops have surrounded Honnō-ji!
+@11.10
+What! Impossible!
+@11.11
+Their banners bear the bellflower... It is \#0F5's army!
+@11.12
+\#7FE, you say! Curse him... The traitor!
+@12.7
+It was I who brought down \#094, the Demon King of the Sixth Heaven, and restored order to the world! So why!
+@13.0
+Good... \#18A! I will bury you along with this castle.
+@13.1
+My lord!! An envoy has come from the castle!
+@13.2
+What!? ...Well, bring him here.
+@13.4
+My lord, I have brought the envoy!
+@13.5
+Lord \#8F5, I am \#18D.
+@13.6
+An honour to meet you. My name is \#18D, younger brother of \#18A.
+@13.7
+...And what is your business?
+@13.8
+I have come with an earnest request for you, Lord \#8F5... The truth is, we wish to make peace with the \#894 clan.
+@13.9
+Wh-what did you say!? Was it not the \#98A clan that rejected our proposals only recently!?
+@13.10
+There were reasons for that. Tanba has close ties to the Ashikaga shōguns... and its local lords are fiercely independent.
+@13.11
+So we feared our own lords would turn against us if we meekly surrendered to the \#894 clan, who destroyed the Shōgun's house.
+@13.12
+There were reasons for that. Tanba has many followers of Hongan-ji... and its local lords are fiercely independent.
+@13.13
+So we feared our own lords would turn against us if we meekly surrendered to the \#894 clan, enemies of Hongan-ji.
+@13.14
+There were reasons for that. Tanba's local lords are fiercely independent...
+@13.15
+So we feared our own lords would turn against us if we meekly surrendered to the \#894 clan.
+@13.16
+Hmm... Then why do you now wish to make peace?
+@13.17
+Tanba is as weary of these endless wars as any other province.
+@13.18
+If we cross swords with the \#894 clan, the war will drag on and our land will surely be laid waste...
+@13.19
+And faced with your army, Lord \#8F5, the finest tactician of the \#894 clan, even the proud lords of Tanba grow tired of war.
+@13.20
+My brother \#58A seized the chance to point out the folly of fighting the \#894 clan, and at last the peace was agreed.
+@13.21
+I see... I understand your reasons. We have no wish to shed blood in vain either. And your terms?
+@13.22
+Our terms are that the lives of the whole \#98A clan are spared and its lands confirmed.
+@13.23
+Very well, I accept those terms. I, \#4F5, give you my word on my honour. But though we call it peace, it is surrender in all but name...
+@13.24
+Lord \#58A, head of the \#98A clan, must come to \50FA to pay his respects. Is that acceptable?
+@13.25
+It is. But for \#58A to go to \50FA, there is one more condition.
+@13.26
+As a guarantee of \#58A's life, we ask the \#8F5 side for a hostage... Your mother, Lord \#8F5...
+@13.27
+Wh-what did you say! My mother as a hostage!?
+@13.28
+It is the only way to win over those in the castle who want to fight on.
+@13.30
+Accept the peace
+@13.31
+Refuse to listen
+@13.32
+...I accept the matter of the hostage.
+@13.33
+Truly!? Lord \#8F5, I am grateful!
+@13.34
+Then some day soon, come to my castle, \40F5, with Lord \#58A. I, \#4F5, will take you to \50FA.
+@13.35
+Understood. Then, by your leave!
+@13.36
+\&03! Is it right to give your mother as a hostage? There is no need to rush the conquest of Tanba so...
+@13.37
+It is right, \&03. No blood will be shed in vain... and Lord \#494 will be pleased too.
+@13.38
+Now, back to \40F5!
+@13.40
+...I cannot accept such terms!!
+@13.41
+I see... A pity, but the talks have failed. Then, by your leave!
+@13.42
+It was a rare chance for peace... Forgive me, all of you.
+@13.43
+\&03, do not let it trouble you. No one could swallow such terms. Now, give the order to storm the castle!
+@13.44
+Yes! Very well, attack!
+@14.17
+Good! A great success so far! Back to the castle for now!
+@14.22
+After his defeat, the heartbroken \#3FE passed through the village of Ogurusu in Fushimi...
+@14.30
+\#0F5 met a wretched end in the village of Ogurusu on his way home... He was \1009 years old...
+@15.4
+The battle between \#3FE and \#000 ended in an overwhelming victory for \#400... It is known as the Battle of Yamazaki / Mount Tennō.
+@15.20
+But not only \#400: many former Oda commanders also bore a strong grudge against \#7FE for killing his lord...
+@15.21
+For \#7FE, the days of constant vigilance went on...
+@15.22
+It was not decided, but we somehow drove off the \#800 army.
+@16.0
+\&01, a letter has come from the old lord at \50FA.
+@16.1
+Hm? From the old lord? What can it be... Let me see...
+@16.4
+...What does the old lord say?
+@16.5
+Hm... It is a letter urging me to attack \#98A quickly...
+@16.6
+But Tanba is hard country to attack... Rushing it will gain us nothing.
+@16.7
+Indeed... If we push the army on in haste, we will only lose men for nothing.
+@16.8
+...Then why not make them surrender without using troops?
+@16.9
+\#18A is a stubborn man... Would he really surrender?
+@16.10
+If not surrender, then make them vassals of the \#894 clan, or make an alliance... As long as Tanba is pacified, that should do.
+@16.11
+But if the talks drag on, the old lord may grow even more displeased...
+@16.13
+Make them vassals
+@16.14
+Take them by force
+@16.15
+I cannot throw away men for nothing after all. Shall I send an envoy to \#98A...
+@16.16
+If they give a hostage, their lives and lands will be confirmed... Negotiate on those terms.
+@16.17
+Yes! I will see to it at once.
+@16.18
+Then this council is over.
+@16.19
+No... I will do as the old lord says and destroy \#98A.
+@16.21
+The old lord would surely not be content with merely making \#98A a vassal...
+@16.22
+We will take them by force. Are you all with me?
+@16.23
+Yes, my lord... We follow your command.

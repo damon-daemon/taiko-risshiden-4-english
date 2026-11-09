@@ -1,0 +1,25 @@
+# Name changes (3B) without English in the scenario records: Family|Given
+@7.7.17
+Tokugawa|Tadayoshi
+@0.150.6
+Hashiba|Hideyasu
+@0.231.9
+Uesugi|Masatora
+@0.200.104
+Ishikawa|Goemon
+@0.288.1
+Sasaki|Ganryū
+@0.289.2
+Hosokawa|Sansai
+@0.298.1
+Sanada|Nobuyuki
+@0.302.6
+Kokuzōin|Hyottokosai
+@0.306.2
+Shimazu|Ishin
+@0.308.2
+Takeda|Shōyōken
+@0.312.2
+Matsumae|Yoshihiro
+@0.314.3
+Uesugi|Terutora

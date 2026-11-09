@@ -19,37 +19,37 @@ To train in %s, please first obtain %s.
 @7
 To master %s further, you will need %s worth {02}$d or more.
 @8
-These are the basics of %s, so any %s will do, I believe.
+These are the basics of %s, so any %s should do.
 @8.1
 To master %s further, you will need %s worth {02}$d or more.
 @9
 Hmm. Then I shall use {02}{15}d.
 @10
-Oh, training with a sick body, I cannot recommend it. Please make your body well first.
+Ohh, training in your sick state? I cannot recommend it. Pleeease get well first.
 @10.1
 Training? In that state? Forget it. Sorry, but I can't teach you like that.
 @10.2
-Training, you say? In your condition, that is a bit... Please refrain this time.
+Training, you say? In your condition, that would be unwise... Please refrain this time.
 @11
-Training in %s, I would like %m for it... But you do not have enough money, it seems.
+Training in %s costs %m... but you do not seem to have enough money, nooo.
 @11.1
 Training in %s? Looks like you don't even have %m. Sorry, but I can't teach you like that.
 @11.2
 Training in %s costs %m... but it seems you do not have enough money.
 @12
-Training in %s takes %u days. But you have a council soon, yes? This time, let us not do it.
+Training in %s takes %u days. But you have a council soon, no? Better we wait this time.
 @12.1
 Training in %s takes %u days. You've got a council coming up, don't you? Leave it for now.
 @12.2
 Training in %s takes %u days. You should have a council coming up. Please refrain this time.
 @13
-Training in %s takes %u days. I take %m for it. That is good for you, yes?
+Training in %s takes %u days, and I take %m for it. Is that all right for you?
 @13.1
 Training in %s takes %u days, and I'd like %m for it. That all right with you?
 @13.2
 Training in %s takes %u days, and the fee is %m. Is that acceptable?
 @14
-Now, there is nothing more I can teach you. All you must do is to cultivate, only.
+Now there is nothing more I can teach you. All that is left is to work the laaand.
 @14.1
 There's nothing more I can teach you. You're a real master now.
 @14.2
@@ -57,7 +57,7 @@ It seems there is nothing more I can teach you. But please do not neglect your p
 @14.3
 It seems there's nothing more I can teach you. But don't neglect your practice.
 @15
-You worked very hard. I give this to you. Please use it very much.
+You worked very hard. This is for you. Pleeease use it a lot.
 @15.1
 Here, take this. But don't stop here, mind. Aim higher.
 @15.2
@@ -69,11 +69,11 @@ I give you this. Do not let it make you proud; aim for still greater heights.
 @16.1
 
 @17
-Wonderful. It is no lie to say you have mastered %s.
+Wonderfuuul. I can truly say you have mastered %s.
 @17.1
-You became very good. But you did not master %s yet. Please become even better.
+You have become very good. But you have not mastered %s yet. Pleeease get even better.
 @17.2
-For the basics of %s, this is good. But to master %s, the road is long. Please become better.
+The basics of %s, you have them now. But the road to mastering %s is looong. Keep getting better, please.
 @17.3
 Well done. It's no exaggeration to say you've mastered %s.
 @17.4
@@ -93,9 +93,9 @@ You have improved a great deal. But you cannot yet say you have mastered %s. Aim
 @17.11
 You have learned the basics of %s. But the road to mastering %s is still long. Keep practising.
 @18
-Still not so good. Please become better.
+Not so good yet. Pleeease keep improving.
 @18.1
-Not very good. Please become better.
+Not very good. Pleeease keep improving.
 @18.2
 That was quite good. Please come again.
 @18.3

@@ -25,9 +25,13 @@ uses only v0/v1/at/a0, so callers can keep state in t registers. Sites:
 - strlen x 12 pixel measures (STRLEN12: speaker nameplates CMesWin::PersonMes & co, person
   info name, help titles, save-file buttons, name entry, list pages...): `jal uiStrLen; ds;
   sll v1,v0,1; addu x,v1,v0; sll R,x,2` -> `jal STR_PX; ds; addu R,v0,zero; nop; nop`
-  (STR_PX = pixel width at half cell 12, kanji 24: identical for Japanese text). Not
-  patched (other arithmetic): CPersonButton 0x1CF884.. (10-px cells), DrawCheckMessage
-  0x3D54D0, CEnvironmentWin 0x3E1730/0x3E1B78;
+  (STR_PX = pixel width at half cell 12, kanji 24: identical for Japanese text). Also
+  patched the same way (other arithmetic, STRLEN12_OTHER): DrawCheckMessage 0x3D54D0,
+  CEnvironmentWin 0x3E1730/0x3E1B78;
+- CPersonButton::DrawName (castle-room nameplate, top right, font 20; the visible box is
+  x 2-138 of its area): x was (14 - strlen) x 10 + 6 -> right-aligned at 138; names wider
+  than 136 px (Hatakeyama Yoshitsugu...) get a narrower font width; the glyph array
+  (15) holds 24; DrawName and the inline copy in Create both patched (NAMEPLATE);
 - DrawHelpMessage (help window): half-width x += 12 at 0x3D59F8; the original also
   advanced the string a second time there, skipping the byte after every half-width
   character (Japanese help text has none), which is dropped.
@@ -119,12 +123,26 @@ SIZE_MUL = 0x38CDC0           # mult a1, v1, a0
 IS_KANJI, STRLEN2 = 0x385F80, 0x385C40
 BIO_ADV = 0x21EF1C            # lw v1,0x438(sp); addiu v1,v1,11; sw v1,0x438(sp)
 HELP_ADV = 0x3D59F8           # addiu s0,s0,1; lw v1,0x90(sp); addiu v1,v1,12; sw v1,0x90(sp)
+HELP_CELL = 0x3D59CC          # addiu v0,zero,24: cell width of a half-width glyph (-> 12)
 STRLEN12 = [0x1A5E4C, 0x1E17E0, 0x1EB710, 0x1EB798, 0x1EB820, 0x21C840, 0x23D32C, 0x2579E4,
             0x257DB8, 0x258474, 0x258858, 0x258EAC, 0x2591AC, 0x2594CC, 0x259714, 0x2599BC,
             0x25A0B4, 0x25A3A4, 0x25A5DC, 0x25A7E4, 0x25AD1C, 0x25AF54, 0x25B14C, 0x25B5FC,
             0x2F0684, 0x3C8874, 0x3C9008, 0x3CBDA4, 0x3CC0B0, 0x3CC6B8, 0x3CCEB8, 0x3D27C8,
             0x3D379C, 0x3D3B48, 0x3D4634]
 STRLEN = 0x385F30
+# (jal uiStrLen .. addiu v0,v0,6 (8 words, then sw v0,0x98(sp)), addiu v0,zero,0x14 (font
+# width, sw v0,0x7c(s1)), free stack slot) in DrawName and in Create's inline copy
+# other strlen x 12 measures: (jal uiStrLen, [(address, old word, new word)]) -> x = STR_PX
+STRLEN12_OTHER = [
+    (0x3D54D0, [(0x3D54DC, 0x00021840, 0), (0x3D54E0, 0x00621021, 0),      # DrawCheckMessage:
+                (0x3D54E4, 0x00021080, 0)]),                              # centred at 640
+    (0x3E1730, [(0x3E1748, 0x00021840, 0), (0x3E174C, 0x00621021, 0),      # CEnvironmentWin::
+                (0x3E1750, 0x00023880, 0x00403821)]),                     # CreateTitleButton
+    (0x3E1B78, [(0x3E1B90, 0x00021840, 0), (0x3E1B94, 0x00621021, 0),      # CEnvironmentWin::Open
+                (0x3E1B98, 0x00023880, 0x00403821)]),
+]
+NAMEPLATE = [(0x1CF884, 0x1CF920, 0x60), (0x1CFB70, 0x1CFC0C, 0xD0)]
+NAMEPLATE_GLYPHS = 0x1CFA7C   # addiu a1,zero,15: bCreateFontArray (heap) -> 24
 
 def widths():
     adv = latinfont.render('large')
@@ -221,9 +239,9 @@ def text_wrap(org, w):
         ('nop',),
         ('jr', 't9'),
         ('addu', 'v0', 't6', 'zero'),
-        'space:',
-        ('jr', 't9'),
-        ('addu', 'v0', 'zero', 'zero'),
+        'space:',                              # never breaks: the advance adds the area
+        ('jr', 't9'),                          # spacing the test leaves out, so x can sit
+        ('addiu', 'v0', 'zero', -0x4000),      # 1 px past the edge (" much" on a new line)
         'own:',
         ('jr', 't9'),
         ('addu', 'v0', 't5', 'zero'),
@@ -369,6 +387,40 @@ def str_px(org, w):
         ('addu', 'v0', 't4', 'zero'),
     ])
 
+def nameplate_x(org, px, slot):
+    """v0 = x of the right-aligned name a0 in CPersonButton::DrawName (visible box x 2-138);
+    font width -> slot(sp) of the caller (an unused slot of its frame): 20, or
+    2720 / width20 for names wider than 136 px (17 for the widest)."""
+    return assemble(org, [
+        ('addu', 't8', 'ra', 'zero'),
+        ('jal', px),
+        ('nop',),
+        ('addiu', 'at', 'zero', 10),             # w = p x 10/12 (width at font 20)
+        ('mult', 'v0', 'v0', 'at'),
+        ('addiu', 'at', 'zero', 2731),
+        ('mult', 'v0', 'v0', 'at'),
+        ('addiu', 'v0', 'v0', 0x4000),
+        ('sra', 'v0', 'v0', 15),
+        ('slti', 'at', 'v0', 137),
+        ('bnez', 'at', 'out'),
+        ('addiu', 'v1', 'zero', 20),
+        ('addiu', 'at', 'zero', 2720),           # size = 2720 / w, width = w x size / 20
+        ('div', 'at', 'v0'),
+        ('mflo', 'v1'),
+        ('mult', 'v0', 'v0', 'v1'),
+        ('addiu', 'at', 'zero', 20),
+        ('div', 'v0', 'at'),
+        ('mflo', 'v0'),
+        'out:',
+        ('sw', 'v1', slot, 'sp'),
+        ('addiu', 'at', 'zero', 138),
+        ('subu', 'v0', 'at', 'v0'),
+        ('slti', 'at', 'v0', 2),
+        ('addiu', 'v1', 'zero', 2),
+        ('jr', 't8'),
+        ('movn', 'v0', 'v1', 'at'),
+    ])
+
 def slot_adv(org, w, ptr, half, slot):
     """x at slot(sp) of the caller += WIDTH(ptr[-1], half)."""
     return assemble(org, [
@@ -417,6 +469,23 @@ def apply_vwf(elf, seg):
         _put(elf, va, assemble(va, [('jal', px), ('nop',)]))
         _put(elf, va + 4, struct.pack('<I', ds))
         _put(elf, va + 8, struct.pack('<III', 0x00400021 | r << 11, 0, 0))       # addu R,v0,zero
+    for va, words in STRLEN12_OTHER:
+        assert _word(elf, va) == 0x0C000000 | STRLEN >> 2, hex(va)
+        _put(elf, va, assemble(va, [('jal', px)]))
+        for a, old, new in words:
+            assert _word(elf, a) == old, hex(a)
+            _put(elf, a, struct.pack('<I', new))
+    for va, size, slot in NAMEPLATE:
+        assert _word(elf, va) == 0x0C000000 | STRLEN >> 2
+        assert _word(elf, va + 28) == 0x24420006 and _word(elf, va + 32) == 0xAFA20098
+        _put(elf, va, assemble(va, [('jal', _fn(seg, nameplate_x, px, slot)), ('nop',)]
+                               + [('nop',)] * 6))
+        assert _word(elf, size) == 0x24020014
+        _put(elf, size, assemble(size, [('lw', 'v0', slot, 'sp')]))
+    assert _word(elf, NAMEPLATE_GLYPHS) == 0x2405000F
+    _put(elf, NAMEPLATE_GLYPHS, assemble(NAMEPLATE_GLYPHS, [('addiu', 'a1', 'zero', 24)]))
     assert _word(elf, HELP_ADV) == 0x26100001 and _word(elf, HELP_ADV + 8) == 0x2463000C
     _put(elf, HELP_ADV, assemble(HELP_ADV, [
         ('jal', _fn(seg, slot_adv, w, 's0', 12, 0x90)), ('nop',), ('nop',), ('nop',)]))
+    assert _word(elf, HELP_CELL) == 0x24020018
+    _put(elf, HELP_CELL, assemble(HELP_CELL, [('addiu', 'v0', 'zero', 12)]))

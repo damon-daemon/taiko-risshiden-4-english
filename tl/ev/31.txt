@@ -1,0 +1,126 @@
+@0.0
+\#271 broke free of Akamatsu rule, parted ways with his brother Uragami Masamune, and stood alone as daimyō of Bizen...
+@0.1
+But endless wars with the Amago and Akamatsu had left the province of Bizen exhausted.
+@0.2
+Within the clan, the able and secretly ambitious \#02B was steadily putting pressure on his lord, \#671...
+@0.3
+What will become of our house...
+@0.4
+Since the death of his grandfather Yoshiie, a senior retainer of the Uragami, the Ukita house had been on the road to ruin...
+@0.5
+\#3FE first served \#271 as a cowherd, and by his wits won merit after merit until he rose to be a senior retainer.
+@0.6
+Yet \#7FE's ambition was far from spent...
+@0.7
+One day I too will be a daimyō and pit myself against the warlords of the land...
+@0.9
+\#02B first served \#271 as a cowherd, and by his wits won merit after merit until he rose to be a senior retainer...
+@0.10
+But our lord still aims higher...
+@0.11
+Besides, with the old lord's ability, even holding Bizen alone is doubtful...
+@0.12
+Perhaps \%0402B ought to take the old lord's place and rule Bizen...
+@1.0
+Terrible news!\nLord \#02B has risen in rebellion!
+@1.1
+Wh-what!?\nCurse it...! Damn you, \#42B!
+@1.2
+\#02B, who had nursed his ambition for so long, at last bared his fangs and rose in rebellion against his lord, \#271...
+@1.3
+\%0402B... may I have a word?
+@1.4
+Hm, what is it?
+@1.5
+My lord, do you mean to spend your whole life as a retainer of the old lord... Lord \#271?
+@1.6
+What are you saying, all of a sudden...
+@1.7
+We can no longer follow the old lord \#A71...\nWith his ability, even holding the province is doubtful!
+@1.9
+The only one we wish to serve as our lord is you, \%0402B!
+@1.10
+...You are telling me to rebel?
+@1.11
+You must wish it too, my lord...\nWe will follow you wherever you go.
+@1.12
+Hmm...\nIt's true, I have ambitions...\nBut...
+@1.13
+Rebel
+@1.14
+Ignore it
+@1.15
+Now... my lord!
+@1.16
+...Very well, I understand.\nWe rebel!
+@1.17
+Ah, a fine decision, my lord!
+@1.18
+Then we strike down our lord, \#271!\nAll of you, follow me!
+@1.21
+Don't talk nonsense.\nI have no intention of rebelling.
+@1.23
+I'll pretend I never heard this.\nLeave me!
+@1.32
+The only one we wish to serve as our lord is you, \%0402B!
+@1.38
+Ah, a fine decision, my lord!
+@2.0
+\#3FE, my lord!\nThe forces of \#087 have invaded our domain!
+@2.1
+Wh-what!?\nThat's serious...\nWe must meet them at once! ...We march!
+@2.2
+No, there's no need.\nLord \#02B has already led his own troops out to meet them.
+@2.3
+What... \#42B has?
+@2.4
+Lord \#82B says, "No need for our lord to take the field... I shall deal with it myself."
+@2.5
+Grr... He makes a fool of me, his lord, and sends out troops on his own without a word to me...
+@2.6
+But he's the better man in war...\nIt can't be helped... I'll leave this to him.
+@2.7
+My lord... everyone in the clan is worried about the discord between you and Lord \#82B...\nI beg you, make peace with Lord \#82B...
+@2.8
+Hmph... I'll hear you out, at least.
+@2.9
+My, how quick his mind is as ever...\nHe's the finest general in our house; he'll crush the Mimura force with ease.
+@2.10
+But if you do not take the field, my lord, Lord \#82B's standing will only rise, and yours will fall...
+@2.12
+What!? That's serious...\nWe must march out to meet them at once...!
+@2.13
+As you have all heard, \#087 has invaded our domain!
+@2.14
+We march at once and crush him!\nUnderstood?
+@2.15
+But, my lord!\nThere have been no orders from the old lord in \50FB...
+@2.16
+We can't count on the old lord!\nThis is urgent!\nIf we leave it to him, we'll be too late!
+@2.17
+My lord, we will follow you!
+@2.18
+Good! I no longer expect anything of the old lord.\nThis time we fight without his help!
+@2.19
+Ohhh!
+@3.0
+Hmph! \#42B!\nNow do you know my strength!?
+@3.13
+And so \#271, who had once been master of Bizen...
+@3.14
+was driven out by \#02B and set off for the land of Sanuki...
+@3.15
+From now on, \#3FE's base moves to the town of Marugame.
+@3.16
+\#3FE became a retainer of the \#82B clan.
+@4.0
+Good, everyone is here.\nThen let the council begin.\n\#02B!
+@4.2
+I appoint you Castle Lord of \50F9!
+@4.4
+(\#42B is dangerous... his ambition is too great.\nIf I keep him at my side, he may cut my throat in my sleep...)
+@4.5
+(Excellent... now I can act on my own...)
+@4.6
+Then this council is at an end.\nYou may all withdraw.

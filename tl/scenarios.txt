@@ -1,0 +1,21 @@
+# Scenario headers (scenario select screen): ILNK subfile 0 of TR4DATA 62-67.
+# "@N title" (max 16 bytes), then the description (max 440 bytes; runtime word wrap,
+# 576 px area). Entry 68 (scenario 7) has an empty header.
+
+@1 Storm of Owari
+In the fifth month of Eiroku 3 (1560), Imagawa Yoshimoto, the daimyō who ruled Suruga, Tōtōmi and Mikawa, was ambushed at Okehazama by Oda Nobunaga, the stormy son of Owari, and fell in battle. The Imagawa-Hōjō-Takeda alliance is broken, and Uesugi Kenshin turns his eyes to a restless Kantō. In the west, Mōri Motonari and Shimazu Takahisa are rising. The age of warring rivals slowly turns towards unity...
+
+@2 Road to Paradise
+Having driven out Ashikaga Yoshiaki and built Azuchi Castle, Oda Nobunaga sends his chief retainers out to unite the realm. Hashiba Hideyoshi, given the Chūgoku front, grants Yamanaka Shikanosuke's wish and restores the Amago, but hard trials still lie ahead. In Hokuriku, Uesugi Kenshin, the Dragon of Echigo, marches on Noto despite his illness. In Kyūshū, the Ōtomo and Shimazu await the battle for mastery of the west...
+
+@3 Dream in a Dream
+The death of the Taikō Toyotomi Hideyoshi... It was the start of new turmoil. Ishida Mitsunari strives to uphold the Toyotomi regime and repay his lord's favour. But Tokugawa Ieyasu, who no longer hides his ambition, wins over one great daimyō after another. Maeda Toshiie, the only man who can restrain him, has little time left. On the road to a new era, the land needed one more great storm...
+
+@4 Warlord in Peril
+With Oda Nobunaga's help, Ashikaga Yoshiaki has at last become shōgun. But Nobunaga crowds the shōgun's authority, and the two soon fall out. Yoshiaki seeks daimyō who can stand against Nobunaga. The Asakura and Azai revolt, the Hongan-ji takes up arms, and Ikkō leagues across the land rise against him. And Takeda Shingen, the giant of Kai, finally sets out on the road to the capital...
+
+@5 Monkey & Tanuki
+With Akechi Mitsuhide beaten at Yamazaki and Shibata Katsuie at Shizugatake, Hashiba Hideyoshi has no rivals left. The old Oda generals all bow to him; Nobunaga's work of unification will soon be his. Yet one daimyō keeps an ominous silence: Tokugawa Ieyasu, lord of five provinces since he took parts of Shinano and Kai after Honnō-ji, joins Nobunaga's second son Nobukatsu to defy Hideyoshi...
+
+@6 Embers of Chaos
+To save the mighty Ōuchi, Sue Harukata overthrew his own lord, but his generals resented it and gathered under Mōri Motonari. In the east, the shōgun Ashikaga Yoshiteru has fled to Ōmi, and the Kantō deputy Uesugi Norimasa, driven out by Hōjō Ujiyasu, has turned to Nagao Kagetora. The shogunate lies in the dust. And Saitō Dōsan, the Viper of Mino, must choose an heir: his bold son-in-law Nobunaga or his distrustful son Yoshitatsu...

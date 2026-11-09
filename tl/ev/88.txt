@@ -1,0 +1,2586 @@
+@37.0
+Hey, \#7FE!
+@37.1
+Lord \#49B!
+@37.2
+Say, wouldn't you like to\nlearn a thing or two about battle?
+@37.3
+I would indeed.\nAre you well versed in war, Lord \#49B?
+@37.4
+Hah hah hah!\nListen to this rascal!\nI may not look it, but I've seen my share of fights.
+@37.5
+I'm no grizzled veteran,\nbut I can teach the likes of you a thing or two.
+@37.6
+I'm drilling the ashigaru at the drill ground right now.\nCome along if you like.
+@37.7
+Much obliged!\nI'll be sure to stop by!
+@0.0
+Well, another day of work.\nLife at the bottom is hard.
+@0.1
+I've served the \#894 clan for a good while now, and I'm still a mere foot soldier...
+@0.2
+But it won't end like this!\nI'll rise in the world, live well, and then... I'll take Lady Nene as my wife!
+@0.3
+Lord \#7FE?\nDid you just call my name?
+@0.4
+N-Lady \#2A2!\nWhy, er... it was nothing at all.\nHa ha ha... Fine weather today, isn't it?
+@0.5
+???\nHow odd you are, Lord \#7FE...
+@0.6
+Well, I'm on my way to the market, so if you'll excuse me.
+@0.7
+G-good day to you...!\nPhew...\nNow, what was I thinking about?
+@0.8
+That's it!\nTo take Lady \#2A2 as my bride, I must become a man worthy of her!
+@0.9
+And for that, I need to rise in the world, and fast!
+@0.10
+\#7FE!\nWhat are you muttering about!?
+@0.11
+Ah, Lord \#49B!\nWhat can I do for you?
+@0.12
+Lord \#8B1 is looking for you.\nHave you done something?
+@0.13
+Lord \#8B1 is looking for me!?\nThen I must go at once!
+@0.14
+I wonder what it could be...
+@0.15
+Lord \#8B1!\n\#400 has come as you asked.
+@0.16
+Ah, \#400.\nI've been looking for you.
+@0.18
+Your work in the recent battle at Okehazama was splendid.
+@0.19
+You honour me far too much, my lord.
+@0.20
+Imagawa's march on the capital put the \#894 clan's very survival at stake, but we struck down their head, Yoshimoto, and the danger has passed.\nLord \#494 too is pleased with your exploits.
+@0.21
+What!? Lord \#494 himself!?\nPleased with me!?
+@0.22
+Indeed.\nThat is why I called for you today.
+@0.23
+For your service this time, you are hereby made an Ashigaru Captain.
+@0.24
+Truly!?\nLord \#8B1!
+@0.25
+Of course.
+@0.26
+Even a man like you can rise in the world here in the \#894 clan.\nIt is no idle dream.
+@0.27
+Keep up the good work.
+@0.28
+Yes, my lord!\n...Sniff...
+@0.29
+Come now, no crying.
+@0.30
+Ah!\nForgive me for making such a sorry display, my lord.
+@0.31
+Now then, once you are an Ashigaru Captain or higher, you have an important duty: the "council."
+@0.32
+Let me teach you the basics of the council.
+@0.33
+Please do
+@0.34
+I know it already
+@0.35
+Please, I'd be grateful.
+@0.36
+Good!\nThe "council" is the meeting where the clan's policies are decided.
+@0.37
+At the council, Lord \#494 first decides the policy.
+@0.38
+There are four kinds of policy: "Domestic," "Plots," "Military" and "Battles."
+@0.39
+Then each officer takes on a mission that follows the policy.
+@0.40
+At first you can only take simple missions, such as buying and selling rice...
+@0.41
+But as your rank rises, you will be able to take on harder missions.
+@0.42
+Carry out the mission you took and report it to Lord \#494: the mission is then complete, and your merit rises.
+@0.43
+Gather enough merit and your rank rises: that is how you get ahead.\nNever neglect your missions!
+@0.45
+The council is held every two months, at the start of the month.
+@0.46
+To be precise, it is held between the 1st and the 5th of January, March, May, July, September and November.
+@0.47
+During those days you must come to the [Castle] of Lord \#494's seat without fail.
+@0.48
+Forget it, and you will have Lord \#494's anger to face.\nBe careful.
+@0.50
+Well, that's about the size of it.
+@0.51
+Begging your pardon, my lord, but \#7FE has already learned about the council.
+@0.52
+What! You know it already?\nAdmirable fellow.
+@0.53
+Whatever you do, don't be late for your first council.\nMind that.
+@1.0
+Lady Nene!\nI'm home!
+@1.1
+Welcome home, Lord \#7FE.
+@1.2
+Ah...\nFrom now on you'll be here waiting for me like this, Lady Nene.
+@1.3
+Why, of course.\nI am your wife now, Lord \#7FE...
+@1.4
+Lady Nene...\nI swear I will make you happy.
+@1.5
+Yes!\nMy dear!
+@1.6
+And so \#7FE and Nene were happily married.
+@1.7
+For \#7FE, spring had come late.
+@1.8
+I'm home.
+@1.10
+Was your family well?
+@1.11
+W-well, no...\nSomething came up, so I haven't been there yet...
+@1.12
+I see.\nThen do go soon.
+@1.13
+Y-yes...\nWait for me.
+@2.1
+Welcome home, dear.
+@2.2
+Mm.\nNene, you're lovely every time I look at you.
+@2.3
+Oh, stop it.\nFlattery won't get you anything.
+@2.4
+By the way, now that you've been promoted, don't you need a retainer of your own?
+@2.5
+Hmm, you're right...\nThat's my wife for you.\nYou always say the right thing.
+@2.6
+Oh, there you go, teasing me again...
+@2.7
+No, sorry, sorry.\nIt's just how I was born.
+@2.8
+Oh, that reminds me, \#629!\nI'd quite forgotten him!
+@2.9
+At my present rank I can go and fetch him with my head held high.
+@2.10
+Indeed.\nLord \#629 will surely support his good-for-nothing brother.
+@2.11
+Yes, his good-for-nothing... Nene, that's a bit much...
+@2.12
+Hee hee...\nI'm only joking.
+@2.13
+But Lord \#629 will surely do fine work for you.
+@2.14
+Mm.\nHe'll do great things as my right hand.
+@2.15
+Well then, I'll go and see \#629.\nHe should still be at the family home in \40F5.
+@3.0
+Hello there! It's me!\n\#400 is back!
+@3.1
+Well, well, \#400.\nAre you getting on well with Lady Nene?
+@3.2
+Yes, of course.\nWe live happily together.
+@3.3
+By the way, where's \#629?\nI've business with him today.
+@3.4
+I'm home...\nOh, Brother! Welcome!
+@3.5
+Ah, \#629!\nYou've come at just the right time.
+@3.6
+I've come to fetch you today.\nWe made a promise, remember?\nBecome my retainer.
+@3.7
+That's right, I've finally risen in the world!\nSo I need a retainer I can trust.
+@3.8
+...\nNo, but...
+@3.9
+What is it?\nWhat are you hesitating for?
+@3.10
+Your stipend will come from my own savings.\nThere's nothing to worry about.
+@3.11
+I'm not good at anything...\nAnd who'd look after Ma and our sister...
+@3.12
+Go on, \#629.
+@3.13
+When a samurai rises, he needs retainers.\nYou're the only one \#400 can rely on.
+@3.14
+You'd make a fine samurai.\nYour ma guarantees it.
+@3.15
+Ma...\nThank you...
+@3.16
+Right, now that's settled, off you go!\nYou two take care of yourselves!
+@3.17
+...\nYes...\nLet's go, \#629!
+@3.18
+Right, Brother!\nI'll do my best too!
+@3.19
+\#7FE's younger brother \#629 entered \#7FE's service as his retainer.
+@3.20
+Your retainers' stipends are paid from your own savings.
+@3.21
+Once the hero is a Castle Lord or higher, they are paid from the war funds.
+@4.2
+Oh, you look rather pale.\nHave you caught a cold?
+@4.3
+Hmm, now that you mention it, my head aches and I seem to have a fever...
+@4.4
+That won't do.\nPlease rest at once.
+@4.5
+No, I can't afford to rest.\nI'd fall behind the others.
+@4.6
+Then I'll brew you some medicine right away.\nWait just a moment.
+@4.7
+Ah, thank you.
+@4.8
+Here, please drink this.
+@4.9
+Oh, let's see...
+@4.10
+Ugh!\nB-bitter! Far too bitter!
+@4.11
+Good medicine tastes bitter, they say.\nBear with it a little.
+@4.12
+Phew...\nThat was bitter...
+@4.13
+Hm?\nI think I'm feeling better already!
+@4.14
+Dear, please take care of yourself.
+@4.15
+...Thank you, Nene.\nI'll work hard for your sake!
+@4.17
+Nene's medicine cured the illness!\nStamina is fully restored!
+@5.0
+This is your first visit, I believe.\nShall I explain what you can do here?
+@5.3
+At the physician's house you can choose [Treatment], [Buy medicine] and [Medical Training].
+@5.4
+Wounds from a duel or exhaustion from overwork leave you prone to illness.
+@5.5
+Should you fall ill, come to me.\nBut don't forget the fee for treatment.
+@5.6
+Also, if you carry medicine with you, you can be treated even where there is no physician.
+@5.7
+Or you may take up medicine yourself.\nWith some medical skill, you'll recover stamina more easily during a duel.
+@5.8
+If you wish to learn, I will teach you the secrets of medicine myself, for a fee...
+@5.9
+My teaching is strict, but gain experience and raise your "Medicine" skill, and it will serve you in your hour of need.
+@5.10
+I see. Very well, then.
+@6.0
+What is it you want?
+@6.1
+Would you like to know what can be done here?
+@6.4
+If you have come hoping for an audience with His Majesty, you must first come to Us.
+@6.5
+There are many who, like you, wish to be received by His Majesty, you see.
+@6.6
+It is We who act as go-between for such people and His Majesty.
+@6.7
+Without Our word on your behalf, you shall not see His Majesty.
+@6.8
+Bring Us a little something, and We might just put in a word for you.
+@6.9
+And if you are a daimyō, We can have His Majesty grant you an audience.
+@6.10
+If you wish for friendship with the court, first take care not to displease Us.
+@6.11
+We are very fond of gifts and tea.\nMind you remember that.
+@6.12
+And here We were, kindly offering to teach you.\nWhat a rude fellow.
+@7.0
+What business have you here?
+@7.1
+This is the Imperial Palace, where His Majesty resides.\nIt is no place for the likes of you.
+@7.2
+What? You wish to know what sort of person may be admitted?
+@7.5
+Those who may pass here are court nobles, Lord Kikutei Harusue foremost among them.
+@7.6
+Of the samurai, only daimyō who have greatly served the court may enter.
+@7.7
+Should you become a daimyō and serve the court, you might be granted an audience.\nNot that you ever will.
+@7.8
+A daimyō granted an audience receives a court rank from His Majesty.
+@7.9
+If a rank one step above the daimyō's present rank is vacant, His Majesty will bestow it.
+@7.10
+If you wish for an audience with His Majesty, you would do well to ask Lord Kikutei Harusue at the [Noble's House].
+@7.12
+Then, until another time.
+@8.1
+This is your first time here, isn't it?\nWould you like to hear what you can do at the guild?
+@8.4
+The guild is where trade goods are bought and sold.\nLet me first explain trade goods.
+@8.5
+Trade goods are the local products of a region.\nTimber, say, is a trade good of mountain towns, and salt one of coastal towns.
+@8.6
+Put simply, take salt from the sea to a mountain town and sell it, and it fetches a high price and a profit.
+@8.7
+But the goods for sale are limited.\nWe can only sell what's in stock, though the stock grows every month.
+@8.8
+There's a limit to the trade goods you can carry.\nEach trade good has its own weight, so you can't carry much of the heavy ones.
+@8.9
+The guild also gives out work.\nFinish the work you're given and we'll pay you for it.
+@8.10
+Guild work comes in these kinds: Buy Trade Goods, Buy Treasure, Deliver Trade Goods, Deliver Treasure, Debt Collection and Survey Specialties.
+@8.11
+For Buy Trade Goods, you bring us the trade goods we name, in the number we name.
+@8.12
+Buy Treasure is the same for items.\nMerchants and such deal in items, but not every merchant may have it.
+@8.13
+For Deliver Trade Goods, you take the trade goods we name from us to the guild of another town.
+@8.14
+Deliver Treasure is the same for items.
+@8.15
+For Debt Collection, you find people who borrowed money or left a tab unpaid and make them pay.
+@8.16
+For Survey Specialties, you check the trade prices in every town of the region we name and report back.
+@8.17
+From easiest to hardest: Deliver Treasure, Deliver Trade Goods, Survey Specialties, Debt Collection, Buy Trade Goods, Buy Treasure.
+@8.18
+You can take guild work even while serving a daimyō.
+@8.19
+Whenever you have business in another town, it's wise to take some guild work while you're at it.
+@8.20
+That's about it.
+@8.21
+With a free-market permit, you're exempt from the 20% purchase tax.\nWithout one, the 20% tax applies.
+@8.22
+Besides that, at the guild you can hear trade talk and invest in the town.
+@8.23
+A town you invest in grows, sometimes deals in better goods, and deals in larger amounts.
+@8.24
+Do please invest in our town too.
+@8.25
+Then I'll skip the explanation.
+@8.27
+First time here, eh?\nWant to know what you can do at the guild?
+@8.30
+The guild's where trade goods are bought and sold.\nFirst let me tell you about trade goods.
+@8.31
+Trade goods are a region's local products.\nTimber, say, is a trade good of mountain towns, and salt one of coastal towns. That sort of thing.
+@8.32
+Put simply, take salt from the sea to a mountain town and sell it, and it fetches a high price and a profit.
+@8.33
+But the goods for sale are limited.\nWe can only sell what's in stock, though the stock grows every month.
+@8.34
+There's a limit to what you can carry.\nEach trade good has its own weight, so you can't haul much of the heavy stuff.
+@8.35
+The guild also gives out work.\nYou finish the job you're given, and I pay you for it.
+@8.36
+Guild work comes in these kinds: Buy Trade Goods, Buy Treasure, Deliver Trade Goods, Deliver Treasure, Debt Collection and Survey Specialties.
+@8.37
+For Buy Trade Goods, you buy the trade goods I name, as many as I name, and bring them here.
+@8.38
+Buy Treasure is the same for items.\nMerchants and such deal in items, but not every merchant may have it.
+@8.39
+For Deliver Trade Goods, you take the trade goods I name from here to the guild of another town.
+@8.40
+Deliver Treasure is the same for items.
+@8.41
+For Debt Collection, you find folk who borrowed money or left a tab unpaid and make them pay up.
+@8.42
+For Survey Specialties, you check the trade prices in every town of the region I name and report back.
+@8.43
+From easiest to hardest: Deliver Treasure, Deliver Trade Goods, Survey Specialties, Debt Collection, Buy Trade Goods, Buy Treasure.
+@8.44
+You can take guild work even while you serve a daimyō.
+@8.45
+When a mission takes you to another town, it's smart to take some guild work while you're at it.
+@8.46
+That's about it.
+@8.47
+With a free-market permit, you're exempt from the 20% purchase tax.\nWithout one, you pay the 20% tax.
+@8.48
+Besides that, at the guild you can hear trade talk and invest in the town.
+@8.49
+A town you invest in grows, sometimes deals in better goods, and deals in larger amounts.
+@8.50
+You'll be investing, of course?
+@8.51
+Says he knows it all without asking.\nQuite the confidence.\nI'll expect great things.
+@9.0
+Welcome, welcome.
+@9.1
+This is your first visit, I see.\nShall I explain what you can do here?
+@9.4
+At the temple you can take [Etiquette Training].
+@9.5
+To befriend the court, to press another clan to yield...\nthe "Etiquette" skill is vital to diplomacy.
+@9.6
+If you lack confidence in etiquette, I shall teach you.\nBut to study etiquette you need a Japanese Book.
+@9.7
+If you don't have one, buy one from a merchant before you come.
+@9.8
+Besides that, you can also have books appraised: [Appraise Books].
+@9.9
+If you have a book whose worth you don't know, bring it to me.
+@9.10
+It may even be a book you need for etiquette.
+@9.11
+I see.\nVery well, then.
+@10.1
+Not that there's anyone here to answer...
+@10.2
+How dull...\nNow, what can I do at home...?
+@10.3
+Remember
+@10.4
+Don't bother
+@10.5
+At home I can [Rest], use the [Safe] and hold a [Tea Party]. And then there's [Talk to wife], I suppose.
+@10.6
+Not that I have a wife yet.
+@10.7
+At home, the first thing is to [Rest]. Rest is the best cure for a tired body, and it costs nothing.
+@10.8
+Speaking of money, there's the [Safe] here too.
+@10.9
+When I have money to spare, I should [Deposit] it and save it up.
+@10.10
+And when I'm short, I can just [Withdraw] some.
+@10.11
+Oh, yes. Officers with retainers hold a [Tea Party] now and then, I hear.
+@10.12
+Speaking of money, everything I earn in a daimyō's service should be kept in the [Safe].
+@10.13
+When I'm short of money, I can just [Withdraw] it from the safe.
+@10.14
+And when I have money to spare, I should [Deposit] it and save it up.
+@10.15
+Oh, yes. Officers with retainers used to hold a [Tea Party] now and then.
+@10.16
+Maybe one day I'll try it myself.
+@10.17
+Oh, never mind.
+@10.18
+Oh, never mind. All I do is withdraw the money I earn in service anyway.
+@10.20
+Shall we go over what you can do at home?
+@10.23
+At home you can [Rest], use the [Safe] and hold a [Tea Party]. And there's [Talk to wife]: talking with me.
+@10.24
+Rest at home, and your weariness goes away without costing a thing.
+@10.25
+And about money: please [Deposit] the money you earn, dear, and save it.
+@10.26
+Then even if you're set upon by thieves, they can't rob you of it.
+@10.27
+Once it's deposited, you can [Withdraw] it whenever you need it.
+@10.28
+And once you serve a daimyō and have retainers of your own, hold a [Tea Party] to thank them for their efforts.
+@10.29
+I know you're busy, dear, but when you have time, do tell me all sorts of things.
+@10.30
+And about money: everything you earn in service, dear, goes into the [Safe].
+@10.31
+When you're short of money, just tell me.
+@10.32
+And when you have money to spare, don't forget to [Deposit] it and save it.
+@10.33
+Once you have retainers of your own, it would be good to hold a [Tea Party] and grow closer to them.
+@11.1
+First time in our place, love? Shall I tell you about the tavern?
+@11.4
+At the tavern you can [Drink]. Try a few, and if you find a sake you like, buy some to take with you.
+@11.5
+Give it to someone who loves sake and they'll be delighted.
+@11.6
+They say some regions sell sake you can't get anywhere else.
+@11.7
+Hunting for rare sake in taverns on your travels could be fun.
+@11.8
+Samurai from the castle nearby who like a drink come in here sometimes too.
+@11.9
+Chat with them and get yourself known.
+@11.10
+And where there's sake, there's [Gamble]! You can play [Chinchirorin], [Oicho-Kabu], [Pinkoro] and more.
+@11.11
+When you fancy a game, just give me a call.
+@11.12
+But don't get so worked up you draw your sword, please.
+@11.13
+Got all that, more or less?
+@11.14
+Well then, enjoy your drink.
+@12.1
+This is your first stay with us, sir. Would you like to hear how our inn works?
+@12.4
+A night's lodging is 200 mon. You'll wake rested and full of energy.
+@12.5
+And here you can hear all sorts of talk from the other guests.
+@12.6
+Travellers bring news of castles in other provinces, rice prices, horse prices, rōnin and much more.
+@12.7
+Oh, and it seems samurai often court the innkeeper's daughter and marry her.
+@12.8
+Hee hee... Is that what you're after too, sir?
+@12.9
+Then I'll spare you the details.
+@13.1
+This is your first visit to our shop, sir. Would you like to hear how to use it?
+@13.4
+Here you can [Buy Goods], [Sell Goods], [Buy Guns] and take [Accounting Training].
+@13.5
+Let me explain about goods.
+@13.6
+There are many kinds: weapons, armour, horses, tea ware, scrolls, screens, books of war, war chronicles, Japanese books, treasures...
+@13.7
+...and so on.
+@13.8
+Each merchant sells different goods. It is worth remembering which merchant sells what.
+@13.9
+Next, [Buy Guns]: we hand over guns for use in war on the spot.
+@13.10
+However, you can only buy guns while you have a Buy Guns mission.
+@13.11
+Do you have such a mission, sir?
+@13.12
+I had a Buy Guns mission, but it's already finished.
+@13.13
+What a pity. Next time, do be sure to use our shop.
+@13.14
+I have a Buy Guns mission.
+@13.15
+Splendid. Do be sure to use our shop.
+@13.16
+I don't have a Buy Guns mission.
+@13.17
+I see. Should the chance come, do be sure to use our shop.
+@13.18
+Lastly, [Accounting Training]: I will teach you the secrets of accounting. The harder the level, the higher the fee.
+@13.19
+Pass my trials, gain experience, and raise your "Accounting" skill.
+@13.20
+I see. Then I shall spare you the explanation.
+@14.0
+Lord \#3FE, this seems to be your first visit. Shall I explain the drill ground?
+@14.3
+At the drill ground of your own clan's castle you can [Train], [Separate Soldiers], give [Alms] and [Talk]. At another clan's castle, you can gather information on it.
+@14.4
+[Train] raises the castle troops' "training." Better-trained troops have the upper hand in battle.
+@14.5
+[Separate Soldiers] raises the castle's "troops." Naturally, more troops give the upper hand in battle.
+@14.6
+[Train] and [Separate Soldiers] can only be done while you have that mission for that castle.
+@14.7
+But once your rank rises to Castle Lord or higher, Lord \#3FE, you can do them at your own castle at any time.
+@14.8
+Besides that, to raise the troops' morale, give [Alms]. Morale rises with the amount given.
+@14.9
+If you [Talk] to me, I can tell you how the castle's forces stand. That is all you can do at your own clan's castle.
+@14.10
+At the drill ground of another clan's castle, on the other hand, you can gather all kinds of information on that castle.
+@14.11
+You can only sneak into another clan's drill ground. Take care not to be found.
+@14.12
+With a high "Ninjutsu" skill, you'll sneak in more easily.
+@14.13
+Sneak in successfully and you can survey the castle. But success is never certain.
+@14.14
+Stay too long and you'll be found. Look into what you need most first.
+@14.16
+I see. You knew already.
+@15.0
+Welcome, welcome.
+@15.1
+This is your first visit, sir. Would you like to hear my explanation?
+@15.4
+Here you can [Commission] works of art and [Appraise Items].
+@15.5
+When I receive a [Commission] from you, sir, I set to work on a work of art.
+@15.6
+What I make, I decide once I have the commission.
+@15.7
+If you will wait until it is finished, I am sure I can hand you a splendid piece.
+@15.8
+Give a work of art to someone who loves them, and they are sure to be delighted.
+@15.9
+Also, if you own a work of art whose worth you don't know, come and consult me.
+@15.10
+I can appraise any work of art.
+@15.11
+I see. Then I won't explain.
+@16.0
+Good of you to come, \#7FE!
+@16.1
+Now then, let me explain battles to you.
+@16.2
+It's a long explanation, mind. Brace yourself.
+@16.5
+Much obliged. Please go ahead.
+@16.6
+Then let me explain.
+@16.7
+I see. I understand it well now.
+@16.8
+Put what you've learned to use in real battle.
+@16.9
+Are you sure? I won't explain it again.
+@16.10
+I'll listen after all
+@16.11
+No, thanks
+@16.16
+On second thought, I'll pass.
+@16.17
+Is that so? A pity. Then you'll have to learn bit by bit in real battle.
+@17.1
+First time in my shop, eh? Want to hear how it works?
+@17.4
+At the smithy you can [Buy Guns], [Buy Cannon] and take [Gunnery Training].
+@17.5
+[Buy Guns] and [Buy Cannon] are for buying the guns and cannon used in battle. But only while you have the mission for it.
+@17.6
+I make them to order, so place the order while there are enough days left on your mission.
+@17.7
+Depends how many you want, but a big order can take ten days or more.
+@17.8
+Got a mission at the moment?
+@17.9
+I had a Buy Guns mission, but it's already finished.
+@17.10
+Too bad. Use my shop next time, then.
+@17.11
+I have a Buy Guns mission.
+@17.12
+Good. Make sure you use my shop.
+@17.13
+I had a Buy Cannon mission, but it's already finished.
+@17.14
+Too bad. Next time, use my shop.
+@17.15
+I have a Buy Cannon mission.
+@17.17
+I have no mission to do with the smithy.
+@17.18
+I see. When you do, make sure you use my shop.
+@17.19
+Last, [Gunnery Training]. I'll teach you the secrets of the gun. The harder the level, the higher the fee.
+@17.20
+I'll set you trials. Gain experience and raise your "Gunnery" skill.
+@17.21
+That so? Then I won't trouble you.
+@18.0
+So you've come.
+@18.1
+This seems to be your first time. Shall I tell you about Training Ground 1?
+@18.4
+Training Ground 1 is where you hone the "Ninjutsu" skill...
+@18.5
+Endure the trials I set and gain experience, and your Ninjutsu skill will rise.
+@18.6
+Once you've raised your Ninjutsu here, go on to Training Grounds 2 to 4.
+@19.1
+This seems to be your first time. Shall I tell you about Training Ground 2?
+@19.4
+At Training Ground 2, those with enough ninja skill are set the trial to become Genin.
+@19.5
+Those who overcome my trial are granted the rank of Genin. Only then are you a true ninja.
+@19.6
+Those who become Genin are also taught this village's secret arts.
+@20.1
+This seems to be your first time. Shall I tell you about Training Ground 3?
+@20.4
+At Training Ground 3, this village's Genin are set the trial to become Chunin.
+@20.5
+Those who overcome my trial are granted the rank of Chunin, and taught this village's secret arts as well.
+@20.6
+The arts I teach will serve you in battle.
+@21.1
+This seems to be your first time. Shall I tell you about Training Ground 4?
+@21.4
+At Training Ground 4, this village's Chunin are set the trial to become Jōnin.
+@21.5
+Those who overcome my trial are granted the rank of Jōnin, and taught this village's secret arts as well.
+@21.6
+The arts I teach will serve you in a duel.
+@22.0
+Welcome, and thank you for coming.
+@22.1
+I don't believe we've met. Would you like to hear what you can do here?
+@22.4
+Here you can [Buy Tea Ware], [Sell Tea Ware] and take [Tea Training].
+@22.5
+To deepen your friendship with other officers, you may hold a tea party or a tea gathering.
+@22.6
+When inviting someone of high rank in particular, cheap tea ware would be an insult.
+@22.7
+Why not take this chance to acquire some splendid tea ware?
+@22.8
+And if you wish to learn the tea ceremony, I shall teach you.
+@22.9
+In the way of tea, daily practice is what matters. Gain experience and master "Tea."
+@22.10
+Then, I look forward to seeing you...
+@23.0
+You seem to be new here. Shall I explain the dojo?
+@23.3
+At the dojo you can take [Sword Training] and [Appraise Arms].
+@23.4
+A very skilled master may also accept a [Bout]. But he may refuse if you are not on good terms.
+@23.5
+With those you are close to, you can have a [Bout].
+@23.6
+A bout is a duel in which both sides test each other's skill.
+@23.7
+If you wish to have a [Bout] with me, you had better train your swordsmanship first.
+@23.8
+In [Sword Training] I set you trials. The harder the level, the higher the fee.
+@23.9
+Overcome the trials and gain experience, and your "Swordsmanship" will improve too.
+@23.10
+But it is wiser not to take a [Bout] or [Sword Training] while ill or low on stamina.
+@23.11
+Lastly, [Appraise Arms]: I appraise arms whose worth you do not know.
+@23.12
+I may not look it, but I have a sure eye for arms.
+@23.13
+That is about all there is to explain.
+@24.0
+Thank you for coming to my church, yes. You want to know what you can do here?
+@24.3
+Then I explain. At the Nanban Temple you can [Donate] and take [Farming Training].
+@24.4
+[Donate] is to give money to my church. Something good will happen to you, surely...
+@24.5
+In [Farming Training], I teach you the skill of clearing land for farms.
+@24.6
+When you do "New Fields" and such, you get better results.
+@24.7
+Please, try the new Nanban techniques.
+@24.8
+Then it is all right, yes.
+@25.0
+Welcome, welcome.
+@25.1
+Customer, you are first time here, yes? You want to hear how to use my shop?
+@25.4
+At the Nanban House you can [Buy Nanban Goods], [Sell Goods], [Appraise Nanban] and [Buy Cannon].
+@25.5
+With [Buy Nanban Goods], you buy rare Nanban things. Good to give to people who love Nanban things!
+@25.6
+With [Sell Goods], I take your things, not only Nanban things.
+@25.7
+With [Appraise Nanban], I appraise Nanban things you don't know the worth of. If you have one, bring it, yes!
+@25.8
+With [Buy Cannon], you can get cannon to use in war.
+@25.9
+But only when you have the Buy Cannon mission.
+@25.10
+Cannon is very precious. I cannot give it without introduction from someone I trust. Bring me a letter of introduction!
+@25.11
+Is that so? Then I talk too much, sorry.
+@26.1
+This seems to be your first time. Shall I tell you about the ninja village?
+@26.4
+The ninja village's duty is to take on work from daimyō clans and carry it out.
+@26.5
+If you come as a daimyō's envoy, we will take the work, depending on the reward.
+@26.6
+The work we take is Find Rōnin, Spy Castle, Sabotage, Rumours, Arson, Attack and Murder.
+@26.7
+But some work we will not take for certain clans. Then you must give up.
+@26.8
+When you request work, you must wait here until the report on it comes in.
+@26.9
+Should the work end in failure, the reward is returned.
+@26.11
+If you come as a rōnin, you may think of joining our village.
+@26.12
+But ninja live by a harsh code. Come prepared.
+@26.13
+If you belong to our village, you will carry out work requested by daimyō clans.
+@26.14
+Finish the work and report, and you will be paid.
+@26.15
+Besides the work I just named, there is also battle work.
+@26.16
+Work normally has a limit of 60 days, but battles have none.
+@26.17
+If you would hone your skills for the work, use the training grounds and the drill ground.
+@26.18
+Lastly, you can invest in the village. As the village grows, more advanced ninjutsu can be learned.
+@26.19
+Invest 1,000 kan or more as a daimyō's envoy, and the village's ties to its backed daimyō will change.
+@26.20
+When its ties to the backed daimyō have grown weak, an investment will make it back another daimyō.
+@26.21
+That is all I can tell you for now.
+@26.22
+Is that so? Then very well.
+@27.1
+This is your first visit to our shop. Would you like to hear how to use it?
+@27.4
+Here you can do three things: [Market Prices], [Buy Horses] and [Riding Training].
+@27.5
+[Market Prices] tells you the price of horses.
+@27.6
+The lower the number, the cheaper the horses: low is good. By the way, you cannot sell horses here.
+@27.7
+Oh! Is that so! Then do tell me the prices!
+@27.8
+Our own shop's horse prices I'll tell you free of charge.
+@27.9
+And for 100 kan, I'll tell you the prices in every town of this region.
+@27.10
+What! I have to pay to learn them all at once?
+@27.11
+As horses sell, the prices change, and soon go up.
+@27.12
+If I told you other towns' prices for free, I'd be out of business.
+@27.13
+I see... Well, it can't be helped.
+@27.14
+Also, once there are no horses left in the barn, I can't sell you any.
+@27.15
+With [Buy Horses], you buy horses.
+@27.16
+But only while you have a Buy Horses mission.
+@27.17
+Do you have such a mission, sir?
+@27.18
+I have a Buy Horses mission.
+@27.19
+Is that so? Then do be sure to use our shop.
+@27.20
+I have no mission to do with horses...
+@27.21
+Is that so? Then next time, do be sure to use our shop.
+@27.22
+Lastly, [Riding Training]: I teach you the secrets of horsemanship. The harder the level, the higher the fee.
+@27.23
+I'll set you trials. Gain experience and raise your "Cavalry" skill.
+@27.24
+I see. Forgive me.
+@28.0
+Hey, \#7FE. Good of you to come.
+@28.1
+What can I do for you?
+@28.2
+You don't seem to know anything about the samurai homes. Shall I explain briefly?
+@28.5
+The samurai homes are where a clan's officers live, those ranked from Ashigaru Captain up to Chief Retainer.
+@28.6
+You can give a [Gift], share [Tea], have a [Bout], hear [Rumours of officers], take [Skill Training] and so on.
+@28.7
+If there's an officer you want to be closer to, give him a [Gift] or invite him to [Tea].
+@28.8
+A [Bout] is a duel. You grow closer to those you fight, and you might even learn a new technique.
+@28.9
+Ask for [Rumours of officers] and you'll learn each officer's tastes and temperament.
+@28.10
+With officers of your own clan or an allied clan, you can also take [Skill Training].
+@28.11
+Learning tactics from someone who excels at tactics, for example.
+@28.12
+But an officer of an allied clan won't agree unless you're on very close terms.
+@28.13
+And if you have a "Recruit" mission, you can [Recruit] officers of other clans.
+@28.14
+At the home of an officer who is your close friend, you can [Ask Advice].
+@28.15
+Go to your superior's home, and you can [Leave service].
+@28.16
+That's about the size of it.
+@28.17
+Welcome to my home.
+@28.18
+What can I do for you?
+@28.19
+You don't seem to know anything about the samurai homes. Shall I explain briefly?
+@28.22
+The samurai homes are where a clan's officers live, those ranked from Ashigaru Captain up to Chief Retainer.
+@28.23
+You can give a [Gift], share [Tea], have a [Bout], hear [Rumours of officers], take [Skill Training] and so on.
+@28.24
+If there is an officer you wish to be closer to, give him a [Gift] or invite him to [Tea].
+@28.25
+A [Bout] is a duel. You grow closer to those you fight, and you may even learn a new technique.
+@28.26
+Ask for [Rumours of officers] and you will learn each officer's tastes and temperament.
+@28.27
+With officers of your own clan or an allied clan, you can also take [Skill Training].
+@28.28
+Learning tactics from someone who excels at tactics, for example.
+@28.29
+But an officer of an allied clan will not agree unless you are on very close terms.
+@28.30
+And if you have a "Recruit" mission, you can [Recruit] officers of other clans.
+@28.31
+At the home of an officer who is your close friend, you can [Ask Advice].
+@28.32
+Go to your superior's home, and you can [Leave service].
+@28.33
+That is about all.
+@29.1
+This is your first visit to our shop, sir. Would you like to hear how to use it?
+@29.4
+Here you can check [Market Prices], [Sell Rice] and [Buy Rice].
+@29.5
+[Market Prices] tells you the price of rice.
+@29.6
+When the price is low, you buy rice cheaply. When it is high, you sell rice dear.
+@29.7
+You buy rice at the market price, and sell it at 70% of the market price.
+@29.8
+The price of rice differs from town to town. Know the cheap towns and the dear ones, and you can profit from trading rice.
+@29.10
+Our own shop's rice price I will tell you free of charge.
+@29.11
+For 100 kan, I will tell you the prices in every town of this region.
+@29.13
+Buying and selling rice moves the price, and soon there is no more profit in it.
+@29.16
+[Sell Rice] sells rice, and [Buy Rice] buys rice.
+@29.17
+However, you can only trade rice while you have a Sell Rice, Buy Rice or Raise Funds mission.
+@29.18
+When our rice store is full, we must decline to buy.
+@29.19
+Likewise, when the store is empty, we have none to sell you.
+@29.20
+Do you have a mission at the moment, sir?
+@29.21
+I have a Buy Rice mission.
+@29.23
+I have a Sell Rice mission.
+@29.25
+I have a Raise Funds mission.
+@29.27
+I have no mission to do with the rice shop.
+@29.29
+I see. Then I shall skip the explanation.
+@30.1
+Would you like a brief explanation?
+@30.4
+Rōnin live in the houses. Rōnin belong to no clan.
+@30.5
+So if you [Recruit] one successfully, you can bring him into your own clan.
+@30.6
+And if you are a daimyō's direct vassal, of Ashigaru General rank or higher, with stipend to spare, you can also [Recruit] him as your own retainer.
+@30.7
+Give a [Gift] or the like before recruiting to raise your bond, and it will work better.
+@30.8
+In a "Find Rōnin" mission, you must get to know officers you have never met before.
+@30.9
+Go to many towns and look for rōnin in the houses, and you will meet people you don't know.
+@30.10
+In the houses you can also have a [Bout] or take [Skill Training]. Raise your bond first and they will agree.
+@30.11
+That's about all.
+@30.12
+I see. Then I'll stop explaining.
+@31.1
+This seems to be your first time. Shall I tell you about the drill ground?
+@31.4
+The drill ground is where troops are trained.
+@31.5
+The work we take on includes battles, and in battle it is the strength of the group that counts.
+@31.6
+So we train the men of the village to be ready for battle.
+@32.1
+Hm!? A scream!!
+@32.2
+Ah, Lord \#7FE! Help me!
+@32.3
+Lady \#2A2! What's wrong!?
+@32.4
+Hey there, sister, aren't you a pretty one. Come have a drink with us.
+@32.5
+That's right, that's right! Hic!
+@32.6
+These nasty drunks won't leave me alone... Please help me!
+@32.7
+Hey! Don't you touch Lady Nene! Take your filthy hands off her!
+@32.8
+Oh, what's this, you two-bit samurai! Want a fight with us?
+@32.9
+I'm scared!
+@32.10
+Don't worry, Lady \#2A2. Leave this to me.
+@32.11
+Lord \#7FE...!
+@32.12
+Hey, hey! We're picking a fight here, and you two are making sweet talk!
+@32.13
+Let's get him!
+@32.14
+Why, you...!
+@32.15
+Talk them round
+@32.16
+Beat them down
+@32.17
+Call for someone
+@32.18
+Fools! Do you know who I am!?
+@32.19
+Wh-what's this... Suddenly acting all high and mighty...!
+@32.20
+I am \#000, trusted retainer of Lord \#094, renowned throughout the castle town!
+@32.21
+Huh? \#800? Never heard of him. You know him?
+@32.22
+Nope. Just a bluff, I bet.
+@32.23
+Ugh... Why, you! Making a fool of me...
+@32.24
+Lady \#2A2, leave this to me and go fetch someone.
+@32.25
+But... what about you, Lord \#7FE?
+@32.26
+Don't worry about me. Now go!
+@32.27
+Don't do anything reckless!
+@32.28
+Hey, wait! Woman! Damn you! You let her get away!
+@32.29
+I'll be the one to deal with you.
+@32.30
+We've no business with you! It's that woman we want!
+@32.31
+So be it. It seems only the sword will make you understand!
+@32.32
+Oh, so you want a fight? Heh heh! Look, his hands are shaking!
+@32.33
+Bet you've hardly ever drawn that sword of yours.
+@32.34
+Silence! Even I will draw my sword to protect a woman!
+@32.35
+Ha, this'll be fun! Let's do it!
+@32.36
+Come on!
+@32.37
+Heh, not bad at all... Ugh!
+@32.38
+That was the back of my blade... If you value your lives, clear off at once!
+@32.39
+R-run for it!
+@32.40
+Hmph! All talk, the lot of them!
+@32.41
+Lord \#7FE!
+@32.42
+Ah, Lady Nene. Are you hurt...?
+@32.43
+\#7FE! Are you all right!?
+@32.44
+Why, Lord \#89B. Were you watching?
+@32.45
+Lady Nene called me here... You do take reckless chances...
+@32.46
+Ha ha ha.
+@32.47
+Lord \#7FE... How can I ever thank you...
+@32.48
+Not at all... Lady Nene, just keep smiling always. That's what makes me happiest.
+@32.50
+Oops... I seem to be in the way. I'll take my leave, then.
+@32.51
+Lord \#49B! Oh! How mean of you!
+@32.53
+Lord \#7FE... you've saved me, and it's very forward of me, but I have one request...
+@32.54
+What might it be? If Lady Nene asks it, I'll do anything.
+@32.55
+Would you... take me as your bride?
+@32.56
+Eh!? Wh-what did you just say?
+@32.57
+Would you... take me as your wife?
+@32.58
+Lady Nene!? Do you truly mean it?
+@32.59
+If it wouldn't be a burden to you, Lord \#7FE...
+@32.60
+A burden? Far from it! A beautiful woman like you, coming to be my bride...
+@32.61
+It's like a dream! I must be the luckiest man in all the world!
+@32.62
+Pinch!
+@32.63
+Ow, ow! L-Lady Nene!? What are you doing?
+@32.64
+There, you see? It's not a dream, is it?
+@32.65
+No, it's not a dream! Hooray! I'm a happy man!
+@32.66
+Hee hee... Oh, Lord \#7FE.
+@32.67
+And so \#3FE came to marry Nene, the adopted daughter of Asano Nagakatsu...
+@32.68
+That's it! First I must tell Ma in Kiyosu town about this!
+@32.69
+Heh! All talk! We'll spare your life! Don't ever show your face to us again!
+@32.70
+Ugh...! How shameful... Unable to protect a single woman...
+@32.72
+\#7FE! Pull yourself together! What a reckless fool...!
+@32.74
+Thud.
+@32.75
+Uhh...
+@32.76
+Ah, Lord \#7FE! You've come to?
+@32.77
+L-Lady Nene... Where am I!? Ow, ow...
+@32.78
+Ah, you mustn't get up yet. This is your house, Lord \#7FE.
+@32.79
+I see... I lost to those drunks... Damn! I'm sorry... Lady Nene, I couldn't protect you!
+@32.81
+L-Lady Nene, you brought me all the way here?
+@32.82
+No, Lord \#09B helped me.
+@32.83
+\#7FE, don't push yourself too far. Standing up to a pack of thugs all by yourself...
+@32.84
+I'm ashamed... But it was to protect Lady Nene.
+@32.86
+Well! Now that \#7FE has come to, the intruder will take his leave!
+@32.87
+Lord \#49B! ...Oh, honestly!
+@32.88
+Lady Nene, forgive me. I couldn't protect you...
+@32.89
+No! I was so happy. You put yourself in harm's way to protect me, Lord \#7FE.
+@32.90
+...Even if it was a little rash.
+@32.91
+Ha ha ha, quite right. Forgive me... Go ahead and laugh at this sorry fellow.
+@32.94
+Lord \#7FE? Would you... take me as your bride?
+@32.97
+Lady Nene!? Do you truly mean it? To a hopeless fellow like me?
+@32.98
+Hee hee. Well... I just can't leave you to yourself, Lord \#7FE.
+@32.99
+Lady Nene...
+@32.100
+And... you tried to protect me without a thought for your own safety... I was moved.
+@32.101
+You're a little unreliable, but... please keep protecting me from now on...
+@32.102
+I will! I shall! If Lady Nene will be my bride, I'll protect her to the ends of the earth!
+@32.103
+I'm the luckiest man in all the world!
+@33.0
+Now then, I must tell Ma about the wedding! She'll be delighted! I'm sure of it!
+@33.2
+\#400! You look well.
+@33.3
+Yes, I'm working hard as a samurai of the \#894 clan.
+@33.4
+I see, I see... You've become quite the man...
+@33.5
+By the way, this is sudden, but I'm getting married.
+@33.6
+Her name is Lady Nene, the daughter of a samurai family of good standing.
+@33.7
+What! You're marrying a samurai's daughter!?
+@33.8
+Yes, I came today to tell you. It'll spur me to work even harder, and I'll make life easy for you too, Ma.
+@33.9
+Oh, I'm so happy... It's truly wonderful.
+@33.10
+What, I wondered who it was, and it's you, Brother. What a racket...
+@33.11
+Ah, \#629! You've grown sturdy since I last saw you.
+@33.12
+\#629, your big brother is marrying a samurai's daughter.
+@33.13
+What! You've really come up in the world. Well done, Brother!
+@33.14
+Of course! When I rise even higher, I'll make you my retainer too.
+@33.15
+Ha ha ha! Sure, I won't hold my breath.
+@33.16
+Laughing at me, eh, you rascal? Fine, just watch what I can do.
+@33.17
+I've kept Lady Nene waiting, so I'll be off. Ma, \#629, take care of yourselves!
+@34.0
+Excuse me, have you a moment?
+@34.1
+Do you want something of me?
+@34.2
+Are you uneasy about duels?
+@34.3
+Indeed I am. I'm not confident I can win a duel.
+@34.4
+At the dojo we are now teaching how to fight duels.
+@34.5
+Why not drop in? I'm sure it would help you.
+@34.6
+Oh! There's such a thing?
+@34.7
+Shall I teach you the secrets of the duel?
+@34.8
+Learn
+@34.9
+Don't learn
+@34.10
+Please, do teach me.
+@34.11
+Then come to my dojo, by all means.
+@34.13
+Then I shall teach you in a real bout.
+@34.14
+I see! I understand it well now.
+@34.15
+The way of the sword is a hard one. Never neglect your daily training, and keep at it.
+@34.16
+Are you sure? This is your only chance to learn the secrets of the duel...
+@34.17
+I'll learn after all
+@34.19
+Going out there knowing nothing makes me uneasy... Please, teach me after all!
+@34.25
+I have some knowledge of duels already. Thank you for your concern, but there's no need.
+@34.26
+I see. Very well.
+@35.2
+There you are! Well, getting used to life here?
+@35.3
+Thanks to you, a little.
+@35.4
+Glad to hear it.
+@35.5
+By the way, I forgot to tell you something important.
+@35.6
+When you become friends with other officers, they give you something like this as a token of friendship.
+@35.7
+Lord \#49B! What is this?
+@35.8
+Ha ha ha, surprised? This is called a hero card.
+@35.9
+A hero card!?
+@35.10
+That's right. Get this card, and next time you start a new game, you can play as that person.
+@35.11
+That's amazing!
+@35.12
+Isn't it!
+@35.13
+Every officer has a hero card, but there are many ways to get one.
+@35.14
+Most give it when you become friends, but some officers give it in other ways.
+@35.15
+Who gives it, and when, you'll learn as you gain experience.
+@35.16
+Some officers can only be played in certain scenarios, mind.
+@35.17
+I see. By the way, do I have one too?
+@35.18
+Ha ha ha! You may not have noticed till now, but you already hold your own.
+@35.19
+What! I had no idea I had one too!
+@35.20
+Somehow it makes me happy to hold a card like this.
+@35.21
+Ha ha ha, doesn't it!
+@35.22
+From now on you'll meet all sorts of officers.
+@35.23
+Become friends with them and get their hero cards.
+@35.24
+That's how you widen your choice of lives to live. I think it's worth a try.
+@35.25
+I see. I'll certainly give it a try.
+@35.26
+Lord \#49B! Thank you for telling me something so useful.
+@35.27
+Keep at it, \#7FE!
+@35.28
+You obtained Maeda Toshiie's hero card.
+@35.29
+From now on, Maeda Toshiie can be chosen as the hero when you start a new game.
+@35.30
+Hero cards are saved along with the game when you save.
+@36.0
+Er, now...
+@36.1
+Why, \%03, what is the matter?
+@36.2
+Oh! You've come at just the right time. I'm ashamed to say it, but I've lost my way.
+@36.3
+Shall I tell you the way to your home?
+@36.6
+You just choose the card called [Go Home] at the bottom right.
+@36.7
+Oh! Is that all there is to it!
+@36.8
+There is another way. Choose the card called [Castle] at the bottom right.
+@36.9
+I see. I hold a castle, so the castle is my home.
+@36.10
+There is another way. Try choosing the card called [Samurai Home] at the bottom right.
+@36.11
+It shows the homes of the officers living in this castle town, from Ashigaru Captain up to Chief Retainer.
+@36.12
+From there, choose [My Home]. It is usually at the top.
+@36.13
+I see. I'm a retainer, so my home is in the samurai homes.
+@36.14
+Oh! Now I remember! I just choose the [Go Home] card at the bottom right!
+@36.15
+You seem to be unfamiliar with the castle town's facilities too. Shall I explain them?
+@36.18
+In the castle town, besides the [Castle], you can also go to the [Samurai Home], the [Dojo], the [Drill Ground] and so on.
+@36.19
+However, you cannot enter a [Castle] that has no lord.
+@36.20
+And if there are no officers of Chief Retainer rank or below, you cannot enter the [Samurai Home] either.
+@36.21
+Nor can you always enter a [Castle] freely just because it has a lord.
+@36.22
+At the castle of a clan hostile to the one you serve, the gatekeeper will stop you.
+@36.23
+Then you had best "Sneak," "Give a bribe" to the gatekeeper, or "Pose as a merchant."
+@36.24
+A bribe is the easiest. Pay 10 kan and you are sure to get through.
+@36.25
+If you are good at "Speech," you can pass by posing as a merchant.
+@36.26
+And if you are good at "Ninjutsu," sneaking in should succeed easily.
+@36.28
+At the [Dojo] you learn to fight duels, and at the [Drill Ground] you learn about battles.
+@36.30
+Next, let me tell you about missions.
+@36.31
+Some missions, such as Building and Win Hearts, are carried out in the castle town.
+@36.32
+Which castle it is done at is announced at the council, so be sure not to miss it.
+@36.33
+When you enter the castle town of the target castle, you are asked whether to carry out the mission.
+@36.34
+If you don't want to do it right away, press "No" to put it off.
+@36.35
+Then you will be asked again the next time you come to the castle town.
+@36.36
+That's about all for now.
+@36.37
+Then I shall take my leave.
+@36.38
+Right. Much obliged.
+@38.0
+So this is the town. It's quite lively.
+@38.1
+Hey, you. Haven't seen your face around here.
+@38.2
+Want something from me?
+@38.3
+Ask about the town
+@38.5
+Mm, just the man. I'd like to ask you something. What does one do in town?
+@38.6
+What, you don't even know that?
+@38.7
+A town's where you do business. There are places to train too.
+@38.8
+If there's a place you want to go in, pick its card at the bottom right and press the Circle button. To leave town, it's the Cross button!
+@38.9
+The [Rice Shop], [Stable], [Inn], [Tavern] and [Guild] are in nearly every town.
+@38.10
+But this \40F5 has no [Rice Shop], [Stable] or [Inn]. It's an exception, see.
+@38.11
+The [Guild] is where you take on jobs. Do the job you're given and you get paid. The other four need no explaining, I reckon.
+@38.12
+There's also the [Merchant], [House], [Temple], [Nanban Temple], [Nanban House], [Physician], [Tea Master], [Noble's House] and such.
+@38.13
+Which town has what, you'd best go and see for yourself.
+@38.14
+If you don't know what a place is for, just go in once and see.
+@38.15
+And when you do business, don't settle for the other fellow's asking price. Haggle hard and he'll give in.
+@38.16
+Smooth talkers and folk good with numbers come out ahead. But don't forget to keep on good terms with them, either.
+@38.19
+You've been a great help. Much obliged.
+@38.20
+Don't mention it. See you.
+@38.21
+That so? See you, then.
+@39.0
+So this is the ninja village.
+@39.1
+You're a new face. Want to hear about the ninja village?
+@39.4
+A ninja village has what is called a backed daimyō.
+@39.5
+Officers of clans friendly with the clan the village backs are allowed to enter the village.
+@39.6
+Officers of clans hostile to the clan the village backs may not enter.
+@39.7
+Those of our village may not come and go in other ninja villages.
+@39.8
+And if you take on work and do not come to report within the time limit, you are deemed a rogue ninja.
+@39.9
+Rogue ninja are forever hunted by assassins. If you value your life, never become one.
+@39.10
+Farewell, then.
+@40.0
+Buy Trade Goods, they said... but how do I go about it?
+@40.1
+Ask someone
+@40.2
+Don't ask
+@40.3
+Having trouble, sir?
+@40.4
+Oh, just the man! Teach me the knack of Buy Trade Goods!
+@40.5
+I'm a merchant, you see. I don't normally teach for nothing...
+@40.6
+You look like you're in real trouble, sir. All right! I'll teach you for free, just this once.
+@40.7
+But only this once, mind.
+@40.8
+Much obliged! \#7FE will not forget this!
+@40.9
+Buy Trade Goods is done at the guild.
+@40.10
+It's best to find out beforehand which town sells cheap.
+@40.11
+Go to a town that sells the trade goods you were asked for, and buy the number asked for at the guild there.
+@40.12
+Then go back to the guild that gave you the job and report to the master, and you're done.
+@40.13
+The job's time limit is 60 days. If you're going far, you'd better hurry.
+@40.14
+Right, understood.
+@40.15
+No use fretting over it! I'll find a town that sells them and go buy them.
+@41.0
+Deliver Trade Goods, they said... but how do I go about it?
+@41.2
+Don't ask
+@41.4
+Oh, just the man! Teach me the knack of Deliver Trade Goods!
+@41.9
+For Deliver Trade Goods, you take the trade goods you were given to the guild of the town named.
+@41.13
+No use fretting over it! I'll deliver them right away.
+@42.0
+Debt Collection, they said... but how do I go about it?
+@42.2
+Don't ask
+@42.4
+Oh, just the man! Teach me the knack of Debt Collection!
+@42.9
+Debt Collection means catching the person named. Catch him and he'll pay up quietly.
+@42.10
+But one meeting won't always get you the full amount. Then you'll need to see him a few times.
+@42.14
+No use fretting over it! I'll find him and make him pay up.
+@43.0
+Survey Specialties, they said... but how do I go about it?
+@43.2
+Don't ask
+@43.4
+Oh, just the man! There's something I'd like to ask you. Teach me the knack of Survey Specialties!
+@43.9
+For Survey Specialties, you must visit the guild of every town in the region concerned.
+@43.10
+Once in a guild, use [Market Prices] or [Talk] to get the information out of the master.
+@43.11
+When you've surveyed every town, go back to the guild that gave you the job and report to the master, and you're done.
+@43.14
+No use fretting over it! I'll check every town in that region, one after another.
+@44.0
+Deliver Treasure, they said... but how do I go about it?
+@44.2
+Don't ask
+@44.4
+Oh, just the man! Teach me the knack of Deliver Treasure!
+@44.6
+You look like you're in real trouble, sir. Very well! I'll teach you for free, just this once.
+@44.9
+For Deliver Treasure, you take an item to the person named.
+@44.10
+This time you just need to deliver it to \#3F1.
+@44.14
+No use fretting over it! I'll find him and hand it over.
+@45.0
+Buy Treasure, they said... but how do I go about it?
+@45.2
+Don't ask
+@45.4
+Oh, just the man! Teach me the knack of Buy Treasure!
+@45.9
+Buy Treasure means getting hold of an item that's one of a kind.
+@45.10
+Travelling peddlers and the like might be selling it, I'd say.
+@45.11
+Once you've bought the item asked for, go back to the guild that gave you the job, report to the master and hand it over, and you're done.
+@45.14
+Oh, yes, one thing. If you buy from a travelling peddler, don't forget to have it appraised before you take it to the guild!
+@45.15
+Right! Much obliged for the advice.
+@45.16
+No use fretting over it! I'll find a town or a merchant that sells it and go buy it.
+@46.0
+Now, a "Rule" mission... but how do I go about it?
+@46.2
+Don't ask
+@46.3
+Hm? Are you in some difficulty?
+@46.4
+Oh, just the man! How can I bring another clan under my rule?
+@46.5
+Then let me teach you about Rule.
+@46.6
+Rule is the mission of making the target clan submit to your own clan.
+@46.7
+If it succeeds, your clan's armies can pass through the castles of the clan you rule.
+@46.8
+And in war, you can have them send reinforcements.
+@46.9
+But if it fails, relations with that clan worsen, so take care.
+@46.10
+As for how to carry out the mission, you must meet the head of the target clan.
+@46.11
+This time you should meet \%043F1, head of the \907A clan.
+@46.12
+Put the matter of submission to the head. If he accepts, you succeed; if he refuses, you fail.
+@46.13
+If you have trained Speech and Etiquette, your chances of success will rise.
+@46.14
+Trust between you and the other side matters too. Still, you won't know whether you succeed until you actually negotiate...
+@46.15
+Lastly, report the result, and the mission is complete.
+@46.16
+I see. I understand it well.
+@46.17
+No use fretting over it! I'll go and meet \%043F1, head of the \907A clan.
+@47.0
+Now, a "Declare War" mission... but how do I go about it?
+@47.2
+Don't ask
+@47.4
+Oh, just the man! How do I declare war on another clan?
+@47.5
+Then let me teach you about declaring war.
+@47.6
+Declare War is the mission of formally declaring war on the target clan and cutting your ties with it.
+@47.7
+A declaration of war always succeeds. Naturally, relations with the clan you declare war on become as bad as they can be.
+@47.8
+If you declare war before attacking, relations with neighbouring clans do not worsen. When you attack, it is best to declare war first.
+@47.9
+As for how to carry out the mission, first you must meet the head of the clan.
+@47.10
+This time you need to meet \%043F1, head of the \907A clan.
+@47.11
+Once you meet the head, declare war there and then.
+@48.0
+Now, a "Court" mission... but how do I go about it?
+@48.2
+Don't ask
+@48.4
+Oh, just the man! There's something I'd like to ask you. Will you tell me about dealings with the court?
+@48.5
+So you have something to present to the court? Most commendable. Then We shall teach you about court dealings.
+@48.6
+Court dealings means presenting money and goods to the court to raise your court standing.
+@48.7
+When your standing is high, His Majesty may grant your clan a court rank.
+@48.8
+Next, how to carry out the mission. First you should meet Lord \#295, and ask him to put in a word for you.
+@48.9
+Lord \#295 resides at the noble's house in \40F6.
+@48.10
+Lord \#295 is the only one who mediates between samurai and the nobility. Take great care not to offend him.
+@48.11
+If Lord \#295 takes a liking to you, you may even be granted an audience with His Majesty.
+@48.12
+Lastly, report the outcome to your clan's head, and all is done.
+@48.14
+No use fretting over it! When it comes to the court, it's \40F6! I'll go to \40F6.
+@49.0
+An "Alliance" mission... but how do I go about it?
+@49.2
+Don't ask
+@49.4
+Oh, just the man! How do I make an alliance?
+@49.5
+Then let me teach you about alliances.
+@49.6
+Alliance is the mission of forming an alliance with the target clan.
+@49.7
+If it succeeds, your clan's armies can pass through the castles of the allied clan.
+@49.8
+And in war, you can ask your ally for reinforcements.
+@49.9
+As for how to carry out the mission, you must meet the head of the clan you are to ally with.
+@49.10
+This time you should meet \#3F1, head of the \907A clan.
+@49.11
+Put the matter of an alliance to the head. If he accepts, you succeed; if he refuses, you fail.
+@49.16
+No use fretting over it! I'll go and meet \#3F1, head of the \907A clan.
+@50.0
+Now, a "Break Alliance" mission... but how do I go about it?
+@50.2
+Don't ask
+@50.4
+Oh, just the man! How do I break off an alliance?
+@50.5
+Then let me teach you about breaking an alliance.
+@50.6
+Breaking means cutting off the alliance with an allied clan.
+@50.7
+A break always succeeds. Naturally, relations with that clan will worsen...
+@50.8
+As for how to carry out the mission, first you must meet the head of the target clan.
+@50.10
+Once you meet the head, break off the alliance there and then.
+@51.0
+...Now, a "Recruit" mission... but how do I go about it?
+@51.2
+Don't ask
+@51.3
+Why, Lord \#3FE, what is the matter?
+@51.4
+Ah, there's something I'd like to ask you. What should I do to recruit someone?
+@51.5
+If I may, I shall explain recruiting.
+@51.6
+Recruiting means bringing the target person into your own clan.
+@51.7
+If it succeeds, that officer joins your side.
+@51.8
+As for how to carry out the mission, you must meet the person to be recruited.
+@51.9
+This time you should go and meet \#3F1... I believe he is in \40F8.
+@51.10
+Then try to recruit him. If he accepts, you succeed; if he refuses, you fail.
+@51.11
+Lastly, report the result to our lord, and the mission is complete.
+@51.12
+The secret of successful recruiting is to raise your Speech skill... Special cards can also raise your chances.
+@51.13
+Trust between you and the officer will also be an important factor.
+@51.14
+I see. I understand it well now.
+@51.15
+No use fretting over it! I'll go and meet \#3F1.
+@52.0
+A "Train" mission... but how do I go about it?
+@52.2
+Don't ask
+@52.3
+Is that not Lord \#3FE? What is the matter?
+@52.4
+Ah, there's something I'd like to ask you. What should I do to train the troops?
+@52.5
+Then let me tell you about training.
+@52.6
+Training means raising the "training" of the target castle's troops.
+@52.7
+Hiring troops lowers their training, so you raise it again to be ready for war.
+@52.8
+To carry out the mission, first enter the drill ground of the castle you took the training for.
+@52.9
+This time, go to the drill ground of \40F6.
+@52.10
+Enter the drill ground and choose Train, and the training begins.
+@52.11
+Training takes 20 days, so it is best to get it done quickly.
+@52.12
+Lastly, report the results of the mission to our lord, and that is all.
+@52.14
+No use fretting over it! I'll go to \40F6.
+@53.0
+Now, a "Raise Funds" mission... but how do I go about it?
+@53.2
+Don't ask
+@53.4
+Oh, just the man! There's something I'd like to ask you. Teach me the knack of raising war funds!
+@53.5
+I'm a merchant, you see. I don't teach for nothing...
+@53.6
+You look like you're in real trouble. Very well! I'll teach you for free, just this once.
+@53.8
+Much obliged! I won't forget this!
+@53.9
+The quickest way to raise war funds is to grow your capital by trading rice.
+@53.10
+[Buy Rice] at a [Rice Shop] where rice is cheap, and [Sell Rice] at a [Rice Shop] where it's dear. Do it again and again...
+@53.11
+I see! Then I end up with more money than I started with!
+@53.12
+That's it. But when you [Sell Rice], the rice price there drops, so be careful.
+@53.14
+You can also win at gambling, or profit by dealing in trade goods... Grow the money with your own wits, sir.
+@53.15
+Lastly, deliver the money you made to your lord, and the mission's done.
+@53.16
+Hmm, hmm, I understand it well. Thank you.
+@53.17
+Next time you come, buy some of my wares too, eh?
+@53.18
+No use fretting over it! I'll look around town for places to buy and sell.
+@54.0
+Now, a "Buy Horses" mission... but how do I go about it?
+@54.2
+Don't ask
+@54.4
+Oh, just the man! There's something I'd like to ask you. Teach me the knack of buying horses!
+@54.9
+To buy horses, you go to a stable. To buy as cheaply as you can, pick a stable where horse prices are low.
+@54.10
+If you want to know the prices, go into a stable and ask.
+@54.11
+When you want to buy horses, choose Buy Horses.
+@54.12
+With a high Accounting skill you can haggle the price down, and with a high Speech skill you're more likely to get the discount.
+@54.14
+Well, I'll be off... Next time you come, buy some of my wares too, eh?
+@54.15
+No use fretting over it! I'll go to a stable.
+@55.0
+Now, a "Mine Work" mission... but how do I go about it?
+@55.2
+Don't ask
+@55.4
+Ah, there's something I'd like to ask you. What should I do to develop the mines?
+@55.5
+Then I'll tell ye about mine work.
+@55.6
+Mine work means digging mines to raise the number of "mines" the castle manages.
+@55.7
+The more mines there are, the more gold comes into the castle.
+@55.8
+But each castle has a limit to how many mines can be dug.
+@55.9
+With a high "Mining" skill, ye can dig more mines at once.
+@55.10
+As for how to do the mission, ye just enter the castle town of the castle ye took the mine work for.
+@55.11
+This time ye should go to \40F6.
+@55.12
+When ye enter the castle town of the target castle, ye can choose to do the mine work.
+@55.13
+Mine work takes 20 days, so it's best to get it done quickly.
+@55.14
+Last of all, report the results of the mission to yer lord, and that's it.
+@56.0
+Now, a "Take Province" mission... but how do I go about it?
+@56.2
+Don't ask
+@56.4
+Ah, there's something I'd like to ask you. What should I do to take a province?
+@56.5
+If I may, I shall explain taking a province.
+@56.6
+Taking a province means making every castle in the target province your clan's own.
+@56.7
+As for how to carry out the mission, you keep fighting battles until every castle in the province is your clan's.
+@56.8
+Besides battle, you can also recruit the lord of a target castle, or form an alliance with the daimyō who rules it.
+@56.9
+If there is a time limit, you must take them within it.
+@56.10
+Once every castle in the province is taken, the mission is accomplished.
+@56.12
+No use fretting over it! I just need to take every castle in the target province.
+@57.0
+Now, a "Study" mission... but how do I go about it?
+@57.2
+Don't ask
+@57.4
+There's something I don't quite understand. How should I go about studying?
+@57.5
+You wish to better yourself? A fine spirit! I shall teach you.
+@57.6
+Study, as the name says, means honing and training your own skills.
+@57.7
+But study comes in many forms.
+@57.8
+At a [Temple] like ours, for example, you can study "Etiquette." At the [Physician] you can study "Medicine"...
+@57.9
+At the [Smithy] you study "Gunnery," at the [Tea Master] "Tea," at the [Nanban Temple] "Farming"...
+@57.10
+At the [Merchant] you can learn "Accounting," at the [Stable] "Cavalry," and at the castle's [Dojo] "Swordsmanship."
+@57.11
+These studies cost money. And some skills need certain tools.
+@57.13
+Apart from those, at the [Samurai Home] you can learn mainly the arts of war.
+@57.14
+That costs no money, but unless you are close to the person, he will not teach you.
+@57.15
+Choose [Training] at any of these places, and the master will set you a trial.
+@57.16
+Study there a few times and gain experience, and you will master the skill.
+@57.17
+Each skill grows up to three levels at most, and through study you may also acquire special techniques.
+@57.19
+Even if your study brings no results, the clan's head will not be angry with you.
+@57.20
+Study takes time, and our lord understands that well.
+@57.21
+Oh, yes. Study takes a long time, 20 days. Mind the deadline for reporting your mission.
+@57.23
+No use fretting over it! I'll seek out everyone who might train me, one after another.
+@58.0
+Now, an "Expand" mission... but how do I go about it?
+@58.2
+Don't ask
+@58.3
+Ain't you Lord \#3FE? What's wrong?
+@58.4
+Ah, there's something I'd like to ask you. What should I do to expand a castle?
+@58.5
+Then I'll tell ye about expanding.
+@58.6
+Expanding means raising the "size" of the target castle.
+@58.7
+When the castle gets bigger, its defense can go higher, and its yield limit goes up too.
+@58.8
+As for how to do the mission, ye just enter the castle town of the castle ye took the expanding for.
+@58.9
+This time ye should go to \40F6.
+@58.10
+When ye enter the castle town of the target castle, ye choose whether to expand.
+@58.11
+Expanding takes 20 days. Best get it done quick.
+@58.12
+Unless ye get enough done, the castle won't grow. It's mighty hard work.
+@59.0
+Now, a "Spy Castle" mission... but how do I go about it?
+@59.2
+Don't ask
+@59.4
+Ah, there's something I'd like to ask you. What should I do to survey a castle?
+@59.5
+If I may, I shall explain castle surveys.
+@59.6
+A castle survey means gathering information on an enemy castle.
+@59.7
+Enemy castle information comes as "Land Info," "Force Info" and "Supply Info."
+@59.8
+"Land Info" covers yield and population, "Force Info" the numbers of troops, horses and guns, and "Supply Info" war funds and rice.
+@59.9
+As for how to carry out the mission, you must sneak into the enemy castle's drill ground.
+@59.10
+With a high "Ninjutsu" skill, sneaking in is easier.
+@59.11
+Once you have sneaked in, choose what you want to know from "Land Info," "Force Info" and "Supply Info."
+@59.12
+Search too long and you will be found. Look into the important information first.
+@59.13
+Lastly, report the results of your survey to our lord, and the mission is complete.
+@59.15
+No use fretting over it! I'll go to the enemy castle.
+@60.0
+Now, a "Wreck Castle" mission... but how do I go about it?
+@60.2
+Don't ask
+@60.3
+Are you in some difficulty?
+@60.4
+Ah, there's something I'd like to ask you. What should I do to wreck a castle?
+@60.5
+Then let me tell you about wrecking a castle.
+@60.6
+Wrecking a castle means lowering the target castle's defense to help your side's attack.
+@60.7
+A castle with high defense loses few of its soldiers even under attack.
+@60.8
+So if you slip into the enemy castle before the battle and lower its defense, you will have the upper hand in the siege.
+@60.9
+With a high "Ninjutsu" skill, you can lower its defense more effectively.
+@60.10
+As for how to carry out the mission, you simply enter the castle town of the castle you were assigned.
+@60.11
+This time you should go to \40F6.
+@60.12
+When you enter the castle town of the target castle, you choose whether to wreck the castle.
+@60.13
+Wrecking a castle takes time, so it is best to start early.
+@60.14
+Lastly, report the results to our lord, and the mission is complete.
+@61.0
+Now, a "Repair" mission... but how do I go about it?
+@61.2
+Don't ask
+@61.3
+Lord \#3FE! What's the matter?
+@61.4
+Ah, there's something I'd like to ask you. What should I do to repair a castle?
+@61.5
+Then let me tell you about repairs.
+@61.6
+Repairing means raising the target castle's defense to be ready for enemy attacks.
+@61.7
+A castle that sees a lot of fighting loses defense, and one day it falls.
+@61.8
+The castle's "size" sets the limit for defense, so a small castle's defense won't go up much.
+@61.9
+And with a high "Building" skill, you can raise defense more effectively.
+@61.10
+As for how to do the mission... you just enter the castle town of the castle you took the repair for.
+@61.11
+So this time I should go to \40F6.
+@61.12
+Yes. When you enter the castle town of the target castle, you can choose to repair it.
+@61.13
+Repairs take 20 days. I think it's best to get them done early.
+@61.14
+Lastly, report the results of the mission to our lord, and the mission is complete.
+@62.0
+Now, a "New Fields" mission... but how do I go about it?
+@62.2
+Don't ask
+@62.3
+Having trouble, master samurai?
+@62.4
+Ah, there's something I'd like to ask you. What should I do to open new fields?
+@62.5
+Then I'll tell ye about new fields.
+@62.6
+New fields means adding to the castle's farmland to raise its "yield."
+@62.7
+When the castle's yield goes up, more rice and money come in. And the people grow in number too.
+@62.8
+But there's a limit to the yield, set by the castle's size.
+@62.9
+With a high "Farming" skill, ye can open a lot of new fields.
+@62.10
+As for how to do the mission, ye just enter the castle town of the castle ye took the new fields for.
+@62.12
+Enter the castle town of the target castle and choose whether to open new fields.
+@62.13
+New fields take 20 days. Best get it done quick.
+@62.14
+Last of all, report the results to yer lord, and that's it.
+@63.0
+Now, a "Find Rōnin" mission... but how do I go about it?
+@63.2
+Don't ask
+@63.4
+Ah, there's something I'd like to ask you. What should I do to search for talent?
+@63.5
+If I may, I shall explain the search for talent.
+@63.6
+Searching for talent means meeting rōnin you don't know and getting acquainted with them.
+@63.7
+Rōnin you know can be recruited.
+@63.8
+As for how to carry out the mission, you must meet rōnin you don't yet know.
+@63.9
+Search the houses in the towns to see whether there are any rōnin.
+@63.10
+Greet a rōnin you don't know, and that counts as surveyed.
+@63.13
+At a town's inn you can hear rumours of rōnin... It might be worth dropping in often.
+@63.14
+Hmm, hmm, that's a great help. Thank you.
+@63.16
+No use fretting over it! I'll find every stranger I can, one after another.
+@64.0
+Now, a "Buy Cannon" mission... but how do I go about it?
+@64.2
+Don't ask
+@64.4
+Oh, just the man! There's something I'd like to ask you. Teach me the knack of buying cannon!
+@64.8
+Much obliged! \#7FE will not forget this!
+@64.9
+Cannon can be had at the [Nanban House] and the [Smithy].
+@64.10
+The [Smithy] comes out cheaper, but, well, it takes time...
+@64.11
+To get them at the [Nanban House], you must first make friends with the missionary at the [Nanban Temple].
+@64.12
+If the missionary gives you a letter of introduction, you'll be able to buy cannon at the [Nanban House].
+@64.14
+Well, I'll be off... Next time you come, buy some of my wares too, eh?
+@64.15
+No use fretting over it! I'll try the [Nanban House] or the [Merchant].
+@65.0
+Now, a "Take Daimyō" mission... but how do I go about it?
+@65.2
+Don't ask
+@65.3
+Why, Lord \#3FE, is something the matter?
+@65.4
+Ah, there's something I'd like to ask you. What should I do to take down a daimyō?
+@65.5
+If I may, I shall explain taking down a daimyō.
+@65.6
+Taking down a daimyō means destroying the target clan or bringing it under your rule.
+@65.7
+To destroy a clan, you either win battles and take all its castles, or make it surrender through diplomacy.
+@65.8
+As for how to carry out the mission... this time it is the \907A clan.
+@65.9
+Defeat the \907A in battle... or force them to yield through diplomacy, and destroy the \907A clan itself...
+@65.10
+Or you could form an alliance with the \907A or bring them under your rule, so that they are no longer an enemy.
+@65.11
+The mission is accomplished when that clan is destroyed or is no longer hostile.
+@65.12
+I see, I understand it well. Much obliged.
+@65.13
+No use fretting over it! I'll destroy the \907A!
+@66.0
+Now, a "Buy Guns" mission... but how do I go about it?
+@66.2
+Don't ask
+@66.4
+Oh, just the man! There's something I'd like to ask you. Teach me the knack of buying guns!
+@66.5
+I'm a merchant, you see. I don't teach for nothing...
+@66.7
+Much obliged! I won't forget this.
+@66.8
+Guns can be had at the [Merchant] and the [Smithy].
+@66.9
+The [Smithy] comes out cheaper, but, well, it takes time.
+@66.10
+When you can't spare many days, it costs a bit more, but you're better off buying at the [Merchant].
+@66.12
+Well, I'll be off. If you get the chance, buy some of my wares too, eh?
+@66.13
+No use fretting over it! I'll try the [Merchant] or the [Smithy].
+@67.0
+Now, a "Separate Soldiers" mission... but how do I go about it?
+@67.2
+Don't ask
+@67.3
+Lord \#3FE! Is something wrong?
+@67.4
+Ah, there's something I'd like to ask you. What should I do to separate soldiers from farmers?
+@67.5
+Ah, that. Shall I explain it?
+@67.6
+Separating soldiers from farmers means increasing the target castle's troops.
+@67.7
+But raise too many, and the rice and money coming into the castle go down.
+@67.8
+What's more, more troops in the castle lowers its yield, so its rice and money income drop twice over.
+@67.9
+Oh, and training drops too.
+@67.10
+So you have to be careful when you increase the troops.
+@67.11
+With a high "Speech" skill, you can gather more troops.
+@67.12
+As for how to do the mission, go to the [Drill Ground] of the castle you took it for.
+@67.13
+This time it's the [Drill Ground] of \40F6.
+@67.14
+Go into the drill ground and choose [Separate Soldiers].
+@67.15
+Lastly, report the results of the mission to our lord, and that's all there is to it.
+@68.0
+Now, a "Buy Rice" mission... but how do I go about it?
+@68.2
+Don't ask
+@68.4
+Oh, just the man! There's something I'd like to ask you. Teach me the knack of buying rice!
+@68.8
+First, naturally, to buy rice you go to a rice shop.
+@68.9
+To buy as cheaply as you can, buy at a rice shop where the rice price is low.
+@68.10
+When you want to know the price, go into a rice shop and choose Market Prices.
+@68.11
+When you want to buy rice, choose Buy Rice. Following me so far?
+@68.13
+You could report to your lord now, but that alone makes you only half a merchant. You've got to earn more.
+@68.14
+Hmm, so what should I do?
+@68.15
+After buying rice cheap, go to another rice shop where the price is high, and sell the rice dear.
+@68.16
+And after selling the rice dear, go back to a rice shop where the price is low and buy rice cheap again.
+@68.17
+Do it again and again...
+@68.18
+I see! Then I can keep growing my money!
+@68.19
+That's it. But buying rice pushes the price up, so be careful.
+@68.20
+Right, I understand it well.
+@68.22
+No use fretting over it! I'll go to a rice shop.
+@69.0
+Now, a "Sell Rice" mission... but how do I go about it?
+@69.2
+Don't ask
+@69.4
+Oh, just the man! There's something I'd like to ask you. Teach me the knack of selling rice!
+@69.7
+Oh, much obliged! \#7FE will not forget this!
+@69.8
+To sell rice, you go to a rice shop. To sell as dear as you can, sell at a rice shop where the rice price is high.
+@69.10
+When you want to sell rice, choose Sell Rice. Following me so far?
+@69.14
+After selling rice dear, go to another rice shop where the price is low, and buy cheap rice.
+@69.15
+And after buying rice cheap, go back to a rice shop where the price is high and sell the rice dear again.
+@69.18
+That's it. But selling rice pushes the price down, so be careful.
+@69.20
+Well, I'll be off. Next time you come, buy some of my wares too, eh?
+@70.0
+Now, an "Arson" mission... but how do I go about it?
+@70.2
+Don't ask
+@70.4
+Ah, there's something I'd like to ask you. What should I do to commit arson?
+@70.5
+Then let me tell you about arson.
+@70.6
+Arson means setting fire to the target castle's storehouses to reduce the enemy's supplies.
+@70.7
+It reduces that castle's rice, horses, guns and cannon.
+@70.8
+It works well when the enemy castle has plenty of supplies.
+@70.9
+And with a high "Ninjutsu" skill, you can reduce their supplies more effectively.
+@70.10
+As for how to carry out the mission, you simply enter the castle town of the castle you were assigned.
+@70.11
+This time you should enter \40F6.
+@70.12
+Enter the castle town of the target castle, and choose whether to commit arson.
+@70.13
+Lastly, report the results of the arson to our lord, and the mission is complete.
+@71.0
+Now, a "Win Hearts" mission... but how do I go about it?
+@71.2
+Don't ask
+@71.4
+Ah, there's something I'd like to ask you. What should I do to win the people's hearts?
+@71.5
+Then I'll tell ye about winning hearts.
+@71.6
+Winning hearts means raising the target castle's "support."
+@71.7
+When the castle's support goes up, more rice and war funds come in.
+@71.8
+With a high "Speech" skill, ye can win the people over easier.
+@71.9
+As for how to do the mission, ye just enter the castle town of the castle ye took it for.
+@71.11
+Enter the castle town of the target castle and choose whether to win hearts.
+@71.12
+Winning hearts takes 20 days. Best get it done quick.
+@71.13
+Last of all, report the results to yer lord, and that's it.
+@72.0
+Now, a "Rumours" mission... but how do I go about it?
+@72.2
+Don't ask
+@72.4
+Ah, there's something I'd like to ask you. What should I do to spread rumours?
+@72.5
+Then let me tell you about rumours.
+@72.6
+Spreading rumours means feeding the people false stories to lower the target castle's support.
+@72.7
+Lower its support, and the enemy castle's income drops.
+@72.8
+It works well when you mean to take an enemy castle over time.
+@72.9
+And if the castle has officers, spreading wild rumours there also lowers each officer's loyalty.
+@72.10
+So it is also a good plan when there are officers you want to lure away by recruiting.
+@72.11
+With rumours too, a high "Ninjutsu" skill lowers support more effectively.
+@72.12
+As for how to carry out the mission, you simply enter the castle town of the castle you were assigned.
+@72.13
+This time you should enter \40F6.
+@72.14
+Enter the castle town of the target castle, and choose whether to spread rumours.
+@72.15
+Lastly, report the results of the rumours to our lord, and the mission is complete.
+@73.0
+Oh, so this is \40F5, my own castle!
+@73.1
+Why, Lord \#BFE, what is the matter?
+@73.2
+\%00 have just been made lord of this \40F5, and I was thinking about what lies ahead.
+@73.3
+If you like, shall I tell you about being a castle lord?
+@73.6
+Oh, that would be good. Please do.
+@73.8
+For those of Castle Lord rank or higher, the [Castle] is your home. You know this already, I trust?
+@73.9
+Yes, I know.
+@73.10
+Enter the [Castle], and you are in the lord's hall. There, besides what you could do at home, you have the [Council Chamber] and [Ability Training].
+@73.11
+Choose [Council Chamber] to go to the council chamber. You know the council chamber, I trust?
+@73.12
+Yes, it's where we receive missions. So from now on it's where I give missions instead of receiving them.
+@73.13
+Yes. In the council chamber you can [Give Missions], and use [Personnel], [Battle], [Rebellion], [Transport] and [Move Base].
+@73.14
+[Give Missions] gives missions to your retainers and aides, Lord \#BFE.
+@73.15
+Some come to the council while ill, so please take care when you hand out missions.
+@73.16
+Right, I'll bear that in mind.
+@73.17
+In [Personnel] you can give your retainers a [Promotion] to raise their rank, or [Appoint] a [Strategist], Lord \#BFE.
+@73.18
+[Battle] forms an army and attacks another clan's castle.
+@73.19
+As a Castle Lord or Province Lord, you must always lead the army yourself as army leader.
+@73.20
+When you march out, you can ask for reinforcements. You can ask our lord's seat and the ninja villages that back the \#BFD clan.
+@73.21
+If our lord's seat is under attack, naturally you cannot ask it for reinforcements.
+@73.22
+Asking a ninja village for reinforcements costs 10,000 kan of war funds.
+@73.23
+And if our lord's seat or the ninja village has too few troops, you cannot ask them.
+@73.24
+When you march out as army leader, Lord \#BFE, you can also change the army's destination on the way.
+@73.25
+I should add that there are two kinds of sea route: those an army can pass, and those it cannot.
+@73.26
+And how do I tell them apart?
+@73.27
+The dark blue ones are sea routes an army can pass, and the light blue ones are those it cannot. A person on his own can travel either.
+@73.28
+You can see them on the map when you march out, so I'm sure you will manage.
+@73.29
+I see. Then I won't worry about it.
+@73.30
+[Rebellion] is... You understand, don't you? It's not something I can say...
+@73.31
+Yes, I understand. No need to spell it out.
+@73.32
+Thank you for your consideration.
+@73.33
+[Transport] and [Move Base] become available once you rise to Province Lord or higher.
+@73.34
+[Transport] moves supplies such as troops, rice, war funds, horses, guns and cannon between the castles you rule, Lord \#BFE.
+@73.35
+[Move Base] changes the castle you use as your seat to another castle you rule, Lord \#BFE.
+@73.36
+That is the gist of the [Council Chamber].
+@73.37
+Mm. And what is the other one, [Ability Training]?
+@73.38
+Ah, [Ability Training] is training specially permitted only to those of Castle Lord rank or higher.
+@73.39
+It takes 100 kan and 30 days, but it can raise abilities such as Leadership, Valor, Politics, Diplomacy and Charm.
+@73.40
+Oh! That's good to hear. I must work hard at that! Is there anything else?
+@73.41
+Those of Castle Lord rank or higher can withdraw their seat's war funds into their own purse. Please refrain from wasting them.
+@73.42
+Also, at the castles you rule, Lord \#BFE, you can carry out domestic missions like New Fields and military missions like Train yourself.
+@73.43
+You can also trade your seat's rice and buy supplies yourself, so rather than always leaving it to your retainers...
+@73.44
+...if I do it myself as well, the castle's affairs and defences will be in order all the sooner. Is that it?
+@73.45
+How perceptive, Lord \#BFE! You are quite right. That concludes my explanation.
+@73.46
+Mm, that was helpful. Much obliged.
+@73.47
+Then, by your leave.
+@74.0
+\%03.
+@74.1
+Why, Lord \#8B1!
+@74.2
+Well, \%03, how did you find the council?
+@74.3
+I was quite nervous, I must admit. But more to the point, Lord \#8B1...
+@74.5
+The truth is, this is my first mission...
+@74.6
+I forgot the details
+@74.7
+Check my mission
+@74.8
+I was so nervous that I forgot what my mission was.
+@74.9
+Wh-what!? That won't do, \%03.
+@74.10
+F-forgive me!
+@74.11
+Lord \#8B1, what on earth should I do?
+@74.12
+Oh, what's this!?
+@74.13
+Surprised, \%03? You can check your mission at any time with the L1 button.
+@74.14
+Oh, so it was there!?
+@74.15
+Here you can also see how much you have achieved so far.
+@74.16
+I see! Thank you for your guidance, Lord \#8B1!
+@74.17
+Never mind that. More importantly, \%03, don't let your guard down at council.
+@74.19
+Oho... So that is your first mission, \%03.
+@74.20
+Yes. \%00 finally feel I'm truly a retainer of the \#BFD clan.
+@74.21
+By the way, shall I explain how to bring up the mission information you just saw?
+@74.24
+Please do.
+@74.25
+Mm. Then let me explain.
+@74.26
+Listen, \%03. When you receive a mission, the mission window appears at the top left of the screen.
+@74.27
+What!? Now that you mention it... I had been wondering about that.
+@74.28
+You can also see how much you have achieved so far. It opens with the L1 button.
+@74.30
+I know it already.
+@74.31
+I see. Just what I'd expect of you, \%03. From now on even \%00 can't afford to be careless.
+@74.32
+Thank you for your kindness, Lord \#8B1!
+@74.33
+And another thing. I'm glad you honour me with "Lord \#8B1," but you are an Ashigaru Captain now too.
+@74.34
+From now on we are both retainers of the \#894 clan, so there is no need to be so formal. Just call me "\#8B1."
+@74.35
+Yes, understood... \#8B1.
+@74.36
+Well then, \%03, work hard.
+@74.37
+Yes, sir!
+@75.0
+Now, a "Take Castle" mission... but how do I go about it?
+@75.2
+Don't ask
+@75.4
+Ah, there's something I'd like to ask you. What should I do to take a castle?
+@75.5
+If I may, I shall explain.
+@75.6
+Taking a castle means making the target castle your clan's own.
+@75.7
+As for how to carry out the mission, you keep fighting battles until the target castle is your clan's.
+@75.9
+When it is over, report the results of the mission to our lord, and you are done.
+@75.11
+No use fretting over it! Let's take \40F6!
+@76.0
+Now, an "Attack" job... but how do I go about it?
+@76.2
+Don't ask
+@76.3
+In some difficulty?
+@76.4
+Ah, there's something I'd like to ask you. What should I do to carry out an attack?
+@76.5
+I shall tell you about attacks.
+@76.6
+An attack means falling upon an officer of a clan hostile to our village.
+@76.7
+If the attack succeeds, you weaken the enemy's strength without a battle.
+@76.8
+The higher your "Ninjutsu" and "Swordsmanship" skills, the better your chance of success.
+@76.9
+As for the work, go to the samurai homes, the houses or the lord's hall, and meet the target of the attack.
+@76.10
+This time you should meet \#3F1.
+@76.11
+Then carry out the attack there.
+@76.12
+Lastly, report the results of your work to the chief, and the task is complete.
+@76.14
+No use fretting over it! I'll find \#3F1 and strike!
+@77.2
+Don't ask
+@77.7
+Enemy castle information comes as "Land Info," "Force Info" and "Supply Info."
+@77.9
+As for the work, you must sneak into the enemy castle's drill ground.
+@77.13
+Lastly, report the results of your survey to the chief, and the work is complete.
+@78.2
+Don't ask
+@78.5
+Then let me tell you about wrecking a castle.
+@78.7
+A castle with high defense loses few of its soldiers even under attack.
+@78.8
+So if you slip into the enemy castle before the battle and lower its defense, you will have the upper hand in the siege.
+@78.10
+As for the work, you simply enter the castle town of the castle you were assigned.
+@78.12
+Enter the castle town of the target castle, and choose whether to wreck the castle.
+@78.13
+Lastly, report the results to the chief, and the work is complete.
+@79.2
+Don't ask
+@79.5
+If I may, I shall explain the search for talent.
+@79.8
+Next, as for the work, you must meet rōnin you don't yet know.
+@79.9
+Search the houses in the towns to see whether there are any rōnin.
+@79.15
+Then I shall take my leave.
+@79.16
+No use fretting over it! I'll find every stranger I can, one after another.
+@80.2
+Don't ask
+@80.5
+Then let me tell you about arson.
+@80.7
+It reduces that castle's rice, horses, guns and cannon.
+@80.9
+And with a high "Ninjutsu" skill, you can reduce their supplies more effectively.
+@80.10
+As for the work, you simply enter the castle town of the castle you were assigned.
+@80.12
+Enter the castle town of the target castle, and choose whether to commit arson.
+@80.13
+Lastly, report the results of the arson to the chief, and the work is complete.
+@81.2
+Don't ask
+@81.5
+Then let me tell you about rumours.
+@81.9
+And with a high "Ninjutsu" skill, you can lower support more effectively.
+@81.10
+Next, as for the work, you simply enter the castle town of the castle you were assigned.
+@81.13
+Lastly, report the results of the rumours to the chief, and the work is complete.
+@82.0
+Well, I've come outside, but what should I do now?
+@82.1
+Look for someone
+@82.2
+I'll manage
+@82.3
+Hey there, traveller!
+@82.5
+There's something I'd like to ask you... How do I get to other towns and castles?
+@82.6
+Move the cursor onto a castle or town and its name is shown.
+@82.7
+With the name shown, press the Circle button, and you are asked whether to go there.
+@82.8
+Choose "Yes" to go there, or press "No" to stay put.
+@82.9
+Time passes while you travel to your destination, so do take care.
+@82.11
+To talk to someone walking about, put the cursor on that person and press the Circle button.
+@82.12
+If the person is far away, you are asked whether to head for that person. Choose "Yes" to follow him.
+@82.13
+Understood! Then I'm off!
+@82.14
+Please wait! The important part comes now.
+@82.15
+When you travel far, sometimes you can't choose the place you want to go.
+@82.16
+I see... So to reach a faraway place I must go a little at a time?
+@82.17
+In such cases, [Set destination] is handy.
+@82.18
+Choose the [Set destination] card at the bottom right of the screen.
+@82.19
+A map appears, and you choose your destination with the Circle button.
+@82.20
+To go home from a faraway town or castle, the [Return to base] card is handy.
+@82.21
+But choosing places I go to again and again every single time is a bother.
+@82.22
+Never fear! For such times you can register the places you often go to.
+@82.23
+Above the [Return to base] card there is a card called [Unregistered].
+@82.24
+Press it with the Circle button and choose a place you often go to from the map.
+@82.25
+That card then shows the destination, and from then on you only need to press it to go there.
+@82.26
+Oh! That's marvellous!
+@82.27
+Not yet, not yet. Don't be surprised so soon.
+@82.28
+Press the Square button, and "recently visited places" cards appear.
+@82.29
+They're handy when you want to go back to a place you went to recently. Up to five places are shown.
+@82.30
+The Square button, eh... Right! I've got it!
+@82.31
+Travelling the length of this land, from Matsumae in the north to Kagoshima in the south, takes about 30 days.
+@82.32
+There are also ways to travel faster, so do look for them.
+@82.33
+Mm, you've been a great help. Much obliged.
+@82.34
+Then safe travels to you.
+@82.35
+Well, I'll work it out somehow.
+@83.0
+Now, a "Battles" job... but how do I go about it?
+@83.2
+Don't ask
+@83.4
+Ah, there's something I'd like to ask you. What should I do in a battle?
+@83.5
+If I may, I shall explain battles.
+@83.6
+A battle means marching out as an army and fighting an enemy castle or army.
+@83.7
+As for the work, you move your own army to the target castle or army.
+@83.8
+When you clash with the target castle or army, you fight a battle there.
+@83.9
+When the battle is over, return and report the results to the chief, and you are done.
+@83.11
+No use fretting over it! To battle!
+@84.0
+So this is the council chamber. Oh, so many of the \#894 clan's senior retainers are here.
+@84.1
+At last I'm allowed to attend a place like this too!
+@84.2
+\#7FE, I see you found your way here.
+@84.3
+Lord \#8B1! \#7FE has somehow made it here.
+@84.4
+Lord \#494 will be here shortly. Keep quiet until then.
+@84.7
+Ouch! Who's that!? Who's bumping into \#7FE!?
+@84.8
+What's this? I thought it was some grubby monkey, and it's you. What are you doing here?
+@84.9
+Who are you?
+@84.10
+It is an honour to meet you. My name is \#3FE.
+@84.11
+This is no place for the likes of you. Clear off at once.
+@84.12
+Lord \#4AF, \#7FE has been promoted to Ashigaru Captain and is to attend the council.
+@84.13
+This fellow, promoted? There must have been some mistake.
+@84.14
+Well, never mind. Just keep quiet so you don't make a fool of yourself at the council!
+@84.15
+Grr! How rude!
+@84.16
+Calm down, \#7FE.
+@84.17
+Some of the veteran officers don't think much of newcomers like you.
+@84.18
+...\nI understand.
+@84.19
+\#7FE has been promoted and has come to attend the council.
+@84.20
+What, you, promoted? There must have been some mistake.
+@84.22
+Grr! How rude!
+@84.23
+Oh! Lord \#494 has arrived!

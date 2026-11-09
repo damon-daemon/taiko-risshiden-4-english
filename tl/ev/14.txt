@@ -1,0 +1,122 @@
+@0.0
+Lord \#3FE!\nI bring good news!
+@0.1
+Hm?\nWhat is it?
+@0.2
+Lord \#21A, master of \40F8,\nhas given up on the \#A11 clan\nand come over to our side!
+@0.3
+Oh!\nIs that true!?
+@0.4
+Yes, sir!\nThere is no mistake!
+@0.5
+I see... But \#211\nwill not stand by and watch...\nHe will surely attack \#21A...
+@1.0
+A report! \#211\nseems to have marched out to attack\nLord \#21A at \40F8.
+@1.1
+What!\nAt \40F8!?
+@1.2
+Lord \#A1A has asked\nthe old lord for reinforcements!!
+@1.3
+Hmm...\nWe cannot abandon\none who came over to us...
+@1.4
+The old lord orders you, Lord \#7FE,\nto go at once to \40F8\nwith reinforcements.
+@1.5
+So my brother says he leaves\nthe relief of \40F8 to me,\non behalf of the Shimazu.
+@1.7
+Very well, I understand!\nI'll show the Bear of Hizen\nthe pride of a Shimazu warrior! We march!
+@1.8
+But, my lord!\nTo reach \40F8 we must\npass through \#A11 lands...
+@1.9
+Why not strike at \40F6\ninstead?
+@1.10
+No, \40F6 is strong.\nWhat is more, if \#611 shuts himself up\nin the castle, he will be even harder to attack.
+@1.11
+We must draw \#611 out into the field,\nso we head straight for \40F8.\nNot by land, but by sea!
+@1.12
+By sea?
+@1.13
+That's right!\nWe cross the Ariake Sea by ship to the Shimabara peninsula!
+@1.14
+We head for \40F8 at once!\nWe march!
+@1.17
+Lord \#A1A is asking\nthe old lord for reinforcements!!
+@1.18
+Hmm... we cannot abandon\none who came over to us...\nGood, we will send reinforcements at once.
+@1.19
+Gather the generals in the castle town\nin the Council Chamber at once!
+@1.25
+The old lord orders you\nto come to the castle at once.
+@1.26
+Yes, I understand.
+@1.27
+As you have all heard,\n\#21A of \40F8 has asked us\nfor reinforcements.
+@1.28
+To abandon one who has come over to us\nwould shame the warriors of Satsuma.\nSo I wish to send reinforcements at once.
+@1.29
+A wise plan, my lord.\nLet us head for \40F8 at once.
+@1.30
+We avoid passing through \#A11 lands,\ncross the Ariake Sea by ship to the Shimabara peninsula\nand head for \40F8.
+@1.31
+I leave command of the relief force to \#546!\nBring me back \#211's head!
+@1.32
+Yes, sir!\nOn the honour of the \#948 clan,\nI will return victorious!
+@1.33
+Good!! I am counting on you!
+@2.0
+A report! ...\40F8 has\nbeen taken by \#211!\nIts commander, Lord \#21A, has fallen!
+@2.1
+Failing to save \40F8...\nis our house's fault.\nIt will weigh on us for a long time...
+@2.2
+Victorious at the Battle of Okitanawate,\n\#211 grew ever stronger,\nwith Hizen at the centre of his power...
+@2.3
+A struggle with the \#948 clan\ncould no longer be avoided...
+@2.4
+Now the \#A11 will\nbe a little quieter...
+@2.5
+With the death of the fierce \#211,\nfeared by the daimyō around him\nas "the Bear of Hizen"...
+@2.6
+...the mastery of Kyūshū\nswung heavily toward\nthe \#948 clan...
+@2.7
+With the death of \#211,\n\#3F1 has succeeded him.
+@3.0
+Ah, your reinforcements are most welcome!\nI am sorry for all the trouble.
+@3.1
+And the \#A11 army?
+@3.2
+On hearing that Lord \#7F1 was coming,\nthey seem to be marching here\nin high spirits.
+@3.3
+Hmm... we do not know\nthe lie of the land here...\nWhere should we meet them?
+@3.4
+Well... there is a causeway called Okitanawate.\nIf we can lure them out there,\nthey will be caught in the mud...
+@3.5
+And the \#A11 side will\nnot be able to move freely, you mean...
+@3.6
+Good, then we advance.\n\#61A, hold this castle firmly!
+@3.7
+Good, then we advance.\nLord \#61A, hold this castle firmly!
+@3.8
+Yes, sir!\nI pray for your fortune in battle.
+@4.0
+A report!\nOur army is collapsing!
+@4.1
+Bah! Retreat, whatever it takes!
+@4.3
+Hmm... no help for it.\nAs things are, we are at a disadvantage, not knowing the land...\nThere is no choice. We retreat.
+@4.5
+A great victory for us, sir!
+@4.7
+We have taken the head\nof the enemy commander \#211!
+@4.8
+Good! A great victory!\nWe return to the castle!
+@5.0
+The enemy seems to be in great strength...
+@5.1
+But look!\nTheir vanguard seems to be\nstuck in the mud of the paddies.
+@5.2
+Oh, so it is!\nThe units behind are trampling the ones in front,\nand they are in utter confusion!
+@5.3
+Good! Now!\nWe crush the \#A11 army at one stroke!\nNever mind their numbers!
+@5.4
+The morale of \#211's army fell sharply.\nThe morale of \#3F1's army rose.
+@5.5
+Now! At them!

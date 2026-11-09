@@ -9,9 +9,9 @@
 @4
 ?-1593\nGovernor of Noto. Heir of Yoshitsugu. Lord of Nanao. He became governor when his father retired and worked with him to restore their rule, but the angry retainers drove them out. He tried many times to return to Noto, but never succeeded.
 @5
-1567-1615\nSecond son of Masayuki, brother of Nobuyuki. Known as Yukimura. Sided with the West at Sekigahara and exiled to Kudoyama. Called by the Toyotomi to Ōsaka Castle, he fought the huge Tokugawa host with few men and was hailed "the finest warrior in Japan".
+1567-1615\nSecond son of Masayuki, brother of Nobuyuki. Known as Yukimura. He sided with the West at Sekigahara and was exiled to Kudoyama. Called by the Toyotomi to Ōsaka Castle, he fought the huge Tokugawa host with few men and was hailed as "the finest warrior in Japan".
 @6
-1527-1578\nTakeda vassal. Danjo-no-chu. One of the Four Great Takeda Retainers. He rose from Shingen's page to samurai general. The house's finest tactician, one of the three Danjo of the age, called "Retreating Danjo". Said to be the original author of the "Koyo Gunkan".
+1527-1578\nTakeda vassal. Danjō-no-chū. One of the Four Great Takeda Retainers. He rose from Shingen's page to samurai general. The house's finest tactician, one of the three Danjō of the age, called "Retreating Danjo". Said to be the original author of the "Koyo Gunkan".
 @7
 ?-?\nSanada vassal. One of the Ten Sanada Braves. A former Takeda vassal, he roamed from battle to battle after the Takeda fell and came to serve Sanada Yukimura. In the summer siege of Ōsaka he is said to have charged Ieyasu's headquarters as Yukimura's double. A master spearman.
 @8
@@ -19,7 +19,7 @@
 @9
 ?-?\nSanada vassal. One of the Ten Sanada Braves. His origins are disputed: some say he was the son of Yukimura's page Kakei Jubei, others a Hachisuka vassal won over by Yukimura. He always carried a Tanegashima gun and was a superb shot.
 @10
-?-?\nSanada vassal. One of the Ten Sanada Braves, a master of Iga ninjutsu. Orphan of Kirigakure Danjozaemon, a samurai general of Azai Nagamasa, he is said to have learnt the secrets of ninjutsu from Momochi Sandayū. Meeting Sarutobi Sasuke led him to serve Sanada Yukimura.
+?-?\nSanada vassal. One of the Ten Sanada Braves, a master of Iga ninjutsu. Orphan of Kirigakure Danjōzaemon, a samurai general of Azai Nagamasa, he is said to have learnt the secrets of ninjutsu from Momochi Sandayū. Meeting Sarutobi Sasuke led him to serve Sanada Yukimura.
 @11
 ?-?\nSanada vassal. One of the Ten Sanada Braves, a Kōga ninja. Son of Washio Sadayū, a Shinshu country samurai. Trained by the master Tozawa Hakuunsai, he gained full mastery. Yukimura, out boar hunting at Torii Pass, found him by chance and took him as a retainer.
 @12
@@ -27,7 +27,7 @@
 @13
 ?-?\nSanada vassal. One of the Ten Sanada Braves, famed with the chain-sickle. A bandit in the Suzuka hills, he later served Yukimura with Miyoshi Isa Nyudo. During Yukimura's exile he is said to have run a spear dojo in Edo to spy on Ieyasu.
 @14
-?-1582\nFourth son of Takeda Nobutora, Shingen's brother. Styled Shoyoken. After his brother Nobushige died he led the kin in aiding Shingen. He looked like Shingen and served as his double, hiding his death after he died. A gifted painter, he left many portraits.
+?-1582\nFourth son of Takeda Nobutora, Shingen's brother. Styled Shōyōken. After his brother Nobushige died he led the kin in aiding Shingen. He looked like Shingen and served as his double, and hid his death when he died. A gifted painter, he left many portraits.
 @15
 1546-1582\nDaimyō of Kai. Fourth son of Shingen. Inheriting at Shingen's death, he expanded by force, but after the crushing defeat at Nagashino his domain grew hard to hold. With rifts among his retainers, he lost to the Oda and Tokugawa and killed himself at Tenmokuzan.
 @16
@@ -35,11 +35,11 @@
 @17
 ?-1582\nTakeda vassal. Eighth son of Nobutora, Shingen's half-brother. One of the 24 Takeda Generals. Heir to the noble Ichijō of Kai, he served among the kin. When Katsuyori fled Shinpu Castle he stayed to meet Ieyasu's army, and was caught and beheaded.
 @18
-?-1582\nTakeda vassal. Shingen's nephew. Styled Baisetsu. First among the kin and one of the 24 Takeda Generals, he mostly guarded headquarters. After Shingen died he heeded Ieyasu's call and left Katsuyori. At Honnō-ji he was in Sakai and was killed by rioters going home.
+?-1582\nTakeda vassal. Shingen's nephew. Styled Baisetsu. First among the kin and one of the 24 Takeda Generals, he mostly guarded headquarters. After Shingen died he heeded Ieyasu's call and left Katsuyori. In Sakai at the time of Honnō-ji, he was killed by rioters on his way home.
 @19
 1547-1611\nLord of Ueda in Shinano. Third son of Yukitaka, father of Nobuyuki and Yukimura. A schemer Hideyoshi called "two-faced". He won fame beating Ieyasu's army at Ueda. At Sekigahara he pinned Hidetada's army at Ueda with a few thousand men and made him late.
 @20
-1572-1663\nSon of Takeda vassal Obata Masamori. Named Kagenori. Koshu tactics scholar. After the Takeda fell he was Hidetada's page, then fled and wandered. At Ōsaka he joined the castle while secretly working for Itakura Katsushige of the Tokugawa. He later taught Koshu tactics for the shōgunate.
+1572-1663\nSon of Takeda vassal Obata Masamori. Named Kagenori. Kōshū tactics scholar. After the Takeda fell he was Hidetada's page, then left to wander. At Ōsaka he joined the castle as a spy for Itakura Katsushige of the Tokugawa. He later taught tactics for the shōgunate.
 @21
 ?-1582\nEldest son of Shingen's brother Nobushige. Lord of Komoro in Shinano. Inheriting when his father fell at Kawanakajima, he served Shingen and Katsuyori as kin, holding Komoro. Gifted in war like his father and ever loyal, he was murdered when Nobunaga invaded Kai.
 @22
@@ -55,13 +55,13 @@
 @27
 1556-1582\nTakeda vassal. Fifth son of Kanemaru Torayoshi. Took over the Tsuchiya and served Shingen, then Katsuyori, staying at his side after Nagashino. At Tenmokuzan he fought alone to guard Katsuyori and died, a feat called "one hand, a thousand cut down".
 @28
-1509-1593\nTakeda vassal. Lord of Takatō in Shinano. Danjo-no-chu. Fought in many battles with the Shinano band. After the Takeda fell he served Ieyasu. A brave spearman called "Spear Danjo", named in the "Koyo Gunkan" as one of the three Danjo of the age.
+1509-1593\nTakeda vassal. Lord of Takatō in Shinano. Danjō-no-chū. Fought in many battles with the Shinano band. After the Takeda fell he served Ieyasu. A brave spearman called "Spear Danjo", named in the "Koyo Gunkan" as one of the three Danjō of the age.
 @29
-1521-1573\n19th Takeda head. Governor of Kai. Heir of Nobutora. Opposing his father's harsh rule, he drove him out and took over. Leading able retainers and mighty cavalry, he schemed with flexible genius: "the Tiger of Kai". He also ruled well, with flood works and laws.
+1521-1573\n19th Takeda head. Governor of Kai. Heir of Nobutora. Opposing his father's harsh rule, he drove him out and took over. Leading able retainers and mighty cavalry, he schemed with a genius for the moment: "the Tiger of Kai". He also ruled well, with flood works and laws.
 @30
 1538-1567\nEldest son of Shingen. Wife: Imagawa Yoshimoto's daughter. Seen as Shingen's heir, he fell out with his father, who planned to attack his wife's family, the Imagawa. His plot to rebel was uncovered and he was confined at Tokoji. He died two years later, by suicide or illness.
 @31
-1525-1561\nSecond son of Nobutora, Shingen's brother. Styled Tenkyu. First of the 24 Takeda Generals. Gifted and well loved, he was Shingen's second. He fell at Kawanakajima defending headquarters, to Shingen's grief. Later praised as "Lord Tenkyu, a true general."
+1525-1561\nSecond son of Nobutora, Shingen's brother. Styled Tenkyū. First of the 24 Takeda Generals. Gifted and well loved, he was Shingen's second. He fell at Kawanakajima defending headquarters, to Shingen's grief. Later praised as "Lord Tenkyū, a true general."
 @32
 1515?-1575\nTakeda vassal. One of the Four Great Takeda Retainers, serving three Takeda heads. In 40 years of war he was never once wounded, earning the name "Deathless Demon Mino". At Nagashino he led the rearguard to let Katsuyori escape, and died.
 @33
@@ -77,15 +77,15 @@
 @38
 1537-1575\nTakeda vassal. Heir of Torayoshi. One of the 24 Takeda Generals. He did well at Odawara and took first spear at Hanazawa in Suruga. At Mikatagahara Yamagata Masakage praised his valour and gave him the sword Yoshimitsu, later adopting him.
 @39
-1513-1574\nTakeda vassal. Second son of Unno Munetsuna, father of Masayuki. Danjo-no-chu. Of the Shinano band, he took Toishi Castle by a ruse where Shingen had failed, and became his strategist. One of the three Danjo of the age, "Attacking Danjo".
+1513-1574\nTakeda vassal. Second son of Unno Munetsuna, father of Masayuki. Danjō-no-chū. Of the Shinano band, he took Toishi Castle by a ruse where Shingen had failed, and became his strategist. One of the three Danjō of the age, "Attacking Danjo".
 @40
-1521?-1575\nTakeda vassal. One of the Four Great Takeda Retainers. After Shingen's brother Nobushige fell, he became Shingen's second in command. A skilled general of great merit, Shingen said, "From Masatoyo, outstanding work is only natural." He fell to gunfire at Nagashino.
+1521?-1575\nTakeda vassal. One of the Four Great Takeda Retainers. After Shingen's brother Nobushige fell, he became Shingen's second in command. A skilled general of great merit; Shingen said, "From Masatoyo, outstanding work is only to be expected." He fell to gunfire at Nagashino.
 @41
 ?-1575\nTakeda vassal. Son of Masatoshi. Also Hayato-no-suke or Masakatsu. One of the 24 Takeda Generals, he served as camp magistrate. He knew land and terrain so well that Shingen said, "Leave the camp sites to Hayato." He was shot dead at Nagashino.
 @42
-?-1561?\nTakeda vassal. Also Haruyuki; styled Doki. One of the 24 Takeda Generals. Versed in letters and arms, he was Shingen's strategist and built castles such as Komoro. At Kawanakajima Kenshin saw through his "woodpecker" plan; he charged the foe and died.
+?-1561?\nTakeda vassal. Also Haruyuki; styled Dōki. One of the 24 Takeda Generals. Versed in letters and arms, he was Shingen's strategist and built castles such as Komoro. At Kawanakajima Kenshin saw through his "woodpecker" plan; he charged the foe and died.
 @43
-1552-1579\nSeventh son of Hōjō Ujiyasu. First a hostage of the Takeda; after returning he was sent to Echigo, adopted by Uesugi Kenshin and named Kagetora. After Kenshin died the house split in the "Otate Disturbance"; he fought Uesugi Kagekatsu, lost and killed himself.
+1552-1579\nSeventh son of Hōjō Ujiyasu. First a hostage of the Takeda; after returning he was sent to Echigo, adopted by Uesugi Kenshin and named Kagetora. After Kenshin died the house split in the Otate war; he fought Uesugi Kagekatsu, lost and killed himself.
 @44
 1559-1611\nHōjō kinsman. Second son of Ujishige. Inherited after his brother Ujitoshi died, as lord of Tamanawa. In the Odawara campaign he lost Yamanaka Castle in Izu, escaped to hold Tamanawa, then surrendered to Ieyasu. He was spared and given lands.
 @45
@@ -109,13 +109,13 @@
 @54
 ?-1590\nHōjō vassal. He served Hōjō Ujikuni of Hachigata, becoming keeper of Minowa and then of Numata. On his own he seized Nagurumi, a castle of Sanada Masayuki, which gave Hideyoshi his pretext for the Odawara campaign. After the Hōjō fell he was crucified.
 @55
-1494-1582\nOgigayatsu Uesugi, later Hōjō vassal. One of the Four Heavenly Kings of the Ogigayatsu Uesugi. He surrendered to the Hōjō invasion of Musashi and served them after. Made lord of Matsuyama as an outside lord, he used his own red seal and ruled apart from the Hōjō.
+1494-1582\nOgigayatsu Uesugi, later Hōjō vassal. One of the Four Heavenly Kings of the Ogigayatsu Uesugi. He surrendered to the Hōjō invasion of Musashi and then served them. Made lord of Matsuyama as an outside lord, he used his own red seal and ruled apart from the Hōjō.
 @56
 1533-1590\nHōjō vassal. Lord of Kawagoe Castle. A hereditary senior retainer who served three heads from Hōjō Ujiyasu. Skilled in government, he helped his castle town thrive. He surrendered to Hideyoshi's Odawara army and guided it, but Hideyoshi ordered him to kill himself.
 @57
 1527-1579\n27th Chiba head. Second son of Masatane. Lord of Sakura. A Shimousa lord. While his neighbours the Satake and Satomi allied with the Uesugi, he joined the Hōjō as their vassal. He beat off an Uesugi-Yuki attack and held the Satomi of Kazusa in check from Shimousa.
 @58
-?-1595\nHōjō vassal. Heir of Nagayasu. Lord of Oshi. In the Odawara campaign he held out in Odawara, while Ishida Mitsunari tried to flood his Oshi Castle, which held and never fell. After the Hōjō fell he served Gamō Ujisato. Said to have dealt with Hideyoshi early.
+?-1595\nHōjō vassal. Heir of Nagayasu. Lord of Oshi. In the Odawara campaign he held out in Odawara Castle; meanwhile Ishida Mitsunari tried to flood his Oshi Castle, but it held and never fell. After the Hōjō fell he served Gamō Ujisato. Some say he had long been secretly in touch with Hideyoshi.
 @59
 ?-1616\nHōjō vassal. Lord of Oshi. Second son of Nagayasu, brother of Ujinaga. He held Odawara with his brother, then served Gamō Ujisato. Inheriting his brother's lands, he became lord of Karasuyama in Shimotsuke. He fought for the East at Sekigahara and Ōsaka.
 @60
@@ -131,13 +131,13 @@
 @65
 1545-1600\nHōjō kinsman. Fourth son of Ujiyasu. A child hostage of the Imagawa, he befriended Ieyasu, also a hostage there. He did well in diplomacy, such as peace talks with Hideyoshi. In the Odawara campaign he held Nirayama Castle, then opened it at Ieyasu's urging.
 @66
-?-1590\nHōjō vassal. Chief retainer. In Hideyoshi's Odawara campaign he pressed hard to hold out in Odawara Castle. During the siege Hori Hidemasa tempted him to betray the Hōjō, but he failed and was caught by Ujinao. After the war Hideyoshi had him kill himself.
+?-1590\nHōjō vassal. Chief elder. In Hideyoshi's Odawara campaign he pressed hard to hold out in Odawara Castle. During the siege Hori Hidemasa tempted him to betray the Hōjō, but the plot failed and Ujinao had him seized. After the war Hideyoshi had him kill himself.
 @67
 1566?-1615\nHōjō rōnin. Named Masatomo. He served the Imagawa, then the Takeda as lord of Senpuku in Suruga. After the Takeda fell he served Yūki Hideyasu, but left under Hideyasu's son Tadanao and joined Ōsaka Castle for the Toyotomi. He fell in the summer siege.
 @68
 1515-1571\nDaimyō of Sagami. 3rd Hōjō head. Heir of Ujitsuna. He held his own against Shingen and Kenshin and built a great state in Kantō. A wise, brave general, famed for routing a host ten times his size in the "Kawagoe night battle". A fine ruler, he set the Hōjō on firm ground.
 @69
-1513-1564\nHōjō vassal. Heir of Naokage. Head of the Edo band and keeper of Edo Castle. A man of taste, he invited the poet Soboku to hold renga gatherings there. At the second battle of Kōnodai he led the van, fought fiercely with the Satomi and died.
+1513-1564\nHōjō vassal. Heir of Naokage. Head of the Edo band and keeper of Edo Castle. A man of taste, he invited the poet Sōboku to hold renga gatherings there. At the second battle of Kōnodai he led the van, fought fiercely with the Satomi and died.
 @70
 1542-1600\nOda vassal. Commander of the Kuki navy, one of the Shima pirate band. With his "ironclads" he crushed the Mōri navy and led Nobunaga to victory. For this he rose to daimyō, called the "Pirate Daimyō". After Nobunaga he served Hideyoshi as a leading Toyotomi admiral.
 @71
@@ -151,15 +151,15 @@
 @75
 1524?-1593\nIse clan chief. Lord of Kameyama, head of the Seki band. He surrendered to Nobunaga's invasion of Ise. After Honnō-ji he joined Hideyoshi and fought at Nagakute. Later an aide to Gamō Ujisato, he moved with him to Aizu.
 @76
-1552-1601\nNagano Kudo vassal. Second son of Hosono Fujimitsu. Adopted by the Wakebe, he inherited. When Nobunaga invaded Ise he overruled his brother Fujiatsu's call to fight and urged submission, serving Oda Nobukane. He later joined Hideyoshi's Red Horo guard.
+1552-1601\nNagano Kudō vassal. Second son of Hosono Fujimitsu. Adopted by the Wakebe, he inherited. When Nobunaga invaded Ise he overruled his brother Fujiatsu's call to fight and urged submission, serving Oda Nobukane. He later joined Hideyoshi's Red Horo guard.
 @77
 1557?-1625\nTakeda, later Tokugawa vassal. Heir of Masakatsu. Inherited when his father died in a Tokugawa attack and served in the Takeda navy. After the Takeda fell he served the Tokugawa as ship magistrate, winning merit at the heart of their navy.
 @78
 1528-1576\n8th head of the Kitabatake, governors of Ise. Son of Harutomo. A monk as a child, he returned to lay life to inherit and grew strong. After fighting Nobunaga's invasion he made peace by adopting Nobunaga's son Nobukatsu, who murdered him after he retired.
 @79
-1552?-1576\n16th Nagano Kudo head. Second son of Kitabatake Tomonori, adopted into the Nagano at a peace. When Nobunaga invaded Ise, the clan took Nobunaga's brother Nobukane as head, and he lost the house. He was later murdered by Oda Nobukatsu.
+1552?-1576\n16th Nagano Kudō head. Second son of Kitabatake Tomonori, adopted into the Nagano at a peace. When Nobunaga invaded Ise, the clan took Nobunaga's brother Nobukane as head, and he lost the house. He was later murdered by Oda Nobukatsu.
 @80
-1543-1592\n11th Hongan-ji abbot. Son of Shonyo. Named Kosa. Calling Nobunaga, who sought to unite the land by force, "the enemy of the Buddha", he roused the Ikkō faithful to fight to the end. After ten years he yielded at the emperor's command. Hideyoshi later gave him land in Kyōto.
+1543-1592\n11th Hongan-ji abbot. Son of Shōnyo. Named Kōsa. Calling Nobunaga, who sought to unite the land by force, "the enemy of the Buddha", he roused the Ikkō faithful to fight to the end. After ten years he yielded at the emperor's command. Hideyoshi later gave him land in Kyōto.
 @81
 1546?-1585?\nKii clan chief. Member of the Saika band. Fought well in the defence of Ishiyama Hongan-ji. A crack shot, he is said to have shot Oda Nobunaga as he led the assault, badly wounding his thigh. He later surrendered to Nobunaga and served Hideyoshi after him.
 @82
@@ -179,11 +179,11 @@
 @89
 1577-1630\n12th Hongan-ji abbot. Third son of Kennyo, half-brother of Kyōnyo. After his father died he fought Kyōnyo for the abbacy and won it with Hideyoshi's backing. Kyōnyo later founded Higashi Hongan-ji and split the sect, but Junnyo moved Hongan-ji and kept it flourishing.
 @90
-?-?\nHongan-ji officer. He led the Hongan-ji's warrior monks. A man of culture versed in tea, he was a friend of the tea master Sobon, son of Tsuda Sogyu of Sakai in Izumi and a tea master to Hideyoshi.
+?-?\nHongan-ji officer. He led Hongan-ji's warrior monks. A man of culture versed in tea, he was a friend of the tea master Sōbon, son of Tsuda Sōgyū of Sakai in Izumi and a tea master to Hideyoshi.
 @91
 ?-1575\nHongan-ji officer. Sent to Echizen by the abbot Kennyo, he led the Ikkō faithful and gave Nobunaga a hard time. Later, when Nobunaga set out to wipe out the uprising, he was beaten and killed along with Asakura Kagetake and others.
 @92
-?-1604?\nEldest son of Yoshioka Kenpo Naokata. The Yoshioka Kenpo taught the Muromachi shoguns swordsmanship for generations. Seijūrō, the fourth, won fame at the Yoshioka dojo in Kyōto, but fought the young Miyamoto Musashi at Rendaijino north of Kyōto, lost and died.
+?-1604?\nEldest son of Yoshioka Kenpō Naokata. The Yoshioka Kenpō taught the Muromachi shōguns swordsmanship for generations. Seijūrō, the fourth, won fame at the Yoshioka dojo in Kyōto, but fought the young Miyamoto Musashi at Rendaijino north of Kyōto, lost and died.
 @93
 1533?-after 1578\nMōri vassal. Son of Narikata. Succeeding his father, he led the Mōri navy against the Amago and Nobunaga. At Kizugawaguchi he beat the Oda navy and got provisions into Ishiyama. He later held Iwaya Castle on Awaji.
 @94
@@ -233,31 +233,31 @@
 @116
 1512?-1593?\nMōri vassal. Heir of Hirotoshi. Chief elder to Motonari, deeply trusted as "an honest man with no two faces". He aided Kobayakawa Takakage in the San'yō campaigns. After Motonari died he was one of the Four Elders, aiding the head Terumoto in running the domain.
 @117
-1558-1640\nMōri vassal. Son of Fujikane. Mōri Motonari sponsored his coming of age. Wed to Kikkawa Motoharu's daughter, he served Terumoto with merit. When the Mōri were cut after Sekigahara, he refused Ieyasu's offer, rebuilt their finances and was treated almost as kin.
+1558-1640\nMōri vassal. Son of Fujikane. Mōri Motonari sponsored his coming of age. Wed to Kikkawa Motoharu's daughter, he served Terumoto with merit. When the Mōri lost lands after Sekigahara, he refused Ieyasu's offer, rebuilt their finances and was treated almost as kin.
 @118
 1513-1588\nŌuchi, later Mōri vassal. Married his lord Yoshitaka's sister. When Sue Harukata rebelled and killed Yoshitaka, he rose to bring him down, allying with Mōri Motonari. After Harukata died at Itsukushima he joined the Mōri and fought across Kyūshū.
 @119
-1497-1571\nDaimyō of Aki. Second son of Hiromoto. A rare schemer, he grew by intrigue into Chūgoku's great daimyō. After handing over to his eldest son Takamoto, he gave the Kikkawa to Motoharu and the Kobayakawa to Takakage, forming the "Two Rivers of the Mōri".
+1497-1571\nDaimyō of Aki. Second son of Hiromoto. A rare schemer, he grew by intrigue into the great power of Chūgoku. After handing over to his eldest son Takamoto, he gave the Kikkawa to Motoharu and the Kobayakawa to Takakage, forming the "Two Rivers of the Mōri".
 @120
-1523-1563\nDaimyō of Aki. Heir of Motonari. A dutiful son, trusted by the house and a fine leader. A child hostage of the Ōuchi, he came of age crowned by Ōuchi Yoshitaka. He worked on the Chūgoku campaigns under his father's guidance, but died suddenly on the way to Izumo.
+1523-1563\nDaimyō of Aki. Heir of Motonari. A dutiful son, trusted by the house and a fine leader. A child hostage of the Ōuchi, he had Ōuchi Yoshitaka sponsor his coming of age. He worked on the Chūgoku campaigns under his father's guidance, but died suddenly on the way to Izumo.
 @121
 1500?-1569\nMōri vassal. Eldest son of Hirozumi. A senior retainer, lord of Sakurao in Aki, overseeing the shrine lands of Itsukushima. Skilled in intrigue, at Itsukushima he sent Sue Harukata false letters and lured him onto the island.
 @122
-1530-1578\nDaimyō of Boso. 7th Satomi head, eldest son of Yoshitaka. He fought the Hōjō of Musashi across the bay many times. Allied with Ōta Sukemasa, he lost to Ujiyasu at Kōnodai, but later won at Mifuneyama and regained Shimousa. On his father's death he made peace with the Hōjō.
+1530-1578\nDaimyō of Bōsō. 7th Satomi head, eldest son of Yoshitaka. He fought the Hōjō of Musashi across the bay many times. Allied with Ōta Sukemasa, he lost to Ujiyasu at Kōnodai, but later won at Mifuneyama and regained Shimousa. On his father's death he made peace with the Hōjō.
 @123
-1543-1587\nDaimyō of Boso. Second son of Yoshitaka, brother of Yoshihiro. Adopted by Yoshihiro, he fought Yoshihiro's own son Umeomaru for the house, made him a monk and inherited. That year he crushed the rebel Masaki Noritoki and took Kazusa. He drove back Hōjō Ujimasa's invasion.
+1543-1587\nDaimyō of Bōsō. Second son of Yoshitaka, brother of Yoshihiro. Adopted by Yoshihiro, he fought Yoshihiro's own son Umeomaru for the house, made him a monk and inherited. That year he crushed the rebel Masaki Noritoki and took Kazusa. He drove back Hōjō Ujimasa's invasion.
 @124
-1573-1603\nDaimyō of Boso. 9th Satomi head. Son of Yoshiyori. He sent troops to the Miura peninsula for Hideyoshi's Odawara campaign, but was suspected for arriving late at Odawara, lost Kazusa and kept only Awa. At Sekigahara he joined the East under Tokugawa Hidetada.
+1573-1603\nDaimyō of Bōsō. 9th Satomi head. Son of Yoshiyori. He sent troops to the Miura peninsula for Hideyoshi's Odawara campaign, but was suspected for arriving late at Odawara, lost Kazusa and kept only Awa. At Sekigahara he joined the East under Tokugawa Hidetada.
 @125
 1551-1622\nSatomi vassal. Third son of Tokitada. A hostage in Odawara when his father joined the Hōjō, he came home, was adopted by his brother Tokimichi and inherited Katsuura Castle. His daughter became Ieyasu's concubine and bore Yorinobu (Kii) and Yorifusa (Mito).
 @126
-1512-1574\nDaimyō of Boso. 6th Satomi head. Son of Sanetaka. Beating his cousin Yoshitoyo, who had killed his father, he became head. He spread over Boso and fought the Hōjō for two generations with his son Yoshihiro. When the Hōjō allied with the Takeda and Imagawa, he joined Kenshin.
+1512-1574\nDaimyō of Bōsō. 6th Satomi head. Son of Sanetaka. Beating his cousin Yoshitoyo, who had killed his father, he became head. He spread over Bōsō and fought the Hōjō for two generations with his son Yoshihiro. When the Hōjō allied with the Takeda and Imagawa, he joined Kenshin.
 @127
 1515-1573\nSatomi vassal. Lord of Otaki. Second son of Michitsuna. Daizen-no-suke. A skilled spearman called "Spear Daizen". He lost his father and brother at Inamura, escaped and inherited. He fought in nearly every Satomi battle, both Kōnodai battles among them, and won wide fame.
 @128
 1520-1576\nSatomi vassal. Lord of Katsuura. Third son of Michitsuna. He won merit in many battles with his brother Tokishige and led ships too. After the second battle of Kōnodai he put the Masaki's survival first and went over to the Hōjō, taking Kazusa and Shimousa, but later returned.
 @129
-1529-1584\n19th Ryūzōji head. Son of Chikaie. A monk, he returned to lay life to inherit. He destroyed the Shoni and fought the Ōtomo, growing to rule five provinces and two isles of northwest Kyūshū: "the Bear of Hizen". He was crushed by the Shimazu at Okitanawate and died.
+1529-1584\n19th Ryūzōji head. Son of Chikaie. A monk, he returned to lay life to inherit. He destroyed the Shōni and fought the Ōtomo, growing to rule five provinces and two isles of northwest Kyūshū: "the Bear of Hizen". He was crushed by the Shimazu at Okitanawate and died.
 @130
 1548?-1584\nRyūzōji vassal. One of the Four Heavenly Kings of the Ryūzōji. At Okitanawate, hearing his lord Takanobu had fallen, he charged alone into Shimazu Iehisa's headquarters for revenge, but failed and was killed. Iehisa himself praised him as "a matchless brave".
 @131
@@ -269,7 +269,7 @@
 @134
 1538?-1584\nRyūzōji vassal. One of the Four Heavenly Kings of the Ryūzōji, a fierce general given the name Hyakutake, "brave as a hundred", by his lord Takanobu. He fought well at Imayama and elsewhere. At Okitanawate he guarded Takanobu against the Arima and died.
 @135
-1549-1614\nHizen clan chief. Lord of Hirado. Heir of Takanobu. 26th head of the Matsura band, a Hizen navy descended from the wako that also traded overseas. He led his ships in Hideyoshi's Kyūshū campaign, and joined the East at Sekigahara, keeping his lands.
+1549-1614\nHizen clan chief. Lord of Hirado. Heir of Takanobu. 26th head of the Matsura band, a Hizen navy descended from the wakō that also traded overseas. He led his ships in Hideyoshi's Kyūshū campaign, and joined the East at Sekigahara, keeping his lands.
 @136
 1538-1618\nRyūzōji vassal. Son of Kiyofusa. A wise and brave general, he saved his lords in crisis and laid the ground for their rule of Hizen. After Takanobu died he ran the domain as guardian of the young Masaie. Favoured by Hideyoshi, he grew in power to be Hizen's true ruler.
 @137
@@ -277,11 +277,11 @@
 @138
 1567?-1612\nDaimyō of Hizen. Lord of Hinoe. Second son of Yoshisada. Adopted by his brother Yoshizumi, he inherited on his death. Pressed by Ryūzōji Takanobu, he allied with the Shimazu to recover. A famous Christian daimyō, he sent the boy embassy to the Pope in Rome.
 @139
-1533-1587\nHizen clan chief. Lord of Sanjo. Second son of Arima Harusumi. Adopted by Ōmura Sumisaki, he inherited. Pressed by his neighbours, he opened Nagasaki to Portuguese trade to break free. Japan's first Christian daimyō, he encouraged the faith in his lands.
+1533-1587\nHizen clan chief. Lord of Sanjō. Second son of Arima Harusumi. Adopted by Ōmura Sumisaki, he inherited. Pressed by his neighbours, he opened Nagasaki to Portuguese trade to break free. Japan's first Christian daimyō, he encouraged the faith in his lands.
 @140
 1560-1634?\nRyūzōji vassal. Second son of Nobutane. A brave general who won many feats from his first battle at 17. His valour was recognised in Hideyoshi's Satsuma campaign too. He later served Nabeshima Naoshige's son Katsushige, working on public works and irrigation.
 @141
-?-?\nRyūzōji vassal. Second son of Tanehisa. He first served the Mizugae line, then followed Takanobu after he united the Muranaka and Mizugae lines. He won merit against the Shoni. Later sent to Higo, he met and drove back Shimazu Yoshihisa's army marching north.
+?-?\nRyūzōji vassal. Second son of Tanehisa. He first served the Mizugae line, then followed Takanobu after he united the Muranaka and Mizugae lines. He won merit against the Shōni. Later sent to Higo, he met and drove back Shimazu Yoshihisa's army marching north.
 @142
 ?-1608\nRyūzōji vassal. Second son of Chikaie, brother of Takanobu. Founder of the Suko Nabeshima. He advanced into Chikuzen with Takanobu, and as the Ōtomo declined pushed on into Buzen. He brought the Buzen lords to heel, ran their affairs and helped the Ryūzōji grow.
 @143
@@ -289,7 +289,7 @@
 @144
 1566-1607\n20th Ryūzōji head. Heir of Takanobu. He inherited under his father's guardianship; after his father's death he ruled with Nabeshima Naoshige's help. He led the van in Hideyoshi's Kyūshū campaign and kept his lands. Sickly, he retired and left the domain to Naoshige.
 @145
-?-1600\nToyotomi vassal. Son of Konishi Ryusa, a rich Sakai merchant. Of merchant birth and versed in trade and shipping, he linked Sakai's wealth to the Toyotomi and won Hideyoshi's trust. He led the navy in the Shikoku and Kyūshū campaigns. Famed as a devout Christian.
+?-1600\nToyotomi vassal. Son of Konishi Ryūsa, a rich Sakai merchant. Of merchant birth and versed in trade and shipping, he linked Sakai's wealth to the Toyotomi and won Hideyoshi's trust. He led the navy in the Shikoku and Kyūshū campaigns. Famed as a devout Christian.
 @146
 1522-1591\nOgigayatsu Uesugi vassal. Lord of Iwatsuki. Styled Sanrakusai. After his house fell he sided with Kenshin against Hōjō Ujiyasu and Takeda Shingen. Beaten by the Hōjō at Kōnodai, he was driven out by his son Ujisuke and joined Satake Yoshishige. Hideyoshi called him to Odawara.
 @147
@@ -311,11 +311,11 @@
 @155
 1528?-1595\nToyotomi vassal. With his sworn brother Hachisuka Koroku he helped build the overnight castle at Sunomata, then served as Hideyoshi's right hand. Guardian of Hidetsugu, he was caught up in his fall and killed himself with his son Kagesada.
 @156
-1560-1600\nToyotomi vassal. Senior of the Five Magistrates, he ran the Toyotomi state. Rising as Hideyoshi's aide, he showed his skill at government and supply. After Hideyoshi died he fought the rising Ieyasu at Sekigahara, lost, and was executed at Rokujo-gawara.
+1560-1600\nToyotomi vassal. Senior of the Five Magistrates, he ran the Toyotomi state. Rising as Hideyoshi's aide, he showed his skill at government and supply. After Hideyoshi died he fought the rising Ieyasu at Sekigahara, lost, and was executed at Rokujō-gawara.
 @157
 1559-1600\nToyotomi vassal. Trusted as Hideyoshi's page, he rose to be a magistrate. At Shizugatake he won merit by winning over Shibata Katsutoyo. At Sekigahara he joined the West at Ishida Mitsunari's plea and shared his fate.
 @158
-?-1613\nBorn in Mino. A brave warrior who learnt the spear from Hozoin In'ei. He first served the Saitō, then the Shibata, Akechi, Oda and Hashiba. At Sekigahara he marked every head he took with a sprig of bamboo, earning the name "Saizō of the Bamboo Leaf".
+?-1613\nBorn in Mino. A brave warrior who learnt the spear from Hōzōin In'ei. He first served the Saitō, then the Shibata, Akechi, Oda and Hashiba. At Sekigahara he marked every head he took with a sprig of bamboo, earning the name "Bamboo-Leaf Saizō".
 @159
 1552-1614\nToyotomi vassal. Known as one of the bravest of Hideyoshi's warrior faction, he served well in many battles. He led the van in the Kyūshū campaign, but was crushed by the Shimazu at Hetsugigawa and lost his lands. He returned to service in the Odawara campaign.
 @160
@@ -323,7 +323,7 @@
 @161
 1556-1630\nHe changed lords from Azai Nagamasa to Tsuda Nobusumi, Hashiba Hidenaga, Hideyoshi and Ieyasu, gaining lands with each change and surviving the age. In battle he always fought in the van. Also a famed castle builder, he oversaw work on many castles.
 @162
-1544-1611\nToyotomi vassal. Mosuke was his common name. One of the Three Middle Elders. So kind he was called "Buddha Mosuke". He won many feats, being first up Tennozan at Yamazaki. After Hideyoshi died he worked to keep Ieyasu and Maeda Toshiie from clashing.
+1544-1611\nToyotomi vassal. Mosuke was his common name. One of the Three Middle Elders. So kind he was called "Buddha Mosuke". He won many feats, being first up Tennōzan at Yamazaki. After Hideyoshi died he worked to keep Ieyasu and Maeda Toshiie from clashing.
 @163
 1545-1615\nToyotomi vassal. One of the Five Magistrates, at Hideyoshi's side handling land surveys and other affairs with Ishida Mitsunari. After Hidetsugu died he took over Kōriyama in Yamato. At Sekigahara he guarded Hideyori in Ōsaka Castle, and lost his lands after the war.
 @164
@@ -331,9 +331,9 @@
 @165
 1515-1584\nAso vassal. Lord of Mifune in Higo. Named Chikanao. A wise, brave general who upheld the small Aso house. Allied with the Ōtomo, he dealt with the Ryūzōji and Shimazu to keep the house alive. Against the Shimazu he met their Sagara vanguard and killed its general Sagara Yoshihi.
 @166
-1545-1613\nTokugawa vassal. Son of the sarugaku actor Okura-dayu. Raised by Ieyasu from a mere actor, he ran the shōgun's lands, mined gold and silver with new methods and set up milestones and post stations. For his service he was called "Intendant of the Realm".
+1545-1613\nTokugawa vassal. Son of the sarugaku actor Ōkura-dayū. Raised by Ieyasu from a mere actor, he ran the shōgun's lands, mined gold and silver with new methods and set up milestones and post stations. For his service he was called "Intendant of the Realm".
 @167
-1569?-1628?\nSwordsman, founder of the Ono-ha Itto-ryu. Roaming the land to train, he studied under Itō Ittōsai, founder of the Itto-ryu. He later served Ieyasu and was assigned to Hidetada. At Sekigahara he broke orders and lost his post; pardoned, he fought at Ōsaka.
+1569?-1628?\nSwordsman, founder of the Ono-ha Ittō-ryū. Roaming the land to train, he studied under Itō Ittōsai, founder of the Ittō-ryū. He later served Ieyasu and was assigned to Hidetada. At Sekigahara he broke orders and lost his post; pardoned, he fought at Ōsaka.
 @168
 ?-1615\nToyotomi vassal. Said to be a son of Sadamitsu. Foster brother of his lord Hideyori, he became his page. In the winter siege of Ōsaka he was a commander, and went to Ieyasu as the Toyotomi envoy for peace. In the summer siege he fought Ii Naotaka's army and was killed.
 @169
@@ -343,19 +343,19 @@
 @171
 1577-1615\nToyotomi vassal. Son of Yoshinari. Stripped for siding with the West at Sekigahara, he was exiled to Tosa with his father, in Yamauchi Kazutoyo's custody. He escaped into Ōsaka Castle. In the summer siege he killed Honda Tadatomo and others, but killed himself as the castle fell.
 @172
-1595?-1612?\nSwordsman styled Ganryu. Roaming the land to train, he founded his own school, famed for his long sword and the "Swallow Cut". After entering Hosokawa service as sword instructor, he fought Miyamoto Musashi on Ganryujima and is said to have lost.
+1595?-1612?\nSwordsman styled Ganryū. Roaming the land to train, he founded his own school, famed for his long sword and the "Swallow Cut". After entering Hosokawa service as sword instructor, he fought Miyamoto Musashi on Ganryūjima and is said to have lost.
 @173
-1584-1645\nSwordsman and master of two swords. After roaming the land he founded the "Niten Ichi-ryu". Undefeated all his life, he is famed for beating Sasaki Kojirō on Ganryujima. He later served Hosokawa Tadatoshi. In old age he wrote "The Book of Five Rings" in a cave.
+1584-1645\nSwordsman and master of two swords. After roaming the land he founded the "Niten Ichi-ryū". Undefeated all his life, he is famed for beating Sasaki Kojirō on Ganryūjima. He later served Hosokawa Tadatoshi. In old age he wrote "The Book of Five Rings" in a cave.
 @174
-1554-1625\nMaeda vassal. Son of Yamazaki Kagekuni. A master of the Chujo school called "Master Echigo". He married the daughter of his teacher Toda Kagemasa and was adopted by him. He took first spear at Suemori in Noto, and did well at Odawara, Sekigahara and Ōsaka.
+1554-1625\nMaeda vassal. Son of Yamazaki Kagekuni. A master of the Chūjō school called "Master Echigo". He married the daughter of his teacher Toda Kagemasa and was adopted by him. He took first spear at Suemori in Noto, and did well at Odawara, Sekigahara and Ōsaka.
 @175
 1559-1628\nToyotomi vassal. Son of Nagaharu. First a page to Hideyoshi. His feats at Shizugatake made him one of the Seven Spears and earned him a citation. He was later granted the Toyotomi name. He joined the East at Sekigahara and later served Tokugawa Hidetada.
 @176
-1545-1596\nKyōto merchant whose house always took the name Shirojiro. An early purveyor to the Tokugawa, he supplied goods and gathered news. At Honnō-ji he warned Ieyasu, then sightseeing in Sakai, and helped him home. Later Ieyasu's aide, he was also active in trade.
+1545-1596\nKyōto merchant whose house always took the name Shirōjirō. An early purveyor to the Tokugawa, he supplied goods and gathered news. At Honnō-ji he warned Ieyasu, then sightseeing in Sakai, and helped him home. Later Ieyasu's aide, he was also active in trade.
 @177
 1522-1591\nSakai townsman and tea master who perfected wabi tea. Free of old fashions, he brought new ideas to tea and found his own path. Tea master to Nobunaga and Hideyoshi, he used his ties through tea and tea ware to play a part in "tea politics".
 @178
-?-1581?\nIga clan chief, head of the Momochi, one of the three Iga jonin houses with the Hattori and Fujibayashi. In Nobunaga's attack on Iga, the "Tenshō Iga War", he led his ninja and drove back the invaders, but Oda Nobukatsu's great army later attacked and Iga was subdued.
+?-1581?\nIga clan chief, head of the Momochi, one of the three Iga jōnin houses with the Hattori and Fujibayashi. In Nobunaga's attack on Iga, the "Tenshō Iga War", he led his ninja and drove back the invaders, but Oda Nobukatsu's great army later attacked and Iga was subdued.
 @179
 1525?-1590?\nRokkaku, later Toyotomi vassal. A country samurai based at Kashiwagi Mikuriya, once counted among its three houses and a leader of the Kōga league. He won merit and a citation serving the Rokkaku. He later joined Oda Nobunaga, then followed Hideyoshi.
 @180
@@ -373,15 +373,15 @@
 @186
 1540-1603\nRokkaku vassal. Son of Sadamochi. Inherited after his brother Katamochi died. With his father he co-signed the house law "Rokkaku-shi Shikimoku" as a senior retainer. After the Rokkaku fell he was a rōnin, then served Oda Nobukatsu and Gamō Ujisato.
 @187
-1545-1612\nDaimyō of Ōmi. Son of Rokkaku Yoshikata (Shotei). Given the house, but his father held the power. He then murdered his chief elder Gotō Katatoyo and lost his retainers' trust. Beaten by Nobunaga, he wandered, later becoming Hideyoshi's companion and Hideyori's archery teacher.
+1545-1612\nDaimyō of Ōmi. Son of Rokkaku Yoshikata (Shōtei). He was given the house, but his father kept the power. He then murdered his chief elder Gotō Katatoyo and lost his retainers' trust. Beaten by Nobunaga, he wandered, later becoming Hideyoshi's companion and Hideyori's archery teacher.
 @188
-1516?-1563\nRokkaku vassal. A hereditary elder, called with the Shindo "the two Fujis of the Rokkaku". He guarded his lord Yoshikata and his son on their way to Kyōto. In the "Kannonji incident" he was murdered in Kannonji Castle by his lord Yoshiharu.
+1516?-1563\nRokkaku vassal. A hereditary elder, called with the Shindō "the two Fujis of the Rokkaku". He guarded his lord Yoshikata and his son on their way to Kyōto. In the "Kannonji incident" he was murdered in Kannonji Castle by his lord Yoshiharu.
 @189
-1521-1580\nDaimyō of Oshu. 16th Ashina head. The restorer who made the Ashina, with the Date, the greatest daimyō of Oshu. Allied with the Uesugi, Takeda, Hōjō and other powers, he fought the Satake of Hitachi. He retired for a time, but returned when his son Morioki died of illness.
+1521-1580\nDaimyō of Ōshū. 16th Ashina head. The restorer who made the Ashina, with the Date, the greatest daimyō of Ōshū. Allied with the Uesugi, Takeda, Hōjō and other powers, he fought the Satake of Hitachi. He retired for a time, but returned when his son Morioki died of illness.
 @190
-?-1586\nOshu clan chief. Lord of Miharu. Son of Takaaki. He joined Ashina Moriuji against Satake Yoshishige's coalition, then joined the Satake to attack the Ashina at Naganuma, shifting his alliances to suit the times. His daughter Megohime wed Date Masamune, a strong backer.
+?-1586\nŌshū clan chief. Lord of Miharu. Son of Takaaki. He joined Ashina Moriuji against Satake Yoshishige's coalition, then joined the Satake to attack the Ashina at Naganuma, shifting his alliances to suit the times. His daughter Megohime wed Date Masamune, a strong backer.
 @191
-1545?-1610?\nOshu clan chief. Lord of Shiomatsu. Survived the age by allying as the times required. When Date Masamune became head of the Date, he went to Yonezawa Castle and submitted. He then fought for Masamune in many battles. A master of the cross-bladed spear.
+1545?-1610?\nŌshū clan chief. Lord of Shiomatsu. Survived the age by allying as the times required. When Date Masamune became head of the Date, he went to Yonezawa Castle and submitted. He then fought for Masamune in many battles. A master of the cross-bladed spear.
 @192
 1561-1584\n18th Ashina head. Son of Nikaido Moriyoshi. A hostage of the Ashina, he married the widow of the head Morioki when he died suddenly, and inherited. He allied with the Uesugi and Hōjō against the Satake, but amid feuds he was murdered by an attendant in Kurokawa Castle.
 @193
@@ -393,7 +393,7 @@
 @196
 1548-1635\n16th Sōma head. Heir of Moritane. Starting with a battle against Date Terumune, he fought the Date for over a decade. At Sekigahara he was slow to join the East and was stripped of his lands, but Date Masamune interceded and he got them back.
 @197
-1569-?\nAshina vassal. Son of Mimasaka. Known as Shogen. One of the Four Ashina Elders. At Suriagehara, as other elders turned traitor, he led the van and fought hard. He once reached the Date headquarters, but as his side collapsed he fled to Hitachi with his lord Morishige.
+1569-?\nAshina vassal. Son of Mimasaka. Known as Shōgen. One of the Four Ashina Elders. At Suriagehara, as other elders turned traitor, he led the van and fought hard. He once reached the Date headquarters, but as his side collapsed he fled to Hitachi with his lord Morishige.
 @198
 1547-1575\n17th Ashina head. Heir of Moriuji. Inherited when his father retired. Much was hoped of him, but he died at 29 during the war with the Satake. Having no son, his old father Moriuji took charge again and an heir was brought in from the Nikaido.
 @199

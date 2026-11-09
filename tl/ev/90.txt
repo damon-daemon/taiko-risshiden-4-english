@@ -1,0 +1,410 @@
+@0.0
+Akechi Jūbei Mitsuhide... Descended from the Toki Genji, a noble house of Mino, he had already spent several years in Echizen...
+@0.1
+Mino's rulers had changed in quick succession: Toki Yoriaki, Saitō Dōsan, Saitō Yoshitatsu... Fleeing the wars, he had turned to \#0F6.
+@0.2
+I am already thirty-three... I have wasted my time in Mino's endless wars.
+@0.3
+I cannot go back to Mino for a long while... I shall serve Lord \#4F6 and forget Mino.
+@0.4
+But, my lord... I cannot help feeling that Lord \#4F6 lacks ambition...
+@0.6
+The \#8F6 of Ichijōdani have ruled for five generations, a hundred years since their founder Lord Takakage... I sense decadence here.
+@0.7
+Hold your tongue... We have sworn loyalty to Lord \#4F6. If you have time to complain, spend it serving him faithfully!
+@0.8
+Yes! I spoke out of turn. Forgive me...
+@0.9
+(Still... it is true that Lord \#4F6 shows no ambition... We have no choice but to support him...)
+@1.0
+Well... Time for a rest.
+@1.1
+*Rustle rustle*
+@1.2
+Hm, is someone there? Who goes there!?
+@1.4
+Well, just what I would expect of Lord \#8F5. You noticed me.
+@1.5
+Ah... Lord \#8DB!? What are you doing in a place like this!?
+@1.6
+Lord \#8F5, have you heard of the misfortune that befell the Shōgun, Lord \#0DE, whom I served?
+@1.7
+I believe... he was attacked by the Miyoshi Triumvirate and lost his life...
+@1.8
+Forgive my rudeness. I am by no means a suspicious person.
+@1.9
+Who are you!?
+@1.10
+My name is \#0DB. I was a direct vassal of the Ashikaga shōguns.
+@1.11
+The Ashikaga shōguns!?
+@1.12
+Indeed... I served Lord \#0DE, the late Shōgun, so cruelly murdered not long ago.
+@1.13
+And what do you want with me?
+@1.14
+It is a great sorrow to us, his attendants, that we were not strong enough to protect the Shōgun...
+@1.15
+But the late Lord \#4DE has a younger brother... His name is Lord \#0DD.
+@1.16
+Lord \#4DD set out for the capital to carry on his late brother's will and become Shōgun...
+@1.17
+But Miyoshi's men already hold the Kinai and have set up a puppet Shōgun. They will not let Lord \#4DD enter Kyōto.
+@1.18
+How deplorable... They do not know the place of lord and vassal.
+@1.19
+More deplorable still, no daimyō has the backbone to help Lord \#4DD and drive out the Miyoshi forces...
+@1.20
+We vassals of the Ashikaga are at our wits' end...
+@1.22
+The daimyō near the Kinai, Rokkaku, Isshiki, Akamatsu and the rest, are of no use... Our only hope is the great house of Asakura in Echizen...
+@1.23
+The daimyō near the Kinai are of no use... Our only hope is the great house of Asakura in Echizen...
+@1.24
+So we came all the way to Echizen. But we have no connection to Lord Asakura...
+@1.25
+So I came to ask you, Lord \#BFE, known as the most learned man in the Asakura house, to speak for us.
+@1.26
+Surely you, Lord \#BFE, cannot ignore Lord \#4DD's plight... I beg you for your help.
+@1.28
+Help him
+@1.30
+Very well. Leave it to me.
+@1.31
+Oh! I am grateful!
+@1.32
+I will speak to my lord at once...
+@1.33
+My lord, forgive the intrusion.
+@1.34
+Hm? Ah, \#4F5. What is it?
+@1.35
+The truth is, there is someone I would like you to meet... This gentleman here.
+@1.36
+An honour to meet you. My name is \#0DB.
+@1.37
+\#4F5... Who is this man?
+@1.38
+Yes, my lord! He was an attendant of the late Shōgun, Lord \#0DE.
+@1.39
+Hmm... And what brings you to me, Lord \#8DB?
+@1.40
+Yes, my lord! The truth is...
+@1.41
+...and that is how matters stand. Lord \#8F6, will you not lend us your strength!?
+@1.42
+My lord! I beg you as well.
+@1.43
+Hmm... But I do not care to be dragged into trouble...
+@1.45
+Besides, marching on the capital with this Lord \#4DD would cost an enormous amount of money...
+@1.46
+But my lord! There is a precedent: Lord Asakura Sadakage, two generations back, sheltered the tenth Shōgun, Lord Yoshitada!
+@1.47
+And if the march on the capital succeeds, a fitting reward and rank will surely await you, my lord. I think you should accept...
+@1.49
+I beg you! Please!
+@1.50
+...Very well. For now, our house will take care of this Lord \#4DD.
+@1.52
+Ichijōdani here is a little Kyōto, rich in the ways of the capital. Lord \#4DD should be content here.
+@1.54
+But marching on the capital is another matter. The time is not yet ripe. We must make careful preparations first.
+@1.56
+Then I will bring Lord \#4DD here at once.
+@1.57
+Good. You may both go.
+@1.59
+Ah, and \#4F5...
+@1.61
+Do not overstep yourself.
+@1.63
+Ah, I am so glad Lord \#0F6 agreed...
+@1.64
+...But the march on the capital is not settled yet.
+@1.65
+Not at all! The way he spoke, he will get moving sooner or later and set out for the capital.
+@1.66
+...I hope so.
+@1.67
+Then I shall take my leave... Lord \#8F5, thank you for everything.
+@1.68
+I am sorry, Lord \#8DB... I cannot help you...
+@1.69
+What!? Do you mean to say the Shōgun's plight does not move you!?
+@1.70
+I understand the Shōgun's plight well... But my lord, Lord \#0F6, would surely never agree...
+@1.71
+What... Why would a great daimyō like the \#8F6 begrudge their help?
+@1.72
+As his retainer, I am glad you think so highly of Lord \#4F6...
+@1.73
+But sadly, my lord does not have that much ambition...
+@1.74
+What do you mean?
+@1.75
+Five generations, a hundred years since the great Lord Asakura Toshikage... The glory of the \#8F6 as a warlord house is already a thing of the past...
+@1.76
+The present lord, Lord \#4F6, longs for the culture of the capital, and thinks only of making Ichijōdani a little Kyōto of the north...
+@1.77
+Staying in Echizen and making it like the capital is his only joy. He will never leave Echizen...
+@1.78
+That is why I cannot help you. I am sorry...
+@1.79
+I see... What a pity...
+@1.80
+Forgive me for being of no use...
+@1.81
+Then we will look elsewhere. We are not without other prospects...
+@1.82
+I will pray for your fortune...
+@1.83
+Farewell, then.
+@2.0
+Lord \#3FE, it seems Lord \#0DD has come to see the old lord.
+@2.1
+Oh, has he arrived already?
+@2.2
+Lord \#8F6, I am in your care.
+@2.3
+Yes, my lord! Lord \#4DD, please think of Ichijōdani as your own home and stay at your ease.
+@2.4
+Hm... It does seem a pleasant place to live...
+@2.5
+Lord \#8F6... We do not intend to stay long... Please, march on the capital as soon as possible...
+@2.6
+I know! Do not say more than you need to.
+@2.8
+Well, be that as it may, I would like to offer a cup to the next Shōgun. A banquet has been prepared at the castle.
+@2.9
+Oh, I am grateful. Then I shall accept.
+@2.10
+This way, please.
+@2.11
+Phew... Does Lord \#8F6 really mean to march on the capital? And Lord \#4DD, well, Lord \#4DD is no better...
+@2.12
+Lord \#8DB!
+@2.13
+Ah, Lord \#8F5!
+@2.14
+It seems my lord is not seriously thinking of marching on the capital after all...
+@2.15
+What a predicament... I came here thinking the \#8F6 of Echizen were our last hope...
+@2.16
+I mean to keep gently urging my lord myself... but do not expect too much...
+@2.17
+Even so... there is no other daimyō we can turn to...
+@2.18
+At any rate, I will do what I can, but you should think about your next steps too, Lord \#8DB.
+@2.19
+Understood... Restoring the Shōgun's house is our dearest wish. Let us both do our utmost.
+@3.0
+\&03!!
+@3.3
+They say the Shōgun, Lord \#0DE, has been murdered!
+@3.4
+What! Is that true!?
+@3.8
+Come to think of it, Lord \#0DE had a younger brother. I wonder what became of him.
+@3.9
+You mean Lord \#4DD, who was studying at Kōfuku-ji in Yamato.
+@3.10
+Who knows... In all this chaos, nobody knows what has become of him...
+@4.0
+Lord \#BFE!
+@4.1
+Ah, Lord \#8DB. Is Lord \#4DD well?
+@4.2
+He is wined and dined day after day, and has rather put on weight...
+@4.3
+Hahaha... The lament of a warrior grown fat from idleness, as they say.
+@4.4
+It is no laughing matter... The lord of the \#8F6 never makes any real plan to march on the capital...
+@4.6
+I have given up hope in Lord \#4F6... I am looking for another daimyō to rely on.
+@4.7
+Another... is there one? A powerful daimyō...
+@4.8
+Indeed... I do have one man in mind...
+@4.9
+Let me guess... Is it not \#094 of \40F6?
+@4.10
+Oho! Just what I would expect of you, Lord \#BFE! So you too have your eye on \#894.
+@4.11
+In truth, Lord \#4DD also has high hopes of \#094...
+@4.12
+It is true that \#894 is on the rise... But they say this \#494 is quite a fool.
+@4.14
+We cannot entrust great affairs to a fool... I would like to meet him and see what sort of man he is...
+@4.15
+I know Lord \#094.
+@4.16
+Oh... What sort of man is he?
+@4.17
+He is no fool... That man may well have what it takes to rule the realm one day.
+@4.18
+Oho! That is encouraging.
+@4.19
+What is more, Lord \#494 surely wishes to go to the capital and command the provinces.
+@4.20
+Lord \#4DD's cause would come at just the right moment... He may welcome it with open arms.
+@4.21
+That is reassuring... What do you say, Lord \#8F5? Will you not take the trouble for us?
+@4.23
+If you know Lord \#894, will you not speak to Lord \#894 about Lord \#4DD for us...
+@4.24
+Me!?
+@4.25
+There is no one else I can ask... I beg you!
+@4.27
+I do have a connection.
+@4.28
+Hm? What do you mean?
+@4.29
+The truth is... I am from Mino, and Lord \#494's wife is the daughter of my former master, Saitō Dōsan...
+@4.30
+Through that connection... I may be able to meet Lord \#494...
+@4.31
+Oh! That is reassuring... What do you say, Lord \#8F5? Will you not take the trouble for us?
+@4.32
+Will you not ask Lord \#894 about Lord \#4DD for us...
+@4.33
+Me...
+@4.36
+Leave it to me
+@4.38
+Very well... Since it is your request, Lord \#8DB... leave it to me, \#7FE.
+@4.39
+Oh... I am grateful. You are a true samurai!
+@4.40
+But if my lord hears of this, he may be displeased...
+@4.41
+True...
+@4.42
+I will set out for \40F6 at once, before word gets out... Keep this strictly secret...
+@4.43
+Understood... Lord \#BFE, I look forward to good news.
+@4.44
+I am sorry... but I cannot accept that.
+@4.45
+B-but why!?
+@4.46
+First... it would mean betraying my lord. I am now a retainer of the \#8F6... As a samurai, I cannot commit such a betrayal.
+@4.48
+Second... I cannot trust this man \#094. I sense a bottomless cruelty in him.
+@4.49
+But...
+@4.50
+And so... I am sorry, but I cannot help you.
+@4.51
+I see... Very well. Then I will ask nothing more of you.
+@4.52
+I was a fool to think of you as a comrade, Lord \#BFE...
+@4.53
+Lord \#8DB...
+@4.55
+Ah!
+@4.56
+Later, \#0DD and his retainer \#0DB slipped out of Ichijōdani under cover of night and vanished...
+@4.57
+\#0F6 flew into a rage at first, but was relieved to be rid of a nuisance...
+@4.58
+This is... for the best...
+@5.1
+Hm? Who goes there?
+@5.2
+I am \#3FE, a retainer of \#0F6. I have come to ask for an audience with Lord \#094!
+@5.3
+...On what business?
+@5.4
+It is a secret matter; I cannot tell you here. I wish to speak to Lord \#494 directly.
+@5.5
+Then I cannot let you pass. A suspicious fellow...
+@5.6
+I am not suspicious... I have given you my name, and told you I am a retainer of \#0F6.
+@5.7
+If you say you are an envoy from the \#8F6, show me proof.
+@5.8
+I am a secret envoy. Carrying such a thing would only be inconvenient, so I have none.
+@5.9
+I just cannot trust you... Suspicious fellow.
+@5.10
+Now, now, what is all this fuss?
+@5.11
+Ah, \&03! I have come on business with the lord of the \#894...
+@5.12
+Lord \#BF1! This fellow has been saying suspicious things...!
+@5.13
+What are you talking about? This gentleman is Lord \#3FE.
+@5.14
+A genuine envoy of the \#8F6 clan... I will vouch for him.
+@5.15
+If you say so, Lord \#BF1...
+@5.16
+Then I may pass! \&03! I am grateful.
+@5.19
+I am no suspicious person... I am a retainer of \#0F6, and my name is \#3FE.
+@5.20
+I have come on a secret matter that I must tell Lord \#094 in person.
+@5.21
+Hmm... So you are the Lord \#BFE I have heard of.
+@5.22
+You know of me?
+@5.23
+I have long heard that there is a man named \#3FE in the \#8F6 house...
+@5.24
+My lord also thinks highly of your talents, and has said he would very much like you to serve him...
+@5.25
+You are too kind...
+@5.26
+From your bearing and manner, there is nothing base about you. No, you are surely \#3FE.
+@5.27
+You believe me... I am grateful.
+@5.28
+Hahaha... It takes a hero to know a hero, as they say.
+@5.29
+Forgive me, but may I ask your name...?
+@5.30
+Ah, forgive me for not saying so sooner. I am \#3F1. I hope we shall know each other well.
+@5.31
+Now, I vouch for this gentleman. Let him pass.
+@5.33
+Then I may pass. \&03! I am grateful.
+@5.37
+Yes... The truth is, I have come about Lord \#0DD.
+@5.39
+I heard he was staying with the \#8F6 clan...
+@5.43
+So he turned to the \#8F6 clan, but its head, Lord \#4F6, shows no sign at all of marching on the capital...
+@5.44
+So he has decided he would rather march on the capital with your strength, Lord \#894.
+@5.45
+In other words, you want me to help Lord \#4DD and take the trouble of marching on the capital.
+@5.48
+Just the palanquin I needed to carry.
+@5.57
+(It is true that serving the Oda clan would let me show my abilities better than serving the \#8F6...)
+@5.58
+(Besides, if it got out that I had been negotiating in secret, I could not stay with the \#8F6 anyway...)
+@5.59
+(Shall I stake everything on this man...!)
+@5.60
+...What is it? Do you not want to?
+@5.61
+No... In truth, now that I have met you, I am deeply impressed by your calibre, Lord \#894.
+@5.62
+If you would give me the chance, Lord \#894, I would like to serve the \#894 clan.
+@5.65
+Good. I am counting on you.
+@5.66
+And so \#3FE came to serve \#094...
+@5.67
+Guided by \#7FE, \#0DD and his retainer \#0DB also moved to \40F6.
+@5.68
+With \#0DD as his just cause, \#494 had gained a great foothold for his march on the capital...
+@5.69
+And with \#094 as his new master, \#7FE would go on to rise higher still...
+@5.70
+How many years since I left Mino... At last I have come back...
+@5.71
+I have changed masters many times, but at last I feel I have found my true lord... Now I must give it my all...!

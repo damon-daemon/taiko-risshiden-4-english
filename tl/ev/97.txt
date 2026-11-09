@@ -1,0 +1,216 @@
+@0.0
+\%03,\n\#0C8 of \50FA Castle\nhas rebelled.
+@0.1
+No doubt \907A put him up to it\nand he declared his independence.
+@0.2
+But \#0C8 is still\nisolated.\nWe must strike him at once.
+@0.3
+I hear many of the Harima samurai\nare devout followers\nof \#9E0.
+@0.4
+If we sit idle,\nhe may join hands\nwith \#9E0's people.
+@0.5
+...Unless we take \50FA Castle soon,\nthis could turn very bad...
+@1.1
+\#07B of \50FA\nhas rebelled against the \#894 clan!
+@1.2
+What!\nIs this \907A's doing too!?
+@1.3
+If it's true, we must strike quickly,\nor we'll be cut off here!
+@1.5
+They say Lord \#0C7 has gone\nto talk Lord \#87B round.
+@1.7
+To see whether the rebellion is true...\nand if it is, to persuade\nLord \#87B to think again.
+@1.8
+Fool!\nLord \#87B is not a man to be talked round.\nLord \#4C7 is in danger!
+@1.9
+Danger? Surely Lord \#87B\nwouldn't kill\nLord \#8C7...
+@1.10
+Lord \#87B and Lord \#8C7\nare both Christians.
+@1.11
+Naive! Naive! Lord \#4C7 is\nwalking straight into a trap.\nI thought he had more sense...
+@1.12
+Lord \#BFE! Terrible news!\nLord \#0C7 has been\ncaptured by \#07B!
+@1.14
+I feared as much...\nIf only he stays safe...
+@1.15
+I must think of some way\nto rescue Lord \#4C7...
+@2.0
+\%03,\nan order from the old lord!
+@2.1
+What? From the old lord?
+@2.2
+He says to kill \#0C7's son,\nwho is in Lord \#000's keeping...
+@2.3
+What!? Shojumaru!?
+@2.4
+\#0C7's son Shojumaru (later Nagamasa)\nwas the hostage \#4C7 had given \#494\nwhen he entered the \#894 clan's service...
+@2.5
+\#494 had placed the hostage with \#000,\nand \#400 had in turn\nentrusted Shojumaru to \#7FE...
+@2.6
+Shojumaru was now being kept\nat \#7FE's residence...
+@2.7
+The old lord says\n\#0C7 has sided with \#07B\nand is a traitor...
+@2.8
+And that the hostage of a traitor\nmust of course be put to death.\nThose are his words.
+@2.9
+Nonsense! Lord \#4C7 went\nto persuade \#47B!\nHe has not betrayed us!
+@2.10
+But we cannot go against\nthe old lord's orders...
+@2.11
+Damn it...\nI'll talk to our lord about it first.
+@2.13
+Ah, \#7FE.\nThis is a sorry business...
+@2.14
+You've heard already!\nAbout Shojumaru!
+@2.15
+Yes...\nI am sorry for \#4C7,\nbut I can't defy the old lord's order...
+@2.16
+You mustn't! Lord \#4C7\nonly went to persuade him.\nHe has not joined the rebellion.
+@2.17
+Of course,\nI know that, but...
+@2.18
+If we kill the son of Lord \#4C7, who works\nfor the good of the Oda house, we'll lose\nthe trust of the other retainers!
+@2.19
+Then what should I do...
+@2.20
+Give the old lord some vague answer\nand somehow hide Shojumaru.
+@2.21
+Do you think the old lord\ncan be fooled like that?
+@2.22
+I, \#7FE, will take responsibility!\nSave Shojumaru's life, at least!
+@2.25
+...Very well.\nI have no wish\nto betray \#4C7 either.
+@2.27
+I leave everything to you.\nHandle it as you see fit.
+@2.28
+Yes, my lord.\nI am most grateful.
+@2.29
+I'll explain things to some small temple\nnearby and leave him there at once,\nwhere he won't attract notice.
+@2.30
+Please...
+@2.31
+Yes, sir! Right away!\nThen I take my leave!
+@2.32
+W-wait! \#7FE!
+@2.34
+Thanks to you,\nI didn't have to become a monster...\nYou have my thanks.
+@2.35
+My lord...\nYou are too kind.
+@2.36
+Take good care of Shojumaru.
+@2.38
+\#3FE then left Shojumaru\nat a nearby temple, warning them\nnever to speak of it.
+@2.39
+And so the life of Shojumaru,\nlater Kuroda Nagamasa, was saved...
+@3.0
+\%03! Good news!\n\#82B has surrendered to us.
+@3.1
+Oh! \#82B, the great lord\nof the Chūgoku, rival of \907A!\nThat \#82B has surrendered?
+@3.3
+Wonderful!\nHeaven has not abandoned us yet.\n\907A must be in a panic now!
+@5.1
+Ah, Lord \#4C7.\nCongratulations on your safe return.
+@5.2
+I heard it from our lord.\nThey say \&03 risked\neverything to shield my son Shojumaru...
+@5.3
+I only did what was right.\nLord \#4C7 is no traitor...
+@5.4
+The old lord ordered the traitor's son killed,\nbut if there was no one who deserved to die,\nthere was no order to obey.
+@5.5
+How can I ever thank you...
+@5.6
+Ha ha, think nothing of it.\nI'm sure the old lord regrets\nhaving gone too far.
+@5.7
+Of all the fortunes of my life,\nmeeting our lord and \&03\nis the greatest.
+@5.8
+But you held out well,\nLord \#4C7.
+@5.9
+Captured by that \#07B,\nthrown into a dungeon,\nnot even given food...
+@5.10
+This time I thought I would die.
+@5.11
+No ordinary man could have borne it.\nYou have remarkable grit, Lord \#4C7.
+@5.12
+The truth is, I had a charm.\nA charm I never let leave my body...\nThis.
+@5.13
+...What is this?
+@5.14
+A letter of praise I once received from our lord.\nHis warm words\ngave me strength...
+@5.15
+Ever since, I've kept this letter\nwrapped in oiled paper,\nand carried it with me as a charm.
+@5.16
+...May I take a look?
+@5.17
+Please.\nFor \&03, who saved my son's life.
+@5.18
+Then, let me see...
+@5.19
+That you have joined my ranks\nis the greatest joy to me;\nnothing could reassure me more.
+@5.20
+I feel at ease with you as with a brother,\njust as with \#629. May our close bond\nnever be broken...
+@5.21
+Come to me directly with anything.\nI expect great things of you.\n- \#000
+@5.22
+What do you think?\nIs there any other lord\nwho would write such warm words?
+@5.24
+Since receiving this letter,\nI have resolved to follow\nour lord for the rest of my life.
+@5.26
+Lord \#BFE?\nWhat is it?
+@5.28
+Rrrrip!
+@5.29
+What!! What are you doing!\nThat's our lord's precious letter!
+@5.30
+You don't need a thing like this.
+@5.31
+What are you saying!\nAhhh...\nMy precious charm!
+@5.32
+\&03!\nDo you bear some grudge against me!?
+@5.33
+Now, listen well! Lord \#4C7...
+@5.35
+This letter says our lord thinks of you\nas a brother.
+@5.36
+What of it!?\nIs that not our lord's affection for me!?
+@5.37
+It is not!
+@5.39
+You and our lord are not brothers.\nYou are lord and retainer!
+@5.41
+How can lord and retainer become brothers?\nIf a letter like this survives,\nit will surely bring disaster.
+@5.43
+If one day our lord rules the realm,\nit will mean you are as good as\nbrother to the ruler of the realm...
+@5.44
+Then our lord would surely\ncome to resent you.\nThat must never happen.
+@5.46
+Forget this letter, which can only bring\ntrouble later, and devote yourself to loyal service!\nThat is what matters most for you.
+@5.47
+That is why\nI tore up this letter...
+@5.48
+Lord \#A30!!
+@5.50
+Your words have opened my eyes!\nI, \#4C7, see clearly now!
+@5.52
+I was indeed wrong.\nI had grown conceited, thinking our lord\nand I were as good as brothers.
+@5.53
+So you understand.
+@5.54
+I cannot thank you enough, Lord \#A30.\nYou saved my son,\nand now you have saved me, \#4C7, as well.
+@5.55
+Please continue to teach me\nwhere I fall short.
+@5.56
+And so \#0C7, who had had\na touch of arrogance about him,\ncame to seek \#7FE's guidance.
+@5.57
+Takenaka Hanbee and Kuroda Kanbee...\nwith the two strategists known as "the Two Bee"\n\#000's golden age had arrived.
+@6.0
+I've defeated the traitor \#07B!
+@6.3
+M-my lord!
+@6.6
+Say no more about it.\nAs long as \#4C7 is safe,\nI am content!
+@6.9
+It seems Lord \#0C7, who had been imprisoned,\nhas been freed as well.
+@6.10
+That's good news!
+@7.1
+Oh! Is that so...\nLord \#4C7 is safe.\nThank goodness.

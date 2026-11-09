@@ -1,9 +1,9 @@
 @0
-I've received the {02}{1F}e x%u, sure enough. Please give my regards to the master of the {02}{0B}d guild.
+I've received the {02}{1F}e x%u, all accounted for. Please give my regards to the master of the {02}{0B}d guild.
 @0.1
-Got the {02}{1F}e x%u, sure enough. Give my regards to the master of the {02}{0B}d guild, then.
+Got the {02}{1F}e x%u, all accounted for. Give my regards to the master of the {02}{0B}d guild, then.
 @1
-I have received the {02}{1F}e x%u, sure enough. Please give my regards to the {02}{0B}d guild.
+I have received the {02}{1F}e x%u, all accounted for. Please give my regards to the {02}{0B}d guild.
 @2
 Oh, it's you! You're late! The agreed date has passed!
 @3
@@ -41,7 +41,7 @@ I'll have you leave something of value behind.
 @19
 {02}{15}d was confiscated!
 @20
-Well, that covers the capital, I suppose. From now on, mind you don't spend the capital.
+Well, that covers the capital, I suppose. From now on, mind you don't dip into the capital.
 @21
 It's not enough! I'll send my men to your house to collect the rest.
 @22
@@ -51,7 +51,7 @@ What a lot of trouble you've caused me. Kindly leave.
 @24
 Still not enough! Well, then there's no choice. Sensei! If you please!
 @25
-What a joke of a fellow! You'll learn the hard way what happens if you don't pay up!
+Think this is a joke?! You'll learn the hard way what happens when you don't pay up!
 @26
 What a lot of trouble you've caused! Get out!
 @27
@@ -93,9 +93,9 @@ You've got the hang of trade now. You'll be needing this soon... It's yours!
 @45
 You seem to have got the hang of trade. You will be needing this soon... Please accept it.
 @46
-This'll make travelling the roads easier. Business will boom even more! Keep it up.
+This'll make travelling the roads easier. Business will boom even more! Let's keep it going.
 @47
-This will make travelling the roads easier. Business will boom even more! I'm counting on you.
+This will make travelling the roads easier. Business will boom even more! I'm counting on you from here on.
 @48
 Oh yes, aren't you often attacked by bandits when you carry trade goods? Use this when that happens!
 @49
@@ -245,9 +245,9 @@ You won't buy at this price?! Are you making a fool of my business?! Get out.
 @122
 You won't buy at this price?! Don't make light of my business. Please leave.
 @123
-Your purse is full. You'd better buy something or put money in savings, don't you think?
+Your purse is full. Why not buy something, or put some money in savings?
 @124
-Your purse is full. You had better buy something or put money in savings, don't you think?
+Your purse is full. Why not buy something, or put some money in savings?
 @125
 Looks like you've got nothing to sell.
 @126
@@ -363,9 +363,9 @@ What's that? Sorry, I'm busy right now. No time for idle chatter.
 @172.1
 Do you know how many days it takes to cross this country, from Matsumae in the north to Kagoshima in the south? About 30 days.\nSo with 60 days, most any job should be doable.
 @172.2
-The basic trick to making money with trade goods: buy a specialty in the town that makes it, and sell it in a town that doesn't sell it. That's all.
+The basic trick to making money with trade goods: buy a specialty in the town that makes it, and sell it in a town that doesn't have it. That's all.
 @172.3
-If you want to profit from trade goods, train your "Accounting" first. The draw is that you get more chances to haggle.
+If you want to profit from trade goods, train your "Accounting" first. The beauty of it is you get more tries at haggling.
 @172.4
 "Speech" also matters for profiting from trade goods. It raises your success rate when haggling.
 @172.5
@@ -373,7 +373,7 @@ Even towns that seem to have no specialty may produce one once they grow larger.
 @172.6
 Even towns with a specialty may produce a more profitable one when they reach full size.\nSo that's why investing matters!
 @172.7
-The bigger the town, the cheaper the same trade goods are to buy and the dearer they sell. Only by a little, mind.
+The bigger the town, the cheaper the same trade goods are to buy and the more they fetch. Only by a little, mind.
 @172.8
 Trade goods sell for 70% of their purchase price.\n\nSo selling them in a town where they cost about the same to buy only loses you money.
 @173
@@ -499,4 +499,4 @@ I see. Well, if you change your mind, give me a shout.
 @203
 Thanks, but any more investment and I'd have nothing to use it on. So... I'll just take the thought.
 @204
-A kind offer, but any further investment would have no use here. So... I shall accept only the kind thought.
+A kind offer, but any further investment would have no use here. So... I shall gratefully accept the thought alone.

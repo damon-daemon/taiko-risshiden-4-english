@@ -1,0 +1,334 @@
+@0.4
+Lord \#89B, the only man who could hold both \#158 and the Toyotomi daimyō in check...
+@1.1
+What!\n...And the outcome?
+@1.3
+As I thought...
+@1.5
+A good thing our house stayed out of it...
+@1.7
+Yet the \#9F6 clan had stayed neutral in this war, and even \#558 could not touch it...
+@1.8
+Its strength survived intact...\nStaying neutral was, it seems, a shrewd choice by \#5F6.
+@2.9
+At any rate, it looks like trouble is coming...
+@3.8
+Hmm... So things have\ngrown serious at last.
+@4.0
+Hmm...\nWhat on earth will happen now...
+@4.1
+Most likely... the daimyō who aided Lord \#62C will be punished.
+@4.2
+And you, my lord, were set up as their commander-in-chief. If things go badly, our house may be destroyed...
+@4.3
+That must not be!\nI cannot let the great work of my grandfather, Lord \#207, who united the Chūgoku, be lost in my time!
+@4.5
+Will Lord \#958 be satisfied\nwith something like that...?
+@4.7
+If we send a letter of apology to set things right and throw ourselves on Lord \#958's mercy, at least the house name may survive...
+@4.8
+I suppose so...\nThere's nothing else for it.
+@4.9
+Just as \#7F1 had expected, \#158 did not destroy the \#9F6 clan...
+@4.10
+Most of the daimyō who had sided with the Western Army were destroyed,
+@4.11
+but the \#9F6 clan alone got off with a light loss of lands...
+@4.13
+Our house has been moved to Yamaguchi.
+@5.1
+Even so...\nthe \#958 have not lost their strength.\nWe must not let down our guard.
+@5.3
+My lord!\nThe lords of the Western Army have arrived.
+@5.4
+Show them in.
+@5.9
+Ha ha, a fine victory! A fine victory!\nSplendidly won!
+@5.10
+We owe it all to you, my lords...\nand to the protection of the late Taikō.
+@5.11
+Indeed...
+@5.12
+By the way, what do you mean to do with the daimyō of the Eastern Army?
+@5.13
+Those who sided with the \#958\nmust be severely punished!
+@5.14
+Quite so.\nLet us confiscate the lands of the Eastern daimyō.
+@5.15
+And then share them out among the daimyō loyal to the Toyotomi.
+@5.26
+Now... the \#958 clan remains.\nWhat shall we do about them?
+@5.27
+We may have beaten them at Sekigahara, but the \#958 clan is still a power to be reckoned with...
+@5.28
+Even so,\nwe can hardly let the matter\nrest there...
+@5.29
+I have a plan in mind.
+@5.30
+Oh?\nLet us see it.
+@5.32
+second son, Yūki Hideyasu
+@5.33
+fourth son, Matsudaira Tadayoshi
+@5.34
+sixth son, Matsudaira Tadateru
+@5.35
+Item: the \#958 house shall pass to \#558's \N001.
+@5.37
+We present these terms; if they accept them, we allow the \#958 clan to survive.
+@5.38
+Interesting!\nI can agree to this plan.
+@5.39
+Lord Hideyasu was once the Taikō's adopted son, so he would be easy for us to handle.
+@5.40
+Let us put this in the form of an order, signed jointly by the new Five Regents, and send it to \#158.
+@5.41
+But terms like these...\nLord \#958 will probably refuse them.
+@5.42
+If so, then this time\nwe crush the \#958 for good!
+@5.44
+In any case, let us send it\nand wait for an answer.
+@5.45
+Then we shall take our leave...
+@6.0
+Well, well.\nThe \#958 clan won't rise again after this.
+@6.1
+\#1F6 dealt with the \#958 clan according to the terms he had set out.
+@6.2
+\#158 and his third son \#178 were ordered to commit seppuku...
+@6.3
+The \#958 clan was allowed to survive, but its lands were cut down drastically.
+@7.0
+Now... for the time being, let us watch how things go from Ōsaka Castle.
+@7.1
+Oh, Lord \#9F6!\nThank you for rising with us!
+@7.2
+Mm, Lord \#A2C.\nI too have had enough of Lord \#958's high-handedness.
+@7.3
+Reassuring words.\nLord \#9F6, I would have you be our commander-in-chief. Your standing makes it only fitting.
+@7.4
+Is the commander-in-chief\nnot Lord \#496?
+@7.5
+Lord \#496 is still only a child...\nLord \#9F6, please support him.
+@7.6
+I see...\nThen my army will stay here in Ōsaka and guard Lord \#496.
+@7.7
+Eh... You will not take the field and fight at the head of your men?
+@7.8
+A commander-in-chief should not rush to the front lightly...
+@7.9
+Besides, if I leave Ōsaka too, who will guard Lord \#496?
+@7.10
+Th-that is\ntrue, but...
+@7.11
+Even so, your forces are the largest, Lord \#9F6...\nWill you not take the field?
+@7.14
+Lead from the front
+@7.16
+I see... Very well.\nThen we alone will go\nand scatter the \#958.
+@7.17
+Mm, I shall await good news.
+@7.19
+But this was to be the last parting of \#1F6 and \#22C...
+@7.20
+The clash of East and West began at Sekigahara, and at first the outcome was anyone's guess...
+@7.21
+But the betrayal of \#09C's unit tipped the battle to the Eastern Army, which won an overwhelming victory.
+@7.22
+\#22C, the Western commander, was captured, and the armies of the Western daimyō were all but wiped out...
+@7.24
+A report!\nOur allies are routed!
+@7.25
+Hmm...\nI never thought we would be beaten\nso easily...
+@7.26
+My lord!\nWe must return home without a moment's delay!
+@7.28
+If we stay here, Lord \#958 will take us for rebels and surely come after our army!
+@7.29
+Right! We withdraw!\nBack to \50F8!
+@7.31
+...Very well.\nThen I shall lend you my strength.
+@7.32
+Oh, thank you!\nWith you on our side, Lord \#9F6,\nthe victory is as good as ours!
+@7.33
+Then let the army march!
+@7.35
+My lord... it is Lord \#A2C's earnest wish.\nWill you not take the field...?
+@8.0
+It seems there are many forces here\nbesides \#158's own army...
+@8.1
+\#0C9, \#0B2, \#0A0...\nI see the men of \#0AD and the \#8B0 as well...
+@8.2
+Damn them...\nThey have all forgotten what they owe the Taikō!
+@8.3
+Lord \#9F6, leave the small fry to us!\nYou attack the main \#958 force!
+@8.4
+Understood!\nLord \#89C, I am counting on you too!
+@8.6
+Now, at them!!
+@9.1
+Blast!\nWhat are the other daimyō doing!?
+@9.2
+The \#830 and \#8E4 units\nseem to be struggling too!
+@9.3
+Grr...\nWhat is \#89C doing!?
+@9.4
+He seems to be sitting on Mount Matsuo, watching how the battle goes... He shows no sign of moving!
+@9.5
+Ah! He's moving!\nHe's attacking \#22D's unit!
+@9.6
+What!?\n\#A2D's unit is on our side!
+@9.7
+Don't tell me \#89C...\nhas betrayed us!
+@9.8
+Damn you! \#09C!!
+@9.9
+My lord!\nPlease flee!\nOur side is finished!
+@9.10
+The betrayal of \#09C's unit tipped the battle at once to the Eastern Army, which won an overwhelming victory.
+@9.13
+Blast! We withdraw!\nBack to our home province!
+@9.14
+The victory is ours!\n\#558's army is in full flight!
+@9.15
+Don't let him escape!\nTake \#558's head!
+@9.17
+How are our other allies faring?
+@9.18
+Sir!\nSome are hard pressed,\nbut on the whole we seem to have the upper hand!
+@9.19
+Hard pressed?
+@9.20
+Sir... the thing is, Lord \#89C's unit, camped on Mount Matsuo, won't move at all!
+@9.21
+So though we have the momentum, they outnumber us... If only \#89C's unit would move...
+@9.22
+Lord \#89C never could make up his mind...\nSomeone, send a messenger to Lord \#89C!
+@9.23
+Tell him: "The battle is won!\nIf you win no glory here,\nthere will be no reward after the war!"
+@9.25
+At last \#09C's unit stirred itself and began to attack the Eastern daimyō.
+@9.26
+The Eastern generals fled in a rout, and Sekigahara, the battle that decided the realm, ended in an overwhelming Western victory...
+@9.27
+Right, back to the castle for now!
+@9.30
+Blast!\nWhat are the other daimyō doing!
+@9.37
+Damn you! \#09C!
+@10.0
+\#1F6!\nPrepare yourself!!
+@10.3
+After all that...\nI had the \#958 cornered...\nC-curses...
+@10.4
+With the defeat at Mount Hakone, the armies of the \#A2C and the \#9F6 collapsed all too easily...
+@10.5
+In time \#158 regained his strength, rallied the daimyō, and once more threatened the \#896 government...
+@10.6
+And so the Toyotomi and the Tokugawa remained locked in a balance of power...
+@10.8
+Ha, \#558!\nThis time you have learned\nthe might of the Toyotomi!
+@10.9
+Good! Now for a triumphant return!
+@10.10
+We could not settle it.
+@10.11
+Mm... The \#958 are still\nmighty indeed.
+@10.12
+It can't be helped.\nFor now, we withdraw!
+@10.13
+And so, with the \#958's strength intact, the new Toyotomi government set out...
+@10.14
+How the \#958 clan would move from here, and how the Western daimyō would uphold the Toyotomi government in reply...
+@10.15
+...no one could yet know...
+@11.0
+It seems everyone is here.\nThen let us begin the council.
+@11.1
+My lord! An urgent letter\nhas come from Lord \#22C!
+@11.2
+What! From Lord \#A2C?\nLet me see it!
+@11.5
+My lord!\nWhat does Lord \#A2C say?
+@11.6
+Something grave has happened...
+@11.7
+The letter was \#22C's request that \#1F6 raise an army against the \#958.
+@11.8
+While \#158 was away on campaign to punish \#11A, who had long shown hostility to the \#958...
+@11.9
+\#62C raised an army against the \#958 and began attacking \#958 castles around the capital.
+@11.10
+And by letter, \#62C called on \#1F6, the most powerful man opposed to the \#958, to rise as well...
+@11.11
+My lord!\nWhat do you mean to do?
+@11.12
+Hmm...\nWhat indeed...
+@11.13
+Side with the \#A2C, or with the \#958... Either way, unless we decide soon, both camps will suspect us...
+@11.14
+Hmm... The \#958's high-handedness is indeed too much. Yet I can't believe \#62C can bring down the \#958...
+@11.15
+In this war, whichever side you join, my lord, will most likely win!
+@11.16
+My lord... Rumour has it that\nLord \#1EF has already joined\nLord \#22C.
+@11.17
+And it seems Lord \#1FA and Lord \#09C will also side with the \#A2C...
+@11.18
+My lord!\nWhat will you do!?
+@11.19
+Hmm...\nWhat to do...
+@11.20
+Join \#22C
+@11.21
+Stay put
+@11.22
+Very well!\nOur house will aid Lord \#62C!
+@11.23
+Oh!\nA wise decision!
+@11.24
+Lord \#62C cannot field\nall that large a force.
+@11.25
+If you take the field, my lord, our great army will put heart into the West...
+@11.26
+...and you will naturally become\nthe commander-in-chief!
+@11.27
+Then let us prepare to march at once!
+@11.28
+Yes!\nI will not stand for the \#958's\nhigh-handedness!
+@11.29
+Our house will not move...\nSend word of it to Lord \#A2C.
+@11.31
+My lord, are you truly sure?
+@11.32
+I am.\nIf they lose, our house would instead\nbecome the \#958's sworn enemy.
+@11.33
+Best to stay neutral this time.
+@11.36
+My lord! An urgent letter\nhas come from Lord \#22C!
+@11.37
+What!\nFrom Lord \#A2C?\nLet me see it!
+@11.38
+Sir!\nHere it is!
+@11.55
+(Our lord seems torn...\nI'd better give him some advice.)
+@11.58
+My lord!\nSide with Lord \#62C!
+@11.63
+If we win there, my lord, you will replace the \#958 as the chief Regent upholding Lord \#496!
+@11.68
+My lord! I believe it would be wiser for our house to stay put and see how things go.
+@11.70
+If we side with neither,\nwe can stay neutral.
+@11.71
+Very well, our house will not move...\nSend word of it to Lord \#A2C.
+@11.73
+This is for the best...\nIf they lose, our house would instead\nbecome the \#958's sworn enemy.
+@12.0
+My lord, about that order...\nLord \#958 has sent no answer at all.
+@12.2
+Worse, rumour has it he is building up his forces more and more...
+@12.3
+Damn you, \#558!\nSo you refuse to submit to the Toyotomi\nto the very end?
+@12.4
+Then it can't be helped.\nSo be it: order the daimyō of every province to march against the \#958!

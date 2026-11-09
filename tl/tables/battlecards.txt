@@ -22,7 +22,7 @@
 20	Sow Treason
 21	Flooding
 22	Rockfall
-23	Abuse
+23	Taunt
 24	Godspeed
 25	Pursuit
 26	Ambush
