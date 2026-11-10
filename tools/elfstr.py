@@ -36,6 +36,10 @@ ASCII_LITERALS = {
     0x4051B8,          # skill card label "%sLv.%y" (negotiation, duel...): space before Lv.
     0x4126D8,          # map balloon "%s\n%s\n%s %s": castle, clan, person + Seat/Direct label
 }
+# strings whose conversions change with a code patch (elftl skips the conversion check)
+CODE_FORMATS = {
+    0x40F418: '%6d.%d kan',   # statusbar.MONEY: printed instead of "%6d kan" when mon != 0
+}
 FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?[a-zA-Z]')
 
 def _f(va):
@@ -124,7 +128,7 @@ def apply(elf, seg, clean=None):
             continue
         i, size, jp = lits[va]
         b = text.fold(en).encode('cp932')
-        if FMT.findall(b) != FMT.findall(jp):
+        if va not in CODE_FORMATS and FMT.findall(b) != FMT.findall(jp):
             errors.append('elfstr %x: conversions %s, Japanese has %s' % (va, FMT.findall(b), FMT.findall(jp)))
             continue
         if len(b) < size:

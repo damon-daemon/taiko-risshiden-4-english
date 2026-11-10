@@ -1701,7 +1701,7 @@ Later, \#094 returned every\ncourt office he held and built\na government of his
 @5.12
 A wholly new government, created by\na genius named \#094...\nPeople called it the Oda Kubō.
 @5.13
-The Kubō government's first act\nwas to issue the Sobuji Edict\nand a ban on piracy.
+The Kubō government's first act\nwas to issue the Sōbuji Edict\nand a ban on piracy.
 @5.14
 From then on, all disputes over land and sea\nwent to the Kubō,\nand private wars were banned.
 @5.15
@@ -1711,7 +1711,7 @@ Kubō government
 @5.17
 At last \#3F5 had restored\nthe Ashikaga Shogunate.
 @5.18
-With the authority of the Shōgun, \#3F5\nissued the Sobuji Edict to the whole land.
+With the authority of the Shōgun, \#3F5\nissued the Sōbuji Edict to the whole land.
 @5.19
 From then on, all disputes over land and sea\nwent to the shogunate,\nand private wars were banned.
 @5.21
@@ -1719,7 +1719,7 @@ Made Shōgun by the court, \#3F5\nat once opened a shogunate at \40F5\nand set i
 @5.22
 This was the founding of what the world calls\nthe "\#BF5 Shogunate."
 @5.23
-The \#BF5 Shogunate's first act\nwas to issue the Sobuji Edict\nand a ban on piracy.
+The \#BF5 Shogunate's first act\nwas to issue the Sōbuji Edict\nand a ban on piracy.
 @5.26
 \#BF5 Shogunate
 @5.27
@@ -1735,7 +1735,7 @@ A religious state was planned, with \#3F5\nat its head, entrusting rule\nto the 
 @5.44
 In time it came to be called\nthe "\#BF5 Kōgi,"\nthe birth of a new form of government.
 @5.45
-The \#BF5 Kōgi's first act\nwas to issue the Sobuji Edict\nand a ban on piracy.
+The \#BF5 Kōgi's first act\nwas to issue the Sōbuji Edict\nand a ban on piracy.
 @5.46
 From then on, all disputes over land and sea\nwent to the Kōgi,\nand private wars were banned.
 @5.48
@@ -1747,7 +1747,7 @@ Now Chancellor, \#3F5 married into\nthe imperial house to bind himself\nto the c
 @5.51
 From the Chancellor's other title, this government\ncame to be called the Shōkoku Mandokoro.
 @5.66
-The Shōkoku Mandokoro's first act\nwas to issue the Sobuji Edict\nand a ban on piracy.
+The Shōkoku Mandokoro's first act\nwas to issue the Sōbuji Edict\nand a ban on piracy.
 @5.67
 From then on, all disputes over land and sea\nwent to the Mandokoro,\nand private wars were banned.
 @5.69
@@ -2021,7 +2021,7 @@ Another 100 years would pass\nbefore a strong government\nunited Japan once more
 @5.234
 Peace had returned,\nbut the land was worn out by the long wars.
 @5.235
-The Sobuji Edict, the sword hunt and other\ndisarmament policies of the \N001\nhad left Japan weak.
+The Sōbuji Edict, the sword hunt and other\ndisarmament policies of the \N001\nhad left Japan weak.
 @5.236
 And the powers coveting the rich island\nnation of the eastern seas\ndid not miss their chance...
 @5.238
@@ -5447,7 +5447,7 @@ Let me... accept it gracefully...
 @163.32
 What are you saying!\nDon't be so faint-hearted...
 @163.33
-\%03, farewell...\%05
+\%03, farewell...
 @163.35
 ...! \%03!\nStay with me!\n\%03!
 @164.3

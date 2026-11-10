@@ -83,7 +83,10 @@ def check_string(lit, en):
     if re.search('[０-９Ａ-Ｚａ-ｚ]', en):
         err.append('full-width Latin letters/digits: use ASCII')
     jb = jp.encode('cp932')
-    if elfstr.FMT.findall(b) != elfstr.FMT.findall(jb):
+    if lit['va'] in elfstr.CODE_FORMATS:
+        if en != elfstr.CODE_FORMATS[lit['va']]:
+            err.append('code-patched format: must be %r' % elfstr.CODE_FORMATS[lit['va']])
+    elif elfstr.FMT.findall(b) != elfstr.FMT.findall(jb):
         err.append('conversions %s, Japanese has %s' % ([x.decode() for x in elfstr.FMT.findall(b)],
                                                           [x.decode() for x in elfstr.FMT.findall(jb)]))
     if re.findall(r'\x1b.', en) != re.findall(r'\x1b.', jp):

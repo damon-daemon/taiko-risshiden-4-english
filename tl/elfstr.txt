@@ -824,13 +824,13 @@
 40f188	??
 40f190	Trade Basics
 40f1a0	Trade Prices
-40f1d0	Trade Area
+40f1d0	Area
 40f1e0	Unknown
-40f1e8	Specialty
+40f1e8	Product
 40f1f0	None
 40f1f8	Unknown
 40f200	Goods
-40f208	Unit Price
+40f208	Price
 40f210	Weight
 40f218	Stock
 40f220	Unknown
@@ -849,7 +849,7 @@
 40f3f0	No deadline
 40f400	%4d/%2d/%2d
 40f410	%6d kan
-40f418	%d00 mon
+40f418	%6d.%d kan
 40f420	 
 40f428	Sea
 40f488	Weapon
@@ -1565,9 +1565,9 @@
 4185d0	Invest
 4185d8	Talk
 4185e0	Enrol
-418630	Buy now
-418640	Sell now
-418650	Fair price
+418630	a good time to buy
+418640	a good time to sell
+418650	a fair price
 418660	kan
 418670	How much will you invest?
 418688	pcs
@@ -1906,7 +1906,7 @@
 41e2a8	Merit
 41e2b0	Court Title
 41e2d0	->
-41e2d8	%s's Home
+41e2d8	%s
 41e2e0	*
 41e2e8	Lord of %s
 41e2f0	Castle Lord

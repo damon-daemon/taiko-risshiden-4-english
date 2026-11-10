@@ -12,8 +12,11 @@ Japanese), one block per string:
   Escapes are copied from `show` as printed and may move:
     \\#XXX  person name (XXX & 0x3FF = event person id; +0x400 given name only,
            +0x800 family name only)
-    \\%NN   pronoun / address word (msg00 entry, English already; \\%02 \\%04 \\%20 take 3
-           more hex digits, a person id) - may be dropped
+    \\%NN   word from msg00 through the table at 0x406ED0 (PCT_UNIT; English already):
+           00 "I", 01 "you", 02XXX "that lord/fellow" (person XXX), 03 how the speaker
+           addresses the listener ("my lord", "Father", else the bare family name),
+           04XXX / 20XXX how he refers to person XXX ("Lord X", "my brother", "X");
+           05-1F Japanese verb endings (empty in English: never in English) - may be dropped
     \\&NN, \\Xnnn (X = one of 0-9 : ; < = > ? @ A-Z: places, numbers, items, string
            slots set by a [1F] string...) - must stay.
   A '%' becomes full-width ％.
@@ -38,6 +41,8 @@ usage:
     evtl.py names                        # name pairs (3B) still without English
 TR4_EVTAG=1 tools/build.py ...: debug build, every dialogue/choice string starts with its
 "file.script.n " key (to find which script runs where).
+TR4_EVSWAP=88.37=00.5[,...] tools/build.py ...: debug build, script 00.5 plays in place of
+88.37 (the first visit to the castle town: new game -> Go outside) to view any scene.
 """
 import fcntl, functools, json, os, re, sys
 
@@ -57,6 +62,9 @@ NAME_ROOM = (15, 13)       # family / given bytes (names.py ROOM_FAMILY / ROOM_G
 
 ESC = re.compile(rb'\\(#[0-9A-Fa-f]{3}|%(?:02|04|20)[0-9A-Fa-f]{3}|%[0-9A-Fa-f]{2}'
                  rb'|&[0-9A-Fa-f]{2}|[0-9:;<=>?@A-Z][0-9A-Fa-f]{3})')
+# \\%NN -> msg00 unit (NewExtractMessageCore jump table 0x406ED0)
+PCT_UNIT = dict(enumerate([0x1C, 0x21, 0x22, 0x2A, 0x2B] + list(range(0x2E, 0x31))
+                          + list(range(0x32, 0x4A)) + [0x2D]))
 FULL_LATIN = re.compile('[０-９Ａ-Ｚａ-ｚ]')
 
 # ---------------------------------------------------------------- data access
@@ -280,6 +288,9 @@ def check(jp, en, k):
             je.remove(x)
         else:
             errs.append('escape not in the Japanese: \\%s' % x.decode())
+    for x in ee:
+        if x[:1] == b'%' and 0x05 <= int(x[1:3], 16) <= 0x1F:
+            errs.append('\\%s is a Japanese verb ending (empty in English)' % x.decode())
     for x in je:
         if x[:1] != b'%':
             errs.append('missing escape \\%s' % x.decode())
@@ -399,6 +410,14 @@ def apply_all():
         out.append((fid, new if new is not None else data))
     if bad:
         sys.exit('errors in tl/ev:\n' + '\n'.join(bad))
+    for pair in filter(None, os.environ.get('TR4_EVSWAP', '').split(',')):
+        # debug build: "88.37=00.5" plays script 00.5 where 88.37 (first town visit) runs
+        dst, src = [tuple(map(int, x.split('.'))) for x in pair.split('=')]
+        body = evscript.ScriptFile(out[src[0]][1]).scripts[src[1]]
+        sf = evscript.ScriptFile(out[dst[0]][1])
+        sf.scripts[dst[1]] = body
+        out[dst[0]] = (out[dst[0]][0], sf.build())
+        changed += 1
     if not changed:
         return None, 0
     return evscript.join(head, out, end_id), changed

@@ -722,7 +722,7 @@
 {"id": 720, "en": ["", "Courtier"]},
 {"id": 721, "en": ["", "Ninja"]},
 {"id": 722, "en": ["", "Ashigaru"]},
-{"id": 723, "en": ["", "Traveler"]},
+{"id": 723, "en": ["", "Traveller"]},
 {"id": 724, "en": ["", "Drunk Man"]},
 {"id": 725, "en": ["", "Drunk Woman"]},
 {"id": 726, "en": ["", "Shady Girl"]},
@@ -733,5 +733,5 @@
 {"id": 731, "en": ["", "Bandit"]},
 {"id": 732, "en": ["", "Jōnin"]},
 {"id": 733, "en": ["", "Unit Leader"]},
-{"id": 734, "en": ["", "Guild Boss"]}
+{"id": 734, "en": ["", "Guild Master"]}
 ]

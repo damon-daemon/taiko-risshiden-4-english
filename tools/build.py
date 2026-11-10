@@ -5,7 +5,7 @@ usage: .venv/bin/python tools/build.py [clean.bin] [out.bin]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import cdimage, datafile, disc, elfseg, elfstr, elftables, evtl, meswin, msgbuf, msgfile, names, printfnum, scenhdr, scriptbuf, sentcase, setup, statusbar, text, vwf
+import cdimage, datafile, disc, elfseg, elfstr, elftables, evtl, meswin, msgbuf, msgfile, names, printfnum, scenhdr, scriptbuf, sentcase, setup, skillnames, statusbar, text, vwf
 
 ROOT = disc.ROOT
 SKIP = set(filter(None, os.environ.get('TR4_SKIP', '').split(',')))   # bisecting: names,tables,elfstr,events
@@ -37,6 +37,7 @@ def main():
     sentcase.apply(elf, seg)
     scriptbuf.apply(elf, seg)
     printfnum.apply(elf, seg)
+    skillnames.apply(elf, seg)
     offs = msgfile.offsets(elf)
     msgbuf.apply(elf, seg, max(b - a for a, b in zip(offs[1:], offs[2:])))
     vwf.apply_vwf(elf, seg)

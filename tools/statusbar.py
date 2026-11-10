@@ -13,6 +13,11 @@ takes a link, and bAddChar refuses the 33rd: "1560/ 6/30" + "    50 kan" + " " +
 Patch: the array, its construction and the capacity move to a 64-link buffer in the
 English segment. (The 32 inline links are no longer constructed; only the static
 destructor would touch them, and it never runs.)
+
+Money (MONEY 0x22A7E4): the game prints "%6d" kan at x 288, then "%d00" mon at x 384 when
+the remainder isn't 0, then a fixed 文 at x 420: "475 kan 800 mon" ran past the bar. Now one
+bPrintf at x 288: "%6d kan" (40F410) or "%6d.%d kan" (40F418, elfstr.CODE_FORMATS) with
+the remainder in tenths of a kan ("475.8 kan", as printfnum prints money in messages).
 """
 import struct
 
@@ -30,7 +35,24 @@ def _word(elf, va):
 def _put(elf, va, b):
     elf[va - BASE + FOFF:va - BASE + FOFF + len(b)] = b
 
+MONEY = 0x22A7E4         # kan printf (x 288) .. the remainder's divu test 0x22A830
+REMAINDER = 0x22A874     # lui/addiu "%d00" (relocation sites, kept), jal bPrintf, nop
+
 def apply(elf, seg):
+    w = lambda va: _word(elf, va)
+    hi16 = lambda va: w(va) >> 16              # opcode + registers (elfstr repoints the immediates later)
+    assert [w(MONEY), w(MONEY + 4), hi16(0x22A808), hi16(0x22A80C), w(0x22A810)] == \
+        [0x3C02CCCC, 0x3442CCCD, 0x3C02, 0x2446, 0x0C0E0BA4], 'status money'
+    assert [hi16(REMAINDER), hi16(REMAINDER + 4), w(REMAINDER + 8)] == [0x3C02, 0x2446, 0x0C0E0BA4]
+    # 0x22A7E4-0x22A80C stay (a3 = kan, a0/a1, a2 = "%6d kan" via the relocated lui/addiu)
+    _put(elf, 0x22A810, assemble(0x22A810, [
+        ('sll', 't0', 'a3', 2), ('addu', 't0', 't0', 'a3'), ('sll', 't0', 't0', 1),
+        ('subu', 't0', 's0', 't0'),               # remainder (x 100 mon) = 2nd argument
+        ('beqz', 't0', REMAINDER + 8),            # -> jal bPrintf with "%6d kan"
+        ('nop',),
+        ('b', REMAINDER),                         # a2 = "%6d.%d kan", jal bPrintf
+        ('nop',)]))
+
     assert [_word(elf, SET_ARRAY + 4 * i) for i in range(5)] == \
         [0x8FA2002C, 0x2442004C, 0xAE020040, 0x24020020, 0xA6020044], 'status list setup'
     assert [_word(elf, CT_ARRAY + 4 * i) for i in range(2)] == [0x8FA2002C, 0x2444004C]
