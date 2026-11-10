@@ -3,13 +3,13 @@ Hey, \#7FE!
 @37.1
 Lord \#49B!
 @37.2
-Say, wouldn't you like to\nlearn a thing or two about battle?
+Say, wouldn't you like to learn a thing or two about battle?
 @37.3
 I would indeed.\nAre you well versed in war, Lord \#49B?
 @37.4
 Hah hah hah!\nListen to this rascal!\nI may not look it, but I've seen my share of fights.
 @37.5
-I'm no grizzled veteran,\nbut I can teach the likes of you a thing or two.
+I'm no grizzled veteran, but I can teach the likes of you a thing or two.
 @37.6
 I'm drilling the ashigaru at the drill ground right now.\nCome along if you like.
 @37.7
@@ -23,7 +23,7 @@ But it won't end like this!\nI'll rise in the world, live well, and then... I'll
 @0.3
 Lord \#7FE?\nDid you just call my name?
 @0.4
-N-Lady \#2A2!\nWhy, er... it was nothing at all.\nHa ha ha... Fine weather today, isn't it?
+Ne... Lady \#2A2!\nWhy, er... it was nothing at all.\nHa ha ha... Fine weather today, isn't it?
 @0.5
 ???\nHow odd you are, Lord \#7FE...
 @0.6
@@ -89,7 +89,7 @@ Good!\nThe "council" is the meeting where the clan's policies are decided.
 @0.37
 At the council, Lord \#494 first decides the policy.
 @0.38
-There are four kinds of policy: "Domestic," "Plots," "Military" and "Battles."
+There are four kinds of policy: "Development," "Plots," "Arms" and "Battles."
 @0.39
 Then each officer takes on a mission that follows the policy.
 @0.40
@@ -209,7 +209,7 @@ Right, now that's settled, off you go!\nYou two take care of yourselves!
 @3.17
 ...\nYes...\nLet's go, \#629!
 @3.18
-Right, Brother!\nI'll do my best too!
+Right, Brother!\nI'll give it my all too!
 @3.19
 \#7FE's younger brother \#629 entered \#7FE's service as his retainer.
 @3.20
@@ -325,7 +325,7 @@ Guild work comes in these kinds: Buy Trade Goods, Buy Treasure, Deliver Trade Go
 @8.11
 For Buy Trade Goods, you bring us the trade goods we name, in the number we name.
 @8.12
-Buy Treasure is the same for items.\nMerchants and such deal in items, but not every merchant may have it.
+Buy Treasure is the same for items.\nMerchants and the like deal in items, though a merchant may not always have the one we want.
 @8.13
 For Deliver Trade Goods, you take the trade goods we name from us to the guild of another town.
 @8.14
@@ -371,7 +371,7 @@ Guild work comes in these kinds: Buy Trade Goods, Buy Treasure, Deliver Trade Go
 @8.37
 For Buy Trade Goods, you buy the trade goods I name, as many as I name, and bring them here.
 @8.38
-Buy Treasure is the same for items.\nMerchants and such deal in items, but not every merchant may have it.
+Buy Treasure is the same for items.\nMerchants and the like deal in items, though a merchant may not always have the one I want.
 @8.39
 For Deliver Trade Goods, you take the trade goods I name from here to the guild of another town.
 @8.40
@@ -397,7 +397,7 @@ A town you invest in grows, sometimes deals in better goods, and deals in larger
 @8.50
 You'll be investing, of course?
 @8.51
-Says he knows it all without asking.\nQuite the confidence.\nI'll expect great things.
+You know it all without being told?\nQuite the confidence.\nI'll be expecting great things.
 @9.0
 Welcome, welcome.
 @9.1
@@ -447,7 +447,7 @@ When I'm short of money, I can just [Withdraw] it from the safe.
 @10.14
 And when I have money to spare, I should [Deposit] it and save it up.
 @10.15
-Oh, yes. Officers with retainers used to hold a [Tea Party] now and then.
+Oh, yes. Officers with retainers hold a [Tea Party] now and then, as I recall.
 @10.16
 Maybe one day I'll try it myself.
 @10.17
@@ -557,9 +557,9 @@ Lord \#3FE, this seems to be your first visit. Shall I explain the drill ground?
 @14.3
 At the drill ground of your own clan's castle you can [Train], [Separate Soldiers], give [Alms] and [Talk]. At another clan's castle, you can gather information on it.
 @14.4
-[Train] raises the castle troops' "training." Better-trained troops have the upper hand in battle.
+[Train] raises the castle troops' "Training." Better-trained troops have the upper hand in battle.
 @14.5
-[Separate Soldiers] raises the castle's "troops." Naturally, more troops give the upper hand in battle.
+[Separate Soldiers] raises the castle's "Troops." Naturally, more troops give the upper hand in battle.
 @14.6
 [Train] and [Separate Soldiers] can only be done while you have that mission for that castle.
 @14.7
@@ -711,7 +711,7 @@ And if you wish to learn the tea ceremony, I shall teach you.
 @22.9
 In the way of tea, daily practice is what matters. Gain experience and master "Tea."
 @22.10
-Then, I look forward to seeing you...
+Then, as you please...
 @23.0
 You seem to be new here. Shall I explain the dojo?
 @23.3
@@ -777,7 +777,7 @@ The ninja village's duty is to take on work from daimyō clans and carry it out.
 @26.5
 If you come as a daimyō's envoy, we will take the work, depending on the reward.
 @26.6
-The work we take is Find Rōnin, Spy Castle, Sabotage, Rumours, Arson, Attack and Murder.
+The work we take is Find Rōnin, Spy Castle, Wreck Castle, Rumours, Arson, Attack and Murder.
 @26.7
 But some work we will not take for certain clans. Then you must give up.
 @26.8
@@ -785,7 +785,7 @@ When you request work, you must wait here until the report on it comes in.
 @26.9
 Should the work end in failure, the reward is returned.
 @26.11
-If you come as a rōnin, you may think of joining our village.
+If you come as a rōnin, we may consider admitting you to our village.
 @26.12
 But ninja live by a harsh code. Come prepared.
 @26.13
@@ -829,7 +829,7 @@ As horses sell, the prices change, and soon go up.
 @27.12
 If I told you other towns' prices for free, I'd be out of business.
 @27.13
-I see... Well, it can't be helped.
+I see... Well, fair enough.
 @27.14
 Also, once there are no horses left in the barn, I can't sell you any.
 @27.15
@@ -1137,7 +1137,7 @@ No, Lord \#09B helped me.
 @32.84
 I'm ashamed... But it was to protect Lady Nene.
 @32.86
-Well! Now that \#7FE has come to, the intruder will take his leave!
+Well! Now that \#7FE has come to, I'll stop being in the way and take my leave!
 @32.87
 Lord \#49B! ...Oh, honestly!
 @32.88
@@ -1335,7 +1335,7 @@ Nor can you always enter a [Castle] freely just because it has a lord.
 @36.22
 At the castle of a clan hostile to the one you serve, the gatekeeper will stop you.
 @36.23
-Then you had best "Sneak," "Give a bribe" to the gatekeeper, or "Pose as a merchant."
+Then you had best "Sneak in," "Give a bribe" to the gatekeeper, or "Pose as a merchant."
 @36.24
 A bribe is the easiest. Pay 10 kan and you are sure to get through.
 @36.25
@@ -1549,7 +1549,7 @@ Trust between you and the other side matters too. Still, you won't know whether 
 @46.15
 Lastly, report the result, and the mission is complete.
 @46.16
-I see. I understand it well.
+I see. Now I understand.
 @46.17
 No use fretting over it! I'll go and meet \%043F1, head of the \907A clan.
 @47.0
@@ -1579,7 +1579,7 @@ Don't ask
 @48.4
 Oh, just the man! There's something I'd like to ask you. Will you tell me about dealings with the court?
 @48.5
-So you have something to present to the court? Most commendable. Then We shall teach you about court dealings.
+So you have something to present to the court? Most commendable. Then I shall teach you about court dealings.
 @48.6
 Court dealings means presenting money and goods to the court to raise your court standing.
 @48.7
@@ -1595,7 +1595,7 @@ If Lord \#295 takes a liking to you, you may even be granted an audience with Hi
 @48.12
 Lastly, report the outcome to your clan's head, and all is done.
 @48.14
-No use fretting over it! When it comes to the court, it's \40F6! I'll go to \40F6.
+No use fretting over it! The court means \40F6! I'll go to \40F6.
 @49.0
 An "Alliance" mission... but how do I go about it?
 @49.2
@@ -1675,7 +1675,7 @@ Ah, there's something I'd like to ask you. What should I do to train the troops?
 @52.5
 Then let me tell you about training.
 @52.6
-Training means raising the "training" of the target castle's troops.
+Training means raising the "Training" of the target castle's troops.
 @52.7
 Hiring troops lowers their training, so you raise it again to be ready for war.
 @52.8
@@ -1715,7 +1715,7 @@ You can also win at gambling, or profit by dealing in trade goods... Grow the mo
 @53.15
 Lastly, deliver the money you made to your lord, and the mission's done.
 @53.16
-Hmm, hmm, I understand it well. Thank you.
+I see, I see. That's clear now. My thanks.
 @53.17
 Next time you come, buy some of my wares too, eh?
 @53.18
@@ -1833,7 +1833,7 @@ Ah, there's something I'd like to ask you. What should I do to expand a castle?
 @58.5
 Then I'll tell ye about expanding.
 @58.6
-Expanding means raising the "size" of the target castle.
+Expanding means raising the "Size" of the target castle.
 @58.7
 When the castle gets bigger, its defense can go higher, and its yield limit goes up too.
 @58.8
@@ -1915,7 +1915,7 @@ Repairing means raising the target castle's defense to be ready for enemy attack
 @61.7
 A castle that sees a lot of fighting loses defense, and one day it falls.
 @61.8
-The castle's "size" sets the limit for defense, so a small castle's defense won't go up much.
+The castle's "Size" sets the limit for defense, so a small castle's defense won't go up much.
 @61.9
 And with a high "Building" skill, you can raise defense more effectively.
 @61.10
@@ -1939,7 +1939,7 @@ Ah, there's something I'd like to ask you. What should I do to open new fields?
 @62.5
 Then I'll tell ye about new fields.
 @62.6
-New fields means adding to the castle's farmland to raise its "yield."
+New fields means adding to the castle's farmland to raise its "Yield."
 @62.7
 When the castle's yield goes up, more rice and money come in. And the people grow in number too.
 @62.8
@@ -1975,7 +1975,7 @@ Greet a rōnin you don't know, and that counts as surveyed.
 @63.13
 At a town's inn you can hear rumours of rōnin... It might be worth dropping in often.
 @63.14
-Hmm, hmm, that's a great help. Thank you.
+I see, I see. That's a great help. My thanks.
 @63.16
 No use fretting over it! I'll find every stranger I can, one after another.
 @64.0
@@ -2021,7 +2021,7 @@ Or you could form an alliance with the \907A or bring them under your rule, so t
 @65.11
 The mission is accomplished when that clan is destroyed or is no longer hostile.
 @65.12
-I see, I understand it well. Much obliged.
+I see. Now I understand. Much obliged.
 @65.13
 No use fretting over it! I'll destroy the \907A!
 @66.0
@@ -2059,7 +2059,7 @@ Separating soldiers from farmers means increasing the target castle's troops.
 @67.7
 But raise too many, and the rice and money coming into the castle go down.
 @67.8
-What's more, more troops in the castle lowers its yield, so its rice and money income drop twice over.
+What's more, as the castle's troops grow its yield falls, so its rice and money income drop twice over.
 @67.9
 Oh, and training drops too.
 @67.10
@@ -2089,7 +2089,7 @@ When you want to know the price, go into a rice shop and choose Market Prices.
 @68.11
 When you want to buy rice, choose Buy Rice. Following me so far?
 @68.13
-You could report to your lord now, but that alone makes you only half a merchant. You've got to earn more.
+You could report to your lord now, but stop there and you're still a novice. You've got to earn more.
 @68.14
 Hmm, so what should I do?
 @68.15
@@ -2103,7 +2103,7 @@ I see! Then I can keep growing my money!
 @68.19
 That's it. But buying rice pushes the price up, so be careful.
 @68.20
-Right, I understand it well.
+Right, I understand.
 @68.22
 No use fretting over it! I'll go to a rice shop.
 @69.0
@@ -2159,7 +2159,7 @@ Ah, there's something I'd like to ask you. What should I do to win the people's 
 @71.5
 Then I'll tell ye about winning hearts.
 @71.6
-Winning hearts means raising the target castle's "support."
+Winning hearts means raising the target castle's "Support."
 @71.7
 When the castle's support goes up, more rice and war funds come in.
 @71.8
@@ -2507,7 +2507,7 @@ That card then shows the destination, and from then on you only need to press it
 @82.26
 Oh! That's marvellous!
 @82.27
-Not yet, not yet. Don't be surprised so soon.
+Oh, there's more. Don't be amazed just yet.
 @82.28
 Press the Square button, and "recently visited places" cards appear.
 @82.29
@@ -2584,3 +2584,5 @@ What, you, promoted? There must have been some mistake.
 Grr! How rude!
 @84.23
 Oh! Lord \#494 has arrived!
+@38.4
+Don't ask

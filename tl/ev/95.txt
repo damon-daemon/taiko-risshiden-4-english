@@ -1,25 +1,25 @@
 @0.0
 Brother...\nI wonder how he's doing...
 @0.1
-\#629,\nwhat are you doing there?
+\#629, what are you doing there?
 @0.2
-Oh, Ma.\nI was just thinking\nabout Brother.
+Oh, Ma.\nI was just thinking about Brother.
 @0.3
 \#400?
 @0.4
-He quarrelled with Pa\nand ran off from home,\nand we've not heard a word since.
+He quarrelled with Pa and ran off from home, and we've not heard a word since.
 @0.5
-They say he's serving\nthe \#894 clan, but...
+They say he's serving the \#894 clan, but...
 @0.6
-Can Brother really\nhold down a job in service?
+Can Brother, of all people, really stick at serving a master?
 @0.7
 Don't you worry about that boy.
 @0.8
-Even if the samurai life doesn't suit him,\nhe'll get by some other way.
+Even if the samurai life doesn't suit him, he'll get by some other way.
 @0.9
 Yeah...
 @0.10
-Come on,\nthere's plenty of work again today.\nCome along later.
+Come on, there's plenty of work again today.\nCome and lend a hand later.
 @0.11
 All right, I will.
 @1.0
@@ -29,7 +29,7 @@ Ma!\nWhat's wrong!?
 @1.2
 Ah, \#629.\nYou came just in time.
 @1.3
-I was carrying a heavy load from the back room\nand hurt my back...
+I was carrying a heavy load from the back room and hurt my back...
 @1.4
 Honestly, what am I to do with you...\nI'll take care of it.
 @1.5
@@ -47,13 +47,13 @@ Brother, are you home?
 @2.1
 Good of you to come. Come on in.
 @2.2
-That's right,\nyou haven't met Nene yet.\nLet me introduce you.
+Oh, I know.\nYou haven't met Nene yet, have you?\nLet me introduce you.
 @2.3
-Nene,\ncome here a moment.
+Nene, come here a moment.
 @2.4
 What is it, dear?
 @2.5
-This is my younger brother, \#629.\nI expect he'll be a bother now and then,\nbut be good to him.
+This is my younger brother, \#629.\nI expect he'll be a bother now and then, but be good to him.
 @2.6
 P-pleased to meet you.\nI'm his younger brother, \#629.
 @2.7
@@ -61,11 +61,11 @@ Pleased to meet you.\nI am Nene, \#400's wife.
 @2.8
 Well, Nene?\nNot bad for a brother of mine, eh?
 @2.10
-Yes, a hopeless brother...\nNene, that's a bit much...
+Yes, his good-for-nothing brother...\nNene, that's going too far...
 @2.13
-Yes.\nHe'll make a fine\nright-hand man for me.
+Yes.\nHe'll make a fine right-hand man for me.
 @2.14
-By the way, Lord \#629,\ndid you come about something?
+By the way, Lord \#629, did you come about something?
 @2.15
 Oh, that's right.\n\#629, did something happen?
 @2.16
@@ -77,7 +77,7 @@ Right, see you.
 @3.0
 Hey, \#629.
 @3.1
-I just saw \#400\ngoing into your\nmother's house.
+I just saw \#400 going into your mother's house.
 @3.2
 Brother!?\nWhat could he want...
 @3.3
@@ -89,18 +89,18 @@ What to do...
 @3.16
 Ma...\nThank you...
 @3.18
-...\nYeah...\nLet's go! \#629!
+...\nRight...\nLet's go, \#629!
 @3.20
-\#400's younger brother, \#629,\nentered \#400's service as his retainer.
+\#400's younger brother, \#629, entered \#400's service as his retainer.
 @3.21
 You're really not coming?\nI won't ask you again.
 @3.33
-All right.\nIf your mind is that set,\nI'll stop asking.
+All right.\nIf your mind is that set, I'll stop asking.
 @3.34
 Look after Ma for me.
 @3.35
 Sorry, Brother.
 @3.37
-\#629,\nare you sure about this?
+\#629, are you sure about this?
 @3.38
 Go and see how he's doing now and then.

@@ -47,11 +47,11 @@ Ugh... gah...
 @1.16
 Now you will pay for roughing up my student! Hmph!
 @1.18
-\#23C, a swordsman who never came into his own, ended his life all too easily...
+\#23C, a swordsman who never came into his own, met his end all too easily...
 @2.0
 This dojo is closed. Please leave.
 @3.0
-Oh, Lord \#7FE, you came.
+Ah, Lord \#7FE. Good of you to come.
 @3.1
 ...And \#63D?
 @3.2
@@ -71,11 +71,11 @@ Master! \#63D is here!
 @3.9
 Good! He came!\nHe won't leave here alive!
 @3.10
-Sorry I'm late!\nShall we begin?
+Forgive my lateness!\nShall we begin at once?
 @3.11
 This is no vendetta. It is a duel! A fight to the death between you and me!
 @3.12
-So I understand!
+I know it!
 @3.13
 Now! Have at you!
 @3.17
@@ -111,9 +111,9 @@ For that I need more training... But there are no more rivals for me in the capi
 @3.34
 I know... Maybe I'll try \50F9. In the domain of the great daimyō \#158, there must be famous swordsmen...
 @3.35
-Shall I go on with my journey...
+On with my journey, then...
 @5.0
-\#3EF takes no new students. Go on, off with you.
+Master \#3EF takes no new students. Go on, off with you.
 @6.0
 Are you perhaps Lord \#3FE, who defeated \#237? Welcome.
 @7.0
@@ -123,23 +123,23 @@ Are you perhaps Lord \#3FE, who defeated \#237?
 @7.2
 Our master said he would very much like to meet the man who beat his student. Please, come in.
 @8.2
-I am sorry, but Lord \#288, master of this dojo, is away. Please call again another time.
+Good of you to come, but Lord \#288, master of this dojo, is away. Please call again another time.
 @9.0
-How empty...\nI have beaten \#63D, whom I hated so much...
+How hollow it feels...\nEven though I have beaten \#63D, the man I saw as my sworn rival...
 @9.1
 Is my sword still lacking after all...?
 @9.3
-I have caused you worry too, \#3F0... From now on, it might be nice to walk a quiet path through life with \#3F0.
+I have caused you worry too, \#3F0... From now on, a quiet life at \#3F0's side might not be so bad.
 @9.4
 Dear, before the duel on Ganryūjima, a samurai asked me to give you this...
 @9.5
-Hm? What is this package...\nThere's a letter inside...\n...Th-this is!!
+Hm? What is this package...\nThere's a letter inside...\n...Wh-why, this is...!!
 @9.6
 It's from \#63D!
 @9.7
 To \#3FE:\n  If you are reading this now, it means I lost to you.
 @9.8
-It cannot be helped... You are strong indeed. But the way of the sword is not only the pursuit of strength.
+So be it... You are strong indeed. But the way of the sword is more than the pursuit of strength.
 @9.9
 I have written down in one book the lessons I learned in my long training... the Book of Five Rings.
 @9.10
@@ -161,13 +161,13 @@ I lost...\nI lost to \#63D... Not with the sword, but as a man...
 @9.19
 Hm? Someone left something on the floor while I was away...?
 @9.20
-What is it? This package...\nThere's a letter inside...\n...Th-this is!!
+What is it? This package...\nThere's a letter inside...\n...Wh-why, this is...!!
 @9.25
 Do not laugh it off as a loser's ramblings: please read it... It will surely help you too.
 @9.31
 The way of the sword has no end... There is still a mountain of things for me to learn...
 @9.32
-Am I really...
+And what of me...?
 @9.33
 I have no regrets
 @9.34
@@ -187,7 +187,7 @@ The Book of Five Rings left by Musashi had a great influence on \#7FE and was ha
 @9.41
 ...produced many swordsmen remembered in the history of the art, and flourished greatly...
 @9.42
-I am still unseasoned... There is still a mountain of things I must do...
+I am still far from mastery... There is still a mountain of things I must do...
 @10.0
 Ah, Lord \#7FE.
 @10.1
@@ -287,17 +287,17 @@ I run a dojo in \40F6. Please do visit.
 @13.44
 Then, farewell.
 @13.45
-(\#103, eh...\n He seems a fairly able man...)
+(\#103, eh... He seems to have some skill...)
 @13.46
 Ugh...
 @13.47
-T-too bad...
+C-curse it...
 @14.0
 This way, Lord \#7FE.
 @14.1
 Brother! I have brought an interesting guest!
 @14.2
-Ah! Sir! Terrible news! The master...!
+Ah! Young master! Terrible news! The master...!
 @14.3
 What!\nWhat has happened?
 @14.4
@@ -325,9 +325,9 @@ S-so you are \#63D! How dare you do this to my brother...!
 @14.18
 Yes. I defeated Lord \#5EC in a bout just now.
 @14.19
-Curse you! How brazen! Stand there! I will cut you down!
+Curse you! The gall of it...! Kneel right there! I will cut you down!
 @14.20
-Hold on, wait! Lord \#503!
+Hold, Lord \#503! Wait!
 @14.21
 Argh...\nDon't stop me, Lord \#63C!
 @14.22
@@ -339,7 +339,7 @@ Ugh... It is as he says, \#503. I was defeated.
 @14.26
 Brother! Don't die!
 @14.27
-(A mortal wound...\n He won't survive this.)
+(A mortal wound... He will not live.)
 @14.28
 Listen... You must carry on the Yoshioka school. Never think of avenging me.
 @14.30
@@ -359,7 +359,7 @@ You can fight a nameless rōnin any time! And when you do, I will stand witness!
 @14.37
 ...Pardon me, but who are you?
 @14.38
-A friend of Lord \#103. My name is \#3FE.
+An acquaintance of Lord \#103. My name is \#3FE.
 @14.39
 \#BFE... \#7FE.
 @14.40
@@ -377,15 +377,15 @@ Once your brother's funeral is over and the succession of the Yoshioka school is
 @14.47
 Very well... And then you will stand witness?
 @14.48
-Of course... I'll have a good look as you strike down \#63D and avenge your brother.
+Of course... I'll gladly watch you strike down \#63D and avenge your brother.
 @14.49
 Yes... Please do. Come to my dojo in \40F6. There I will defeat \#63D.
 @14.50
 Very well...\nThen I'll take my leave for today.
 @14.51
-Yes...\nThank you for everything.
+Mm...\nI am in your debt.
 @14.52
-(\#23D, eh...\n He seems quite a swordsman.)
+(\#23D, eh... He seems quite a swordsman.)
 @15.0
 Well... I made it as far as \40F6, but...
 @15.1
@@ -461,9 +461,9 @@ Because if you lose, the Ono-ha loses face... is that it?
 @15.37
 Are you afraid to lose?
 @15.39
-Then I won't force you. But I will spread word that the \#958 fencing instructor refused a bout for fear of losing...
+Then I won't press you. But the fencing instructor of the great \#958 house refused a bout for fear of losing...
 @15.40
-...all over town. Will that be all right?
+I trust you won't mind if I spread that far and wide?
 @15.41
 Hmm... You seem to be good at provoking people. But such threats will not work on me.
 @15.43
@@ -473,21 +473,21 @@ No doubt you thought that by beating me you would win the post of \#958 fencing 
 @15.46
 My lord is not so foolish... He does not want an instructor whose swordsmanship is clouded by the pursuit of fame and gain.
 @15.47
-Fine words, as one would expect... Then test for yourself, master, whether my sword is clouded.
+Spoken like a true master... Then test for yourself, master, whether my sword is clouded.
 @15.49
 Not a bout... I am only asking you to give me a lesson, master.
 @15.50
 If you refuse even that... I won't move a single step from this spot until you agree to a bout.
 @15.51
-...If you insist that far, it cannot be helped. I will give you a lesson... But!
+...If you insist so far, I have no choice. I will give you a lesson... But!
 @15.52
-Disobeying my orders would shame my lord. This must stay strictly between us... if you can promise that.
+Disobeying my lord's orders would shame him. This must stay strictly between us... if you can promise that.
 @15.53
 Heh heh... Already thinking about losing?
 @15.55
-What comes after can wait until after...! Now, here I come!
+Think about afterwards when the time comes...! Now, have at you!
 @15.57
-Argh... I-I yield! As expected of the \#958 fencing instructor...
+Argh... I-I yield! Truly worthy of the \#958 fencing instructor...
 @15.58
 Hmph... All talk. There are too many of his sort these days.
 @15.60
@@ -505,7 +505,7 @@ Luckily, apart from the master and us, the only one who knows about this is you.
 @15.66
 ...!
 @15.67
-Now die.
+So you will have to die.
 @15.68
 W-wait! Gahh!
 @15.70
@@ -519,7 +519,7 @@ But... your sword is clouded after all. And too sharp... One day it will destroy
 @15.74
 True strength... the true sword... is the sword of no-self...
 @15.75
-Whatever the loser says is just a dog howling at a distance... Sorry to trouble you. I'll be going.
+Whatever the loser says is only the whining of a beaten dog... Forgive the intrusion. I'll be going.
 @15.76
 W-wait...! As we agreed, this bout stays between us...
 @15.77
@@ -541,7 +541,7 @@ Farewell!
 @15.86
 \#237 was nothing much either. My training won't end with the likes of this...
 @15.87
-I won't. I'll use this to raise my name as a swordsman.
+I think not... I'll make use of this to raise my name as a swordsman.
 @15.88
 N-no!\nAnything but that...!
 @15.89
@@ -549,7 +549,7 @@ My dream is to make my name ring throughout the realm, and then serve whichever 
 @15.91
 Master, leave him to us! This man won't take one step out of this house!
 @15.93
-N-no!\nHe is no match for you!
+N-no!\nHe is more than you can handle!
 @15.94
 No! After the master has been so disgraced, we his students cannot let this man leave alive!
 @15.96
@@ -579,15 +579,15 @@ Hmph! Stuck-up, aren't you. I hate swordsmen like you who are all show!
 @16.5
 Are you picking a fight with me...?
 @16.6
-You bet! I'll break that snooty nose of yours and take your precious clothes-pole!
+That I am! I'll break that snooty nose of yours and take your precious clothes-pole!
 @16.7
 Give it up! With skill like yours, you couldn't even cut my shadow.
 @16.8
-You've got a nerve, whelp! All right! Get ready!
+Now you've said it, whelp! Have it your way! Brace yourself!
 @16.9
 (Good grief...)
 @16.10
-Very well... Leaving a town tick like you alone only hurts everyone. I'll teach you a little lesson...
+Very well... Leaving vermin like you loose in the town is a menace to all. I'll teach you a little lesson...
 @16.11
 Heh!\nYou'll regret those words!
 @16.12
@@ -599,7 +599,7 @@ I don't really know what happened, but it seems someone picked a quarrel with th
 @16.15
 That's right, but that fellow's so calm, they've been staring each other down for ages...
 @16.16
-Kyaaah! Toooh!
+Kiyaaah! Hyaaah!
 @16.17
 Honestly, the weakest dogs bark the loudest... Why don't you hurry up and attack?
 @16.18
@@ -629,9 +629,9 @@ Now!\nSir! A leaf just fell!
 @16.31
 Here I go!
 @16.32
-Gahh! Im-impossible... That I should lose...
+Gahh! I-impossible... That I should lose...
 @16.33
-Heh!
+Tch!
 @16.34
 \#3FE...\nSo that's all he was after all...
 @16.35
@@ -639,15 +639,15 @@ Then I'll take your clothes-pole, mister.
 @16.36
 W-wait! Argh...
 @16.37
-Shut it! Go to hell with your beloved sword!
+Shut up! Go to hell on your own beloved blade!
 @16.38
 Gwaaargh!
 @16.39
 Urgh...
 @16.40
-Well, the willow leaf?
+Well? What of the willow leaf?
 @16.41
-It just landed on the water...! Amazing, this rōnin really did it before the willow leaf fell!
+It just landed on the water...! Amazing, this rōnin really did it in the time the leaf took to fall!
 @16.42
 \#63C...
 @16.43
@@ -655,13 +655,13 @@ Did you see that, \#63D? My sword!
 @16.45
 A deadly sword that cuts down even a swallow in flight... Call it the "Swallow Cut".
 @16.46
-What has your training given you? Can you say you have mastered the sword by growing strong aping others?
+What has your training given you? You grew strong by aping others; can you call that mastering the sword?
 @16.47
 My sword... aping others...?
 @16.48
 I'm different... I'll found my own school and make my name ring throughout the realm!
 @16.49
-Let's see... the willow on the bank, the "bank willow", Ganryū! No, that's too weak... I'll call it "Ganryū", the Rock Style!
+Let's see... the willow on the bank: "Ganryū", the Bank Willow! No, that sounds weak... I'll write it with "rock": Ganryū, the Rock Style!
 @16.50
 With this Ganryū I created myself, I'll stand among the great swordsmen of the realm... What about you?
 @16.51
@@ -671,7 +671,7 @@ I...
 @16.53
 ...I've said too much. We'll meet again, \#63D.
 @17.0
-Well...\nShall I rest a while in this town?
+Well...\nI may as well rest a while in this town.
 @17.1
 Oh, isn't that \#3FE!
 @17.2
@@ -679,7 +679,7 @@ Why, Lord \#8DC... It has been too long.
 @17.3
 I have heard about you. They say you beat \#237...
 @17.4
-Hahaha...\nI am sorry it reached your ears.
+Ha ha ha...\nHardly a tale worth your hearing.
 @17.5
 You there, sir rōnin! Are you not the famed Lord \#3FE?
 @17.6
@@ -703,11 +703,11 @@ Did you beat \#237 with that long sword too?
 @17.16
 So you have heard of it.
 @17.17
-Lord \#958 was most put out, but the story is going round everywhere... You are a reliable swordsman, just as they say.
+Lord \#958 was most put out, but the story is going round everywhere... You are every bit the formidable swordsman they say.
 @17.18
 A swordsman such as you would be the pride of my house... What do you say, would you serve us?
 @17.19
-(Oh!\n Will he hire me on a fat stipend?)
+(Oh! Does he mean to take me on at a high stipend?)
 @17.20
 That depends on the terms... I would not settle for Ashigaru General or Samurai General.
 @17.21
@@ -765,7 +765,7 @@ Then we meet on Ganryūjima! There should be boats leaving from the town of Akam
 @17.51
 (Chief Retainer of the \#8DC clan... not bad terms at all. I must beat \#63D, no matter what...)
 @18.0
-Now... the boat to Ganryūjima leaves from here. Shall I rest a while first...? Hm?
+Now... the boat to Ganryūjima leaves from here. I may as well rest a little first... Hm?
 @18.2
 (That's... \#23D!)
 @18.3
@@ -803,7 +803,7 @@ Er... The boat is ready at the edge of town. Please leave town first, then set o
 @19.0
 You must be Lord \#3FE. I'll take you there.
 @19.1
-This boat, then. I'm in your hands.
+This is the boat, then. I'll leave it to you.
 @19.2
 \#3F1... wait for me. I will surely win and become the greatest swordsman in the land... and then Chief Retainer of the \#8DC clan!
 @19.3
@@ -839,13 +839,13 @@ A cowardly tactic! Even so, this is far too late.
 @19.19
 He's here! It's \#23D!
 @19.20
-Sorry to keep you waiting, \#63C.
+I kept you waiting, \#63C.
 @19.21
 ...However late you come, you won't catch me off guard.
 @19.22
-Hah, \#63C, you have lost!
+Hm! \#63C, you have already lost!
 @19.24
-You threw away your scabbard. The sword and scabbard are one. Throwing away the scabbard, you threw away your fate!
+You threw away your scabbard. Sword and scabbard are one. Cast off the scabbard, and you cast off your own fate!
 @19.25
 What!? Spouting nonsense in the middle of a duel! Here I come, \#63D!
 @19.27
@@ -863,7 +863,7 @@ No doubt you will become a famous swordsman. Along the way, remember that there 
 @19.33
 My, my, that was a splendid duel, \#7FE!
 @19.35
-Now no one will object to my receiving you as Chief Retainer... You will come to my house?
+Now no one will object to my receiving you as Chief Retainer... You will join my house, will you not?
 @19.37
 Serve the Hosokawa
 @19.38
@@ -935,8 +935,10 @@ Argh...\nThen I was weaker even than you, still in training...
 @19.80
 Heh... I know my own body best... I'm done for...\nGah...
 @19.82
-\#63D... \#23D! You beat me... From now on, never lose to anyone!
+\#63D... \#23D! You are the man who beat me... Never lose to anyone from now on!
 @19.84
 Ganryū, Sasaki Kojirō, lost his life-or-death duel with \#23D, and so his short life came to an end...
 @19.85
 Yet even now his name lives on in people's hearts as the greatest rival of \#23D...
+@14.9
+Well...

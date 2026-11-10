@@ -1,241 +1,241 @@
 @0.1
 But \#22C, chief of the Five Magistrates who upheld the Toyotomi regime, was wary of \#958's power...
 @0.6
-It seems Lord \#09E, Lord \#0A0 and others\nhave been grumbling\nabout you, my lord...
+It seems Lord \#09E, Lord \#0A0 and others have been grumbling about you, my lord...
 @0.7
-Let them be... They are rough soldiers;\na man of letters like me\nis not to their taste...
+Let them be... They are rough soldiers; a man of letters like me is not to their taste...
 @0.8
-But once the warring age is ended,\nwhat will be needed is not the sword but the pen.
+But once the warring age is ended, what will be needed is not the sword but the pen.
 @0.9
-Why can't they understand that...?\nRight now what matters most\nis to uphold the \#896 clan...
+Why can't they understand that...?\nRight now what matters most is to uphold the \#896 clan...
 @1.4
-Lord \#89B was the only one who could hold \#158 in check.\nWith him gone,\nwho knows what will happen now...
+Lord \#89B was the only one who could hold \#158 in check.\nWith him gone, who knows what will happen now...
 @1.5
-My lord, why not go up to \40F5\nfor a while to see\nwhat the daimyō are up to?
+My lord, why not go up to \40F5 for a while to see what the daimyō are up to?
 @1.6
 Yes... I am worried about the situation in the Kamigata.\nPerhaps I'll go to \40F5...
 @2.0
-Well then... perhaps I should\npay my respects to our lord...
+Well then... perhaps I should pay my respects to our lord...
 @2.1
 My lord!\nTerrible news!
 @2.2
 What has happened?
 @2.3
-They say \#0C9, \#0B0, \#09E and others\nmean to attack you!
+They say \#0C9, \#0B0, \#09E and others mean to attack you!
 @2.4
-Absurd rumours.\nThere's no way such a thing could happen.
+An absurd rumour.\nSuch a thing could never happen.
 @2.5
 No, it's no mere rumour!\nIt seems to be true!
 @2.6
-According to my men's reports,\n\#4C9 and the others have already\nsurrounded your residence!
+According to my men's reports, \#4C9 and the others have already surrounded your residence!
 @2.8
-Seven men are in the attack!\n\#09E, \#0B2, \#0B0, \#0DC,\n\#0A0, \#0C9 and \#09F!
+Seven men are in the attack!\n\#09E, \#0B2, \#0B0, \#0DC, \#0A0, \#0C9 and \#09F!
 @2.9
-They will be here before long\nto take your life!\nMy lord, please flee!
+They will be here before long to take your life!\nMy lord, please flee!
 @2.10
 Hmm...\nThen shall I take refuge in the castle?
 @2.11
 You mustn't!
 @2.12
-This is, after all, a private quarrel.\nWe cannot drag\nthe main \#896 house into it!
+This is strictly a private quarrel.\nWe cannot drag the main \#896 house into it!
 @2.13
 Hmm... true enough.\nBut there's nowhere else to run.
 @2.14
 No... there is one place.\nOne safe place.
 @2.16
-If I recall, Lord \#158 should be\nin this castle town right now...
+If I recall, Lord \#158 should be in this castle town right now...
 @2.17
-Yes... indeed, they say he has come\nto pay his respects to Lord \#496\nbefore returning to \40F6.
+Yes... indeed, they say he has come to pay his respects to Lord \#496 before returning to \40F6.
 @2.18
-We'll take refuge\nin Lord \#558's residence!
+We'll take refuge in Lord \#558's residence!
 @2.19
-My lord!? Are you in your right mind?\n\#558 is all but\nyour enemy...
+My lord!? Are you in your right mind?\n\#558 is all but your enemy...
 @2.20
-If you flee to \#558's residence,\nyou'll be held prisoner, or else\nhanded over to the seven generals!
+If you flee to \#558's residence, you'll be held prisoner, or else handed over to the seven generals!
 @2.21
 No, that's not so.\n\#558 will never let me be killed...
 @2.22
 ...?
 @2.23
-What \#558 wants now\nis to divide the \#896 daimyō,\nto drive a wedge between \#49E's lot and us.
+What \#558 wants now is to divide the \#896 daimyō, to drive a wedge between \#49E's lot and us.
 @2.25
-If I died, the \#896 side\nwould unite as one...\nThat is what \#558 fears most.
+If I died, the \#896 side would unite as one...\nThat is what \#558 fears most.
 @2.26
-So he will not kill me.\nRather, he will keep me alive\nto keep the Toyotomi divided...
+So he will not kill me.\nRather, he will keep me alive to keep the Toyotomi divided...
 @2.27
 ...I see.
 @2.28
-And so, there is no safer place\nthan \#958's residence.\nWe go there at once!
+And so, there is no safer place than \#958's residence.\nWe go there at once!
 @2.29
 Well, well, Lord \#A2C.\nI have heard the story.
 @2.30
-Lord \#958,\nI am sorry to trouble you...
+Lord \#958, I am sorry to trouble you...
 @2.31
-Not at all, it was a misfortune.\nI have spoken firmly to the seven,\nso there is no more fear of attack. Rest easy.
+Not at all. You have had a trying time.\nI have spoken firmly to the seven, so you need fear no further attack. Rest easy.
 @2.32
 I am obliged.
 @2.33
-However, Lord \#A2C,\nI cannot say you bear no blame for this affair.
+However, Lord \#A2C, I cannot say you bear no blame for this affair.
 @2.35
-What do you say...\nto stepping down as magistrate for a while\nand returning to \40F6?
+What do you say...\nto stepping down as magistrate for a while and returning to \40F6?
 @2.36
 I think so too...
 @2.37
-Good.\nThen rest well for today.
+Good.\nThen take your rest for today.
 @2.38
 Yes.\nThank you...
 @2.39
 (That \#558...\nJust as I thought, he did not kill me.)
 @2.40
-(Still, he is not a man to take lightly...\nI must hurry back to \40F6\nand prepare for war...)
+(Still, he is not a man to take lightly...\nI must hurry back to \40F6 and prepare for war...)
 @3.0
-Well, well, I escaped the tiger's jaws.
+Phew, I have escaped the tiger's jaws.
 @3.1
-Truly,\nthat was a calamity.\nCurse \#49E and his lot!
+Truly, that was a calamity.\nCurse \#49E and his lot!
 @3.2
-No, the warrior faction,\n\#09E, \#0A0 and the like, are not the problem.
+No, the warrior faction, \#09E, \#0A0 and the like, are not the problem.
 @3.3
 So the one to beware of is \#958...
 @3.4
-Exactly.\nHe may use the debt of saving me\nto make unreasonable demands...
+Exactly.\nHe may trade on having saved me and press more impossible demands on us...
 @3.5
-My lord, let us gather the daimyō opposed to \#958\nand raise an army to overthrow \#958!
+My lord, let us gather the daimyō opposed to \#958 and raise an army to overthrow \#958!
 @3.6
-No, it's too soon.\nAs long as \#558 is in \50F9,\nhe will be hard to defeat...
+No, it's too soon.\nAs long as \#558 is in \50F9, he will be hard to defeat...
 @3.7
-If \#558 leaves \50F9,\nwe can raise an army while he's away\nand strike down \#958...
+If only \#558 would leave \50F9, we could raise an army behind his back and strike down \#958...
 @3.8
-My lord, then how about\nasking Lord \#11A\nto make a move?
+My lord, then how about asking Lord \#11A to make a move?
 @3.10
-Lord \#91A is no friend of \#958's\nswagger either...\nHe will surely side with us.
+Lord \#91A has no love for \#958's high-handedness either...\nHe will surely side with us.
 @3.11
-Yes...\nLord \#91A can serve as a decoy,\nand while \#558 is away from \50F9...
+Yes...\nLord \#91A can serve as a decoy, and while \#558 is away from \50F9...
 @3.12
-...and then we call on every province to overthrow \#958!
+...we call on every province to overthrow \#958!
 @3.13
-Yes, that's it.\nI'll write at once to Lord \#12B,\nLord \#91A's chief retainer.
+Yes, that's it.\nI'll write at once to Lord \#12B, Lord \#91A's chief retainer.
 @3.14
-Lord \#92B and I are old friends.\nNo doubt he will guess my intent\nand act on it.
+Lord \#92B and I are old friends.\nNo doubt he will guess my intent and act on it.
 @3.15
-And call on Lord \#1F6, Lord \#030\nand the other daimyō opposed to \#958\nto be ready to march at any time!
+And call on Lord \#1F6, Lord \#030 and the other daimyō opposed to \#958 to be ready to march at any time!
 @3.17
 And so \#22C's letter was delivered to \#12B...
 @3.18
-\#52B moved his lord, \#11A, to begin arming against \#958.
+\#52B persuaded his lord, \#11A, to begin arming against \#958.
 @3.19
 \#558 had no choice but to order a punitive campaign against the \#91A clan, and he left \50F9...
 @3.20
-My lord!\nJust as we planned, \#158\nhas marched out of \50F9!
+My lord!\nJust as we planned, \#158 has marched out of \50F9!
 @3.22
-My lord,\nLord \#22D has arrived.
+My lord, Lord \#22D has arrived.
 @3.23
 What?\nLord \#A2D...?
 @3.24
-Yes.\nIt seems he's on his way east to join\nthe campaign against \#91A and came to pay his respects.
+Yes.\nIt seems he's on his way east to join the campaign against \#91A and came to pay his respects.
 @3.25
-My lord... perhaps this is the moment\nto persuade Lord \#A2D\nto join our righteous cause.
+My lord... perhaps this is the moment to persuade Lord \#A2D to join our righteous cause.
 @3.26
 Yes... Show him in!
 @3.28
 Ah, Lord \#A2C.\nIt has been a long time.
 @3.29
-I have been ordered by Lord \#958\nto march against Lord \#91A,\nand as this was on my way, I came to greet you...
+I have been ordered by Lord \#958 to march against Lord \#91A, and as this was on my way, I came to greet you...
 @3.30
 Lord \#A2D...\nWill you not give up this campaign against \#91A?
 @3.32
-The truth is, it was I, \#22C,\nwho asked Lord \#91A\nto provoke \#958...
+The truth is, it was I, \#22C, who asked Lord \#91A to provoke \#958...
 @3.33
 What...\nWhy would you do such a thing!
 @3.34
 All of it is for the \#896 clan...\nto repay my debt to the late Lord Taikō.
 @3.36
-Lord \#958's arrogance is beyond bearing.\nHe disregards Lord \#496\nand behaves as if he were master of Japan.
+Lord \#958's arrogance is beyond bearing.\nHe disregards Lord \#496 and behaves as if he were master of Japan.
 @3.37
-Unless \#958 is punished,\nthe \#896 clan will never be safe.\nLord \#A2D, please understand...
+Unless \#958 is punished, the \#896 clan will never be safe.\nLord \#A2D, please understand...
 @3.38
-Then you stirred up\nLord \#91A\nto strike down Lord \#958...?
+Then you stirred up Lord \#91A to strike down Lord \#958...?
 @3.39
-That is so...\nLord \#A2D, will you not\nstand with us?
+That is so...\nLord \#A2D, will you not stand with us?
 @3.40
-I-I cannot...\nIf it comes to that, the realm\nwill split in two and fall back into war...
+I-I cannot...\nIf it comes to that, the realm will split in two and fall back into war...
 @3.41
 Lord \#A2C!\nCan you not reconsider?
 @3.42
-I'm afraid\nthe time for that has passed...
+I'm afraid the time for that has passed...
 @3.43
-Lord \#1F6, Lord \#030,\nLord \#101 and others are already with us.
+Lord \#1F6, Lord \#030, Lord \#101 and others are already with us.
 @3.46
-I understand.\nIf your mind is so firmly made up,\nthen I too will go with you...
+I understand.\nIf your mind is so firmly made up, then I too will go with you...
 @3.47
-Lord \#A2D!\nI am so grateful!\nWith you, I have the strength of a hundred men!
+Lord \#A2D!\nI am most grateful!\nWith you, I have the strength of a hundred men!
 @3.48
-Then I will not join the campaign against \#91A.\nI'll return to my castle\nand prepare for war!
+Then I will not join the campaign against \#91A.\nI'll return to my castle and prepare for war!
 @3.50
 Good! We march too!
 @3.51
-Send a letter to Lord \#1F6 too\nand ask him to march!\nCall on the other daimyō opposed to \#958 as well!
+Send a letter to Lord \#1F6 too and ask him to march!\nCall on the other daimyō opposed to \#958 as well!
 @3.54
 Good! We march too!
 @3.57
-Good! First we attack \40F6,\na castle of the \#958 clan,\nand make it our first blood!
+Good! First we attack \40F6, a castle of the \#958 clan, and draw first blood!
 @3.58
-Everyone, follow me!
+All of you, follow me!
 @4.0
-Now... since we've attacked Nijō Castle,\n\#158 will no doubt\nmarch on the Kamigata...
+Now... since we've attacked Nijō Castle, \#158 will no doubt march on the Kamigata...
 @4.1
-My lord!\nThe daimyō opposed to \#958\nhave arrived!
+My lord!\nThe daimyō opposed to \#958 have arrived!
 @4.3
-Lord \#BFE, a bold decision!
+Lord \#BFE, you have chosen well!
 @4.4
 We stand with you, Lord \#BFE!!
 @4.5
 Our forces are already assembled!
 @4.6
-Let's give that hateful \#158\na nasty surprise!
+Let's give that hateful \#158 a nasty surprise!
 @4.8
-By the way... I don't see\nLord \#9F6...
+By the way... I don't see Lord \#9F6...
 @4.9
-Lord \#9F6, by his rank, is commander-in-chief...\nSo he is in \40F5,\nguarding Lord \#496.
+Lord \#9F6, by his rank, is commander-in-chief...\nSo he is in \40F5, guarding Lord \#496.
 @4.10
-I see...\nI had hoped Lord \#9F6\nwould take the field himself...
+I see...\nI had hoped Lord \#9F6 would take the field himself...
 @4.11
-Never mind, we'll do\nhis share of the work too!
+Never mind, we'll do his share of the work too!
 @4.12
 ...I am grateful, Lord \#A2D.
 @4.13
 Good, come what may, we march!\nI am counting on you all!
 @5.7
-But the best part is the \#178 army!\nIt reached Sekigahara\nafter \#558's main force had fled home!
+But the best part is the \#178 army!\nIt reached Sekigahara after \#558's main force had fled home!
 @5.8
-They were in such a panic\nwe scattered them easily!\nHa ha ha!
+They were in such a panic we scattered them easily!\nHa ha ha!
 @5.28
 I have a plan in mind.
 @5.29
 Oh?\nLet's see it.
 @5.40
-But terms like these...\nLord \#958 will surely not accept them.
+But terms like these...\nLord \#958 will never accept them.
 @6.3
 Curse you, \#558!\nSo you refuse to the last to obey the Toyotomi!
 @6.4
-Then there's no help for it.\nVery well, call on the daimyō of every province\nto punish \#958!
+Then there's no help for it.\nVery well, call on the daimyō of every province to punish \#958!
 @7.0
-Well, well, now the \#896 clan is safe.
+Well, at last the \#896 clan is safe.
 @7.1
-\#22C dealt with the \#958 clan on the terms he had set out from the start.
+\#22C dealt with the \#958 clan according to the terms he had set out.
 @7.5
 But \#1F6 and \#11A, who had grown stronger with the rewards of this war...
 @7.6
 ...gradually came to slight the \#896 clan.
 @7.7
-\#158 was dead, but a second and a third \#558 were bound to appear in history...
+\#158 was dead, but history was bound to bring forth a second and a third \#558...
 @7.8
 A heavy burden came to rest on the back of \#22C, who upheld the \#896 clan...
 @8.3
-Lord \#A2C,\nleave the small fry to us!\nYou attack \#958's main force!
+Lord \#A2C, leave the small fry to us!\nYou attack \#958's main force!
 @8.4
 I'm obliged!\nWe're counting on you too, Lord \#89C!
 @9.6
-What!?\nThe \#22D unit is on our side!
+What!?\n\#22D's unit is on our side!
 @9.7
 Don't tell me... \#89C...\nhas betrayed us!?
 @9.10
@@ -245,25 +245,25 @@ A few days later, \#22C was captured by the Eastern Army's pursuers...
 @9.12
 The other Western Army generals were captured one after another and faced execution, seppuku or the loss of their lands...
 @9.13
-Lord \#22C!\nAre you prepared...?
+Lord \#22C!\nAre you ready to meet your end...?
 @9.15
-I worked only\nfor the Toyotomi clan...\nI have no regrets.
+I worked only for the Toyotomi clan...\nI have no regrets.
 @9.18
-...Unfortunately, there's no hot water now.\nBut there are persimmons.\nEat one and it'll ease your thirst.
+...I'm afraid there is no hot water here.\nBut I do have a persimmon.\nEat it and it will ease your thirst.
 @9.19
-No, persimmons are bad for the stomach...\nI'll decline.
+No, persimmons are bad for the stomach...\nI must decline.
 @9.20
-...A man about to die\nneedn't worry about his stomach...
+...A man about to die needn't worry about his stomach...
 @9.21
-No. A warrior should take care of his body\neven at the very moment of death,\nso that he may die well...
+No. A warrior should take care of his body even at the very moment of death, so that he may die well...
 @9.23
-...Lord Taikō,\nSakichi will soon\nbe at your side...!
+...Lord Taikō, Sakichi will soon be at your side...!
 @9.24
 \#22C, ringleader of the Western Army at Sekigahara, was executed at Rokujō-gawara in Kyōto, and his head was put on display...
 @9.25
 \#22C, the general who died thinking only of the Toyotomi clan, is said to have been \1006 years old...
 @9.46
-What!?\nThe \#22D unit is on our side!
+What!?\n\#22D's unit is on our side!
 @9.52
 The other Western Army generals were captured one after another and faced execution, seppuku or the loss of their lands...
 @10.0
@@ -273,6 +273,6 @@ After the defeat at Mount Hakone, the \#A2C army quickly fell apart...
 @10.5
 In time \#158 regained his strength, rallied the daimyō and once more came to threaten the \#896 regime...
 @10.14
-What course will the \#958 clan take now? How will it uphold the Toyotomi regime...?
+What schemes would the \#958 clan try next? How was the Toyotomi regime to be upheld...?
 @10.15
 The burden on \#22C was heavy...

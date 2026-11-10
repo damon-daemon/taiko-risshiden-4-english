@@ -1,29 +1,29 @@
 @0.0
 For generations, our \#A70 clan has been a pillar of Jōshū, serving the Kantō deputy, the \#A9D clan...
 @0.1
-But the present Kanrei, Lord \#29D, was driven out by \#1D4, who seeks to rule the Kantō. Now he lives under the protection of Lord \#119 of Echigo...
+But the present Kantō deputy, Lord \#29D, was driven out by \#1D4, who seeks to rule the Kantō. Now he lives under the protection of Lord \#119 of Echigo...
 @0.2
-How grievous... While I, \#670, still draw breath, I will see the Kanrei's house of \#A9D restored, whatever it takes.
+How grievous... While I, \#670, still draw breath, I will see the Kantō deputy's house of \#A9D restored, whatever it takes.
 @0.3
-To do so I must strike down \#9D4, restore peace to the Kantō, and welcome Lord \#69D back as Kanrei in more than name!
+To do so I must strike down \#9D4, restore peace to the Kantō, and welcome Lord \#69D back as Kantō deputy in more than name!
 @0.4
 First I must govern the province from \40F5, hold councils to strengthen our house, and rally all who oppose \#9D4.
 @0.5
 Now, where to begin...
 @0.6
-Since the defeat at Kawagoe, the Kanrei's house of \#A9D has lost all its prestige, and Lord \#29D has fled to Echigo...
+Since the defeat at Kawagoe, the Kantō deputy's house of \#A9D has lost all its prestige, and Lord \#29D has fled to Echigo...
 @0.7
-The Kanrei's house of \#A9D is in decline, but our lord, known as "the Yellow Leopard of Jōshū", means to support the \#A9D to the end.
+The Kantō deputy's house of \#A9D is in decline, but our lord, known as "the Yellow Leopard of Jōshū", means to support the \#A9D to the end.
 @0.8
 The war with \#1D4 of Sagami will only grow fiercer.
 @0.10
 First I must hone my skill at arms, so that I do not lag behind and shame my house when the great war comes...
 @1.0
-\#3FE, my lord! Lord \#519, who had marched into the Kantō, has returned to \40F5!
+Lord \#3FE! Lord \#519, who had marched into the Kantō, has returned to \40F5!
 @1.17
-So he could not bring down \#5D4... A pity, but his appointment as the new Kanrei is cause for joy. Thank you for the report.
+So he could not bring down \#5D4... A pity, but his appointment as the new Kantō deputy is cause for joy. Thank you for the report.
 @3.2
-Oho! Winning without a fight is a fine omen. Just what I would expect of Lord \#919!
+Oho! Winning without a fight is a fine omen. That is Lord \#919 for you!
 @3.9
 Good! Now we march on \40F8.
 @4.4
@@ -47,7 +47,7 @@ Not a single enemy soldier is left in \40F7! They seem to have fallen back to \4
 @7.1
 Lord \#519! \40F7 is in sight!
 @7.3
-Good, we hold a war council!
+Very well, we hold a war council!
 @8.0
 Lord \#519, as I told you before, I wish to hand on to you the office of Kantō deputy and the name of the \#A9D clan...
 @8.5
@@ -57,7 +57,7 @@ Lord \#519, as I told you before, I wish to hand on to you the office of Kantō 
 @8.25
 Lord \#69D... You are far too kind!
 @8.26
-I have something to ask of you as well... Support my heir, Lord \#519, as you have served me until now!
+No doubt you have things you would say to me... But support my heir, Lord \#519, as you have served me until now!
 @8.27
 Lord \#A70, I too ask for your help.
 @8.28
@@ -113,7 +113,7 @@ Not at all. You have served me well enough. From now on, follow the path you bel
 @9.35
 Yes, and you too, Lord \#670... Farewell!
 @10.0
-\#3FE, my lord! Lord \#119 of Echigo has declared that he will march on the Kantō in the name of the Kanrei, Lord \#29D!
+Lord \#3FE! Lord \#119 of Echigo has declared that he will march on the Kantō in the name of the Kantō deputy, Lord \#29D!
 @10.1
 Oho, has he!! So the day has come for Lord \#69D to return to the Kantō. I shall pray for Lord \#519's fortune in war.
 @10.3
@@ -125,17 +125,17 @@ Yes, here it is...
 @10.7
 My lord, what does Lord \#919 say?
 @10.8
-Hm! He is marching into the Kantō in the name of the Kanrei, Lord \#29D!!
+Hm! He is marching into the Kantō in the name of the Kantō deputy, Lord \#29D!!
 @10.9
-"Join the campaign against \#9D4, the traitor who disturbs the order of the Kantō, and serve the Kanrei, Lord \#29D. Otherwise you will be punished as \#9D4 will be."
+"Join the campaign against \#9D4, the traitor who disturbs the order of the Kantō, and serve the Kantō deputy, Lord \#29D. Otherwise you will be punished as \#9D4 will be."
 @10.10
 Oho! And what will you do, my lord?
 @10.11
-It is a golden chance to restore the Kanrei's house of \#A9D! Of course I shall lead my men and join Lord \#919's righteous cause!
+It is a golden chance to restore the Kantō deputy's house of \#A9D! Of course I shall lead my men and join Lord \#919's righteous cause!
 @10.12
-Oho!! My arm itches for battle!
+Oho!! I am itching for battle!
 @11.0
-\#3FE, my lord! \#3F0 of Kai has attacked \50FA Castle!
+Lord \#3FE! \#3F0 of Kai has attacked \50FA Castle!
 @11.1
 What!? When did this... No, there is no time to lose! I must go to their aid at once!!
 @11.2
@@ -151,7 +151,7 @@ What!? \#5AD is marching on Kōzuke!?
 @11.17
 Yes! His army numbers some 20,000! He seems to mean to surround this castle in force!
 @11.18
-Hmm, a great army... \%023F0, what will you do?
+Hmm, a great army... My lord, what will you do?
 @11.19
 Hmm, \#1AD of Kai... He is still young, but they say he is a general without equal.
 @11.20

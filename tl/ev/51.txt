@@ -1,5 +1,5 @@
 @0.0
-Lord \#3FE,\nthe old lord is calling for you.
+Lord \#3FE, the old lord is calling for you.
 @0.1
 Father?\nI wonder what it could be...
 @0.2
@@ -7,21 +7,21 @@ Father! \#7FE is here.
 @0.3
 Ah, you've come.\nThe truth is, \#400 has asked for reinforcements.
 @0.4
-So I want you to take the field\nwith me.
+So I want you to take the field with me.
 @0.6
 Go on ahead to the capital.\nI will follow later.
 @0.8
-My ally \#158 says he wishes to see\n\50FC and the capital.\nI'll set out once I have entertained him.
+My ally \#158 says he wishes to see \50FC and the capital.\nI'll set out once I have entertained him.
 @0.9
 I see... Understood.\nThen I shall go ahead and wait for you in the capital.
 @0.11
-Lord \#3FE,\nthere is word from the old lord.
+Lord \#3FE, there is word from the old lord.
 @0.12
 What, from Father?
 @0.13
-Things are stirring in the west,\nand the old lord is going to send aid.
+Things are stirring in the west, and the old lord is going to send aid.
 @0.14
-So, Lord \#4AA, he asks you to make ready\nand go to the capital...
+So, Lord \#4AA, he asks you to make ready and go to the capital...
 @0.15
 The capital?\nSo we are to meet there?
 @0.16
@@ -31,7 +31,7 @@ Ah, young lord... We have been waiting.\nYour lodging is ready at Myōkaku-ji.
 @1.1
 And Father... I mean, the old lord?
 @1.2
-The old lord will be here shortly.\nHe is to stay at\nHonnō-ji.
+The old lord will be here shortly.\nHe is to stay at Honnō-ji.
 @1.3
 Honnō-ji...? I see.\nAnd how many men does he have with him?
 @1.4
@@ -45,37 +45,37 @@ Never mind
 @1.9
 Fetch troops myself
 @1.10
-Well... it will be fine.\nNo one would be fool enough\nto try for Father's life now...
+Well... it will be fine.\nNo one would be fool enough to try for Father's life now...
 @1.11
-Quite so.\nYou worry too much, sir.
+Quite so.\nYou worry too much, young lord.
 @1.13
 Ah, \#7FE, you're here.\nSorry to keep you waiting.
 @1.14
 Father! You arrived early.
 @1.15
-Yes.\nI came in rather a hurry, and I'm tired!\nLet's hold a tea party tonight and rest a little.
+Yes.\nI came in rather a hurry, and I'm tired!\nLet's hold a tea gathering tonight and rest a little.
 @1.16
 Rest well today.\nWe can set out tomorrow morning.
 @1.17
-Yes, sir.\nThen I'll prepare the tea party...
+Yes, Father.\nThen I'll prepare the tea gathering...
 @1.18
 Good.\nGather the famous tea masters from round about!
 @1.27
-No, it is too dangerous after all!\nWe can't risk it... I'll go back to \40F8\nand bring troops.
+No, it is too dangerous after all!\nWe can't risk it... I'll go back to \40F8 and bring troops.
 @1.28
 Ah! Lord \#7FE!
 @1.31
 Summon my men
 @1.33
-Quite so.\nYou worry too much, sir.
+Quite so.\nYou worry too much, young lord.
 @1.49
 No, it is too dangerous after all!\nWe can't risk it...\nI'll go back to \40F8 and bring troops.
 @1.51
 No, it is too dangerous after all!\nWe can't risk it...
 @1.52
-I'll summon troops, just to be safe.\nIs anyone there!
+I'll summon troops, just to be safe.\nIs anyone there!?
 @1.54
-You, go back to \40F8\nand tell \#3F1\nto bring the army here!
+You, go back to \40F8 and tell \#3F1 to bring the army here!
 @1.56
 Young lord...\nAren't you worrying a little too much?
 @1.57
@@ -87,23 +87,23 @@ I must report!\nSomething terrible has happened!
 @2.2
 What is it! What happened?
 @2.3
-Lord \#0F5 has rebelled!\nThey say the old lord\nhas fallen!!
+Lord \#0F5 has rebelled!\nThey say the old lord has fallen!!
 @2.4
 What! Father!?\nDamn... Was I too late?
 @2.5
-In \@001/\@002, \#0F5\nslew his lord \#094\nat Honnō-ji in Kyōto...
+In \@001/\@002, \#0F5 slew his lord \#094 at Honnō-ji in Kyōto...
 @2.6
-\#094, the whirlwind of the Warring States,\nended his life in the crimson flames of Honnō-ji,\nat the age of \1009...
+\#094, the whirlwind of the Warring States, ended his life in the crimson flames of Honnō-ji, at the age of \1009...
 @2.7
 Curse you... \#4F5!\nYou've repaid kindness with treachery!\nI will never forgive you!
 @2.8
-Young lord... \#4F5 will likely\ncome for you next\nand attack this castle.
+Young lord... \#4F5 will likely come for you next and attack this castle.
 @2.9
 Good, let him come; we'll cut him down!\nThis is a battle of vengeance for Father!\nAll of you, prepare to march!
 @3.0
 Young lord! Terrible news!\nRebellion! There's been a rebellion!
 @3.1
-The town is already\nsurrounded by enemy soldiers!
+The town is already surrounded by enemy soldiers!
 @3.2
 What! Rebellion!?\nWhose rebellion!?
 @3.3
@@ -115,21 +115,21 @@ Please, flee at once!
 @3.6
 Fool!\nWe must protect Father... the old lord!
 @3.7
-But the area around Honnō-ji is already\nsurrounded by the \#8F5 army...
+But the area around Honnō-ji is already surrounded by the \#8F5 army...
 @3.8
 Damn it...!
 @3.9
 There's no choice!\nWe'll break out with my own men!
 @3.10
-...But, sir!\nWe don't have enough troops...
+...But, young lord!\nWe don't have enough troops...
 @3.11
-It can't be helped!\nFight as if each man must defeat\nten of the enemy! Hurry!
+There's no help for it!\nFight as if each man must defeat ten of the enemy! Hurry!
 @3.12
 My lord! It's \#3F1!\nI have just arrived!
 @3.13
 Ah, \#7F1!\nWell done for coming!
 @3.14
-It seems something terrible\nis happening!
+It seems something terrible is happening!
 @3.15
 Yes!\nAnd I cannot let that vile traitor go unpunished!
 @3.16
@@ -137,11 +137,11 @@ Yes!\nAnd I cannot let that vile traitor go unpunished!
 @4.0
 Father... I have avenged you!
 @4.1
-Young lord...!\nYou have struck down\n\#4F5 at last!
+Young lord...!\nYou have struck down \#4F5 at last!
 @4.2
 The old lord must be rejoicing in the world beyond.
 @4.3
-No, from now on Lord \#7FE\nis our new lord!
+No, from now on Lord \#7FE is our new lord!
 @4.4
 Can I... carry on Father's great work?
 @4.5
@@ -149,11 +149,11 @@ We will support you!!
 @4.6
 Yes! I'm counting on you!
 @4.7
-After that, every officer of the Oda house\nwas called up, and an order went out\nto crush \#0F5's allies...
+After that, every officer of the Oda house was called up, and an order went out to crush \#0F5's allies...
 @4.8
-Few had sided with the \#8F5,\nand they were no match\nfor the \#094 armies...
+Few had sided with the \#8F5, and they were no match for the \#094 armies...
 @4.10
-And so \#7FE, as the new head\nof the \#8AA clan,\ncame to lead the Oda armies.
+And so \#7FE, as the new head of the \#8AA clan, came to lead the Oda armies.
 @4.11
 Father... watch over me!\nThe great work of uniting the realm that you could not finish...\nI, \#7FE, will surely accomplish it!
 @5.0
@@ -161,9 +161,9 @@ Oh! \#7FE!\nYou've come back!
 @5.1
 Father... I'm so glad you are safe.
 @5.2
-Yes... This time it was thanks to you\nthat I was saved!
+Yes... This time it was thanks to you that I was saved!
 @5.3
-At this rate, perhaps I should retire\nand hand everything over to you!
+At this rate, perhaps I should retire and hand everything over to you!
 @5.4
 Ha ha ha.\nWhat are you saying, Father?\nYou are still hale and hearty.
 @6.0
@@ -171,7 +171,7 @@ Our army is in full rout!
 @6.1
 Curse him...!\n\#4F5...!
 @6.2
-My lord! Please flee!\n\#4F5's main force\nis heading this way!
+My lord! Please flee!\n\#4F5's main force is heading this way!
 @6.3
 What...!
 @6.4
@@ -181,22 +181,22 @@ Slash!
 @6.7
 Gwaaah...!
 @6.8
-\#3FE was defeated\nin the battle with \#0F5,\nand his life of \1009 years came to an end...
+\#3FE was defeated in the battle with \#0F5, and his life of \1009 years came to an end...
 @6.11
-The battle between \#3FE and \#0F5\nended in an overwhelming victory for \#7FE...
+The battle between \#3FE and \#0F5 ended in an overwhelming victory for \#7FE...
 @6.21
 Right, back to \40F9!
 @6.23
-We didn't settle it,\nbut we managed to drive them off!
+We didn't settle it, but we managed to drive them off!
 @6.25
-The enemy general \#0F5\nseems to have fled somewhere!
+The enemy general \#0F5 seems to have fled somewhere!
 @7.12
-The reinforcements he had called in advance\nhad served him splendidly...
+The reinforcements he had called in advance had served him splendidly...
 @7.22
-I must report!\nThanks to our victory, the old lord has safely\nescaped from Honnō-ji!
+I must report!\nThanks to our victory, the old lord has safely escaped from Honnō-ji!
 @7.23
 Is that so!\nThat is wonderful news!
 @7.24
-The old lord has already\nreturned to \40F9.\nThe reinforcements are no longer needed.
+The old lord has already returned to \40F9.\nThe reinforcements are no longer needed.
 @7.25
 Right, understood.\nWe too return to \40F9!

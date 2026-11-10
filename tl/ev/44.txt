@@ -3,11 +3,11 @@ Welcome home.
 @0.1
 ...Hm?
 @0.3
-Hm... I can't find the kōgai\nfrom my sword...\nYou don't know where it is, do you?
+Hm... I can't find the kōgai from my sword...\nYou don't know where it is, do you?
 @0.4
-A kōgai... the thing you use\nwhen you smooth your hair?\nDon't you usually keep it in the sword's sheath?
+A kōgai... the thing you use when you smooth your hair?\nDon't you usually keep it in the sword's sheath?
 @0.5
-Yes... and that's what I can't find.\nThat kōgai had fine patterned work on it,\nand I was rather fond of it...
+Yes... and that's what I can't find.\nThat kōgai had fine patterned work on it, and I was rather fond of it...
 @0.6
 Well... I'm afraid I don't know.
 @0.7
@@ -17,9 +17,9 @@ Phew...\n...Hm?
 @0.9
 The kōgai I kept in my sword...\nI can't find it...?
 @0.10
-A kōgai is a thin metal rod used\nwhen smoothing the hair,\nusually kept in a sword's sheath.
+A kōgai is a thin metal rod used when smoothing the hair, usually kept in a sword's sheath.
 @0.11
-Hmm... I can't find it.\nThat kōgai had fine patterned work on it,\nand I was rather fond of it...
+Hmm... I can't find it.\nThat kōgai had fine patterned work on it, and I was rather fond of it...
 @0.13
 Lord \#3FE!\nOur lord summons you.
 @0.14
@@ -29,27 +29,27 @@ Ah, you've come, \#7FE.
 @0.16
 My lord... What is your wish?
 @0.17
-Not mine...\nJūami here has business with you, it seems.
+It is not I...\nJūami here has business with you, it seems.
 @0.18
 Jū... ami?
 @0.19
-I am called Jūami.\nLord \#BFE... does this kōgai\nlook familiar to you?
+I am called Jūami.\nLord \#BFE... does this kōgai look familiar to you?
 @0.20
 Ah!\nThat's my...!
 @0.21
 So it was, after all.
 @0.22
-So, Master Jūami,\nyou picked it up for me?
+So, Master Jūami, you picked it up for me?
 @0.23
-No, no. I stole it,\nLord \#89B.
+No, no. I stole it, Lord \#89B.
 @0.24
 Wh-what!?
 @0.25
 Lord \#89B, master of the spear...\nand fine with a sword too, they say...\nI had heard of your treasured kōgai as well...
 @0.26
-So... I thought I would test Lord \#89B,\nwaited for an opening,\nand crept up quietly from behind.
+So... I thought I would test Lord \#89B, waited for an opening, and crept up quietly from behind.
 @0.28
-And Lord \#89B never noticed me\nand was utterly off guard...\nso on a whim, I...
+And Lord \#89B never noticed me and was utterly off guard...\nso on a whim, I...
 @0.29
 Wh-why, you!
 @0.30
@@ -57,11 +57,11 @@ Now, now, \#49B.\nIt was only a page's doing.\nGo a little easy on him.
 @0.31
 ...But, my lord!
 @0.32
-Still, it's not my place to say, as the thief,\nbut for one so renowned as Lord \#89B\nto show such an opening...
+Still, it's not my place to say, as the thief, but for one so renowned as Lord \#89B to show such an opening...
 @0.33
-Ha ha ha... Even \#49B\nlets his guard down when he rests.\nHe's only human.
+Ha ha ha... Even \#49B lets his guard down when he rests.\nHe's only human.
 @0.34
-Heh heh heh... Oh, forgive me.\nIt's just that you are rather different\nfrom the Lord \#89B of the rumours...
+Heh heh heh... Oh, forgive me.\nIt's just that you are rather different from the Lord \#89B of the rumours...
 @0.35
 You... That's enough!\nMocking me before our lord goes too far!\nStand there! I'll cut you down!
 @0.37
@@ -71,11 +71,11 @@ Cut him down anyway
 @0.39
 Sheathe the sword
 @0.40
-I will not stop! As things stand,\n\#09B's honour as a samurai\nis ruined!
+I will not stop! As things stand, \#09B's honour as a samurai is ruined!
 @0.41
 Eeek!\nMy lord, help me!
 @0.42
-Bah! If you'll cry to our lord for help at the last,\nyou should never have mocked me!\nPrepare yourself!
+Bah! If you'll cry to our lord for help at the last, you should never have mocked me!\nPrepare yourself!
 @0.43
 Ugh...
 @0.44
@@ -95,13 +95,13 @@ My lord! But it was Jūami who started...
 @0.51
 I want no excuses!\nGet out! Out, I say!!
 @0.53
-(What have I done... I lost my temper\nand committed a terrible offence before our lord...)
+(What have I done... I lost my temper and committed a terrible offence before our lord...)
 @0.54
 (Disowned by our lord...\nWhat am I to do now...)
 @0.55
 Dear... I heard the rumours.\nWhat is going on!?
 @0.56
-What is this, \%043FE?\nThey say you cut down our lord's favourite page\nright in front of him...!
+What is this, \%043FE?\nThey say you cut down our lord's favourite page right in front of him...!
 @0.57
 Forgive me... \#7F2.\nI've incurred our lord's wrath...\nIt's a rōnin's life for a while...
 @0.58
@@ -109,23 +109,23 @@ Then... the rumours are true.
 @0.59
 Yes... Forgive me.\nI have no excuse...
 @0.61
-W-well, until our lord's mood improves,\nthere's nothing for it but to accept\nyour punishment quietly...
+W-well, until our lord's mood improves, there's nothing for it but to accept your punishment quietly...
 @0.62
-Yes... For now,\nI'll lie low in some town...
+Yes... For now, I'll lie low in some town...
 @0.63
-Dear, I'll follow you\nanywhere.
+Dear, I'll follow you anywhere.
 @0.64
 \#7F2...\nI'm putting you through such hardship.
 @0.65
-We'll quietly put in a good word\nwith our lord ourselves...\nBear with it for a while.
+We'll quietly put in a good word with our lord ourselves...\nBear with it for a while.
 @0.67
 Don't lose heart...
 @0.68
-Then, \%043F1,\nfarewell!!
+Then, \%043F1, farewell!!
 @0.70
-\#3FE's base moves\nto the town of Kiyosu.
+\#3FE's base moves to the town of Kiyosu.
 @0.72
-I had no choice... It was for my honour\nas a samurai that I cut him down.
+I had no choice... It was for my honour as a samurai that I cut him down.
 @0.73
 \%043FE...
 @0.82
@@ -137,17 +137,17 @@ W-wait!\nDon't do anything rash!
 @0.85
 My lord! Farewell!\nUrgh!
 @0.86
-\#3FE cut open his belly\nbefore his lord Nobunaga and died...\nHe was \1009 years old...
+\#3FE committed seppuku before his lord Nobunaga...\nHe was \1009 years old...
 @0.87
-...If you command it, my lord, I will sheathe my sword.\nBut as things stand,\nmy honour as a samurai is ruined!
+...If you command it, my lord, I will sheathe my sword.\nBut as things stand, my honour as a samurai is ruined!
 @0.88
-...Fair enough.\nJūami, return the kōgai to \#7FE\nand apologise.
+...Fair enough.\nJūami, return the kōgai to \#7FE and apologise.
 @0.89
-Sire... I-I am truly sorry,\nLord \#BFE...\nI'll never do it again. Forgive me.
+Y-yes, my lord... I am truly sorry, Lord \#BFE...\nI'll never do it again. Forgive me.
 @0.90
 Good. Withdraw... You're confined for a while.\n\#49B, will that do?
 @0.91
-Sire...\nForgive me for showing you\nsuch an unseemly sight, my lord.
+Yes, my lord...\nForgive me for showing you such an unseemly sight.
 @0.92
 Hm... You may withdraw too.\nCool your head for a while.
 @1.0
@@ -157,13 +157,13 @@ Dear, it's terrible!\nThe whole town is talking about it!
 @1.2
 What is it? What's happened?
 @1.3
-They say Lord \#25B's great army\nhas invaded \#894 lands...
+They say Lord \#25B's great army has invaded \#894 lands...
 @1.4
-What!!
+What!?
 @1.5
-What does Lord \#494\nintend to do...
+What does Lord \#494 intend to do...?
 @1.6
-At the castle, they say, they're arguing\nwhether to hold the castle or march out...
+At the castle, they say, they're arguing whether to hold the castle or march out...
 @1.7
 Grr... I can't just sit here!\nThe house is in danger! I'm going!
 @1.8
@@ -175,9 +175,9 @@ Ah... Dear!
 @1.11
 (Blast... I must hurry!)
 @1.12
-Lord \#3FE, it's terrible!\n\#25B's great army\nhas invaded \#894 lands!
+Lord \#3FE, it's terrible!\n\#25B's great army has invaded \#894 lands!
 @1.14
-At the castle, they say, they're arguing\nwhether to hold the castle or march out!
+At the castle, they say, they're arguing whether to hold the castle or march out!
 @1.16
 Eh...?\nBut Lord \#BFE, you've been disowned...
 @1.18
@@ -187,7 +187,7 @@ Hey! What's happening with the battle!?
 @2.2
 Wh-what, you!\nOut of nowhere...
 @2.3
-I heard our lord\nhas marched out!
+I heard our lord has marched out!
 @2.4
 Ch-choking...\nBah, let go of me!
 @2.5
@@ -199,31 +199,31 @@ We march!\nTell all the generals in the castle town!
 @2.19
 My lord!! I have come!\nIt is \#3FE!\nYour Inuchiyo is here!
 @2.20
-Hm! \#7FE!\nWhat have you come for!
+Hm! \#7FE!\nWhat have you come for!?
 @2.21
-Disowned though I am, my lord,\nwhen I heard of this \#A5B invasion\nI couldn't wait, and came at once!
+Disowned though I am, my lord, when I heard of this \#A5B invasion I couldn't wait, and came at once!
 @2.22
 ...Hm, a commendable spirit.\nVery well! I lift your disownment.\nShow me what your spear can do!
 @2.23
-Sire!\nThen I am ready to die before your horse!
+Yes, my lord!\nThen I am ready to die before your horse!
 @2.24
 Then follow me!
 @3.1
 Oh! \#7F1! You came!\nWe've struck down \#25B!\nOur lord did it! That \#A5B!
 @3.5
-(To think I could help\nbring down that \#A5B...)
+(To think I could help bring down that \#A5B...)
 @3.6
 \#7FE, well done!
 @3.8
-For his deeds at the Battle of Okehazama,\n\#3FE was formally pardoned\nand restored as an Oda retainer...
+For his deeds at the Battle of Okehazama, \#3FE was formally pardoned and restored as an Oda retainer...
 @3.12
-\#7FE, keep working for me\nfrom now on!
+\#7FE, keep working for me from now on!
 @4.0
 Welcome home.\nYou're back very early.
 @4.1
-Yes... We retreated\nwithout fighting to speak of.
+Yes... We retreated without fighting to speak of.
 @4.3
-\#7F1, I've made up my mind.\nI'm abandoning Lord \#8AF,\nand from now on I'll serve \#000 as my lord!
+\#7F1, I've made up my mind.\nI'm abandoning Lord \#8AF, and from now on I'll serve \#000 as my lord!
 @4.4
 Lord \#400...?
 @4.6
@@ -231,25 +231,25 @@ Reporting!\nLord \#0AF has come!
 @4.7
 What!\nW-well, show him in anyway!
 @4.9
-\#7F1, keep what we just said\nto yourself.
+\#7F1, keep what we just said to yourself.
 @4.11
-\#49B,\nyou did well in this battle.
+\#49B, that was a hard battle for you.
 @4.12
 Not at all. I accomplished nothing worth mentioning.\nForgive me...
 @4.13
-Hm, thanks to your withdrawal,\nour army's defeat was sealed...\nYou might say you were the hero of our collapse.
+Hm, thanks to your withdrawal, our army's defeat was sealed...\nYou might say you were the hero of our collapse.
 @4.14
-In \#400's eyes,\nyou must be the man of the day...
+In \#400's eyes, you must be the man of the day...
 @4.15
 Lord \#4AF...
 @4.16
 But victory and defeat are a matter of fortune...\nI bear you no grudge.
 @4.17
-I must now hurry back to \50FB,\ngather my forces\nand meet \#400...
+I must now hurry back to \50FB, gather my forces and meet \#400...
 @4.18
 This castle is on my way...\nso I simply came to see you.
 @4.20
-My lady... I'm hungry after the battle.\nForgive my rudeness, but I'd like\na bowl of rice with hot water...
+My lady... I'm hungry after the battle.\nForgive my rudeness, but I'd like a bowl of rice with hot water...
 @4.21
 Ah, yes!\nPlease wait a moment...
 @4.22
@@ -257,13 +257,13 @@ Lord \#4AF...\nI...
 @4.23
 Say no more, \#49B...\nI understand...
 @4.24
-My luck has run out... Even if I return to \50FB,\nI expect nothing awaits me\nbut to take my own life...
+My luck has run out... Even if I return to \50FB, I expect nothing awaits me but to take my own life...
 @4.26
-But you served me well as a retainer\nand fulfilled your duty... I thank you.
+But you served me well as a retainer and fulfilled your duty... I thank you.
 @4.27
 How can you say that...\nI couldn't even serve you properly...
 @4.28
-From now on, side with \#400...\nEven when I go to the next world,\nI won't hold it against you in the least.
+From now on, side with \#400...\nEven when I go to the next world, I won't hold it against you in the least.
 @4.29
 Lord \#4AF...
 @4.30
@@ -273,9 +273,9 @@ Ah, thank you.\nThen I'll have it at once.
 @4.33
 Ah, that was good.\nMy lady, thank you for the meal.
 @4.34
-Not at all... Forgive me\nfor such a humble dish.
+Not at all... Forgive me for such a humble dish.
 @4.35
-Well... I suppose it's time\nI returned to \50FB...
+Well... I suppose it's time I returned to \50FB...
 @4.36
 Lord \#4AF...\nTake care...
 @4.37
@@ -283,27 +283,27 @@ Lord \#4AF...\nTake care...
 @4.39
 Lord \#4AF knew everything...\nBut what a cruel age this is...\nto drive a man of such honour to his death.
 @4.41
-\#3FE became\na retainer of \#000.
+\#3FE became a retainer of \#000.
 @4.42
 Reporting!\nLord \#000 has come!
 @4.43
-What... Now it's\nLord \#400...
+What... Now it's Lord \#400...
 @4.44
 Oh, \#7FE.\nIt's been a while... Good to see you well.\nAnd your wife is as lovely as ever.
 @4.45
 Oh... Lord \#800, really!\nIs Lady \#2A2 well?
 @4.46
-Ah... well as can be.\nJust the other day she said\nshe'd love to see Lady \#7F1.
+Ah... well as can be.\nJust the other day she said she'd love to see Lady \#7F1.
 @4.47
 Lord \#000!
 @4.48
 What's this, so formal all of a sudden...
 @4.49
-From now on, let me call you\n"my lord".
+From now on, let me call you "my lord".
 @4.50
 What...\nThen you are on my side after all.
 @4.52
-Oh, is that so! I'm grateful.\nI came to thank you, since your withdrawal\ndecided the battle of Shizugatake...
+Oh, is that so! I'm grateful.\nI came to thank you, since your withdrawal decided the battle of Shizugatake...
 @4.53
 And on top of that, you'll join my camp...\nThank you... You are a rare friend indeed.
 @4.54
@@ -315,29 +315,29 @@ No, I've made my peace with it.\nI have Lord \#8AF's own blessing...\nPlease don
 @4.57
 ...Very well.\nThen that's all for today.\nFarewell.
 @4.59
-Dear...\nI think your decision\nwas the right one.
+Dear...\nI think your decision was the right one.
 @4.60
 \#7F1...\nI've put you through so much.
 @4.61
-With \#3FE changing sides,\nthe balance between \#000 and \#0AF\nwas badly shaken...
+With \#3FE changing sides, the balance between \#000 and \#0AF was badly shaken...
 @4.62
-...and \#000's conquest of the realm\nwould move forward...
+...and \#000's conquest of the realm would move forward...
 @5.0
-Ah, \#7FE.\nThank you for coming... I'm putting you\nthrough a painful time.
+Ah, \#7FE.\nThank you for coming... I'm putting you through a painful time.
 @5.1
 Not at all...\nIf it is my lord's order, I won't refuse to march, but...
 @5.2
-I'd like you to be our rear guard.\nIf we break the \#800 army,\nfollow up and attack too.
+I'd like you to be our rear guard.\nIf we break the \#800 army, follow up and attack too.
 @5.3
-But if we are defeated instead,\nyour forces will be our hope...\nWill that do?
+But if we are defeated instead, your forces will be our hope...\nWill that do?
 @5.4
 Your consideration humbles me...
 @5.5
-Hm, I understand how you feel,\nnot wanting to cross blades with a friend...
+Hm, I understand how you feel, not wanting to cross blades with a friend...
 @5.6
-\%0409B, we'll settle the battle\nourselves, so rest easy\nand guard the rear.
+\%0409B, we'll settle the battle ourselves, so rest easy and guard the rear.
 @5.7
-\%04098, don't let your guard down.\nWhatever you do, don't put our lord\nin a tight spot.
+\%04098, don't let your guard down.\nWhatever you do, don't put our lord in a tight spot.
 @5.8
 I know that!
 @5.10
@@ -347,31 +347,31 @@ Good fortune in battle...
 @7.20
 Now is the time to repay our lord's favour!\nMen, charge!!
 @8.11
-Anyway, retreat for now!
+Please, retreat for now!
 @8.14
-(How can I show my face\nto our lord now...)
+(How can I show my face to our lord now...)
 @8.15
-(I defied my disownment and joined the battle uninvited,\nand in the end I achieved nothing\nand was beaten by the enemy...)
+(I defied my disownment and joined the battle uninvited, and in the end I achieved nothing and was beaten by the enemy...)
 @8.16
-(\#3FE's honour is lost...\nNothing remains but to die\nand beg our lord's forgiveness.)
+(\#3FE's honour is lost...\nNothing remains but to die and beg our lord's forgiveness.)
 @8.17
 (My lord... Inuchiyo goes on ahead.\nUrgh!)
 @8.18
-As the \#A5B army overran Okehazama,\n\#3FE took his own life...
+As the \#A5B army overran Okehazama, \#3FE took his own life...
 @9.0
-But the battle of Shizugatake,\nwhere \#800 and \#8AF clashed,\nended surprisingly quickly...
+But the battle of Shizugatake, where \#800 and \#8AF clashed, ended surprisingly quickly...
 @9.1
-\#0AF's army waited until \#000 was away\nattacking another castle,\nand struck the force he left behind.
+\#0AF's army waited until \#000 was away attacking another castle, and struck the force he left behind.
 @9.2
-\#8AF's vanguard, \#098,\nbadly beat the \#800 army\nin the first clash...
+\#8AF's vanguard, \#098, badly beat the \#800 army in the first clash...
 @9.3
-But the \#800 army turned back at lightning speed,\nfaster even than the Great Return from the Chūgoku,\nand caught the \#8AF army off guard...
+But the \#800 army turned back at lightning speed, faster even than the Great Return from the Chūgoku, and caught the \#8AF army off guard...
 @9.4
-In an instant the tide turned...\nStarting with \#898's unit,\nevery unit collapsed.
+In an instant the tide turned...\nStarting with \#898's unit, every unit collapsed.
 @9.5
 Reporting!\nOur army is collapsing!
 @9.6
-Our lord orders you\nto move the rear guard\nand save our side from disaster!
+Our lord orders you to move the rear guard and save our side from disaster!
 @9.8
 ...My lord?
 @9.9
@@ -379,17 +379,17 @@ Our lord orders you\nto move the rear guard\nand save our side from disaster!
 @9.11
 We withdraw! Pull the army back!
 @9.12
-Wh-what are you saying!\nOur side is waiting anxiously\nfor your help, Lord \#BFE!!
+Wh-what are you saying!\nOur side is waiting anxiously for your help, Lord \#BFE!!
 @9.13
-...The outcome is already decided.\nEven if I moved my troops now,\n\#800's victory is certain...
+...The outcome is already decided.\nEven if I moved my troops now, \#800's victory is certain...
 @9.14
 But... then...
 @9.15
 Victory and defeat are a matter of fortune...\nLord \#8AF had no luck...\n...That is all.
 @9.16
-Withdraw the army!\nBut do not attack\nthe retreating \#8AF army!
+Withdraw the army!\nBut do not attack the retreating \#8AF army!
 @9.17
-S-sire!
+Y-yes, my lord!
 @9.18
 Lord \#8AF... Forgive me.\nI shall side with my friend...
 @10.0
@@ -397,32 +397,32 @@ Hm, everyone seems to be here.\nThen let the council begin.\n\#3FE!
 @10.2
 I appoint you lord of \40F6!
 @10.4
-I know you and \#000\nare on good terms...\nThat is exactly why I want to entrust you with a castle.
+I know you and \#000 are on good terms...\nThat is exactly why I want to entrust you with a castle.
 @10.6
 Govern \40F6 well...
 @10.8
-\#3FE became\nlord of \50F9 Castle.
+\#3FE became lord of \50F9 Castle.
 @11.0
-My lord! Our lord has finally\nraised an army to subdue \#000!
+My lord! Our lord has finally raised an army to subdue \#000!
 @11.1
 What...!\nHow rash...
 @11.2
-Most likely \%04098 or someone like him,\neager for glory, pressed our lord...
+Most likely \%04098 or someone like him, eager for glory, pressed our lord...
 @11.3
-Lord \#3FE is also\nasked to take the field!
+Lord \#3FE is also asked to take the field!
 @11.4
-It can't be helped...\nIt pains me to make an enemy\nof \%04000, but...
+There's no help for it...\nIt pains me to make an enemy of \%04000, but...
 @11.5
-My lord! A secret letter\nhas come from Lord \#000!
+My lord! A secret letter has come from Lord \#000!
 @11.7
 The secret letter said:\n"I do not wish to be your enemy...\nIf you can, will you not come over to my side?"
 @11.8
-"If that is impossible, then at least stand aside\nand do not move your troops."
+"If that is impossible, then at least stand aside and do not move your troops."
 @11.9
-Hmmm! What a fix...\nI can abandon neither \#0AF, my lord,\nnor \#000, my friend.
+Hmmm! What a fix...\nI can abandon neither \#0AF, my lord, nor \#000, my friend.
 @11.10
-Duty to my lord, faith to my friend...\nKeep my duty and I break faith;\nkeep faith and I fail my duty...
+Duty to my lord, faith to my friend...\nKeep my duty and I break faith; keep faith and I fail my duty...
 @11.11
-My lord! There's no time for doubts!\nOur lord has sent for you\nagain and again!
+My lord! There's no time for doubts!\nOur lord has sent for you again and again!
 @11.12
-It can't be helped...\nWe march!
+There's no help for it...\nWe march!

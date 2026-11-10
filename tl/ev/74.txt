@@ -9,11 +9,11 @@ This was thanks to everyone's strength.\nShikanosuke, you above all have borne g
 @0.4
 No, it was not my strength alone.\nLet us all share in this joy.
 @0.5
-\%03, let us move our seat\nto Gassan-Toda Castle at once.
+\%03, let us move our seat to Gassan-Toda Castle at once.
 @0.6
 Indeed.\nGassan-Toda is the home of the Amago.\nWe shall move our seat there at once.
 @0.8
-Now rest well\nuntil the next council.
+Now rest well until the next council.
 @0.9
 Yes, my lord. By your leave.
 @1.0
@@ -23,12 +23,12 @@ The revival of the Amago, \#3FE's cherished wish, was never to be...
 @1.2
 If only I had been stronger...\nNow I know how powerless I am.
 @1.3
-Yet I thank you, Heaven,\nfor the hardships you gave me,
+Yet I thank you, Heaven, for the hardships you gave me,
 @1.4
-and for days\nfuller than any man could ask...
+and for days fuller than any man could ask...
 @1.6
-But my life\nis not over yet.
+But my life is not over yet.
 @1.7
-From now on, as one of the \9079,\nI must train harder still,
+From now on, as one of the \9079, I must train harder still,
 @1.8
-so that I never again\nrepeat such a failure...
+so that I never again repeat such a failure...

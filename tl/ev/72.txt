@@ -1,25 +1,25 @@
 @2.8
 What!?\nAnd Father?\nDid he cut \#62C down?
 @3.0
-Father, why have you\nreturned to \50F8?
+Father, why have you returned to \50F8?
 @3.14
 What!\n\#562...
 @3.19
 In any case, what matters now is preparing for war!
 @3.20
-But, Father...\nIf we march too late,\nthe daimyō in the vanguard will grow suspicious.
+But, Father...\nIf we march too late, the daimyō in the vanguard will grow suspicious.
 @3.22
 \#578!\nIn case of trouble, I am giving you part of the army!\nTake the Nakasendō and head for Sekigahara by another road!
 @4.0
-In any case,\nI must go to Father.
+In any case, I must go to Father.
 @4.1
 Father, I am truly sorry!
 @4.2
 You fool!
 @4.3
-"Missing the forest for the trees"\nmeans someone like you!
+You are a man who cannot see the forest for the trees!
 @4.4
-By rights you would have no place\nat this council at all!
+By rights you would have no place at this council at all!
 @4.5
 Go and sit at the lowest seat!
 @5.1
@@ -27,9 +27,9 @@ Our allied daimyō have been destroyed one after another...
 @5.2
 I am truly sorry!\nIf only \&00 had not been late...
 @5.3
-It cannot be helped...\nI failed to see your nature.\nThe fault is \&00's...
+It cannot be helped...\nI failed to see your nature.\n\&00 am the one at fault...
 @5.14
-My lord,\na letter has come from Lord \#22C...
+My lord, a letter has come from Lord \#22C...
 @5.25
 Father!\nOur army still has strength to spare!
 @5.32
@@ -43,19 +43,19 @@ Good, we'll leave the bare minimum of troops and turn back!\nThe attack on \#91A
 @7.0
 Whereabouts are we?
 @7.1
-Near \50F8 Castle\nof the \#9A3 clan.
+Near \50F8 Castle of the \#9A3 clan.
 @7.2
-As I recall, \#9A3\ndid not answer the call\nto punish Uesugi.
+As I recall, \#9A3 did not answer the call to punish Uesugi.
 @7.3
-Perhaps\nhe has something\nup his sleeve.
+Perhaps he has something up his sleeve.
 @7.4
-If we simply pass by,\nit will leave a worry\nbehind us.
+If we simply pass by, it will leave a worry behind us.
 @7.5
-It may be wise\nto give \#9A3\na quick beating here.
+It may be wise to give \#9A3 a quick beating here.
 @7.6
-You must not move the army\nthe old lord gave you\nfor so trifling a matter.
+You must not move the army the old lord gave you for so trifling a matter.
 @7.7
-We should head for\nSekigahara without a moment's delay.
+We should head for Sekigahara without a moment's delay.
 @7.8
 Hmm...
 @7.9
@@ -63,31 +63,31 @@ Beat \#9A3
 @7.10
 Hurry to Sekigahara
 @7.11
-Twisting a country daimyō's arm\nwon't take much effort.
+Twisting a country daimyō's arm won't take much effort.
 @7.12
 It'll make a fine gift for Father too.\nCome, prepare to attack!
 @7.14
 You're right.\nThis is no time for detours.\nCome, we resume the march.
 @8.1
-It seems\nwe're in time...\nAnd the enemy?
+It seems we're in time...\nAnd the enemy?
 @8.9
-Orders\nfrom the old lord.
+Orders from the old lord.
 @8.10
-Lord \#578's unit\nis to strike the \#030 army.
+Lord \#578's unit is to strike the \#030 army.
 @8.11
-And you are\nnot to neglect watching\nthe \#09C unit.
+And you are not to neglect watching the \#09C unit.
 @8.12
-\#09C rides with the winner.\nTo make him move,\nwe must blunt the Western Army's first push.
+\#09C always sides with the winner.\nTo make him move, we must blunt the Western Army's first push.
 @8.13
 Begin the attack!\nEveryone, charge!
 @9.0
-Lord \#7FE!\nOur army\nis collapsing!
+Lord \#7FE!\nOur army is collapsing!
 @9.1
 Damn!\nThat \#5A3!
 @9.2
-Lord \#7FE!\nThe victory\nis ours!
+Lord \#7FE!\nThe victory is ours!
 @9.3
-That \#5A3\ntook more effort\nthan I thought.
+That \#5A3 took more effort than I thought.
 @9.4
 Lord \#7FE!\nThe battle sways back and forth.\nIt looks set to become a stalemate.
 @9.5
@@ -97,19 +97,19 @@ My lord!\nUrgent news from the old lord!
 @9.7
 What is it!
 @9.8
-The battle at Sekigahara\nis already decided.\nVictory for our Eastern Army!
+The battle at Sekigahara is already decided.\nVictory for our Eastern Army!
 @9.9
 W-what!?\nIs that true!?\nIt's already over?
 @9.10
 Blast...\nWe didn't make it in time...
 @9.11
-There is no point now\nin staying here.
+There is no point now in staying here.
 @9.12
 Yes...\nAll troops, withdraw...
 @10.2
 What of Father!?
 @10.3
-The old lord\nhas begun to withdraw too!
+The old lord has begun to withdraw too!
 @10.4
 Damn.\nThere's no help for it!\nWe withdraw.
 @10.8
@@ -123,10 +123,10 @@ Victory for our side!
 @11.18
 The \#958 army won the battle, and \#22C met a miserable defeat and death...
 @11.21
-It was not decisive,\nbut we somehow held them back.
+It was not decisive, but we somehow held them back.
 @12.3
 Father...\nWhat does Lord \#A75 say?
 @12.4
-Yes... He sends word that \#11A of \50F8\nis up to something suspicious.
+Yes... He sends word that \#11A of \50F8 is up to something suspicious.
 @12.17
 Good, we march!\nI am issuing the order to punish \#91A!

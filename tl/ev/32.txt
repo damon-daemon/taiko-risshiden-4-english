@@ -1,11 +1,11 @@
 @0.0
 (So this is my new home!)
 @0.1
-So you're finally a Castle Lord,\ndear...
+So you're finally a Castle Lord, dear...
 @0.2
 That I am!\nBut I won't be content with this much!
 @0.3
-I'll keep serving Lord \#494\nand make him see even more of what I can do!
+I'll keep serving Lord \#494 and make him see even more of what I can do!
 @0.4
 Nene!\nI'm counting on you from here on too!
 @0.5
@@ -13,19 +13,19 @@ I know, dear.
 @0.7
 Ma!
 @0.8
-To think you've become a general\nwith a castle of your own!\nI'm amazed.
+To think you've become a general with a castle of your own!\nI'm amazed.
 @0.9
-Today I've brought along\nsome of our relatives.
+Today I've brought along some of our relatives.
 @0.10
-Put the two of them\nto work under you.
+Put the two of them to work under you.
 @0.11
 Pleased to meet you!
 @0.12
-\%03,\nplease make use of us.
+\%03, please make use of us.
 @0.13
 Well, well!\nWhat promising young warriors!
 @0.14
-I'll do my best, sir.
+I look forward to serving you.
 @0.15
 When there's a battle, take us with you.
 @0.16
@@ -33,23 +33,23 @@ Oh, I'm so glad, so glad.
 @0.17
 Fine young men, both of them.\nI expect great things from them in battle.
 @0.18
-But until now, it was enough\nto win merit in battle.\nThat won't do any more.
+But until now, it was enough to win merit in battle.\nThat won't do any more.
 @0.19
-Collecting taxes, securing supplies, managing money,\nmaintaining waterways and roads,\neven settling the people's quarrels: all must be handled.
+Collecting taxes, securing supplies, managing money, maintaining waterways and roads, even settling the people's quarrels: all must be handled.
 @0.20
 But my men are rough soldiers, every one...\nNow, what to do?
 @0.21
-Why not search the towns\naround here?
+Why not search the towns around here?
 @0.22
-I hear this land of Ōmi\nhas long thrived on trade,\nand has many people with all kinds of skills.
+I hear this land of Ōmi has long thrived on trade, and has many people with all kinds of skills.
 @0.23
-You may find someone\nto your liking, \%03.
+You may find someone to your liking, \%03.
 @0.24
 I see, that's a fine idea!
 @0.25
-Once the castle repairs are done,\nyou'll be busy again.
+Once the castle repairs are done, you'll be busy again.
 @0.26
-Why not look for talent\nbefore then?
+Why not look for talent before then?
 @0.27
 Hm.\nThen I'll keep my eyes open.
 @1.1
@@ -59,27 +59,27 @@ Can I help you?
 @1.3
 Oh! You're the master, aren't you?\nWho is this man?
 @1.4
-This is \#233.\nHe's good with figures, so I hired him\nthinking he'd be useful in business...
+This is \#233.\nHe's good with figures, so I hired him thinking he'd be useful in business...
 @1.5
-He keeps exact track of the rice trade\nand harvests season by season,\nso we can set our buying and selling prices.
+He keeps exact track of the rice trade and harvests season by season, so we can set our buying and selling prices.
 @1.6
-Thanks to him we can buy and sell rice\nat good prices.\nHe's made us a tidy profit.
+Thanks to him we can buy and sell rice at good prices.\nHe's made us a tidy profit.
 @1.7
 And he's a hard worker besides.\nHe really is a great help.
 @1.8
 Hoh.\nHe has such talent, does he?
 @1.9
-Here in \40FB, people come from all over,\nso learning the rice prices isn't hard.
+Here in \40FB, people come from all over, so learning the rice prices isn't hard.
 @1.10
-After that, if you can work out\nthe cost of travelling there and back...
+After that, if you can work out the cost of travelling there and back...
 @1.11
-You can buy rice where it's cheapest\nand sell it where it's dearest.
+You can buy rice where it's cheapest and sell it where it's dearest.
 @1.12
-But if you're holding a lot of rice,\nthe price may fall.\nWhat do you do then?
+But if you're holding a lot of rice, the price may fall.\nWhat do you do then?
 @1.13
-When rice is cheap,\nyou don't force it onto the market.
+When rice is cheap, you don't force it onto the market.
 @1.14
-Instead, if you do something like raising funds,\nyou can get money that way.
+Raise your war funds some other way instead, and the money still comes in.
 @1.15
 You're quite clever.\nWhat do you say? Will you work at my castle?
 @1.16
@@ -105,29 +105,29 @@ What! 10 kan, you say?\nTh-then how about 20 kan?
 @1.26
 Well, all right.\nThen 20 kan up front, received with thanks.
 @1.27
-Then I'll be heading\nto the castle...
+Then I'll be heading to the castle...
 @1.28
 (Ha ha ha.\nFor all his talk, he's still green.)
 @1.29
-(I'd have gone\nas high as 30 kan.)
+(I'd have gone as high as 30 kan.)
 @1.30
-\%03,\ntaking our help away\nputs us in a fix, you know.
+\%03, taking our help away puts us in a fix, you know.
 @1.31
 Ah, sorry about that.
 @1.32
 From now on I'll be a regular at this shop.\nWill you let it go at that?
 @1.33
-Please do.\nAnd by the way, we only paid \#633\n2 kan.
+Please do.\nAnd by the way, we only paid \#633 2 kan.
 @1.34
 ...\nI've been had!
 @1.35
-Hmm.\nYou don't look\nall that rich.
+Hmm.\nYou don't look all that rich.
 @1.36
-...\nI don't have it on me now,\nbut there's plenty at the castle.
+...\nI don't have it on me now, but there's plenty at the castle.
 @1.37
-Doesn't sound too reliable,\nbut it does sound interesting.\nAll right.
+Doesn't sound too reliable, but it does sound interesting.\nAll right.
 @1.38
-\%03,\ntaking our help puts us in a fix.
+\%03, taking our help puts us in a fix.
 @1.41
 Please do.
 @2.0
@@ -135,7 +135,7 @@ Oh, it's the Castle Lord.\nIs there something you need?
 @2.1
 Nothing, I was just passing by.\nI'm a bit thirsty, though.\nCould I have some hot water?
 @2.2
-Castle Lord,\nwould you care for some tea?
+Castle Lord, would you care for some tea?
 @2.3
 Oh! How thoughtful.\nI'll have some!
 @2.4
@@ -149,23 +149,23 @@ Would you like another cup?
 @2.8
 Oh!\nThis one has real flavour. Delicious!
 @2.9
-But that's a bit mean of you.\nIf you can make tea this good,\nyou could have served it first...
+But that's a bit mean of you.\nIf you can make tea this good, you could have served it first...
 @2.10
-The last tea I served\ncertainly has the most flavour\nand tastes best.
+The last tea I served certainly has the most flavour and tastes best.
 @2.11
-But to bring out that flavour,\nit must be made with hot water.
+But to bring out that flavour, it must be made with hot water.
 @2.12
-Drink tea that hot\nbefore your tongue is used to the heat,\nand you'll burn yourself.
+Drink tea that hot before your tongue is used to the heat, and you'll burn yourself.
 @2.13
-So first, lukewarm tea\nto ease your thirst, then hotter and hotter,\nso you can enjoy the flavour...
+So first, lukewarm tea to ease your thirst, then hotter and hotter, so you can enjoy the flavour...
 @2.14
-I never noticed\nsuch thoughtfulness at all.
+I had no idea you had put such thought into it.
 @2.15
-Forgive the boy\nfor speaking so boldly.
+Forgive the boy for speaking so boldly.
 @2.16
-No, no.\nThis boy is interesting.
+No, no.\nThe boy intrigues me.
 @2.17
-He's the sort who studies\neverything with great zeal.
+He's the sort who studies everything with great zeal.
 @2.18
 What do you say, Reverend...\nWill you leave this boy in my care?
 @2.19
@@ -181,23 +181,23 @@ Then it's settled.\nI'm counting on you.
 @3.1
 Hm, good work.
 @3.2
-To mark the occasion,\nI'll rename this castle Nagahama.
+To mark the occasion, I'll rename this castle Nagahama.
 @3.3
 Nagahama?\nIt has a fine ring to it!
 @3.4
-Yes, I took one character\nfrom our lord's name!
+Yes, I took one character from our lord's name!
 @3.5
-Come, \%03,\nlook at the repaired castle.
+Come, \%03, look at the repaired castle.
 @3.8
 Sturdy stone walls...\nA triple ring of moats...
 @3.9
-We made the moats passable by boat,\nso the town is thriving too.
+We made the moats passable by boat, so the town is thriving too.
 @3.10
 This is splendid!\nWell done!
 @3.12
-Many people travel through Ōmi.\nOnce they see this castle and its town,\nmore are sure to come.
+Many people travel through Ōmi.\nOnce they see this castle and its town, more are sure to come.
 @3.13
-I can just picture\nmy castle town bustling with life.
+I can just picture my castle town bustling with life.
 @4.0
 Excuse me.
 @4.1
@@ -205,7 +205,7 @@ Oh!\nIf it isn't Lord \#0C7!
 @4.2
 And what brings you here today?
 @4.3
-Lord \#3FE,\nexcuse me.
+Lord \#3FE, excuse me.
 @4.4
 Hm? Who are you?
 @4.5
@@ -213,53 +213,53 @@ Forgive me for not introducing myself.\nI am \#0C7.
 @4.6
 Lord \#8C7, is it?\n...And what brings you here?
 @4.7
-I have come to serve\nLord \#000.
+I have come to serve Lord \#000.
 @4.9
-We were originally\non friendly terms with the Mōri, but...
+We were originally on friendly terms with the Mōri, but...
 @4.10
-Strong as the Mōri are, they are frogs in a well...\nThey have spread their domain too wide\nand can barely hold what they have...
+Strong as the Mōri are, they are frogs in a well...\nThey have spread their domain too wide and can barely hold what they have...
 @4.11
-They are nothing compared with Lord \#094,\nwho has an enterprising spirit.
+They cannot compare with the forward-looking Lord \#094.
 @4.12
-For the prosperity of my house,\nI judged it wisest to side with the \#894 clan,\nand so I have come.
+For the prosperity of my house, I judged it wisest to side with the \#894 clan, and so I have come.
 @4.13
-I see.\nNow I understand why you\nhave come to the \#894 clan.
+I see.\nNow I understand why you have come to the \#894 clan.
 @4.16
-Lord \#494 has ordered me\nto assist \%03.
+Lord \#494 has ordered me to assist you, \%03.
 @4.19
-We were originally\non friendly terms with the Mōri.
+We were originally on friendly terms with the Mōri.
 @4.20
-But the Mōri clan has declined,\nand the survival of my house is in danger.
+But the Mōri clan has declined, and the survival of my house is in danger.
 @4.21
-For the prosperity of my house,\nI judged it wisest to side with Lord \#094,\nwho has an enterprising spirit, and so I have come.
+For the prosperity of my house, I judged it wisest to side with the forward-looking Lord \#094, and so I have come.
 @4.26
-This is the land where I was born and raised...\nI can be of use in your campaign\nin the Chūgoku, \%03.
+This is the land where I was born and raised...\nI can be of use in your campaign in the Chūgoku, \%03.
 @4.27
-\%03!\nI beg you,\nmake use of me!
+\%03!\nI beg you, make use of me!
 @4.28
 ...Very well.\nFrom now on, lend me your strength.\nI'm counting on you!
 @5.0
-\%03,\n\#0C8 of \50FA Castle has rebelled.
+\%03, \#0C8 of \50FA Castle has rebelled.
 @5.1
 What!\n\#0C8 has turned traitor!?
 @5.2
-No doubt \907A incited him\nto break away.
+No doubt \907A incited him to break away.
 @5.3
 But \#0C8 is still isolated.\nWe must strike him at once.
 @5.4
-I hear many Harima samurai\nare devoted followers of \#9E0.
+I hear many Harima samurai are devoted followers of \#9E0.
 @5.5
-If we sit idle,\nhe may join up with that \#9E0 lot too.
+If we sit idle, he may join up with that \#9E0 lot too.
 @5.6
-Yes! We must take \50FA Castle\nas soon as we can.
+Yes! We must take \50FA Castle as soon as we can.
 @6.1
-\#07B of \50FA has rebelled\nagainst the \#894 clan!
+\#07B of \50FA has rebelled against the \#894 clan!
 @6.2
 What!\nIs \907A behind this too!?
 @6.3
-If we don't strike quickly,\nwe'll be cut off here!
+If we don't strike quickly, we'll be cut off here!
 @6.4
-My lord! Leave it to me\nto talk \#47B round.
+My lord! Leave it to me to talk \#47B round.
 @6.5
 Rebel though he did, \#47B must be uneasy at heart.\nHe may yet listen to reason now.
 @6.6
@@ -267,59 +267,59 @@ I won't allow it!\nWhat if something should happen to you?
 @6.7
 \#47B is human too...\nHe is not beyond reason.\nAnd I believe it is the best course now.
 @6.8
-Whatever you say,\nI forbid you to go and persuade \#47B!
+Whatever you say, I forbid you to go and persuade \#47B!
 @6.9
-Do nothing rash,\nwhatever happens.\nUnderstood, \#4C7?
+Do nothing rash, whatever happens.\nUnderstood, \#4C7?
 @7.0
 \%03, a report!
 @7.1
-Lord \#0C7 failed to win over \#07B\nand has been imprisoned!
+Lord \#0C7 failed to win over \#07B and has been imprisoned!
 @7.2
 What, \#4C7!?\nAfter all I told him...\nHe went to persuade \#47B anyway!
 @7.3
 \#4C7... He's still alive, isn't he?
 @7.4
-We have heard nothing yet\nof an execution...
+We have heard nothing yet of an execution...
 @7.5
-I see... Now that it's come to this,\nwe must rescue \#4C7 without a moment's delay!
+I see... Now that it's come to this, we must rescue \#4C7 without a moment's delay!
 @8.0
-\%03! Good news!\n\#82B has surrendered\nto our side.
+\%03! Good news!\n\#82B has surrendered to our side.
 @8.1
-What!\n\#82B, the great power of the Chūgoku beside \907A!\nThat \#82B has surrendered!?
+What!\n\#82B, who ranks with \907A as a great power of the Chūgoku!\nThat \#82B has surrendered!?
 @8.2
-He has already met Lord \#494 and handed over hostages,\nand it seems his lands have been guaranteed.
+He has already met Lord \#494 and handed over hostages, and it seems his lands have been guaranteed.
 @8.3
-What!\nHeaven has not forsaken us yet.\nNow the Chūgoku will be \#894's!
+Splendid!\nHeaven has not forsaken us yet.\nNow the Chūgoku will be \#894's!
 @8.4
 \907A must be in a panic about now!
 @9.0
 (So this is my new castle!)
 @9.1
-(A poor farmer's son\nhas climbed this high at last...)
+(A poor farmer's son has climbed this high at last...)
 @9.2
 \%03!\nCongratulations!
 @9.3
-Yes!\nHaving a castle of my own\nis a wonderfully refreshing feeling!
+Yes!\nHaving a castle of my own feels grand!
 @9.4
-Then, to mark my becoming Lord of \50FB Castle,\nI'll take a good look at my castle.
+Then, to mark my becoming Lord of \50FB Castle, I'll take a good look at my castle.
 @9.5
 The shore is wide, but the land is utterly flat...\nAnd the ground is hard sand...
 @9.6
-If the enemy attacked,\nthere'd be nothing to hold them.
+If the enemy attacked, there'd be nothing to hold them.
 @9.7
-If only it jutted out into the water,\nor were surrounded by paddies...
+If only it jutted out into the water, or were surrounded by paddies...
 @9.8
-If there's no water around it,\nwe need only make some.
+If there's no water around it, we need only make some.
 @9.10
-Build stone walls on the hard sand\nand dig moats around them.
+Build stone walls on the hard sand and dig moats around them.
 @9.11
-Use the earth from the moats\nas a base on top of the walls,\nand we'll have a sturdy castle.
+Use the earth from the moats as a base on top of the walls, and we'll have a sturdy castle.
 @9.12
-With two or three rings of moat,\nthat alone should give ample defence...
+With two or three rings of moat, that alone should give ample defence...
 @9.13
 Hm, interesting.\nLet's try it.
 @9.14
-If we make those moats passable by boat,\nthe town should prosper too.
+If we make those moats passable by boat, the town should prosper too.
 @9.15
 Then we'll set to rebuilding at once.
 @10.1
@@ -327,21 +327,21 @@ My lord... You should rest a little...
 @10.3
 What of \#0F5!\nHave you found any leads!?
 @10.7
-My lord!\nMost of the stragglers have arrived,\nand we are ready to march!
+My lord!\nMost of the stragglers have arrived, and we are ready to march!
 @11.3
-No one could raise any objection\nto \#3FE taking over\n\#0F5's former lands...
+No one could raise any objection to \#3FE taking over \#0F5's former lands...
 @11.4
 (My lord...\nThe unification you could not achieve...\nthis Monkey will achieve it without fail...!)
 @12.8
-Sire!\nThen we'll set to work at once.
+Yes, my lord!\nThen we'll set to work at once.
 @12.9
-\#3FE had a great dike\nbuilt around the castle\nand diverted the river into it.
+\#3FE had a great dike built around the castle and diverted the river into it.
 @12.15
 My lord!\nSomething terrible has happened!\nClear the room!
 @12.16
 What is it, \#7F1? What's wrong?
 @12.17
-Just now one of my men\nbrought word of a grave matter!
+Just now one of my men brought word of a grave matter!
 @12.18
 So what has happened?\nOut with it!
 @12.19
@@ -357,17 +357,17 @@ Tell me it's a lie, \#7F1!
 @12.31
 My lord, look at this.
 @12.33
-What is this, this ninja...?
+Who is this ninja...?
 @12.34
 He is an envoy \#0F5 sent to the Mōri...\nHe was carrying this letter.
 @12.35
 What...!
 @12.36
-It was a letter\nfrom \#0F5 to the Mōri.
+It was a letter from \#0F5 to the Mōri.
 @12.37
-In it, \#4F5 wrote that at Honnō-ji in Kyōto\nhe had been forced to strike down his lord...
+In it, \#4F5 wrote that at Honnō-ji in Kyōto he had been forced to strike down his lord...
 @12.38
-...and asked them\nto attack \#3FE from behind...
+...and asked them to attack \#3FE from behind...
 @12.39
 This is...!\nUnmistakably \#4F5's hand...
 @12.40
@@ -379,61 +379,61 @@ My lord!\nAaagh! My lord!
 @12.52
 Good!\nWell said, \#7F1!\nWe turn back at once!
 @12.58
-Through the Mōri clan's envoy monk,\nZen master \#5EF of Ankokuji,\n\#3FE pressed swiftly for peace...
+Through the Mōri clan's envoy monk, Zen master \#5EF of Ankoku-ji, \#3FE pressed swiftly for peace...
 @12.59
-Lord \#BFE...\n\40F7 says it will accept\nthe terms of peace.
+Lord \#BFE...\n\40F7 says it will accept the terms of peace.
 @12.60
 I am grateful.\nI have put you to great trouble, Reverend.
 @12.61
-Not at all... This humble monk\nmerely acted as go-between.
+Not at all... This humble monk merely acted as go-between.
 @12.62
 Now send an envoy into \40F7!\nAn envoy of peace!
 @12.65
 Lord \#BFE...\n\40F7 says it will accept peace.
 @12.68
-Having taken over \40F7 safely,\n\#3FE secretly began\npreparing to return, unseen by the Mōri.
+Having taken over \40F7 safely, \#3FE secretly began preparing to return, unseen by the Mōri.
 @12.69
-And once ready, \#7FE's army\nmarched back to \50FB\nat astonishing speed...
+And once ready, \#7FE's army marched back to \50FB at astonishing speed...
 @13.0
-Good! The whole army, halt!\nWe'll watch the \#8F5 army!
+Good! The whole army, halt!\nLet's see what the \#8F5 army does!
 @13.1
 My lord, Lord \#4A8 is here.
 @13.2
 What, Lord \#4A8?
 @13.3
-Lord \#7FE, well done coming back!
+Lord \#7FE, I am glad you have returned!
 @13.4
 Our lord's loss is a bitter thing...\nWe too are filled with grief.
 @13.5
-Yes...\nI tried to raise troops\nto avenge my father, but...
+Yes...\nI tried to raise troops to avenge my father, but...
 @13.6
-When word came that \#0F5\nwas bearing down with a great army,\nmy troops ran away...
+When word came that \#0F5 was bearing down with a great army, my troops ran away...
 @13.7
-So when I heard you'd returned, Lord \#7FE,\nI thought, with your strength I could avenge my father...
+So when I heard you'd returned, Lord \#7FE, I thought, with your strength I could avenge my father...
 @13.8
 Have no fear, Lord \#4A8!\nI shall avenge your father!
 @13.10
-To the Oda retainers, \#4F5\nis a sworn enemy we cannot share the sky with...\nI, \#7FE, shall strike him down.
+To the Oda retainers, \#4F5 is a mortal foe we cannot suffer under the same sky...\nI, \#7FE, shall strike him down.
 @13.11
 N-no...\nVengeance is for me, his son...
 @13.12
 Now, now.\nYou need only watch, Lord \#4A8.\nWe shall strike down \#4F5 without fail!
 @13.14
-You there!\nBring Lord \#4A8\nsome tea!
+You there!\nBring Lord \#4A8 some tea!
 @13.15
 Ah, forgive me for not noticing...\nLord \#4A8, this way, please.
 @13.16
 B-but Lord \#BFE...\nI want to fight too...
 @13.17
-We'll settle this on our own,\nso be at ease!
+We'll settle this on our own, so be at ease!
 @13.18
-(Hmph. If \#4A8 joined the battle,\nit would become a son's vengeance for his father...)
+(Hmph. If \#4A8 joined the battle, it would become a son's vengeance for his father...)
 @13.19
-(Whatever happens, I must hold\nthe lead in this battle.\nI must think of what comes after...)
+(Whatever happens, I must hold the lead in this battle.\nI must think of what comes after...)
 @13.20
 My lord!\nThe \#8F5 army is on the move.
 @14.5
-The battle between \#3FE and \#0F5\nended in an overwhelming victory for \#7FE...\nIt is known as the Battle of Yamazaki.
+The battle between \#3FE and \#0F5 ended in an overwhelming victory for \#7FE...\nIt is known as the Battle of Yamazaki.
 @14.6
 Grr... \#7FE...\nYou'll pay for this...!
 @15.0
@@ -445,17 +445,17 @@ As for \#0C8's fate...
 @15.4
 Execute
 @15.5
-Let go
+Release
 @15.6
-Because of \#4C8's betrayal,\nwe were nearly surrounded by \#A07.
+Because of \#4C8's betrayal, we were nearly surrounded by the \#A07.
 @15.7
-If we had been struck down,\nthe \#894 clan's conquest of the Chūgoku\nmight have collapsed.
+If we had been struck down, the \#894 clan's conquest of the Chūgoku might have collapsed.
 @15.8
-If I forgave him now,\nI could never answer to Lord \#494.
+If I forgave him now, I could never answer to Lord \#494.
 @15.9
 That is so indeed.
 @15.10
-When you betrayed your master's house,\nyou must have been ready to die.
+When you betrayed your master's house, you must have been ready to die.
 @15.12
 Take him away.
 @15.14
@@ -465,9 +465,9 @@ Are you sure?
 @15.16
 More killing would serve no purpose.
 @15.17
-Once his base has fallen,\nthe rest won't be so hard.
+Once his base has fallen, the rest won't be so hard.
 @15.20
-What shall we do\nwith \#0C8?
+What shall we do with \#0C8?
 @16.0
 We have beaten the traitor \#07B.
 @16.1
@@ -477,7 +477,7 @@ My lord!\nWe've found Lord \#4C7!
 @16.4
 \#4C7!
 @16.5
-I ignored your warning, my lord,\nand this is what came of it.\nPunish me, \#4C7, as you see fit.
+I ignored your warning, my lord, and this is what came of it.\nPunish this \#4C7 as you see fit.
 @16.6
 Say no more of that.\nYou are safe, \#4C7, and that is all I ask!
 @16.7
@@ -491,26 +491,26 @@ What! He fled!?
 @16.11
 It seems someone fled west before the castle fell.\nPerhaps that was \#47B...\n...Shall we give chase?
 @16.12
-No, let him go.\n\#47B... Abandoning wife, children and retainers,\nhe's left the name of a general who saved his own skin...
+No, let him go.\n\#47B... The general who abandoned wife, children and retainers to save his own skin. That is the name he has left behind...
 @16.13
 \#07B's \40F6 has fallen.
 @16.14
-It seems Lord \#0C7, who was imprisoned there,\nhas been freed as well.
+It seems Lord \#0C7, who was imprisoned there, has been freed as well.
 @16.15
 That is good news.
 @16.16
 And what became of \#07B?
 @16.17
-Well, he slipped out of the castle\nbefore it fell and fled west, they say.
+Well, he slipped out of the castle before it fell and fled west, they say.
 @16.18
-What, he fled!\n\#47B... Abandoning wife, children and retainers,\nhe leaves the name of a general who saved his own skin...
+What, he fled!\n\#47B... The general who abandoned wife, children and retainers to save his own skin. That is the name he leaves behind...
 @17.0
-Lord \#3FE! Lord \#0C7, who went missing\nwhen he went to talk \#07B round in his rebellion,\nhas returned!
+Lord \#3FE! Lord \#0C7, missing ever since he went to reason with \#07B during the rebellion, has returned!
 @17.1
 Oh! Has he...\nSo \#4C7 is safe.\nThank goodness.
 @18.0
-At last, a real showdown\nwith \#BF6, the great power of the west!
+At last, a real showdown with \#BF6, the great power of the west!
 @18.1
-If we can bring \#BF6 under the \#894 clan,\nour lord's conquest of the realm\nwill be all but complete!
+If we can bring \#BF6 under the \#894 clan, our lord's conquest of the realm will be all but complete!
 @18.5
-No, a figure as great as \#BF6...\nIf I crushed him all by myself,\nI'd only earn the other generals' envy.
+No, a figure as great as \#BF6...\nIf I crushed him all by myself, I'd only earn the other generals' envy.

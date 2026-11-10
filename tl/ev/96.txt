@@ -1,7 +1,7 @@
 @0.0
 How dull...
 @0.1
-Since that monkey-faced fellow left,\nthere's nobody to tease.\nIt's no fun at all!
+Since that monkey-faced fellow left, there's nobody to tease.\nIt's no fun at all!
 @0.2
 The Monkey, eh...\nThey say he's serving the \#894 clan.
 @0.3
@@ -27,152 +27,152 @@ Of course I know.\nDon't take the river men of Mino lightly.\nThat failed too, d
 @1.24
 Actually, I talked it over with \#629...
 @1.31
-Ah, \#629.\nI've hit on a fine plan\nfor building the castle at \50FA.
+Ah, \#629.\nI've hit on a fine plan for building the castle at \50FA.
 @1.46
-It will take a lot of men,\nand men who know the lie of the land...
+It will take a lot of men, and men who know the lie of the land...
 @1.50
-Actually, I've been\nthinking it over myself...
+Actually, I've been thinking it over myself...
 @1.58
 That's it!\nThe river men!\nKoroku of the Hachisuka band!
 @1.59
-(The rascal...\n He was thinking\n the same as me...)
+(The rascal... He was thinking the same as me...)
 @1.60
-...So that's the idea.\nAt the next council I'll propose it\nand take on the job myself.
+...So that's the idea.\nAt the next council I'll propose it and take on the job myself.
 @1.62
-Yes, and for that\nI want the help of you river men.
+Yes, and for that I want the help of you river men.
 @1.71
 But I trust you.\nI won't serve \#094.\nI'll serve \#000.
 @1.76
 Thank you!\nThen carry things out as planned.\nI'll take on the job at the next council.
 @1.81
-I look forward to it.\nWell then, let's go and\ncut the timber right away.
+I look forward to it.\nWell then, let's go and cut the timber right away.
 @1.82
-There should be good trees\njust outside the town.
+There should be good trees just outside the town.
 @2.0
-I have a report.\n\#0AF has failed\nto build the castle at \50FA.
+I have a report.\n\#0AF has failed to build the castle at \50FA.
 @2.1
-As I thought.\nI didn't think \#8AF's brute force\nwould work...
+As I thought.\nI didn't think \#8AF's brute force would work...
 @2.2
-Unless they rethink how they build it\nfrom the ground up, they'll never succeed.
+Unless they rethink how they build it from the ground up, they'll never succeed.
 @3.2
-They say \#494 is finally\nmoving on \50F9 Castle.
+They say \#494 is finally moving on \50F9 Castle.
 @3.3
 I see...\nBut \50F9 Castle is an impregnable fortress.\nIt won't fall easily...
 @4.1
-The problem is how to carry the\nmaterials for the castle all the way there.
+The problem is how to carry the materials for the castle all the way there.
 @4.2
 And the time to shape and assemble them...\nThe longer it takes, the more dangerous.
 @4.3
 ...Hmm.\nThis looks rather difficult.
 @4.4
-I'll have a drink\nand think it over...
+I'll have a drink and think it over...
 @5.0
 Lord \#62A.
 @5.1
-Oh, \#400!\nSo the castle building went well.
+Oh, \#400!\nSo you got your castle built, I hear.
 @5.2
 Indeed.\nAll thanks to you, Lord \#62A.
 @5.3
-When the rafts came down the river,\nthe timber was exactly as calculated.
+The timing of the rafts, the amount of timber: everything went just as reckoned.
 @5.4
-Though it's a pity\nthe castle fell into enemy hands\nafterwards...
+Though it's a pity the castle fell into enemy hands afterwards...
 @5.5
 You've truly done a great deal for me this time.
 @5.6
-For this work\nI've been made Ashigaru General.
+For this work I've been made Ashigaru General.
 @5.7
-Oh,\nso you've finally moved up a step.
+Oh, so you've finally moved up a step.
 @5.8
-As Ashigaru General\nI can have rear vassals.\nSo I wanted to ask you...
+As Ashigaru General I can have rear vassals.\nSo I wanted to ask you...
 @5.9
 So I wanted to ask you...
 @5.10
-Lord \#62A, I would very much like you\nto become my rear vassal.
+Lord \#62A, I would very much like you to become my rear vassal.
 @5.11
-You remember?\nWhen you took on the castle job,\nyou said you'd become my man.
+You remember?\nWhen you took on the castle job, you said you'd become my man.
 @5.12
-Yes, I said it.\nI won't serve \#094,\nI'll serve \#000!
+Yes, I said it.\nI won't serve \#094, I'll serve \#000!
 @5.13
-That's right.\nAfter this success, Lord \#494 has allowed me\nto take you as my rear vassal, Lord \#62A.
+That's right.\nAfter this success, Lord \#494 has allowed me to take you as my rear vassal, Lord \#62A.
 @5.15
-Oh, \#400!\nI hear the enemy took\nthe castle you built.
+Oh, \#400!\nI hear the enemy took the castle you built.
 @5.16
 That's right.
 @5.17
-I managed to take it back afterwards,\nbut I'll never forget the humiliation\nof losing a castle I'd just built.
+I managed to take it back afterwards, but I'll never forget the humiliation of losing a castle I'd just built.
 @5.18
 That's right.\nIt was as good as handing the enemy a castle.
 @5.19
 That's what galls me.
 @5.20
-But Lord \#494\nthought highly of the building method.
+But Lord \#494 thought highly of the building method.
 @5.21
-He has allowed me to employ\nLord \#22A, who helped build it,\nas my rear vassal.
+He has allowed me to employ Lord \#22A, who helped build it, as my rear vassal.
 @5.22
 I see.\nSo at last I'm officially your rear vassal!
 @5.23
-Then I'll take this chance\nto change to a proper samurai name.
+Then I'll take this chance to change to a proper samurai name.
 @5.24
-"Koroku" is the name handed down\nto every head of the Hachisuka band.
+"Koroku" is the name handed down to every head of the Hachisuka band.
 @5.25
-Then how about\n"Masakatsu"?
+Then how about "Masakatsu"?
 @5.26
-Good! From now on\nI'll go by the name\nHikoemon Masakatsu.
+Good! From now on I'll go by the name Hikoemon Masakatsu.
 @5.27
 Oh!\nThat's a fine name!
 @5.28
 \#400's merit rose by 100.
 @5.30
-\#62A changed his name\nto Hachisuka Masakatsu
+\#62A changed his name to Hachisuka Masakatsu
 @5.31
-and entered the service\nof \#400 as his rear vassal.
+and entered the service of \#400 as his rear vassal.
 @5.36
-A house has been prepared\nfor you, Lord \#22A, in \40FC.
+A house has been prepared for you, Lord \#22A, in \40FC.
 @5.37
-Now that you're a samurai,\nyou must attend the councils.\nMind you're not late.
+Now that you're a samurai, you must attend the councils.\nMind you're not late.
 @5.38
 Understood.
 @6.0
-Looks like building the castle\nat \50FA didn't work out.
+Looks like building the castle at \50FA didn't work out.
 @6.1
 All our trouble has gone to waste.
 @6.2
-With \#894 and \#870 allied,\nthe castle building is called off...
+With the \#894 and \#870 allied, the castle building is called off...
 @6.4
-With the \#870 clan destroyed,\nthe castle building is called off...
+With the \#870 clan destroyed, the castle building is called off...
 @7.2
-They say \#494 is going to\nbuild a castle at \50FA again!
+They say \#494 is going to build a castle at \50FA again!
 @7.3
-They say \#000\nhas set out for \50FA.
+They say \#000 has set out for \50FA.
 @7.4
 At last.
 @7.5
-\#494 must be staking a lot\non the castle at \50FA.
+\#494 must be staking a lot on the castle at \50FA.
 @7.6
-Right, fell the timber,\nmake rafts and float it down the river.
+Right, fell the timber, make rafts and float it down the river.
 @7.7
-\#3FE and his men mobilised every hand,\nfelled the trees, made them into rafts\nand floated them down the river.
+\#3FE and his men mobilised every hand, felled the trees, made them into rafts and floated them down the river.
 @7.8
-Good!\nNow we just wait for \#400\nto assemble the castle downstream.
+Good!\nNow we just wait for \#400 to assemble the castle downstream.
 @8.0
-Looks like \#470's army\nhas noticed the castle building.
+Looks like \#470's army has noticed the castle building.
 @8.1
-Hmm...\n\#400,\ndon't mess this up!
+Hmm...\n\#400, see that you pull it off!
 @8.2
-With the \#894 and \#870 clans allied,\nit seems the castle building was called off.
+With the \#894 and \#870 clans allied, it seems the castle building was called off.
 @8.3
-With the \#870 clan destroyed,\nit seems \#400 called off the castle building.
+With the \#870 clan destroyed, it seems \#400 called off the castle building.
 @9.0
-\#000 has succeeded in\nbuilding the castle at \50FA.
+\#000 has succeeded in building the castle at \50FA.
 @9.1
-Has he!\n\#400,\nwell done!
+So he did it!\n\#400, well done!
 @9.2
-I must report!\nThe castle \#000 built at \50FA\nhas been taken by \#070.
+I must report!\nThe castle \#000 built at \50FA has been taken by \#070.
 @9.3
-\#400...\nso he failed...
+\#400...\nSo you failed...
 @10.2
-They say \#494 is going to\nbuild a castle at \50FA!
+They say \#494 is going to build a castle at \50FA!
 @10.4
-Yes.\nThey say \#4AF\nhas set out for \50FA.
+Yes.\nThey say \#4AF has set out for \50FA.
 @10.5
 \#494 is taking a bold step...

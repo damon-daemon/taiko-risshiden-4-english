@@ -3,8 +3,8 @@ Indeed.\nThe lands of the Eastern Army daimyō shall be confiscated.
 @4.11
 The lands and retainers of the \#8DC clan are now ours.
 @9.6
-Ah! They're moving!\nThe \#221 unit has begun its attack!
+Ah! They're moving!\nThey're attacking \#221's unit!
 @9.7
-What!?\nThe \#A21 unit is on our side!
+What!?\n\#A21's unit is on our side!
 @9.39
 Don't tell me... \#A21...\nhas betrayed us!

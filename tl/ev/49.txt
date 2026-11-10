@@ -29,7 +29,7 @@ A samurai must not be swayed by rumours!
 @1.18
 If such rumours go around in the castle, put a stop to them! Understood?
 @1.19
-Sir, understood.
+Yes, my lord. Understood.
 @1.20
 Rumour or not, I can't just ignore it...\nThe seeds of trouble must be removed.
 @1.21
@@ -57,7 +57,7 @@ Wait!\nPlease, wait a moment!
 @2.2
 \#0F5 has been slain by Lord \#000!
 @2.7
-Hmm...\nSo that monkey killed \#4F5...\nHe pushed ahead of me, the son...
+Hmm...\nSo that monkey killed \#4F5...\nshoving me, his son, aside...
 @2.9
 Hmph! I won't stand for it!\nI won't let that monkey rule the \#894 clan!
 @2.10

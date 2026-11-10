@@ -161,9 +161,9 @@ Bah! Be quiet! ...Now, \#496, go on.
 @5.18
 ...Truly, if we only defend from the start, we have no chance of victory.
 @5.19
-\#7F1, this time I leave it to you. Go and give \#958 a shock!
+\#7F1, this time I leave it to you. Go and take \#958 down a peg!
 @5.20
-Yes! I am most grateful.
+Yes, my lord! I am honoured.
 @5.21
 Oh... spoken like a fine commander. Your mother could not be happier.
 @5.23
@@ -193,7 +193,7 @@ Using their mobility, they held their own against the vastly larger \#958 army..
 @5.35
 Meanwhile, inside the castle...
 @5.36
-Hmm... It sways back and forth.
+Hmm... Neither side is giving ground.
 @5.37
 Had we held the castle, our losses might have been far smaller...
 @5.38
@@ -235,7 +235,7 @@ I see... If Lord \#496 is endangered, Lady Yodo will not sit idle...
 @5.60
 The \#896 side had been shown the power of the \#958 army's newest cannon, the "Kunikuzushi", all too clearly.
 @5.61
-Lady Yodo, who feared it more than anyone, abandoned her defiance with a single word and sought peace...
+At a word from Lady Yodo, who feared it more than anyone, the defiant stance was reversed and peace was sought...
 @5.62
 The terms of peace were as follows...
 @5.63
@@ -253,11 +253,11 @@ And the armies of other daimyō are arriving one after another!
 @6.3
 All of you! Fight with all your might! The Taikō's glory is not dead yet!
 @6.4
-Ooh! We will fight to the last man!
+Aye! We will fight to the last man!
 @6.5
 Good! We will show them the soul of the \#896!
 @6.6
-\#496... Your mother will pray for your fortune in war in this castle.
+\#496... Your mother will be here in the castle, praying for your fortune in battle.
 @6.7
 Mother... I am a warrior's son all the same. I will fight bravely.
 @6.8
@@ -439,7 +439,7 @@ Now is the time to honour the virtue of the late Lord Taikō, and show the daimy
 @10.8
 Hmm... Father's virtue... And how?
 @10.9
-Yes! Building temples and shrines to honour Lord Taikō would be best...
+My lord, I believe it would be best to build temples and shrines in Lord Taikō's honour...
 @10.10
 I see, build temples and shrines.
 @10.11
@@ -479,7 +479,7 @@ We are to build temples and shrines everywhere to pray for the safety and peace 
 @10.31
 Hmm... Why at a time like this? There's no need to squander Lord Taikō's legacy...
 @10.32
-In \@002 of \@001, the Toyotomi clan decided to repair and build temples and shrines throughout its lands.
+In \@001/\@002, the Toyotomi clan decided to repair and build temples and shrines throughout its lands.
 @10.33
 The cost was enormous, and the gold and silver hoarded by the Taikō Hideyoshi began to drain away...
 @11.0
@@ -531,7 +531,7 @@ Then, \#7F0, go to Lord \#958 and explain ourselves.
 @11.26
 \#7F1, you shall go along with \#7F0 as well.
 @11.28
-(\#7F0 always sides with bowing to \#558... Could he be in league with the East? I must keep an eye on this man.)
+(\#7F0, urging us to bend the knee to \#558... Could he be in league with the East? I must keep an eye on this man.)
 @11.29
 \#496... Your mother is not pleased. Why must we send envoys to explain ourselves to \#958!
 @11.30
@@ -665,7 +665,7 @@ I told them to stop the work at once, but they only say "We were told to fill th
 @13.3
 Hmm... I suppose I must speak to \#558 directly.
 @13.4
-This is no time to be so leisurely!
+This is no time to dawdle!
 @13.5
 Just so... Even while we send an envoy, the moat keeps filling! We will soon be a bare castle!
 @13.7
@@ -707,7 +707,7 @@ Two... Hand \50F8 Castle over to the \#958 clan.
 @14.9
 What is this! I have never seen such tyranny!
 @14.10
-Nonsense! We can never accept such things.
+The insolence! As if we could ever accept such terms!
 @14.11
 What does he take the \#896 clan, rulers of the realm, for!
 @14.12
@@ -725,13 +725,13 @@ Give \50F8 to \#958
 @14.18
 Fight it out with \#958
 @14.19
-Now I must swallow my tears and step back.
+For now, bitter as it is, I must step back.
 @14.21
 Mother... It is because I am so unworthy... Forgive me.
 @14.22
 What are you saying, \#496!! You have done nothing wrong! \#558 is to blame for everything.
 @14.23
-Oh, how painful...
+Oh, it breaks my heart...
 @14.24
 We will surely restore the \#896 clan...
 @14.25
@@ -765,7 +765,7 @@ I am counting on you.
 @14.49
 The \#958 clan says that digging out the inner moat of \50F8 Castle broke the terms of peace.
 @14.50
-That old raccoon dog... Just as I thought, he's made a false charge.
+That old raccoon dog... Just as I thought, he has trumped up a charge.
 @14.51
 The \#958 side has set new terms of peace, but Lord \#496 is ignoring them.
 @14.52

@@ -9,7 +9,7 @@ And then? Break into Echigo to the north, or strike south at \#84F now that Yosh
 @0.4
 My lord, good news! \50F8 Castle, which we have been building at Kawanakajima, is complete!
 @0.5
-Oh, at last! Three times I have crossed swords with \#519 at Kawanakajima, and three times he has made me drink bitter water...
+Oh, at last! Three times I have crossed swords with \#519 at Kawanakajima, and each time he has dealt me a bitter blow...
 @0.6
 With \50F8 Castle as our base at Kawanakajima, I can easily drive \#519 back however boldly he comes.
 @0.7
@@ -83,9 +83,9 @@ There will be no better chance to destroy the \#84F and push south!
 @2.25
 Indeed...\nIt is just as you say! Now is the perfect moment!
 @2.26
-As expected of \%03! With Suruga, we could advance west along the Tōkaidō and march on the capital... that is the idea, yes?
+Brilliant, \%03! With Suruga, we could advance west along the Tōkaidō and march on the capital... that is your aim, is it not?
 @2.27
-Yes!\nWell perceived, \#7F1!
+Yes!\nYou see it clearly, \#7F1!
 @2.28
 Wait, please!!
 @2.29
@@ -93,7 +93,7 @@ Wait, please!!
 @2.30
 Father, I heard you intend to attack the \#84F, and I could not stay away.
 @2.31
-Father! To strike the \#84F would be outrageous!
+Father! Strike the \#84F? That is unthinkable!
 @2.32
 The \#84F have been our kin since my grandfather Lord Nobutora's day, when my aunt... your elder sister... married Lord Imagawa Yoshimoto.
 @2.33
@@ -103,7 +103,7 @@ True, since Lord Yoshimoto fell to the \#894, the \#84F house has been in turmoi
 @2.35
 But at a time like this, I believe we should help Lord \#44F, so that we may prosper together.
 @2.36
-\%03, with such soft thinking the \#9AD clan will one day be destroyed.
+\%03, such naive thinking will one day be the ruin of the \#9AD clan.
 @2.37
 These are times of war... Even an ally may become an enemy at any moment.
 @2.38
@@ -123,7 +123,7 @@ Leave us!
 @2.45
 ...\n...Yes, Father.
 @2.46
-...\nThat will be all for today. Thank you all for your trouble.
+...\nThat will be all for today. You are dismissed.
 @2.48
 Lord \#3FE, there is an uneasy air in the house.
 @2.49
@@ -145,17 +145,17 @@ Hmm... When the Kai-Sagami-Suruga alliance was made, he took Lord \#04F's sister
 @2.57
 He must still value the bond with the \#84F.
 @2.58
-Just when our \#9AD clan is about to rise... What a troublesome business\&05...
+Just when our \#9AD clan is about to rise... What a troublesome business...
 @3.0
-My lord...\n\#1B5 has taken his own life...
+My lord...\nLord \#1B5 has taken his own life...
 @3.1
 What!?\nWhy did \#5B5 have to die!?
 @3.2
-My lord, \#1B1 has come.
+My lord, Lord \#1B1 is here.
 @3.3
 What, \#5B1!\nShow him in at once.
 @3.5
-Lord \#3FE...\n\#1B5 has taken his own life...
+Lord \#3FE...\nLord \#1B5 has taken his own life...
 @3.6
 What!?\nMy brother killed himself? Impossible!! It's a lie! Tell me it's a lie!
 @3.8
@@ -165,7 +165,7 @@ I was entrusted with a letter from Lord \#5B5, addressed to Lord \#5B1.
 @3.10
 Show me!
 @3.11
-"\%03,\nWhen \%01 read this letter, \%00 will no longer be of this world."
+"\%03, by the time \%01 read this letter, \%00 will no longer be of this world."
 @3.12
 "Lord \#5AE asked me to help him seize our lord and send him to Suruga."
 @3.13
@@ -177,11 +177,11 @@ Show me!
 @3.16
 "If Lord \#5AE grew up thus, it is all my own failing... Lord \#5AE is not to blame..."
 @3.17
-"And so I cut my belly to beg our lord's forgiveness."
+"And so I shall cut open my belly to beg our lord's forgiveness."
 @3.18
 "Please look after Lord \#5AE, I beg you... Forgive me, \#5B1.\n                                   \#5B5"
 @3.19
-Brother...\n...\nUgh...
+Brother...\n...\nOhh...
 @3.21
 Brother, watch over me. I will never dishonour the name of the \#9AD that you defended.
 @3.22
@@ -195,15 +195,15 @@ What!? Impossible!
 @3.28
 \%03...\n\#1B1 at your service.
 @3.29
-Good of you to come, \%03. \#5B5 has taken his own life... You must know why?
+Good of you to come, \%03. \#5B5 has taken his own life... You would know why, would you not?
 @3.31
-My brother \#5B5 was asked by Lord \#5AE to help seize \%03 and send you to Suruga.
+My brother \#5B5 was asked by Lord \#5AE to help seize you, \%03, and send you to Suruga.
 @3.32
 Wh-what!?
 @3.33
 My brother remonstrated many times, but he had been Lord \#5AE's guardian, and when Lord \#5AE begged him, he could not refuse...
 @3.34
-Yet he could not betray \%03 either, so he took his own life to atone...
+Yet he could not betray you either, \%03, so he took his own life to atone...
 @3.35
 What... So that was it...\nMy own indecision drove \#5B5 to this...
 @3.36
@@ -253,7 +253,7 @@ And that our neighbours would seize on the rift. That is why he took the blame o
 @3.77
 If \%03 orders Lord \#5AE to commit seppuku, my brother's death will have been for nothing...
 @3.78
-Beg our lord to spare him that at least! Go and tell \%03 at once!!
+Go at once and beg \%03 to spare him that, at least!!
 @3.81
 Lord \#5B1! Our lord has granted the plea of Lord \#5B1!
 @3.82
@@ -277,17 +277,17 @@ What... So that was it...\nAnd what became of \%03?
 @3.94
 Our lord meant to order him to commit seppuku, but Lord \#1B1 desperately pleaded, so he is merely confined for now...
 @3.95
-Oh, I see!\nThat at least is a mercy\&05...
+Oh, I see!\nThat at least is a mercy...
 @3.96
 Also, by our lord's order, Lord \#5B1 has changed his name to Yamagata Masakage.
 @3.97
 A small kindness from our lord, then...\nThank you for the report.
 @3.99
-But what a business... Just when we must build up the \#9AD clan...
+Of all the times for this... Just when we must build up the \#9AD clan...
 @4.0
 My lord, grave news! It seems Lord \#5AE is plotting to flee to Suruga.
 @4.2
-We caught an \#84F spy who was in contact with Lord \#5AE, and made him talk. That is what he told us.
+We caught a spy of the \#84F who was in contact with Lord \#5AE, and made him talk. That is what he told us.
 @4.3
 It seems the \#84F are already prepared to receive Lord \#5AE.
 @4.4
@@ -303,9 +303,9 @@ There is no more time to lose...\nTell \#5AE to come to me.
 @4.11
 Lord \#3FE, grave news! It seems Lord \#5AE is plotting to flee to Suruga.
 @4.13
-We caught an \#84F spy who was in contact with Lord \#5AE and made him talk. That is what he said...
+We caught a spy of the \#84F who was in contact with Lord \#5AE and made him talk. That is what he said...
 @4.15
-What...\nSo the \#84F grew suspicious of our \#9AD's moves and tried to strike first...
+What...\nSo the \#84F grew suspicious of the \#9AD's moves and tried to strike first...
 @4.16
 Our lord flew into a rage and summoned Lord \#5AE.
 @4.17
@@ -315,7 +315,7 @@ So punishment can no longer be avoided...\nThank you for the report.
 @5.1
 What! I'll come at once!
 @5.2
-It seems \%00 life is at its end...
+It seems my life is at its end...
 @5.3
 \%03, you must not think such things.
 @5.4
@@ -327,7 +327,7 @@ And even after \%00 die, you will keep my death secret for three years.
 @5.8
 If they learn \%00 am dead, enemies of the \#9AD will surely rise everywhere...
 @5.9
-Within three years, strengthen the defences of our lands and support the \#9AD clan...
+Use those three years to strengthen the defences of our lands and hold the \#9AD clan together...
 @5.10
 Leave it to us!\nWe will stand as one to protect the \#9AD clan.
 @5.11
@@ -357,9 +357,9 @@ And our lord left word that his death be kept hidden for three years...
 @5.26
 If it became known that our lord had died, enemies of the \#9AD would surely rise everywhere...
 @5.27
-Within three years, strengthen the defences of our lands and support the \#9AD clan, he said...
+In those three years we are to strengthen the defences of our lands and hold the \#9AD clan together, he said...
 @5.28
-\%03...\nI, \#7FE, understand. I will engrave it on my heart...
+\%03...\nI, \#7FE, understand. I will take it to heart...
 @5.29
 ...Thank you for the report.
 @6.0
@@ -373,9 +373,9 @@ Wh... what did you say!?
 @7.2
 When we told Lord \#5AE to present himself before you, my lord, it seems he resolved that all was lost...
 @7.3
-...and cut his belly.
+...and cut open his belly.
 @7.5
-Poor wretch...
+How tragic...
 @7.6
 \#5AE...\nHad you not been born into such an age, you might have lived out your days...
 @7.7
@@ -383,9 +383,9 @@ As head of this house, I cannot forgive one who rebels against me.
 @7.8
 But as a father, to see my son die such a death...\n...
 @7.9
-...\#7F1,\nsee that he is given a proper burial.
+...\#7F1, see that he is given a proper burial.
 @7.10
-...Yes.\nI understand. Then...
+...Yes, my lord.\nIt shall be done. Then...
 @7.11
 ...Yes.
 @7.12
@@ -395,9 +395,9 @@ Lord \#3FE, grave news!\nLord \#5AE has taken his own life!
 @7.14
 Wh-what!?
 @7.15
-Our lord ordered Lord \#5AE to present himself, and it seems he resolved that all was lost and cut his belly...
+Our lord ordered Lord \#5AE to present himself, and it seems he resolved that all was lost and cut open his belly...
 @7.16
-What... what a thing...
+How could this happen... how...
 @7.17
 Our lord has also formally declared the alliance with the \#84F broken and proclaimed the invasion of Suruga.
 @7.18
@@ -421,17 +421,17 @@ The \#A70 forces held out well with few men, but their commander \#270 died duri
 @8.6
 And the Sword Saint \#288, who had served under \#670, refused \#5AD's offer of service and set out on a journey of training, vowing to live by the sword...
 @8.8
-I see. From now on \50FA Castle will be the base for our \#9AD's campaign in the Kantō. Thank you for the report.
+I see. From now on \50FA Castle will be the base for the \#9AD's campaign in the Kantō. Thank you for the report.
 @9.0
 Listen, all of you! This is no mere defensive battle! It is our first step toward the realm!
 @9.1
 Steel your hearts!\nWe march!
 @10.0
-So \#958 has been destroyed.\nThen we call off the campaign for now. We return!
+So the \#958 have been destroyed.\nThen we call off the campaign for now. We return!
 @10.2
 We call off the campaign for now.\nWe return!
 @10.4
-We shall wait around here.
+Let us wait here.
 @10.7
 It seems the enemy will stay in \50FB Castle and not come out.
 @10.8
@@ -439,11 +439,11 @@ It seems the enemy will stay in \50FB Castle and not come out.
 @10.9
 If our losses are heavy here, marching on the capital will be out of the question.
 @10.10
-All of you,\nhave you any good ideas?
+Does any of you have a plan?
 @10.13
 We have no choice but to lure \#558 out of \50FB Castle somehow.
 @10.14
-Oh...\nYou say there is a way to lure him out?
+Oh?\nSo you have a way to lure him out?
 @10.15
 Yes. Before \50FB Castle there is an open plain called Mikatagahara.
 @10.16
@@ -477,7 +477,7 @@ It seems \#558 has reached \50FB.
 @11.3
 \#558, curse you!\nNext time we settle this!
 @11.11
-Oh...\nYou say there is a way to lure him out?
+Oh?\nSo you have a way to lure him out?
 @11.12
 Yes. Before \50FB Castle there is an open plain called Mikatagahara.
 @11.16
@@ -553,13 +553,13 @@ Splendid!\nAll troops, charge at \#558!
 @14.4
 Curses!\nThe enemy has turned back!?
 @14.5
-No help for it. Draw up our lines and prepare for the enemy attack!
+We have no choice. Draw up our lines and prepare for the enemy attack!
 @15.0
 \%03! Grave news!\nTh-the \#919 army has suddenly appeared before us!!
 @15.1
 What!? Curses!\n\#519 has outwitted me...
 @15.2
-\%03, forgive me. Now I, \#7F1, will take \#519 with me even if it costs my life!
+\%03, forgive me. I, \#7F1, will make amends: I will take \#519 with me, though it cost my life!
 @15.3
 Fool!!\nListen, you must not die, \#7F1! I still have much need of you.
 @15.5
@@ -573,11 +573,11 @@ Good! The victory is ours.\nRaise the victory cry!
 @16.4
 No, the men are tired. We will fall back for now and attack again later.
 @16.5
-Report!\nThe \#958 army is still intact.
+Report!\nThe \#958 army is still holding firm.
 @16.6
-\#558, curse him!\nHe is good...
+That \#558!\nHe fights well...
 @16.7
-Phew...\nI seem a little tired.
+Phew...\nI am a little tired.
 @16.9
 \%03!\nWhat is wrong!?
 @16.11
@@ -591,7 +591,7 @@ Put \%03 in the palanquin! Carry him gently!
 @17.0
 Hmm, we could not finish them! If only the detached force had come a little sooner...
 @17.1
-I would like to pursue the \#919 army, but like this we will only wear ourselves down. No help for it: fall back slowly!
+I would like to pursue the \#919 army, but like this we will only wear ourselves down. We have no choice: fall back slowly!
 @17.5
 The \#9AD and \#919 armies clashed at Kawanakajima, and so the battle ended without a decision.
 @17.10
@@ -599,11 +599,11 @@ My lord...\nYour brother, Lord \#7F2, and Lord \#3F3 have fallen in battle...
 @17.11
 What!!\n\#7F2... \#7F3... fallen!! Is there not some mistake!?
 @17.12
-No...\nI am sorry...
+No, my lord...\nI regret to say it is true...
 @17.13
 \#7F2... \#7F3...\nI swear I will fulfil your hopes!
 @17.14
-Watch and wait!\nFor the day the banner of the \#9AD flies over Kyōto!!
+Wait and watch for the day the banner of the \#9AD flies over Kyōto!!
 @17.17
 Argh!! Curse you, \#519! If only the detached force had reached the field sooner! I will not forget this shame! One day, I swear...
 @17.20
@@ -623,7 +623,7 @@ The Kai and Echigo armies clashed at Kawanakajima, and the Kai army and its deta
 @17.36
 With this, the martial fame of \#1AD, the Tiger of Kai, grew greater still.
 @17.38
-We somehow held out. But like this we will only wear ourselves down. No help for it: fall back slowly!
+We somehow held out. But like this we will only wear ourselves down. We have no choice: fall back slowly!
 @17.45
 Argh!! Curse you, \#519! If only the detached force had come in time... I will not forget this shame!
 @17.48
@@ -655,7 +655,7 @@ Come to think of it, the famed swordsman \#288 served under \#670... What has be
 @19.7
 It seems he has returned to his lands and shut himself away.
 @19.8
-I see...\nThe valour of "the First Spear of Kōzuke" would be a waste... Find him and bring him to me!
+I see...\nSuch valour as that of "the First Spear of Kōzuke" must not go to waste... Find him and bring him to me!
 @19.10
 \#288, here at your summons.
 @19.11
@@ -671,11 +671,11 @@ Whatever you may say, I no longer intend to serve any lord. All I seek is the wa
 @19.16
 I see...\nThen you mean you will serve no daimyō at all, not only our \#9AD clan?
 @19.18
-It cannot be helped... If you swear to serve no other house, I will grant your wish to live by the sword alone.
+So be it... If you swear to serve no other house, I will grant your wish to live by the sword alone.
 @19.19
 Yes, I swear it by heaven and earth! I am deeply grateful that you have granted my wish!
 @19.20
-Yes... Go, \#688.
+Very well... Go, \#688.
 @19.21
 Then, farewell!
 @19.22
@@ -683,7 +683,7 @@ Good!\nMen, we return in triumph to \40F6!
 @19.24
 Our army is routed!
 @19.25
-Ugh!\n\#270... True to his name, "the Tiger of Jōshū", a peerless general of wisdom and valour.
+Grr!\n\#270... True to his name, "the Tiger of Jōshū", a peerless general of wisdom and valour.
 @19.26
 As long as \#670 is there, \40F5 will not fall... I will not forget this shame! One day, I swear... Men, fall back!
 @19.27
@@ -699,7 +699,7 @@ We cannot let \#094 strut about in the heart of the land forever.
 @20.1
 But first we must deal with the enemy at our feet, \#158.
 @20.2
-With our strength, \#158 is no match for us.
+Against our strength, \#158 counts for nothing.
 @20.3
 Now is the time for us to march on the capital.
 @20.4
@@ -759,11 +759,11 @@ No doubt \#137 and his like flattered him as "Lord Kantō Deputy" and he came to
 @22.9
 \%03, why not take this chance to crush the \#919 army utterly?
 @22.10
-I agree with him, \%03. If we stay tied down in northern Shinano forever, when will the \#BF0 clan ever march on the capital?
+I too agree with \%03. If we stay tied down in northern Shinano forever, when will the \#BF0 clan ever march on the capital?
 @22.11
 Yes!\nYou both speak sense.
 @22.12
-Unless we either cap Echigo and move into Suruga, or destroy \#519 and pass through Hokuriku, the day our \#BF0 banner flies in Kyōto will never come.
+Unless we either seal off Echigo and move into Suruga, or destroy \#519 and pass through Hokuriku, the day our \#BF0 banner flies in Kyōto will never come.
 @22.13
 Then, \%03, at last we fight the decisive battle with the \#919?
 @22.14
@@ -779,7 +779,7 @@ Since \#119 of Echigo named himself Kantō deputy and overran the Kantō, that l
 @23.4
 I mean to seize this chance to make western Kōzuke ours: cross the Usui Pass and attack \50FA Castle.
 @23.5
-Oh! Take \50FA Castle, the stronghold of western Kōzuke, as the base for the \#9AD clan's campaign in the Kantō!
+Oh! So we take \50FA Castle, the stronghold of western Kōzuke, as the base for the \#9AD clan's campaign in the Kantō!
 @23.6
 Yes!\nExactly so, \#7F1!
 @23.7

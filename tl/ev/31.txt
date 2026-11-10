@@ -19,7 +19,7 @@ One day I too will be a daimyō and pit myself against the warlords of the land.
 @0.10
 But our lord still aims higher...
 @0.11
-Besides, with the old lord's ability, even holding Bizen alone is doubtful...
+Besides, with the old lord's meagre ability, he can scarcely hold even Bizen...
 @0.12
 Perhaps \%0402B ought to take the old lord's place and rule Bizen...
 @1.0
@@ -37,7 +37,7 @@ My lord, do you mean to spend your whole life as a retainer of the old lord... L
 @1.6
 What are you saying, all of a sudden...
 @1.7
-We can no longer follow the old lord \#A71...\nWith his ability, even holding the province is doubtful!
+We can no longer follow the old lord \#A71...\nWith his meagre ability, he can scarcely hold the province!
 @1.9
 The only one we wish to serve as our lord is you, \%0402B!
 @1.10
@@ -53,7 +53,7 @@ Ignore it
 @1.15
 Now... my lord!
 @1.16
-...Very well, I understand.\nWe rebel!
+...Very well.\nWe rebel!
 @1.17
 Ah, a fine decision, my lord!
 @1.18
@@ -67,7 +67,7 @@ The only one we wish to serve as our lord is you, \%0402B!
 @1.38
 Ah, a fine decision, my lord!
 @2.0
-\#3FE, my lord!\nThe forces of \#087 have invaded our domain!
+Lord \#3FE!\nThe forces of \#087 have invaded our domain!
 @2.1
 Wh-what!?\nThat's serious...\nWe must meet them at once! ...We march!
 @2.2
@@ -79,15 +79,15 @@ Lord \#82B says, "No need for our lord to take the field... I shall deal with it
 @2.5
 Grr... He makes a fool of me, his lord, and sends out troops on his own without a word to me...
 @2.6
-But he's the better man in war...\nIt can't be helped... I'll leave this to him.
+But he's the better man in war...\nSo be it... I'll leave this to him.
 @2.7
 My lord... everyone in the clan is worried about the discord between you and Lord \#82B...\nI beg you, make peace with Lord \#82B...
 @2.8
-Hmph... I'll hear you out, at least.
+Hmph... I'll bear it in mind.
 @2.9
-My, how quick his mind is as ever...\nHe's the finest general in our house; he'll crush the Mimura force with ease.
+Well, well... his mind is as quick as ever.\nHe's the finest general in our house; he'll crush the Mimura force with ease.
 @2.10
-But if you do not take the field, my lord, Lord \#82B's standing will only rise, and yours will fall...
+But the old lord is not taking the field...\nAt this rate Lord \#82B's standing will only rise, and the old lord's will fall...
 @2.12
 What!? That's serious...\nWe must march out to meet them at once...!
 @2.13
@@ -103,15 +103,15 @@ My lord, we will follow you!
 @2.18
 Good! I no longer expect anything of the old lord.\nThis time we fight without his help!
 @2.19
-Ohhh!
+Hurrah!
 @3.0
-Hmph! \#42B!\nNow do you know my strength!?
+Hmph! \#42B!\nNow you see what I can do!
 @3.13
 And so \#271, who had once been master of Bizen...
 @3.14
-was driven out by \#02B and set off for the land of Sanuki...
+...was driven out by \#02B and set off for the land of Sanuki...
 @3.15
-From now on, \#3FE's base moves to the town of Marugame.
+\#3FE's base is now the town of Marugame.
 @3.16
 \#3FE became a retainer of the \#82B clan.
 @4.0

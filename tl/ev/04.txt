@@ -1,28 +1,28 @@
 @0.0
-Hmph! \#42B,\nnow do you see my strength!
+Hmph! \#42B, now do you see my strength!
 @0.1
-\#271 managed somehow to\nwithstand \#02B's fierce attack...
+\#271 managed somehow to withstand \#02B's fierce attack...
 @0.2
-But \#02B went on to live\nas a daimyō independent\nof the \#A71 clan...
+But \#02B went on to live as a daimyō independent of the \#A71 clan...
 @0.3
-Curses... how bitter.
+Ngh... the shame of it.
 @0.4
-Old lord... no, Lord \#271.\nThe new master of Bizen\nis I.
+My lord... no, Lord \#271.\nI am the new master of Bizen now.
 @0.6
-Lord \#671, please retire,\nand leave the province\nof Bizen.
+Lord \#671, I must ask you to retire, and to leave the province of Bizen.
 @0.7
 You mean to banish me...
 @0.8
-It is the wish of\nall the men of Bizen...
+It is the wish of all the men of Bizen...
 @0.9
-...It cannot be helped.\nBut do not forget... \#42B.
+...So be it.\nBut do not forget... \#42B.
 @0.10
-You will be remembered to the end\nof time with shame, as a disloyal vassal\nwho overthrew and banished his lord, a villain without equal!
+You will be spoken of with scorn for all time, as the disloyal vassal who overthrew and banished his lord, a villain without equal!
 @0.11
 ...Is that all you have to say?
 @0.12
 Farewell.
 @0.13
-And so \#271, who had for a time held\nthe seat of governor of Bizen, was\nbanished by \#02B and left for Sanuki...
+And so \#271, who had for a time held the seat of governor of Bizen, was banished by \#02B and left for Sanuki...
 @0.14
-And the name of \#02B became known\nthroughout the land as the\nruthless lord of the Chūgoku.
+And the name of \#02B became known throughout the land as the ruthless lord of the Chūgoku.

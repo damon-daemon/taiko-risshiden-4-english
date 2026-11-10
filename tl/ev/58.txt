@@ -1,7 +1,7 @@
 @9.20
-\#4DD sought to rule alone as Shōgun with no power of his own, and \#494 made no secret of his anger at \#4DD's attitude.
+\#4DD, heedless of his own weakness, sought to rule alone as Shōgun, and \#494 made no secret of his anger at \#4DD's attitude.
 @18.15
-Yes! Brother, let me, \#7FE, hear what you intend!
+Yes! Tell me what you have in mind, brother. \#7FE is listening!
 @22.5
 Afterwards, the lands of the \#894 clan were to be divided among the chief retainers of the \#894...
 @0.0
@@ -51,7 +51,7 @@ One thing alone was ominous: \#158, who had quietly built up his power since the
 @1.16
 (The rule of the realm by force that Lord \#494 and I spoke of... I will see it done with my own hands!)
 @2.0
-\#3FE, my lord! The battle between \#894 and \#8F6 seems to have ended in a great victory for \#894.
+\#3FE, my lord! The battle between the \#894 and the \#8F6 seems to have ended in a great victory for the \#894.
 @2.1
 I see... So Lord \#0F6 was no match for Lord \#494 after all...
 @2.2
@@ -65,7 +65,7 @@ Hm, he is holding a feast to celebrate his victory, and he wants me to come to \
 @2.8
 My lord, will you accept my brother's invitation?
 @2.9
-Yes. I mean to see Lord \#494, if only to make it plain that I have broken with \#8F6 and sided with \#894.
+Yes. I mean to see Lord \#494, if only to make it plain that I have broken with the \#8F6 and sided with the \#894.
 @2.10
 I see. That makes me very happy. Then please take care on the road.
 @2.11
@@ -101,7 +101,7 @@ Nothing can shake the \#894 hold on the realm now. A new government centred on A
 @5.9
 Ah, Lord \#7FE, have you come to see the new castle too?
 @5.10
-Lord \#494! Congratulations on the completion of your new castle. What a magnificent castle it is...
+Lord \#494! Congratulations on the completion of your new castle. And what a magnificent sight it is...
 @5.11
 Hahaha, is it not! Well? What do you think of a keep of twenty-five ken towering over stone walls twelve ken high!
 @5.12
@@ -145,7 +145,7 @@ Yes, leave it to me!
 @5.36
 Well then, I shall take my leave now.
 @5.37
-I see... Take good care of Oichi.
+I see... Give my regards to Oichi.
 @6.0
 Ah, Lord \#BFE, welcome. Let me show you to the council chamber.
 @6.2
@@ -153,9 +153,9 @@ Lord Nagamasa, thank you for coming all this way.
 @6.3
 Hm... Lord \#8B1, it seems Lord \#800 has not arrived yet...
 @6.4
-He was surely told about it, but...
+Word should certainly have reached him, but...
 @6.5
-I am sorry, but I would rather leave the Monkey be and begin without him.
+My apologies. I would rather leave that Monkey be and begin without him.
 @6.7
 Lord \#7FE, I ask you to listen to our discussion and point out anything amiss. Would that be acceptable?
 @6.8
@@ -165,7 +165,7 @@ Then... First, the heir to the \#894 clan...
 @6.11
 In such a crisis, the heir should be a man able to restore order, rather than the one with the best claim by birth.
 @6.12
-Only Lord \#4A8 meets that condition. Lord \#4A8 will surely carry on Lord \#494's will and rule the realm.
+Only Lord \#4A8 meets that condition. Lord \#4A8, I am sure, will carry on Lord \#494's will and rule the realm.
 @6.13
 What do you two think!?
 @6.14
@@ -187,7 +187,7 @@ I agree with Lord \#7FE!
 @6.27
 Ah, Lord \#4B9!
 @6.28
-But should we not set up the second son, Lord \#4A9, rather than the third son, Lord \#4A8, Lord \#4AF?
+But, Lord \#4AF, should we not put forward the second son, Lord \#4A9, rather than the third, Lord \#4A8?
 @6.29
 Ngh...!
 @6.30
@@ -203,7 +203,7 @@ Are we agreed?
 @6.36
 Ngh...
 @6.37
-Then, with this...
+Then that concludes...
 @6.40
 Lord \#000 has rebelled!!
 @6.41
@@ -221,15 +221,15 @@ Bring my horse!! Hear me, we march at once!
 @8.0
 My lord, I am so glad you are safe.
 @8.1
-Ah, Oichi! You did splendidly this time. To think you won over the demon \#8AF!
+Ah, Oichi! You did splendidly this time. To think you talked round Demon \#8AF himself!
 @8.2
 If I was of use to you, my lord, I am glad.
 @8.3
-More importantly, you must be tired after so much fighting. Please rest well in the castle.
+But you must be tired after so much fighting. Please rest well in the castle.
 @9.3
-It seems the new Shōgun, Lord \#0DD, has been boasting that he took the capital by his own merit...
+It seems the new Shōgun, Lord \#0DD, has been boasting that the march on the capital was his own achievement...
 @9.5
-But Lord \#4DD was enraged at this treatment instead...
+But this treatment only enraged Lord \#4DD...
 @9.7
 Among them, it seems, was a secret letter from Lord \#4DD to our house.
 @9.12
@@ -241,11 +241,11 @@ I see. The realm will see more turmoil yet...
 @9.18
 I see. The realm will see more turmoil yet.
 @9.19
-\@001/\@002: Tension rose between \#094 and \#0DD.
+In \@001/\@002, tension rose between \#094 and \#0DD.
 @9.21
 Relations between the two quickly soured...
 @10.3
-Lord \#0DD has sent out calls to arms against \#894 and shut himself up in \40F6.
+Lord \#0DD has sent out calls to arms against the \#894 and shut himself up in \40F6.
 @10.4
 What! The Shōgun has risen in revolt!?
 @10.6
@@ -265,7 +265,7 @@ With the barriers gone, people travel freely and trade flourishes. Two birds wit
 @15.11
 Hmm. I must keep an eye on him...
 @15.12
-\@001/\@002: \#094 marched on the capital with \#0DD, younger brother of the late Shōgun \#0DE.
+In \@001/\@002, \#094 marched on the capital with \#0DD, younger brother of the late Shōgun \#0DE.
 @16.0
 My lord, the \#894 army is marching into \#8F6 lands!
 @16.5
@@ -299,7 +299,7 @@ Yes, that is right!
 @16.24
 Forgive me, Oichi... I must turn my blade against your brother...
 @16.25
-...It cannot be helped. I am the wife of \#0D0...
+...So be it. I am the wife of \#0D0...
 @16.26
 I am sorry...
 @16.27
@@ -317,9 +317,9 @@ But my lord! Our debt of three generations to the \#8F6 clan...
 @16.38
 Enough, say no more! I have decided! The council is over. Thank you all!
 @17.0
-...Lord \#494 will never forgive me as a traitor...
+...Lord \#494 will brand me a traitor and never forgive me...
 @17.1
-But in your position, it could not be helped. Please do not let it weigh on you...
+But in your position, there was no other choice. Please do not let it weigh on you...
 @17.2
 (But what am I to do now...?)
 @17.5
@@ -339,7 +339,7 @@ News, my lord! The \#894 army is marching on our lands!
 @17.13
 Ngh... Here already!
 @17.15
-And... not only the \#894 army! The \#158 army, allied with the \#894, seems to have joined it!
+It is... not the \#894 army alone! The \#158 army, allied with the \#894, seems to be marching with them!
 @17.19
 Y-yes, of course. Then we of the \#8F6 will send our army too.
 @17.20
@@ -359,7 +359,7 @@ Congratulations on your victory.
 @18.6
 Hm... Lord Nagamasa...
 @18.8
-The \#8D0 clan has been friends with the \#8F6 clan for three generations... I thought that warning you of my campaign against the \#8F6 would only torment you...
+The \#8D0 clan has three generations of friendship with the \#8F6... I thought that warning you of my campaign against the \#8F6 would only torment you...
 @18.9
 That is why I struck the \#8F6 without telling you. I forced a hard choice on you, but you made it bravely.
 @18.10
@@ -367,7 +367,7 @@ I, \#494, thank you...
 @18.11
 My lord... You are too kind.
 @18.12
-Lord \#7FE, lend me your strength for my rule of the realm from now on as well.
+Lord \#7FE, I ask you to go on lending me your strength in my bid to rule the realm.
 @18.13
 Yes! Lord \#494 is my brother-in-law... I would never hold back my help!
 @18.14
@@ -383,7 +383,7 @@ Good! Lord \#7FE, you hold northern Ōmi, the key to the Hokkoku road, so I want
 @18.20
 Good! Lord \#7FE, I want you to take the Hokuriku region.
 @18.22
-Now! Enough of this stiff talk. Come, Lord \#7FE! Let us drink first.
+Now! Enough of this stiff talk. Come, Lord \#7FE, let us share a cup!
 @18.23
 Yes... You honour me.
 @18.24
@@ -391,7 +391,7 @@ No ceremony here! Drink up, drink up! Wahahaha!
 @18.25
 About two hours later...
 @18.26
-No, I have had plenty. I should take my leave now. Lord \#494, thank you for today.
+I have had more than enough, thank you. I should take my leave now. Lord \#494, thank you for today.
 @18.27
 I see. Lord \#7FE, take good care of Oichi.
 @18.28
@@ -399,29 +399,29 @@ Yes! Leave it to me, brother. Now, if you will excuse me.
 @18.29
 (Oichi... I do not think my choice was wrong.)
 @19.3
-It seems Lord \#0DD has fled to \50F9, relying on \#BF2.
+It seems Lord \#0DD has fled to \50F9 to seek the protection of the \#BF2.
 @19.4
-It seems the \#BF2 clan is raising troops against \#894.
+It seems the \#BF2 clan is raising troops against the \#894.
 @19.6
-Because of this, relations between the \#894 and \#BF2 clans are at their worst.
+Because of this, relations between the \#894 and \#BF2 clans could not be worse.
 @19.7
-It seems Lord \#894 has ordered Lord \#400 to attack \#BF2 from \50FB.
+It seems Lord \#894 has ordered Lord \#400 to attack the \#BF2 from \50FB.
 @19.8
 Hmm... So Lord \#494 is finally reaching into the Chūgoku...
 @19.9
-It seems \#094 has ordered \#400 to attack \#BF2 from \50FB.
+It seems \#094 has ordered \#400 to attack the \#BF2 from \50FB.
 @19.10
 Hmm... So \#494 is finally reaching into the Chūgoku...
 @20.0
 \#3FE, my lord, Lady Oichi is looking for you. Please hurry back to \50F8.
 @20.1
-\#3FE, my lord, \#3F1 is looking for you. Please hurry back to \50F8.
+\#3FE, my lord, Lord \#3F1 is looking for you. Please hurry back to \50F8.
 @20.3
 I am sorry, but I do not know what it is about...
 @20.4
 Hm, very well. I will go back to \50F8 at once.
 @21.0
-Now, I am back in \50F8... What can be the matter...
+Well, here I am back in \50F8... What can be the matter...
 @21.2
 What is it, Oichi? Has something happened?
 @21.3
@@ -467,7 +467,7 @@ My lord, give the order to march!
 @21.31
 ...Very well, we march! We will avenge my brother-in-law, Lord \#494!
 @21.35
-Yes! It is rebellion! \#0F5 has rebelled!
+Yes! It was treachery! \#0F5 has rebelled!
 @21.44
 On hearing of the disaster at Honnō-ji, he came back to the Kamigata with astonishing speed and struck down \#4F5.
 @22.0
@@ -487,9 +487,9 @@ Grr... \#4F5! Oichi, forgive me. I could not avenge Lord \#494...
 @22.11
 \#0F5 had seized the key points, and now stood ready to keep every daimyō in check.
 @23.0
-News, my lord! Lord \#0A8 has shut himself up in \40F5 with Lord Sanbōshi as hostage! He is calling on all quarters to rise against \#BFE!
+News, my lord! Lord \#0A8 has shut himself up in \40F5 with Lord Sanbōshi as hostage! He is calling on all quarters to rise against the \#BFE!
 @23.1
-Wh-what!? Lord \#4A8 has raised troops against \#BFE!? Is there not some mistake?
+Wh-what!? Lord \#4A8 has raised troops against the \#BFE!? Is there not some mistake?
 @23.2
 There is no mistake! Answering Lord \#4A8's call, Lord \#0AF also seems to be preparing to march!
 @23.3
@@ -511,7 +511,7 @@ My lord, please wait!
 @24.1
 Oichi!? Whatever is the matter?
 @24.2
-\#4A8 committed the outrage of kidnapping his own nephew Sanbōshi as a hostage. If you strike him down, it cannot be helped.
+\#4A8 committed the outrage of kidnapping his own nephew Sanbōshi as a hostage. If you strike him down, he deserves no better.
 @24.3
 But \#4AF is a deeply loyal man... I believe he has run wild only out of concern for the future of the \#894 clan.
 @24.4
@@ -529,7 +529,7 @@ My lord!! Thank you.
 @24.11
 But Oichi, do not do anything rash. Understood?
 @24.12
-Yes. Wait for good news.
+Yes. I will send you good news.
 @24.13
 Now, we head for \50FB.
 @25.1
@@ -563,17 +563,17 @@ My lord! It seems \#494 has escaped by a side road!
 @29.0
 Hear me, men! We will take \#0F5's head without fail! Now, attack!!
 @30.2
-For that we must strengthen our army and work together with Lord \#8F6...
+To be ready for him, we must strengthen our army and work together with Lord \#8F6...
 @30.4
-Grr... Curse you, \#400! It cannot be helped! We fall back for now!
+Grr... Curse you, \#400! No help for it! We fall back for now!
 @30.5
-Lord \#494 is sure to come for revenge... For that we must strengthen our army and work together with Lord \#8F6...
+Lord \#494 is sure to come for revenge... To be ready for him, we must strengthen our army and work together with Lord \#8F6...
 @31.1
 Yes! \#094 is nothing to fear!
 @31.5
-First, let us celebrate! The \#894 clan will not recover from this for some time.
+This is cause for rejoicing! The \#894 clan will not recover from this for some time.
 @31.6
-\@001/\@002: The allied armies of \#0D0 and \#0F6 defeated the allied armies of \#894 and \#958.
+In \@001/\@002, the allied armies of \#0D0 and \#0F6 defeated the allied armies of \#894 and \#958.
 @31.7
 This was the Battle of the Anegawa...
 @31.8
@@ -589,13 +589,13 @@ Yes! He has already been beaten by the \#958 army and put to flight!
 @31.13
 I see... It is lost... This is the end...
 @31.14
-\@001/\@002: The allied armies of \#0D0 and \#0F6 suffered a crushing defeat at the hands of \#894 and \#958.
+In \@001/\@002, the allied armies of \#0D0 and \#0F6 suffered a crushing defeat at the hands of \#894 and \#958.
 @31.18
 Hm... But we did stop \#494. Well, that will have to do...
 @31.20
 Very well... In any case, we go home!
 @31.21
-\@001/\@002: The allied armies of \#0D0 and \#0F6 withstood the fierce attack of \#894 and \#958.
+In \@001/\@002, the allied armies of \#0D0 and \#0F6 withstood the fierce attack of \#894 and \#958.
 @31.23
 The battle between the brothers-in-law \#094 and \#0D0 was not decided, and would be fought again and again...
 @32.0
@@ -621,7 +621,7 @@ met a wretched end at the hands of straggler hunters in the village of Ogurusu a
 @32.14
 Good, we return in triumph! Back to \40F9!
 @32.17
-It cannot be helped! We fall back to \40F9 for now.
+No help for it! We fall back to \40F9 for now.
 @33.0
 My lord, we have rescued Lord Sanbōshi!
 @33.1
@@ -645,7 +645,7 @@ So my ambition ends here...
 @34.10
 \#000 has piled gunpowder in the keep and set it on fire!
 @34.11
-A flashy end, just like Lord \#400...
+A showy end, worthy of Lord \#400...
 @34.13
 Ohh!
 @35.4
@@ -655,11 +655,11 @@ I see... Killing Lord \#4DD meant nothing; what mattered was the fall of the Sh�
 @35.7
 At any rate, it is good for us too that Lord \#494 escaped the shame of killing the Shōgun.
 @35.8
-Why? For \%04094, Lord \#4DD was a source of trouble...
+Why? For \%04094, Lord \#4DD was nothing but trouble...
 @35.9
 Such a perfect chance, and yet...
 @35.10
-\@001/\@002: \#094 took \40F6, where \#0DD was holding out.
+In \@001/\@002, \#094 took \40F6, where \#0DD was holding out.
 @35.11
 Thus the Muromachi shogunate of the \#8DD came to an end after fifteen generations...
 @35.12

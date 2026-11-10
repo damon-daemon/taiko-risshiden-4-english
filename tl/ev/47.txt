@@ -1,7 +1,7 @@
 @0.0
 I know, I've had a fine idea.\nShall I give our lord a little surprise...?
 @0.1
-\&01,\nI have a favour to ask.
+My lord, I have a favour to ask.
 @0.2
 What is it, all of a sudden?\nNot another impossible request, I hope.
 @0.3
@@ -45,7 +45,7 @@ Still... "Kokuzōin Hyottokosai"!\nWa ha ha ha! What an outlandish name!
 @0.26
 Ha ha ha ha!\nOur lord was surprised, all right.\nHe looked like a pigeon hit by a peashooter.
 @0.27
-Well then,\nfrom now on I shall live as "Kokuzōin Hyottokosai"!
+Well then, from now on I shall live as "Kokuzōin Hyottokosai"!
 @0.28
 Go by Kokuzōin Hyottokosai
 @0.29

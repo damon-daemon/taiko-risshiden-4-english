@@ -1,30 +1,30 @@
 @0.0
-My lord,\nan envoy has come from the \#8DE Shōgun's house.
+My lord, an envoy has come from the \#8DE Shōgun's house.
 @0.1
 Is that so? Show him in with all courtesy!
 @0.3
 By order of the Shōgun!
 @0.5
-His Highness is greatly pleased that Lord \#519 has become Kantō deputy, and with your service in the Kantō.
+His Highness is greatly pleased by your appointment as Kantō deputy, Lord \#519, and by your service in the Kantō.
 @0.6
-Ah!\nYou honour me far beyond my worth.
+Sir!\nSuch words are more than I deserve.
 @0.7
-And so His Highness bestows upon Lord \#519 a character from his own name, "Teru," and bids you henceforth call yourself "Terutora."
+And so His Highness bestows upon you, Lord \#519, a character from his own name, "Teru", and bids you henceforth call yourself "Terutora".
 @0.8
-Ahh! What an honour!\nI, \#519, shall strive harder than ever\nfor His Highness's sake.
+I am humbled and grateful!\nI, \#519, shall strive harder than ever for His Highness's sake.
 @0.9
 Good!\nWe count on you, Lord \#519...\nNo, Lord Terutora!
 @0.11
 Thus \#119 received a character from the Shōgun, \#0DE, and changed his name to Uesugi Terutora.
 @0.16
-I must not shame the name of \#519.\nFrom now on, I shall work all the harder\nto restore the \#8DE Shōgun's house.
+I must not shame the name of \#519.\nFrom now on, I shall work all the harder to restore the \#8DE Shōgun's house.
 @1.0
-When I knocked at the gate of Rinsen-ji as a boy,\nI meant to give my life to the Buddha.\nWhat a strange life I have led since...
+When I knocked at the gate of Rinsen-ji as a boy, I meant to give my life to the Buddha.\nWhat a strange life I have led since...
 @1.1
-"Man's life is but fifty years," they say,\nand I am already past forty...
+"Man's life is but fifty years," they say, and I am already past forty...
 @1.2
-I have spent myself on the quarrels of this world.\nNow I wish to be ordained as a disciple of the Buddha\nand seek the Way for the rest of my life.
+I have spent myself on the quarrels of this world.\nNow I wish to be ordained as a disciple of the Buddha and seek the Way for the rest of my life.
 @1.3
-Thus \#119 took holy orders, and receiving a character from Ekiō Sōken, seventh abbot of Rinsen-ji, was given the Buddhist name "Fushikiinden Shinko Kenshin."
+Thus \#119 took holy orders, and receiving a character from Ekiō Sōken, seventh abbot of Rinsen-ji, was given the Buddhist name "Fushikiinden Shinkō Kenshin".
 @1.8
-Not relying on shallow knowledge, humbly trusting\ntrue wisdom, I must live nobly,\nworthy of the name "Kenshin."
+Not relying on shallow knowledge, humbly trusting true wisdom, I must live nobly, worthy of the name "Kenshin."

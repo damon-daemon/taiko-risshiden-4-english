@@ -17,7 +17,8 @@ Japanese), one block per string:
            addresses the listener ("my lord", "Father", else the bare family name),
            04XXX / 20XXX how he refers to person XXX ("Lord X", "my brother", "X");
            05-1F Japanese verb endings (empty in English: never in English) - may be dropped
-    \\&NN, \\Xnnn (X = one of 0-9 : ; < = > ? @ A-Z: places, numbers, items, string
+    \\&NN   the same words as \\%NN (same table; never takes a person): may be dropped too
+    \\Xnnn (X = one of 0-9 : ; < = > ? @ A-Z: places, numbers, items, string
            slots set by a [1F] string...) - must stay.
   A '%' becomes full-width ％.
 
@@ -33,6 +34,7 @@ listed once in tl/ev/names.txt (`evtl.py names`):
     Family|Given
 
 usage:
+    evtl.py show  NN [A[-B]] [--todo] [--en]   # (--en: current English under each string)
     evtl.py show  NN [A[-B]] [--todo]    # Japanese strings of scripts A-B (--todo: only those without
                                          # English that this file owns: a string repeated
                                          # in several files is translated in the lowest one)
@@ -289,10 +291,10 @@ def check(jp, en, k):
         else:
             errs.append('escape not in the Japanese: \\%s' % x.decode())
     for x in ee:
-        if x[:1] == b'%' and 0x05 <= int(x[1:3], 16) <= 0x1F:
+        if x[:1] in b'%&' and 0x05 <= int(x[1:3], 16) <= 0x1F:
             errs.append('\\%s is a Japanese verb ending (empty in English)' % x.decode())
     for x in je:
-        if x[:1] != b'%':
+        if x[:1] not in b'%&':
             errs.append('missing escape \\%s' % x.decode())
     if any(c < 0x20 and c != 0x0A for c in en):
         errs.append('control byte in English')
@@ -434,10 +436,10 @@ def owner():
             out.setdefault((kind(ins, j), ins.strs[j]), f)
     return out
 
-def show(f, script=None, todo=False):
+def show(f, script=None, todo=False, en=False):
     us = _units_ro(f)
     done = parse_tl(tl_path(f))
-    mem = memory() if todo else {}
+    mem = memory() if todo or en else {}
     own = owner()
     count = {}
     for k, n, ins, j in us:
@@ -458,6 +460,11 @@ def show(f, script=None, todo=False):
             k, n, ' [done]' if (k, n) in done else '',
             evscript.OP_NAMES.get(ins.op, '%02X' % ins.op), '.%d' % j if len(ins.strs) > 1 else '',
             ' ' + who if who else '', ' x%d' % count[key] if todo and count[key] > 1 else '', s))
+        if en:      # review: the English of this file, or (context only) of the owning file
+            if (k, n) in done:
+                print('    EN: ' + done[(k, n)].replace('\n', '⏎'))
+            elif key in mem:
+                print('    (shared, file %02d: %s)' % (own[key], mem[key].replace('\n', '⏎')))
 
 def list_names():
     seen = {}
@@ -490,13 +497,13 @@ def stats():
 
 if __name__ == '__main__':
     cmd = sys.argv[1] if len(sys.argv) > 1 else ''
-    args = [a for a in sys.argv[2:] if a != '--todo']
+    args = [a for a in sys.argv[2:] if a not in ('--todo', '--en')]
     if cmd == 'show':
         rng = None
         if len(args) > 1:
             a, _, b = args[1].partition('-')
             rng = (int(a), int(b) if b else int(a))
-        show(int(args[0]), rng, '--todo' in sys.argv)
+        show(int(args[0]), rng, '--todo' in sys.argv, '--en' in sys.argv)
     elif cmd == 'apply':
         sys.exit(0 if apply(int(args[0]), args[1] if len(args) > 1 else None) else 1)
     elif cmd == 'stats':

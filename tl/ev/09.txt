@@ -1,31 +1,31 @@
 @0.0
-Lord \#3FE! The \#894 army is marching\ninto Lord \#0F6's lands!
+Lord \#3FE! The \#894 army is marching into Lord \#0F6's lands!
 @0.2
-What is Lord \#894 thinking!\nHe cannot be unaware that our house\nis allied with the \#8F6 clan...!
+What is Lord \#894 thinking!\nHe cannot be unaware that our house is allied with the \#8F6 clan...!
 @0.3
 In any case, gather the generals at once!\nWe will hold a council!
 @0.5
 There will surely be an emergency council.\nI must hurry!
 @0.6
-I think you have all heard.\nLord \#094 has attacked\nLord \#0F6...
+I think you have all heard.\nLord \#094 has attacked Lord \#0F6...
 @0.7
-No doubt both the \#894 and the \#8F6\nwill ask our house for reinforcements...
+No doubt both the \#894 and the \#8F6 will ask our house for reinforcements...
 @0.8
 ...So which side will our house take?
 @0.9
-\#094 is my brother-in-law...\nYet we have owed the \#8F6 clan a debt\nfor three generations, since my grandfather Sukemasa...
+\#094 is my brother-in-law...\nYet we have owed the \#8F6 clan a debt for three generations, since my grandfather Sukemasa...
 @0.10
 What should I do...
 @0.11
-My lord... such is the way of this age of war.\nIf I, Ichi, stand in your way,\nplease divorce me.
+My lord... such is the way of this age of war.\nIf I, Ichi, stand in your way, please divorce me.
 @0.12
 What are you saying! You are my wife!\nI would never divorce you!
 @0.13
-Then, do you intend\nto side with the \#894 clan?
+Then, do you intend to side with the \#894 clan?
 @0.15
-A report!\nA letter formally requesting reinforcements\nhas come from Lord \#0F6!
+A report!\nA letter formally requesting reinforcements has come from Lord \#0F6!
 @0.16
-My lord! Without the \#8F6 clan,\nour house would never have prospered as it has!\nWe cannot abandon them!
+My lord! Without the \#8F6 clan, our house would never have prospered as it has!\nWe cannot abandon them!
 @0.17
 ...Hmm.\nWhat should I do?
 @0.18
@@ -35,15 +35,15 @@ Side with \#094
 @0.20
 ...Right, I have decided!\nWe strike \#094 from behind!
 @0.21
-Then we side\nwith the \#8F6 clan!
+Then we side with the \#8F6 clan!
 @0.22
 ...Yes, that's right!
 @0.23
 ...My lord.
 @0.24
-...Ichi, forgive me.\nI must now turn my blade\nagainst your brother...
+...Ichi, forgive me.\nI must now turn my blade against your brother...
 @0.25
-...It cannot be helped.\nI am the wife of \#0D0...
+...There is nothing to be done.\nI am the wife of \#0D0...
 @0.26
 ...Forgive me.
 @0.27
@@ -53,29 +53,29 @@ Yes!\nThen, we march!
 @0.29
 ...Right, I have decided!\nWe ignore \#0F6's request!
 @0.30
-Then we side\nwith the \#894 clan!
+Then we side with the \#894 clan!
 @0.32
 ...My lord!
 @0.33
-Ichi... I cannot bear\nto make you grieve after all.\nI will stake our future on your brother!
+Ichi... I cannot bear to make you grieve after all.\nI will stake our future on your brother!
 @0.35
 ...Yes.
 @0.36
 My lord!\nBut what we owe the \#8F6 clan for three generations...
 @0.37
-Enough! Say no more!\nIt is decided! The council is over.\nThank you all!
+Enough! Say no more!\nIt is decided! The council is over.\nThat will be all!
 @0.39
-Whichever side you choose, decide quickly,\nor both houses will suspect us!
+Whichever side you choose, decide quickly, or both houses will suspect us!
 @0.49
-Lord \#3FE! The \#894 army has marched\ninto Lord \#0F6's lands!
+Lord \#3FE! The \#894 army has marched into Lord \#0F6's lands!
 @0.52
-The old lord has reluctantly sent reinforcements\nto the \#8F6 clan and broken off\nrelations with the \#894 clan.
+The old lord has reluctantly sent reinforcements to the \#8F6 clan and broken off relations with the \#894 clan.
 @0.53
-Of course...\nBut \#094 is a fearsome man...\nIs it really safe to make him our enemy...
+Only natural...\nBut \#094 is a fearsome man...\nIs it really safe to make him our enemy...
 @1.0
-Lord \#494 will surely\ncome after me\nas a traitor...
+Lord \#494 will surely come after me as a traitor...
 @1.1
-But... in that position\nthere was nothing else you could do.\nPlease do not let it trouble you...
+But... in that position there was nothing else you could do.\nPlease do not let it trouble you...
 @1.2
 But what should I do now...?
 @1.3
@@ -83,11 +83,11 @@ Lord \#8D0!\nYou have saved us this time!
 @1.4
 Ah, Lord \#8F6!
 @1.5
-That you would side with us,\nthough married to \#494's sister...\nI am deeply moved.
+That you would side with us, though married to \#494's sister...\nI am deeply moved.
 @1.6
-Not at all. Between our house and the \#8F6\nthere is a bond of three generations.\nI only did what was right...
+Not at all. Between our house and the \#8F6 there is a bond of three generations.\nI only did what was right...
 @1.7
-But... \#494 will surely\nattack you...
+But... \#494 will surely attack you...
 @1.8
 Indeed...\nThat is what worries me.
 @1.9
@@ -95,25 +95,25 @@ This time it is our turn to save the \#8D0 clan.\nLet us help you.
 @1.10
 Lord \#8F6... I am grateful.
 @1.11
-If we attack together,\neven \#094 will be no match for us!
+If we attack together, even \#094 will be no match for us!
 @1.12
-A report!\n\#094's army is marching\ninto our lands!
+A report!\n\#094's army is marching into our lands!
 @1.13
 Hmph... here already!
 @1.14
-Bah, the \#894\nare nothing to fear!
+Bah, the \#894 are nothing to fear!
 @1.15
-But... it is not only the \#894 army!\nThe army of \#158, the \#894's ally,\nseems to be with them!
+But... it is not only the \#894 army!\nThe army of \#158, the \#894's ally, seems to be with them!
 @1.17
 Th-that is bad...\nLord \#8D0, what shall we do?
 @1.18
-In any case, now that they have invaded,\nwe must go out and meet them!
+In any case, now that they have invaded, we must go out and meet them!
 @1.19
 Y-yes, of course.\nThen our \#8F6 army will march too.
 @1.20
 I am counting on you!\nNow, all of you! We march!
 @2.0
-My lord!\nIt seems \#094 has escaped\nby a back road!
+My lord!\nIt seems \#094 has escaped by a back road!
 @2.1
 Bah... he got away!\nNo help for it, we strike the Oda rear!\nWhich unit is the rear guard?
 @2.2
@@ -121,27 +121,27 @@ The Oda rear guard is... \#000's unit, it seems!
 @2.3
 Good!\nThen charge the \#800 unit!
 @3.0
-\#4D0!\nI relied on you\nprecisely because you were my brother-in-law...!
+\#4D0!\nI counted on you because I thought of you as a brother...!
 @3.1
-Betraying me...\nI can never forgive that!\nWash your neck and wait for me!
+Betraying me...\nI can never forgive that!\nSay your prayers and wait for me!
 @3.2
 L-Lord \#8D0...\nWe will fight the \#958 army.\nYou fight the \#894 army.
 @3.3
 Understood!\nThen, good fortune to us both!
 @4.0
-Victory is ours, sir!
+Victory is ours, my lord!
 @4.1
-Good! First, a victory march!\nBut... Lord \#494 will surely\ninvade our lands...
+Good! For now, we return in triumph!\nBut... Lord \#494 will surely invade our lands...
 @4.2
-To be ready, we must build up our forces\nand work with Lord \#8F6...
+To be ready, we must build up our forces and work with Lord \#8F6...
 @4.3
-I regret to say\n\#000 got away!
+I regret to say \#000 got away!
 @4.4
 Ugh... curse you, \#400!\nNo help for it! We retreat for now!
 @4.5
-\#094 will surely come for revenge...\nTo be ready, we must build up our forces\nand work with Lord \#8F6...
+\#094 will surely come for revenge...\nTo be ready, we must build up our forces and work with Lord \#8F6...
 @5.0
-A great victory for us, sir!
+A great victory for us, my lord!
 @5.1
 Yes! \#094 is nothing to fear!
 @5.2
@@ -149,41 +149,41 @@ Lord \#8D0!\nA great victory!
 @5.3
 Oh! You too, Lord \#8F6?
 @5.4
-Yes! When they heard \#494 was beaten,\nthe \#958 troops lost heart\nand scattered like baby spiders!
+Yes! When they heard \#494 was beaten, the \#958 troops lost heart and scattered in all directions!
 @5.5
-Congratulations to us!\nThe \#894 clan will not recover for some time.
+A happy outcome indeed!\nThe \#894 clan will not recover for some time.
 @5.6
-In \@001/\@002 the allied armies of\n\#0D0 and \#0F6\ndefeated the \#894-\#958 allies...
+In \@001/\@002 the allied armies of \#0D0 and \#0F6 defeated the \#894-\#958 allies...
 @5.7
 This was the famous Battle of Anegawa...
 @5.8
-Beaten in this battle, \#494\nswiftly lost his power\nand fell for good as a warlord...
+Beaten in this battle, \#494 swiftly lost his power and fell for good as a warlord...
 @5.9
-In his place \#0D0\nnow stepped forward as a leading\ncontender for the realm...
+In his place \#0D0 now stepped forward as a leading contender for the realm...
 @5.10
 Our army is collapsing!
 @5.11
 Grr...!\nWhat of Lord \#8F6?
 @5.12
-Sir! He seems to have been beaten\nby the \#958 army already and fled!
+My lord! He seems to have been beaten by the \#958 army already and fled!
 @5.13
 I see...\nWe have lost...\nSo this is the end...
 @5.14
-In \@001/\@002 the allied armies of\n\#0D0 and \#0F6 suffered\na crushing defeat by the \#894-\#958 allies...
+In \@001/\@002 the allied armies of \#0D0 and \#0F6 suffered a crushing defeat by the \#894-\#958 allies...
 @5.16
-Beaten in this battle, \#4D0\nswiftly lost his power and came under\nfierce attack by \#094...
+Beaten in this battle, \#4D0 swiftly lost his power and came under fierce attack by \#094...
 @5.17
 The battle was not decided.
 @5.18
 Yes...\nBut we did manage to stop \#494.\nWell, that will do...
 @5.19
-Lord \#0F6 has driven off\nthe \#958 army and already gone home.
+Lord \#0F6 has driven off the \#958 army and already gone home.
 @5.20
 I see...\nIn any case, we return home.
 @5.21
-In \@001/\@002 the allied armies of\n\#0D0 and \#0F6 held off\nthe fierce attack of the \#894-\#958 allies...
+In \@001/\@002 the allied armies of \#0D0 and \#0F6 held off the fierce attack of the \#894-\#958 allies...
 @5.23
-But the battle between the brothers-in-law\n\#094 and \#0D0 was not decided\nand went on long after...
+But the battle between the brothers-in-law \#094 and \#0D0 was not decided and went on long after...
 @6.0
 So this is the end...
 @6.1
@@ -191,19 +191,19 @@ My lord!\nAn envoy has come from the \#894 side!
 @6.2
 What...
 @6.3
-He says they wish by all means\nto rescue Lady Oichi.
+He says they wish by all means to rescue Lady Oichi.
 @6.5
-...Yes, Oichi has done nothing wrong.\nThere is no reason for her to die\nalongside a failure like me...
+...Yes, Oichi has done nothing wrong.\nThere is no reason for her to die alongside a failure like me...
 @6.6
-Wife of an enemy general she may be,\nbut Oichi is \#494's sister...\nHe will not treat her badly.
+Wife of an enemy general she may be, but Oichi is \#494's sister...\nHe will not treat her badly.
 @6.7
-At least Oichi must survive...\nGood, call Oichi!
+At least Oichi must survive...\nVery well, call Oichi!
 @6.10
-This is the end.\nI shall fight to the death with this castle as my pillow.
+This is the end.\nI shall make this castle my deathbed and fall fighting.
 @6.13
-I have been ready for this since the day\nyour brother attacked the \#8F6.
+I have been ready for this since the day your brother attacked the \#8F6.
 @6.15
-But the \#8D0 and the \#8F6\nhave helped each other for three generations.
+But the \#8D0 and the \#8F6 have helped each other for three generations.
 @6.20
 ...No, Oichi!\nYou must leave the castle!
 @6.21
@@ -211,41 +211,41 @@ My lord!\nWhat did you just say?
 @6.30
 My lord!
 @6.31
-Forgive me, Oichi...!\nThis is the last thing\nI can do for you.
+Forgive me, Oichi...!\nThis is the last thing I can do for you.
 @6.33
-\#4D0's wife Oichi\nwas safely taken in\nand returned to the \#894 clan...
+\#4D0's wife Oichi was safely taken in and returned to the \#894 clan...
 @6.34
-And the head of the house, \#0D0,\ntook his own life at \50F9 Castle\nat the age of \1007...
+And the head of the house, \#0D0, took his own life at \50F9 Castle at the age of \1007...
 @7.0
-My lord!\nI have a letter from\nLord \#094's envoy.
+My lord!\nI have a letter from Lord \#094's envoy.
 @7.1
 Hm, let me see...
 @7.2
 My lord, what does it say?
 @7.3
-Lord \#894 says he wishes\nto make an alliance\nwith our house.
+Lord \#894 says he wishes to make an alliance with our house.
 @7.4
 An alliance!?
 @7.5
-\#494 wants to give me\nhis sister Oichi as my bride\nand bind our houses in friendship.
+\#494 wants to give me his sister Oichi as my bride and bind our houses in friendship.
 @7.6
 My lord!\nWill you ally with \#494?
 @7.7
 It is not a bad offer.\nI intend to accept.
 @7.8
-But... our house is\nallied with \#0F6.
+But... our house is allied with \#0F6.
 @7.9
 Our house and the \#894 clan...
 @7.11
 Lady Oichi is Lord \#494's sister...
 @7.12
-She may have been\nput up to something by Lord \#494.
+She may have been put up to something by Lord \#494.
 @7.13
 There is no need for such worries.
 @7.14
-Tell Lord \#894\nthat I accept.
+Tell Lord \#894 that I accept.
 @7.16
-And so \#094's sister Oichi\nmarried \#0D0, and the alliance\nof the \#8D0 and the \#894 was sealed...
+And so \#094's sister Oichi married \#0D0, and the alliance of the \#8D0 and the \#894 was sealed...
 @7.17
 It is an honour to meet you.\nI am Ichi, sister of \#094...
 @7.18
@@ -261,7 +261,7 @@ B-be quiet!
 @7.23
 Hee hee...
 @7.24
-My lord! With so beautiful a bride,\nyou are the luckiest man in all the land!
+My lord! With so beautiful a bride, you are the luckiest man in all the land!
 @7.25
 Bah, do not mock your lord!
 @7.26
@@ -269,17 +269,17 @@ Ichi!\nThere is something I must tell you...
 @7.27
 Yes...
 @7.28
-In this age of war, even if we are allied today,\ntomorrow parents and children, brothers,\nmay be fighting one another.
+In this age of war, even if we are allied today, tomorrow parents and children, brothers, may be fighting one another.
 @7.30
-I may even have to cross spears\nwith your brother, Lord \#494.
+I may even have to cross spears with your brother, Lord \#494.
 @7.31
 Are you prepared for that day...?
 @7.32
-...Now that I have taken Lord \#4D0\nas my husband in this life and the next,\nI have no intention of ever returning to the \#894.
+...Now that I have taken Lord \#4D0 as my husband in this life and the next, I have no intention of ever returning to the \#894.
 @7.33
-I only beg that you, my lord,\nwill never cast me aside...\nI ask this of you...
+I only beg that you, my lord, will never cast me aside...\nI ask this of you...
 @7.34
-Yes, well said! That is my wife!\nRest easy! I too hold you\nto be a wife beyond price!
+Yes, well said! That is my wife!\nRest easy! I too hold you to be a wife beyond price!
 @7.35
 Lord \#4D0...
 @7.36
@@ -287,7 +287,7 @@ Oichi...
 @7.37
 Ahem! Ahem!\nMy lord! We are in council!
 @7.38
-Hm? Oh! So we are!\nSorry, sorry...
+Hm? Oh! So we are!\nPardon me, pardon me...
 @7.39
 Forgive me for such an unseemly display...
 @7.40
@@ -295,8 +295,8 @@ Good! Now then, Oichi...\nyou may withdraw to the inner rooms.
 @7.42
 I have news!
 @7.43
-It seems the old lord\nhas allied with \#094.
+It seems the old lord has allied with \#094.
 @7.44
-Lady Oichi, Lord \#894's sister,\nhas married the old lord.
+Lady Oichi, Lord \#894's sister, has married the old lord.
 @7.45
 Hmm... I see.\nBut this alliance...\nis it a good one for us?

@@ -1,7 +1,7 @@
 @0.13
 Write to our lord and Akechi
 @0.19
-Sir,\nunderstood.
+Yes, my lord. Understood.
 @0.22
 I'll send letters to our lord and Lord \#8F5.
 @1.0
@@ -11,7 +11,7 @@ But I was the one our late lord trusted most!
 @1.4
 My lord...\nIs \#7FE never again to receive your praise...?
 @2.0
-\#3FE, my lord!\nRemnants of the \#A4B clan have stirred up the Ikkō rebels and are closing on this castle!
+Lord \#3FE!\nRemnants of the \#A4B clan have stirred up the Ikkō rebels and are closing on this castle!
 @2.1
 What!\nCurse you... \#A4B!
 @2.2
@@ -23,13 +23,13 @@ What shall we do, my lord?
 @3.9
 Now that \#4F5 is dead, there's no point in marching on.\nWe return to the castle for now.
 @4.0
-Ha ha ha! ...\#894!\nNow do you know the strength of the \#BF1!?
+Ha ha ha! ...\#894!\nNow you know the might of the \#BF1!
 @4.1
 Ugh...!\nI even smashed the water jars to rouse the men, and it still wasn't enough... Bitter indeed.
 @4.2
 Ugh! You'll pay for this!
 @4.3
-\#3FE, my lord,\nit seems the enemy has retreated!
+Lord \#3FE, it seems the enemy has retreated!
 @4.4
 Good!\nAll of you fought well!
 @4.5
@@ -41,7 +41,7 @@ And so \#3FE drove off \#3F1's invasion and held the castle to the end...
 @4.8
 The tale of how he smashed the water jars to rouse his men would be told down the ages under the name "Jar-Smashing Shibata"...
 @5.0
-The likes of \#3F2 is no match for us!\nNo need to trouble our lord over him.\nWe'll scatter them easily!
+The likes of \#3F2 are no match for us!\nNo need to trouble our lord over him.\nWe'll scatter them easily!
 @5.1
 \&03!\nSomething terrible has happened!
 @5.2
@@ -87,7 +87,7 @@ Well, what do you say!?
 @5.24
 A-aye!
 @5.25
-Now it's come to this, fighting for our lives\nis the only way we'll live!
+Now it's come to this, fighting for our lives is the only way we'll live!
 @5.26
 My lord! We'll win no matter what and take back the water!
 @5.27

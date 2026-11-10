@@ -11,7 +11,7 @@ Holding councils and building up my strength is the first step toward my great a
 @0.5
 \%03, grave news!\n\#1AD has built \50F8 Castle at Kawanakajima as a base to take the Zenkōji plain!
 @0.6
-What! Hmm, \#5AD, damn him!\nThree times \#5AD and I have crossed swords at Kawanakajima, but each time it ended in mere skirmishes.
+What! Grr, that \#5AD!\nThree times \#5AD and I have crossed swords at Kawanakajima, but each time it ended in mere skirmishes.
 @0.7
 But if \#5AD clings to the Zenkōji plain and keeps his eye on Echigo... either \#5AD falls, or my Echigo does...
 @0.8
@@ -41,7 +41,7 @@ To that end, the key is to govern the province from \40F6, hold councils and bui
 @1.5
 Ah, Lord \#519! You're back.
 @1.6
-Lord \#69D.\nIs something troubling you\nat the Otate residence?
+Lord \#69D.\nIs something troubling you at the Otate residence?
 @1.7
 No, no. You built this \#69D a residence, Lord \#519, and I want for nothing...
 @1.8
@@ -83,7 +83,7 @@ Young as he was, our lord took over the headship of the \#919 of Echigo and paci
 @1.29
 What's more, he went to the capital, had audience with the Shōgun and was formally recognised by the court as lord of the province. He is the leader of Echigo in name and in fact.
 @1.31
-Lord \#3FE,\nit seems the Kantō deputy, Lord \#29D, has asked Lord \#519 to march on the Kantō.
+Lord \#3FE, it seems the Kantō deputy, Lord \#29D, has asked Lord \#519 to march on the Kantō.
 @1.32
 Mm, ever since Lord \#69D came to Echigo, I thought we would march on the Kantō sooner or later...
 @1.33
@@ -91,9 +91,9 @@ And lately \#1AD of Kai keeps sending troops into northern Shinano too... Great 
 @1.34
 I must hone my skill at war so as not to fall behind when they come.
 @2.0
-My lord,\n\#1B5, a senior retainer of the \#9AD clan,\nhas taken his own life!
+My lord, \#1B5, a senior retainer of the \#9AD clan, has taken his own life!
 @2.1
-Why was that?
+What drove him to it?
 @2.2
 \#5AD's heir \#5AE could not accept that his father \#5AD plans to attack the \#84F, and tried to drive him out of the province.
 @2.3
@@ -103,35 +103,35 @@ A son rebelling against his father...\nSuch is the cruelty of this warring age.
 @2.5
 Hmph. What \#5AD once did to his own father, his son now tries to do to him... As you sow, so shall you reap.
 @2.7
-Hmm, he must have been thinking of his place as a retainer.\nThank you for your report.
+Hmm, out of regard for his retainer's standing, no doubt.\nThank you for your report.
 @2.9
-Lord \#3FE,\n\#1B5, a senior retainer of the \#9AD clan,\nhas taken his own life!
+Lord \#3FE, \#1B5, a senior retainer of the \#9AD clan, has taken his own life!
 @2.13
 Hmm. What \#5AD once did to his own father, his son now tries to do to him... As you sow, so shall you reap.
 @3.0
-Our \#919 house now rules the Hokuriku. The time is ripe. We now begin our march on the capital.
+Our \#919 house now rules the Hokuriku. The time is ripe. From here we begin our march on the capital.
 @3.1
-We now hold nearly all the Hokuriku. The time is ripe. We now begin our march on the capital.
+We hold nearly all the Hokuriku. The time is ripe. From here we begin our march on the capital.
 @3.2
-Oh, \%03!\nAt last we march on the capital!?
+Oh, \%03!\nAre we marching on the capital at last!?
 @3.3
 Yes!\nWe go west along the Hokuriku road, through Echizen and Ōmi, and into Kyōto!
 @3.4
 Echizen, you say...\nThe \#894 hold it.
 @3.5
-The likes of the \#894\nwe shall crush in one blow.
+We shall crush the likes of the \#894 in one blow.
 @3.6
 Let the \#894 soldiers see for themselves the might of the army they call the strongest in the land.
 @3.7
-Ohh!\nMy arm itches for a fight!
+Ohh!\nI am itching for a fight!
 @3.8
 Once we strike down the \#894 and enter Kyōto, the lords of the realm will flock to our \#919 banner. I expect great things of you all.
 @3.10
-My lord,\nit seems \#094 has sent \#000 to \50FB Castle to stop our army.
+My lord, it seems \#094 has sent \#000 to \50FB Castle to stop our army.
 @3.11
 \50FB Castle...\nThe seat of \#0AF, the fiercest general of the \#894.\nSo \#494 means to fight to the end.
 @3.12
-Lord \#3FE,\nit seems \#094 has sent \#000 to \50FB Castle to stop our army.
+Lord \#3FE, it seems \#094 has sent \#000 to \50FB Castle to stop our army.
 @3.13
 \50FB Castle...\nThe seat of \#0AF, the fiercest general of the \#894.\nWe'll show \#494 the strength of our Echigo army!
 @4.1
@@ -141,15 +141,15 @@ Oh, it's you...\n...
 @4.3
 \%03, what were you thinking about as you looked at the sky?
 @4.4
-Mm...\nMore than fifty years have passed\nsince \%00 became Kantō deputy...
+Mm...\nMore than fifty years have passed since \%00 became Kantō deputy...
 @4.5
-Mm...\nMore than forty years have passed\nsince \%00 became Kantō deputy...
+Mm...\nMore than forty years have passed since \%00 became Kantō deputy...
 @4.6
-Mm...\nMore than thirty years have passed\nsince \%00 became Kantō deputy...
+Mm...\nMore than thirty years have passed since \%00 became Kantō deputy...
 @4.7
-Mm...\nMore than twenty years have passed\nsince \%00 became Kantō deputy...
+Mm...\nMore than twenty years have passed since \%00 became Kantō deputy...
 @4.8
-Mm...\nMore than ten years have passed\nsince \%00 became Kantō deputy...
+Mm...\nMore than ten years have passed since \%00 became Kantō deputy...
 @4.9
 Peace in the Kantō and a restored bakufu have been my aim, yet I have still not achieved them.
 @4.10
@@ -179,7 +179,7 @@ Ugh... \%00 still have...\nthings I must... do...
 @4.24
 As Kantō deputy, peace in the Kantō...\nand then restore the bakufu, bring peace to the land...
 @4.25
-\%03, you must not move!\nIt will harm you!
+\%03, you must not move!\nYou will only make it worse!
 @4.27
 \%03!
 @4.28
@@ -189,9 +189,9 @@ As Kantō deputy, peace in the Kantō...\nand then restore the bakufu, bring pea
 @4.31
 \%03 has not regained consciousness.\nAnd these symptoms are those of a stroke...
 @4.32
-...Then, nine times in ten,\n\%03 will...
+...Then, nine times in ten, \%03 will...
 @4.33
-How can this be!\nJust when everything lay ahead,\n\%03... Ugh...
+How can this be!\nJust when so much lay ahead, \%03... Ugh...
 @4.34
 But we cannot just grieve.\nWe must think of what comes next...
 @4.35
@@ -199,17 +199,17 @@ Yes, you're right.\nFirst, the question of the heir.
 @4.36
 Those seen as \%03's heirs are his nephew and adopted son, Lord \#51A, and Lord \#5BB, adopted from the \#9C0 clan...
 @4.37
-First we must\ninform those two.
+First we must inform those two.
 @4.38
-...Then I will go\nand inform Lord \#51A.
+...Then I will go and inform Lord \#51A.
 @4.39
-Mm...\nThen I shall inform\nLord \#5BB.
+Mm...\nThen I shall inform Lord \#5BB.
 @4.40
-Let me say it to be sure: that \%03 has collapsed must be kept strictly secret.
+Let me make one thing clear: \%03's collapse must be kept strictly secret.
 @4.41
 Sir!\nUnderstood.
 @4.42
-(For \%03's heir,\n I can think of none but Lord \#51A.\n I must hurry...)
+(For \%03's heir, I can think of none but Lord \#51A.\nI must hurry...)
 @4.43
 Lord \#51A, grave news!\n\%03 has collapsed!
 @4.44
@@ -235,15 +235,15 @@ To that end, we must seize the main keep at once and declare to the house that y
 @4.54
 Mm, understood.\nThen let us go to the main keep.
 @4.55
-Wait!\nLord \#BF2, where are you going\nat this hour?
+Wait!\nLord \#BF2, where are you going at this hour?
 @4.56
 Oh, I have advice for \%03 on what we should do from here.
 @4.57
 I see, sir.\nThen take care.
 @4.58
-Mm.\nThank you for your service!
+Mm.\nKeep up the good work!
 @4.59
-(Phew...\n Somehow we got into the main keep\n without the generals catching us.)
+(Phew...\nSomehow we got into the main keep without the generals catching us.)
 @4.60
 \%03!\nIt is Kiheiji \#51A!\n\%03!!
 @4.62
@@ -251,25 +251,25 @@ How is \%03?
 @4.63
 He still has not come to.\nIt will not be long now...
 @4.64
-(I know this is a bit much...\n But it can't be helped. It's now or never!)
+(I know this is a stretch...\nBut there is no other way. It's now or never!)
 @4.65
 \%03!\nWho is to succeed you?\nIs it Lord \#51A!?
 @4.67
-Oh, I think our lord's face\nmoved, just a little...
+Oh, I think our lord's face moved, just a little...
 @4.68
 You all saw it!\n\%03 has declared that his heir is Lord Kagekatsu!
 @4.69
 Ah! Our lord is...
 @4.70
-!?\n...Lord \#51A,\n\%03 has passed away...
+!?\n...Lord \#51A, \%03 has passed away...
 @4.71
 F-Father!\nYour wishes, Father - I, \#51A, will surely...
 @4.72
 Thus \#119, feared as the Dragon of Echigo, passed from this world... He was \1006 years old.
 @4.73
-\#519's successor had been settled by force as \#51A, but those who backed \#5BB would not accept it.
+\#51A had secured the succession to \#519 by force, but those who backed \#5BB naturally would not accept it.
 @4.74
-When \#519's death came out, \#5BB's backers shut themselves up in Tochio Castle and sent secret envoys to the \#9C0 and the \#99F for help.
+When \#519's death became known, \#5BB's backers shut themselves up in Tochio Castle and sent secret envoys to the \#9C0 and the \#99F for help.
 @4.75
 Lord \#51A, grave news.\nLord \#5BB's faction has shut itself up in Tochio Castle and demands the headship of the \#919!
 @4.77
@@ -279,17 +279,17 @@ We must quell this turmoil quickly...
 @4.79
 Sir. For that, I fear force cannot be avoided.
 @4.80
-Lord \#5BB and I are brothers by adoption... I would rather not fight him if I could, but it cannot be helped...
+Lord \#5BB and I are brothers by adoption... I would rather not fight him if I could, but there is no other way...
 @4.81
-\#52B!\nFor your service in this succession,\nI name you Chief Retainer.
+\#52B!\nFor your service in this succession, I name you Chief Retainer.
 @4.82
-Go on being my right hand, and help me raise the \#91A clan.
+Continue to serve as my right hand, and help the \#91A clan prosper.
 @4.83
-Sir! I am most grateful.\nFor your sake, Lord \#51A, this \#52B\nwill go through fire and water!
+Sir! I am most grateful.\nFor your sake, Lord \#51A, this \#52B will go through fire and water!
 @4.84
-\#52B!\nGo on being my right hand,\nand help me raise the \#91A clan.
+\#52B!\nContinue to serve as my right hand, and help the \#91A clan prosper.
 @4.85
-Sir!\nFor your sake, Lord \#51A, this \#52B\nwill go through fire and water!
+Sir!\nFor your sake, Lord \#51A, this \#52B will go through fire and water!
 @4.94
 Ah, Lord \#51A!\nGrave news!\n\%03 has collapsed!
 @4.122
@@ -297,7 +297,7 @@ F-Father!
 @4.135
 \#12B was promoted to Chief Retainer.
 @4.145
-(For \%03's heir,\n Lord \#5BB would be fitting...)
+(For \%03's heir, Lord \#5BB would be fitting...)
 @4.146
 Oh, Lord \#5BB!\nGrave news!\n\%03 has collapsed!
 @4.147
@@ -307,7 +307,7 @@ What!?\nHow can this be... \%03...
 @4.150
 Lord \#5BB...\nI understand your grief, but this is no time for mourning.
 @4.152
-We should not talk standing in a place like this. Shall we speak at your residence, Lord \#5BB?
+This is no place to stand talking. Shall we speak at your residence, Lord \#5BB?
 @4.153
 Mm, very well.
 @4.154
@@ -333,7 +333,7 @@ What's more, \%03 gave you, Lord \#5BB, his own first name, "\#5BB" - proof that
 @4.168
 Among us retainers it was rumoured that he meant to give you the post of Kantō deputy, Lord \#5BB, and Lord \#51A his own family, the Nagao \#919.
 @4.169
-I see.\nVery well! \%00 will succeed \%03\nand make the \#919 house prosper!
+I see.\nVery well! \%00 will succeed \%03 and make the \#919 house prosper!
 @4.170
 Oh, Lord \#5BB!\nThat's the spirit!\nThen let us go to the main keep.
 @4.172
@@ -343,7 +343,7 @@ What!?\nOn whose orders?
 @4.174
 Lord \#3F2's, sir.
 @4.175
-What!? \#7F2...\nBut he went to inform\nLord \#51A...
+What!? \#7F2...\nBut he went to inform Lord \#51A...
 @4.176
 ...I see. Curse it!\nHow could I be so careless!!
 @4.177
@@ -355,7 +355,7 @@ Only \#3F2 and I knew that \%03 had collapsed.
 @4.180
 Damn you, \#7F2!\nLord \#5BB, we can only wait and see for now. Please return to your residence.
 @4.182
-But, Lord \#5BB,\nkeep your guard tight!
+But, Lord \#5BB, keep your guard tight!
 @4.183
 Mm, understood!
 @4.184
@@ -371,29 +371,29 @@ As things stand, your life is in danger, Lord \#5BB. Who knows when Lord \#51A w
 @4.189
 But armed men guard us well. Besides, Lord \#51A and \%00 are brothers by adoption. Let us first send an envoy to negotiate.
 @4.190
-If you think so, my lord...
+If that is enough, well and good, but...
 @4.191
 BOOOM!
 @4.192
 Wh-what was that!?
 @4.193
-R-reporting!\nA great gun has fired on us\nfrom the main keep!
+R-reporting!\nA great gun has fired on us from the main keep!
 @4.194
 What!?\nS-surely not...
 @4.195
 Now Lord \#51A's true heart is plain to see. He clearly means to kill you, Lord \#5BB, and be rid of the threat for good!
 @4.196
-Damn you, \#51A!\nWould you kill \%00, your own brother by adoption!?
+Damn you, \#51A!\nWould you kill me, your own brother by adoption!?
 @4.197
 Lord \#5BB, it is dangerous to stay in this residence. Let us flee to Tochio Castle for now!
 @4.198
-It can't be helped.\nI'll ask my brother \#1C0 and my sister's husband, Lord \#19F, for reinforcements and strike back!
+So be it.\nI'll ask my brother \#1C0 and my sister's husband, Lord \#19F, for reinforcements and strike back!
 @4.199
 You'll pay for this, \#51A!
 @4.203
 And so, after \#519's death, his two adopted sons, \#1BB and \#11A, went to war over who would succeed him.
 @4.217
-We should not talk standing in a place like this. Shall we speak at my residence?
+This is no place to stand talking. Shall we speak at my residence?
 @4.245
 Damn you, \#7F2!\nLord \#5BB, we can only wait and see for now. Please wait at my residence.
 @4.247
@@ -407,7 +407,7 @@ Listen, all of you. That \%03 has collapsed must be kept strictly secret until m
 @4.272
 ...Sir.
 @4.273
-Now, which of them\nwill become the heir...
+Now, which of them will become the heir...
 @4.274
 Lord \#3FE, terrible news!
 @4.275
@@ -431,7 +431,7 @@ I, \#3FE, am to succeed our late lord. I must make our power grow ever greater!
 @4.289
 I, \#3FD, am to succeed our late lord. I count on you all from now on!
 @5.0
-Lord \#3FE,\nour lord has clashed with the \#9AD army at Kawanakajima!
+Lord \#3FE, our lord has clashed with the \#9AD army at Kawanakajima!
 @5.1
 Oh!!\nAnd how did the battle go?\nTell me everything.
 @5.12
@@ -439,13 +439,13 @@ I see. A pity we couldn't strike down \#7F0, but what matters most is that \%023
 @6.0
 My lord, it seems \#1AD of Kai is lately aiming to attack his own ally, the \#84F of Suruga.
 @6.1
-Oh, \#5AD, is it?\nSo now he reaches south.\nReport \#5AD's every move to me from now on.
+Oho, that \#5AD...\nSo now he means to reach south.\nReport \#5AD's every move to me from now on.
 @6.3
 Lord \#3FE, it seems \#1AD of Kai is lately aiming to attack his own ally, the \#84F of Suruga.
 @6.4
-Oh, \#5AD, is it?\nSo now he reaches south?\nReport \#5AD's every move to me from now on.
+Oho, that \#5AD...\nSo now he means to reach south?\nReport \#5AD's every move to me from now on.
 @8.0
-My lord, the matter of\n\#1AE's failed rebellion\nhas caused quite a stir.
+My lord, the matter of \#1AE's failed rebellion has caused quite a stir.
 @8.1
 What happened!?
 @8.2
@@ -455,21 +455,21 @@ But \#5AD learned of that plan too, and \#5AE, despairing of his future, took hi
 @8.4
 I see. With the heir dead by his own hand, many in the \#9AD house must be shaken...
 @8.5
-With \#5AE dead, no one in \#5AD's house opposed breaking with the \#84F, and \#5AD at last broke off the alliance with the \#84F.
+With \#5AE dead, no one in \#5AD's house was left to oppose a break with the \#84F, and \#5AD at last ended the alliance with the \#84F clan.
 @8.6
 So one corner of the Kai-Sagami-Suruga alliance has crumbled!
 @8.8
 I see!\nThe Kai-Sagami-Suruga alliance has fallen apart!\nOur chance to strike the \#9D4 and the \#9AD may be coming.
 @8.11
-Lord \#3FE, the matter of\n\#1AE's failed rebellion\nhas caused quite a stir.
+Lord \#3FE, the matter of \#1AE's failed rebellion has caused quite a stir.
 @8.12
 What happened!?
 @8.19
-I see!\nThe Kai-Sagami-Suruga alliance\nhas fallen apart!
+I see!\nThe Kai-Sagami-Suruga alliance has fallen apart!
 @8.20
 The day we fight the \#9D4 and the \#9AD may be near...\nThank you for your report.
 @9.0
-Lord \#3FE,\nLord \#519, who had marched on the Kantō,\nhas returned to \40F5!
+Lord \#3FE, Lord \#519, who had marched on the Kantō, has returned to \40F5!
 @9.1
 Oh!!\nAnd how did the campaign go?\nTell me everything.
 @9.3
@@ -479,31 +479,31 @@ With \#519 inheriting the \#A9D house, \#12C, first among his kinsmen, also took
 @9.18
 I see. A pity we couldn't strike down \#5D4, but what matters most is that \%023F0 is safe. Thank you for your report.
 @10.0
-Hear me, all of you!\nThis is a righteous war!!\nEach of you, go to it with all your heart!
+Hear me, all of you!\nThis is a righteous war!!\nLet every man steel his heart!
 @10.1
 Fortune lies with Heaven!\nArmour lies on the breast!\nGlory lies in your feet!
 @10.2
-Think to die and you shall live;\nthink to live and you shall surely die.
+Think to die and you shall live; think to live and you shall surely die.
 @10.3
 Leave home resolved not to return, and you will return; think to return, and you will not.
 @10.4
-Though they say nothing is certain, the way of the samurai is not to think so: think it certain!
+They say nothing in this life is certain, but a samurai must not think so: he must hold his fate to be fixed!
 @10.5
-On baishiramandaya sowaka,\non baishiramandaya sowaka,\non baishiramandaya sowaka!
+On baishiramandaya sowaka, on baishiramandaya sowaka, on baishiramandaya sowaka!
 @10.6
-Forward, march!
+We march!
 @10.7
 Ohhh!!
 @11.0
-\%03,\nthe \#894 clan has already been destroyed.
+\%03, the \#894 clan has already fallen.
 @11.1
 Mm.\nThen let us regroup.\nTell the whole army to withdraw.
 @11.3
-\%03, it seems\nthe \#894 army has withdrawn.
+\%03, it seems the \#894 army has withdrawn.
 @11.4
 I meant to show the weaklings of the \#894 the strength of our Echigo army, but they turned tail and ran.
 @11.5
-Then, to regroup,\nwe too shall withdraw for now.
+Then, to regroup, we too shall withdraw for now.
 @11.11
 \%03, our ninja report that the \#894 army has set out, but it seems the \#894 forces have not yet arrived.
 @11.12
@@ -513,7 +513,7 @@ Hmm... Then let us watch for the enemy around here. As soon as we find them, we 
 @11.18
 Hmm. If the enemy comes out, so much the better. But if they hold the castle, we will need a plan of our own.
 @11.19
-A report!\nThe \#894 commander, \#0AF,\nseems set to march out of the castle!
+A report!\nThe \#894 commander, \#0AF, seems set to march out of the castle!
 @11.20
 Mm, good news.\nAnything else?
 @11.21
@@ -521,25 +521,25 @@ Mm, good news.\nAnything else?
 @11.22
 But he clashed head-on with the commander, \#4AF, and, angry that his advice was ignored, seems to be taking the reinforcements back to \50FA!
 @11.23
-Good! This battle is ours!\nAnd where did \#4AF\nseem to be making camp?
+Good! This battle is ours!\nAnd where did \#4AF seem to be making camp?
 @11.24
 After crossing the Tedori River, they seem to be preparing to camp.
 @11.25
-Good! Then our army\nmarches for the Tedori River!!
+Good! Then our army marches for the Tedori River!!
 @12.0
 \#494, damn you!\nNext time we settle this!
 @12.5
-It seems \#000\nhas reached \50FB.
+It seems \#000 has reached \50FB.
 @13.0
 \#5AD, damn you!\nNext time we will settle this for sure!
 @13.1
-It seems \#5AD has already\nmarched into northern Shinano.
+It seems \#5AD has already marched into northern Shinano.
 @13.2
-Mm.\nWe too make haste for Kawanakajima.
+Mm.\nWe must hurry to Kawanakajima too.
 @13.3
 That monk \#5AD!\nNext time we will settle this for sure!
 @13.4
-My lord, it seems the \#9AD army\nhas reached \50FA Castle.
+My lord, it seems the \#9AD army has reached \50FA Castle.
 @13.5
 Good!\nThe time to settle things with \#5AD has come at last.\nAnd how strong is the enemy?
 @13.6
@@ -551,7 +551,7 @@ And yet, for some reason, the \#9AD army, which should have the advantage in num
 @13.9
 Mm. I camped on Mount Saijo to show \#5AD that I will not retreat, but he keeps his head pulled in like a turtle.
 @13.10
-(Hmm...\n What is \#5AD up to...)
+(Hmm...\nWhat is \#5AD up to...)
 @13.11
 Hm!? What's that smoke?
 @13.12
@@ -567,7 +567,7 @@ What is it, my lord?
 @13.17
 The way it rises is as you say. And more smoke than usual is proof they are cooking more rice than usual!
 @13.18
-Of course! Besides the usual supper, they're cooking rations to carry after they march out!?
+Of course! So on top of the usual supper, they're cooking rations to take when they march!?
 @13.19
 Yes!\nWhich means the enemy moves tonight!!
 @13.20
@@ -583,15 +583,15 @@ A little later...
 @13.26
 Mm.\nDo you live around here?
 @13.27
-Aye, I've lived in Hachimanbara\nall my born days.
+Aye, I've lived in Hachimanbara all my born days.
 @13.28
-Mm, I see.\nThen how do you read the weather here\nfrom tonight to tomorrow morning?
+Mm, I see.\nThen how do you read the weather here from tonight to tomorrow morning?
 @13.29
 Aye, a thick fog'll come up from midnight. A curtain fog, they call it, covers all Kawanakajima. It won't lift till morning.
 @13.30
-!? Fog!!\nMm, that's good to hear.\nMy thanks.
+!? Fog!!\nMm, you have told me something of value.\nMy thanks.
 @13.31
-Ohh! I'm not worthy!
+Oh, m'lord! You're too kind!
 @13.32
 (Shall I give this man a reward?)
 @13.33
@@ -615,19 +615,19 @@ Good! We turn the tables on \#5AD. Under cover of tonight's thick fog, our army 
 @13.42
 Oh! So we strike the \#9AD main force before the \#9AD detached force reaches Mount Saijo!
 @13.43
-Just so.\nTomorrow morning, the moment the fog lifts,\nwe crush the weakened \#9AD main force!
+Just so.\nTomorrow morning, the moment the fog lifts, we crush the weakened \#9AD main force!
 @13.44
 Let's go!!
 @14.0
 So the \#9AD clan has fallen...\nThen the campaign is called off.\nWe return home!
 @14.1
-That monk \#5AD! Does he fear a fight to the finish so much he won't come out? The campaign is called off. We return home!
+That monk \#5AD! Is he so afraid of a decisive battle that he won't come out? The campaign is called off. We return home!
 @14.2
 Our ninja report that the \#9AD army has set out, but it seems it has not yet arrived.
 @14.3
 Good, then we camp on Mount Saijo, keep watch on Kaizu Castle and wait for \#5AD's main force.
 @14.4
-That monk \#5AD! Does he fear a fight to the finish so much he ran away? The campaign is called off. We return home!
+That monk \#5AD! Was he so afraid of a decisive battle that he ran away? The campaign is called off. We return home!
 @14.5
 That monk \#5AD!\nSo he was lying in wait.
 @14.6
@@ -643,7 +643,7 @@ My lord, it seems the garrison of \40F7 has abandoned the castle and fled.
 @15.2
 Oh!\nTo win without a fight is a good omen.
 @15.3
-Indeed...\nFrom now on, \40F7 will be our base\nfor pacifying the Kantō.
+Indeed...\nFrom now on, \40F7 will be our base for pacifying the Kantō.
 @15.4
 Mm, a fine idea.
 @15.5
@@ -655,7 +655,7 @@ Hearing that Lord \#919 had crossed into the Kantō in the name of the Kantō de
 @15.9
 \#670... Thank you for coming.\nIt has been a long time.\nHave you been well?
 @15.10
-Sir!\nI am glad to see you too unchanged, Lord \#69D...\nand safely returned.
+Sir!\nAnd you look well yourself, Lord \#69D...\nI rejoice at your safe return.
 @15.11
 Welcome, Lord \#A70.
 @15.12
@@ -663,25 +663,25 @@ Lord \#919, thank you for taking the field. I, \#670, am filled with admiration 
 @15.13
 And so, please make use of \40F7 as your base for pacifying the Kantō.
 @15.14
-What!\nYou mean you will give\nthis castle to me!?
+What!\nYou mean you will give this castle to me!?
 @15.15
-Indeed!\nAnd from now on I will look up to you as our leader, Lord \#919, and help you pacify the Kantō!
+Indeed!\nAnd from now on I will honour you as our leader, Lord \#919, and help you pacify the Kantō!
 @15.16
-From now on I will look up to you as our leader, Lord \#919, and help you pacify the Kantō!
+From now on I will honour you as our leader, Lord \#919, and help you pacify the Kantō!
 @15.17
 Oh! This is heartening!\nLord \#A70, I count on you.
 @15.19
-Good!\nThen we now march on \40F8.
+Good!\nNow we march on \40F8.
 @15.20
 Ohhh!!
 @16.1
 My lord, \40F7 has opened its gates without a fight!
 @16.2
-My lord, \40F7 is close now!
+My lord, we are nearly at \40F7!
 @16.3
 \40F7 is an impregnable castle built in the marshes between the Tone and Ara rivers. Now, how to attack it...
 @16.4
-A report!\nLord \#136, lord of \40F7 Castle,\nhas arrived.
+A report!\nLord \#136, lord of \40F7 Castle, has arrived.
 @16.5
 What, \#936 of \40F7...\nMm, show him in!
 @16.7
@@ -695,13 +695,13 @@ Good!\nNext we march on \40F8.
 @16.12
 Ohhh!
 @17.2
-A report!\nLord \#222, lord of \40F7 Castle,\nhas arrived.
+A report!\nLord \#222, lord of \40F7 Castle, has arrived.
 @17.3
 Mm, show him in!
 @17.5
 \#622, you've come too!\nI'm glad.
 @17.6
-Lord \#69D, it has been too long.\nI, \#622, burning to bring down the \#9D4,\nhave come to join you!
+Lord \#69D, it has been too long.\nI, \#622, burning to bring down the \#9D4, have come to join you!
 @17.7
 Welcome, Lord \#A22.
 @17.8
@@ -709,11 +709,11 @@ With the defeat at Kawagoe, my liege house, the Ōgigayatsu Uesugi, was destroye
 @17.9
 But hearing your call to march into the Kantō, I have broken with the \#9D4 and come to lead your vanguard, Lord \#519.
 @17.10
-Mm!\nThen I ask you to lead the vanguard,\nLord \#A22. I count on you!
+Mm!\nThen I ask you to lead the vanguard, Lord \#A22. I count on you!
 @17.12
 A report!\nLord \#20E has arrived.
 @17.13
-Lord \#919, I have brought reinforcements\nso that we may bring down the \#9D4 together.
+Lord \#919, I have brought reinforcements so that we may bring down the \#9D4 together.
 @17.14
 Oh, Lord \#A0E!\nThank you for joining us.\nI am counting on your skill at war.
 @17.15
@@ -723,13 +723,13 @@ A report!\nLord \#20A has arrived.
 @17.18
 Oh, Lord \#A0A!\nThank you for joining us.\nI am counting on your skill at war.
 @17.20
-My lord, the Satake clan\nhas sent reinforcements!
+My lord, the Satake clan has sent reinforcements!
 @17.21
 Thus the Kantō lords flocked to \#119, some 100,000 strong...
 @17.22
 Good!\nWe now march on \40F8.
 @17.23
-Before we attack \40F9,\nlet's crush them in one go!
+Before we attack \40F9, let's crush them in one go!
 @17.24
 Ohh!
 @18.1
@@ -741,7 +741,7 @@ Then at last we attack \40F8, where \#1D4 holds out. Men, march!!
 @19.1
 My lord!\n\40F7 is in sight!
 @19.2
-Oh, so that is... \40F7!\nWhat a huge castle... The whole castle town\nlies inside its outer walls...
+Oh, so that is... \40F7!\nWhat a huge castle... The whole castle town lies inside its outer walls...
 @19.3
 Good, we hold a council of war!\n\#7F0, call the generals together!
 @19.5
@@ -761,7 +761,7 @@ Thus \#119 besieged \#1D4 in \50FA with a great army...
 @19.13
 But \40F7, enlarged by three generations of the \#9D4, showed no sign of falling.
 @19.14
-We came all the way to \50FA...\n\#5D4, damn him, he's stubborn.
+We came all the way to \50FA, and yet...\nThat \#5D4 is a stubborn one.
 @19.15
 My lord, a long siege works against us. There are rumours the \#9AD will march on the Shinano-Echigo border again...
 @19.16
@@ -799,13 +799,13 @@ From now on I shall retire and spend my last years at the Otate residence. I lea
 @20.20
 Sir! Now that I have inherited the name of the \#919 house and the post of Kantō deputy, restoring peace to the Kantō is my mission!
 @20.21
-I will surely carry out this duty. Watch me, Father!
+I will fulfil this duty without fail, Father. You shall see!
 @20.22
 Mm! Most reassuring.
 @20.23
 Men, we return in triumph to \40F5!
 @21.0
-\%03!\n\#0AF's army\nis right before us.
+\%03!\n\#0AF's army is right before us.
 @21.1
 Good! We scatter them in one blow!!\nAt them!!
 @22.0
@@ -817,9 +817,9 @@ The fog will lift soon.\nThat is our signal to attack.
 @22.4
 Heh heh heh, just as I expected.
 @22.5
-\#5AD, you fool! You meant to use this fog to take us from behind, but you've fallen into your own trap.
+\#5AD, you fool! You meant to use this fog to outwit us, but you've walked into your own trap.
 @22.6
-The \#9AD army is shaken\nby our sudden appearance!
+The \#9AD army is shaken by our sudden appearance!
 @22.7
 Now!\nAttack!!
 @23.0
@@ -831,31 +831,31 @@ In \@001/\@002, \#119 and \#0AF met in battle at the Tedori River.
 @23.4
 \#4AF, called "Demon \#8AF", soundly defeated \#119, the Dragon of Echigo.
 @23.5
-Even this rare hero was losing his chance to shine before the sheer numbers of \#494.
+Even so rare a hero found little room to shine against the sheer numbers of \#494.
 @23.6
 The victory is ours!\nThe \#894 army is in full flight.
 @23.7
-Good! Well done!\n\#494, wash your neck and wait for me!
+Good! Well done!\n\#494, your head is next!
 @23.9
 Ohhh!!
 @23.11
 \#4AF, called "Demon \#8AF", was helpless before \#119, the Dragon of Echigo.
 @23.12
-The rare hero was about to join the struggle for the realm.
+This rare hero was now about to join the struggle for the realm.
 @23.13
-Hmm, we couldn't break them! Like this, our army will only wear itself out. It can't be helped: we fall back for now!
+Hmm, we cannot break them! At this rate our army will only wear itself out. There is no choice: we fall back for now!
 @23.16
 \#4AF, called "Demon \#8AF", and \#519, the Dragon of Echigo...
 @23.17
-The battle between \#094 and \#119 ended with heavy losses on both sides.
+The battle between \#094 and \#119 ended in a costly draw.
 @24.0
-Hmm, we couldn't break them!\nIf only the \#9AD detached force hadn't come...
+Hmm, we cannot break them!\nIf only the \#9AD detached force hadn't come...
 @24.1
-I'd like to give \#5AD one more taste of my sword, but like this we'll only wear ourselves out. It can't be helped: fall back slowly!
+I'd like to give \#5AD one more taste of my sword, but at this rate we'll only wear ourselves out. There is no choice: fall back slowly!
 @24.2
 Then \%00 will take the rear guard.\n\%03, withdraw quickly.
 @24.3
-Mm, I'm counting on you,\n\%03!
+Mm, I'm counting on you, \%03!
 @24.4
 Sir!\nWith my life if need be!
 @24.5
@@ -863,17 +863,17 @@ The \#919 and \#9AD armies clashed at Kawanakajima, but the battle ended without
 @24.6
 In later ages this battle became legend, and the historian Rai San'yō wrote the following poem:
 @24.7
-"Whips hushed, hushed, they cross the river by night;\nat dawn they see a thousand men guarding the great banner.
+"Whips hushed, hushed, they cross the river by night; at dawn they see a thousand men guarding the great banner.
 @24.8
-Alas, ten years polishing a single sword,\nand in a flash of starlight the great snake slipped away."
+Alas, ten years polishing a single sword, and in a flash of starlight the great snake slipped away."
 @24.9
 This is the battle known as the Fourth Battle of Kawanakajima.
 @24.10
 The victory is ours!\nThe \#9AD army is in full flight.
 @24.11
-That monk \#5AD!\nHave you learned the might of my Echigo army!?
+That monk \#5AD!\nNow he knows the might of my Echigo army!
 @24.12
-When the \#9AD detached force appeared on the field, I felt a chill, but to beat both armies at once - that's \%03 for you!
+When the \#9AD detached force appeared on the field, I felt a chill, but to beat both armies at once... Only you could do it, \%03!
 @24.13
 Ha ha ha ha ha!\nThat should teach \#5AD a lesson.
 @24.14
@@ -895,9 +895,9 @@ The armies of Echigo and Kai clashed at Kawanakajima. The Kai army, with its det
 @24.25
 With this, a shadow fell over the martial fame of the Kantō deputy \#119.
 @24.27
-Hmm, we couldn't break them! Like this, we'll only wear ourselves out. It can't be helped: fall back slowly!
+Hmm, we cannot break them! At this rate we'll only wear ourselves out. There is no choice: fall back slowly!
 @24.34
-That monk \#5AD!\nHave you learned the might of the Echigo army!?
+That monk \#5AD!\nNow he knows the might of the Echigo army!
 @24.38
 The armies of Echigo and Kai clashed at Kawanakajima.
 @24.39
@@ -909,11 +909,11 @@ Ugh!! Damn you, \#5AD!\nI won't forget this disgrace!\nSome day, I swear...
 @24.47
 The Echigo army, weakened by sending out a detached force, was crushed by the Kai main force before its detachment could arrive.
 @24.48
-With this, the martial fame of the Kantō deputy \#119 fell to the ground.
+With this, the martial fame of the Kantō deputy \#119 lay in the dust.
 @25.0
 \#1AD, who crossed swords so long with our \#919 house, is dead. No one is left to stand in our way.
 @25.1
-From this moment,\nwe march for the capital!
+From this moment, we march for the capital!
 @25.2
 First we must secure the road to the capital. From now on, carry out your duties with that in mind.
 @25.3
@@ -921,15 +921,15 @@ Oh, at last the time has come for us to march on the capital! A bold decision, m
 @25.4
 My lord!\nThen let us prepare to march at once!\nI long to see the capital.
 @25.5
-It's too soon to rejoice! To prepare for the march on the capital, we must work even harder to enrich the land and strengthen the army, understood!?
+It's too soon to rejoice! To prepare for the march on the capital, we must work even harder to enrich the land and strengthen the army. Is that clear!?
 @25.7
 Lord \#3FE, it seems our lord has begun preparing to march on the capital.
 @25.9
-Our men are in high spirits\nat the news.
+Our men are in high spirits at the news.
 @25.10
 Oh, at last the time has come for our \#919 to march on the capital!
 @26.0
-Lord \#3FE,\nour lord has set out for Kawanakajima\nto strike down the \#9AD!
+Lord \#3FE, our lord has set out for Kawanakajima to strike down the \#9AD!
 @26.1
 Oh!!\nAt last the day to destroy the \#9AD has come!\nI pray for \%023F0's fortune in war.
 @26.2
@@ -953,11 +953,11 @@ Well said, \#7F1!
 @26.11
 Ever since \#5AD built \50FA Castle and made plain he means to take all Shinano and threaten Echigo, \%00 have been waiting for the time to ripen.
 @26.12
-Then, \%03, at last\nwe face the \#9AD in a decisive battle?
+Then, \%03, does this mean the decisive battle with the \#9AD has come at last?
 @26.13
 Yes! The time is ripe. We march to Kawanakajima and fight \#5AD to the death!!
 @26.14
-Oh! My arm itches for it!
+Oh! I am itching for a fight!
 @26.15
 Men, prepare to march!
 @27.0
@@ -973,17 +973,17 @@ No.
 @27.5
 Then what did he answer?
 @27.6
-"We fight with bows and arrows,\n not with salt and rice," he said...
+"We fight with bows and arrows, not with salt and rice," he said...
 @27.7
 Hmm. A reply worthy of \%023F0, called the righteous general. As clean as green bamboo.
 @27.11
-My lord,\nan envoy has come from the \#84F clan.\nWhat shall we do?
+My lord, an envoy has come from the \#84F clan.\nWhat shall we do?
 @27.12
-What could the \#84F clan want with \%00...\nWell, show the envoy in.
+What could the \#84F clan want with me...\nWell, show the envoy in.
 @27.14
 Oh, so the \#84F envoy is you, Lord \#BF3. It's been a long time.
 @27.15
-Sir! Today I come\nas the envoy of my lord, \#04F.
+Sir! Today I come as the envoy of my lord, \#04F.
 @27.16
 I am \#3F3, retainer of the \#84F clan. Today I come as the envoy of my lord, \#04F.
 @27.18
@@ -1007,11 +1007,11 @@ Why not? Surely your house too has suffered at \#5AD's hands...
 @27.27
 I mean to settle things with that monk \#5AD fairly, in a contest of bows and arrows. So I must ask you to leave.
 @27.28
-I see...\nA pity, but it can't be helped.\nThen I take my leave!
+I see...\nA pity, but so be it.\nThen I take my leave!
 @28.0
 Lord \#3FE! The other day, Lord \#519 marched into the Kantō in the name of the Kantō deputy, Lord \#29D!
 @28.1
-Oh, really!!\nAt last the day to conquer the Kantō has come!\nI pray for Lord \#519's fortune in war.
+Oh, is that so!!\nAt last the day to conquer the Kantō has come!\nI pray for Lord \#519's fortune in war.
 @28.3
 A report!\nLord \#29D is here.
 @28.4
@@ -1021,7 +1021,7 @@ It has been a while, Lord \#519.
 @28.7
 Lord \#69D.\nYou have come at a good time.
 @28.8
-Lord \#519,\nwhat do you mean, a good time?
+Lord \#519, what do you mean, a good time?
 @28.9
 The march on the Kantō we spoke of before... the time for it has finally come.
 @28.10
@@ -1031,16 +1031,16 @@ Yes... I have the \#8DE shōgunate's permission, and the daimyō opposed to the 
 @28.12
 Now is our chance! I will march on the Kantō to strike down the \#9D4!
 @28.13
-Yes...\nI will march on the Kantō\nto strike down the \#9D4!
+Yes...\nI will march on the Kantō to strike down the \#9D4!
 @28.14
-Oh!!\nMy lord, at last we strike the \#9D4!?
+Oh!!\nMy lord, are we to strike the \#9D4 at last!?
 @28.15
 Yes! Send word to the Kantō lords opposed to the \#9D4! Tell them to rally to the Kantō deputy, Lord \#29D!
 @28.17
-Oh, I'm so grateful!\nMy thanks, Lord \#519!!
+Oh, I am most grateful!\nMy thanks, Lord \#519!!
 @28.18
 I would ask you too, Lord \#69D, to prepare to march.
 @28.19
 Mm, understood!
 @28.20
-At last we cross the mountains... My arm itches for it!
+At last we cross the mountains... I am itching for a fight!

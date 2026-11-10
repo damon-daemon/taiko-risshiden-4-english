@@ -1,19 +1,19 @@
 @0.0
-It is the 5th year of Tenshō (1577).\n\#094 has taken the Kinki into his hands\nand is pressing on toward uniting the realm.
+It is the 5th year of Tenshō (1577).\n\#094 has brought the Kinki under his sway and is pressing on toward uniting the realm.
 @0.1
-In the northeast, powerful lords such as\nthe Mogami, Ashina and Date fought on\nday after day, now winning, now losing.
+In the northeast, powerful lords such as the Mogami, Ashina and Date fought on day after day, now winning, now losing.
 @0.2
-Amid all this, \#01C came of age\nat just 11 years old, and hopes rose\nhigh within the \#81A clan.
+Amid all this, \#01C came of age at just 11 years old, and hopes rose high within the \#81A clan.
 @0.3
-Lord \#41C has come of age at last.\nI must work all the harder\nfor the Date clan.
+Lord \#41C has come of age at last.\nI must work all the harder for the Date clan.
 @0.4
 Lord \#41C has come of age.\nHow splendidly he has grown...
 @0.5
 Still, Lord \#41C is young in many ways.\nWe must support him.
 @1.0
-\#41C has already grown\ninto a full-fledged warrior.
+\#41C has already grown into a full-fledged warrior.
 @1.1
-\%00 can now rest easy\nand entrust the \#81A clan to him.
+\%00 can now rest easy and entrust the \#81A clan to him.
 @1.2
 Is anyone there?
 @1.4
@@ -23,36 +23,36 @@ Lord \#41A is calling for you.
 @1.7
 I will come at once.
 @1.10
-\%01,\nyou sent for me?
+Father, you sent for me?
 @1.11
-Yes.\nI called you here today for one reason.
+Yes.\nI have called you here today for one reason alone.
 @1.12
-\%03,\n\%00 intend to hand the headship to you.
+\%03, \%00 intend to hand the headship to you.
 @1.13
-\%03,\nis that true!?
+\%03, is that true!?
 @1.14
 It is.
 @1.15
-\#41C is still young, but\nhe far surpasses \%00 in talent.\nMy own son, and he astonishes me.
+\#41C is still young, but in talent he far surpasses me.\nHe is my own son, and still he astonishes me.
 @1.16
-If you retainers support \#41C,\nthe \#81A clan will surely prosper.
+If you retainers support \#41C, the \#81A clan will surely prosper.
 @1.17
-Or do you not want\n\#41C as your head?
+Or do you not want \#41C as your head?
 @1.18
 N-not at all!\nWe will gladly serve Lord \#41C.
 @1.19
 \%03, what do you say?
 @1.20
-I humbly accept\nthis great charge.
+I humbly accept this great charge.
 @1.21
 Good!\nThen it is settled.
 @1.22
-From now on, I, \#41C,\nam head of the \#81C.\nI expect great things of you all.
+From this day on, I, \#41C, am head of the \#81C clan.\nI expect great things of you all.
 @1.24
-Lord \#41A has handed\nthe headship\nto Lord \#41C.
+Lord \#41A has handed the headship to Lord \#41C.
 @1.25
 Truly!?
 @1.26
-In \40FD, everyone\nis eager to support\nthe new head.
+All of \40FD is eager to rally behind the new head.
 @1.27
-If only \%00 had been there...\nI would have liked to see\nLord \#41C in his glory.
+If only \%00 had been there...\nI would have liked to see Lord \#41C in his glory.

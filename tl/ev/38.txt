@@ -9,7 +9,7 @@ Well, they say Lord \#A2C fled into Lord \#958's residence!
 @3.6
 What! And Lord \#958?\nDid he cut down Lord \#62C?
 @4.0
-Lord \#BFE,\nfirst of all, congratulations on a great victory.
+Lord \#BFE, congratulations on your great victory.
 @4.1
 Ah! Thank you for meeting me.\nNow, where are the other lords?
 @4.2
@@ -37,7 +37,7 @@ Then we shall take our leave.
 @5.0
 Ah! Lord \#BFE!\nHave you heard!?
 @5.1
-Yes, there's no time to lose.\nPrepare to march at once!
+Yes, there's no time to lose.\nI shall make ready to march at once!
 @5.2
 We will join you shortly!
 @5.3
@@ -53,7 +53,7 @@ Lord \#958 is about to move his army again!
 @7.2
 What!? So much for our letter of terms!
 @7.3
-In any case,\nwe return to the castle at once!
+In any case, we return to the castle at once!
 @8.2
 Curse them...\nThey have all forgotten what they owe Lord Taikō!
 @8.3
@@ -61,9 +61,9 @@ And Lord \#1F6?
 @8.4
 Well...\nhe is guarding Lord \#496 at \50FC Castle.
 @8.5
-Hmm...\nSo that many troops go to guarding him...
+Hmm...\nTo think so large a force is tied up on guard duty...
 @8.6
-Lord \#A2C,\nwe'll take care of the small fry!\nYou attack \#958's main force!
+Lord \#A2C, we'll take care of the small fry!\nYou attack \#958's main force!
 @8.7
 Understood!\nWe are counting on you too, Lord \#89C!
 @9.0
@@ -79,7 +79,7 @@ Don't tell me... \#89C...\nhas betrayed us!
 @9.9
 Damn!\nThere are enemies as far as the eye can see.
 @9.10
-If it comes to this,\nI'll take as many of them with me as I can!
+If it comes to this, I'll take as many of them with me as I can!
 @9.11
 My lord!\nWe go with you!
 @9.12
@@ -93,13 +93,13 @@ The daimyō who had sided with the \#896 were all but wiped out.
 @9.16
 \#3FE, his retreat cut off by the East, fell in the chaos of battle.
 @9.22
-Sir!\nWe seem to have the upper hand, on the whole!
+My lord!\nWe seem to have the upper hand, on the whole!
 @9.23
 What is \#09C doing?
 @9.24
-Sir!\nWe have been signalling him to move for some time, but...
+My lord,\nwe have been signalling him to move for some time, but...
 @9.25
-That man...\nhe doesn't mean to betray us, does he...
+That man...\nhe doesn't mean to betray us, does he...?
 @9.26
 Oh! Look, my lord!\nLord \#89C is moving!
 @9.27
@@ -115,7 +115,7 @@ The fighting sways back and forth!
 @10.0
 \#3FE!\nPrepare to die!!
 @10.3
-After I had \#958 cornered at last...\nSo... bitter...
+And after I had \#958 cornered at last...\nH-how bitter...
 @10.4
 With the defeat at Mount Hakone, the \#A2C and \#BFE armies simply fell apart...
 @10.5
@@ -123,7 +123,7 @@ In time \#158 regained his strength, rallied the daimyō, and once again came to
 @10.6
 And so the standoff between the Toyotomi and the Tokugawa went on...
 @10.12
-Hmm... As expected of \#958.\nHis power is still great.
+Hmm... That is \#958 for you.\nHis power is still great.
 @10.14
 And so, with \#958's power left intact, the new Toyotomi government set sail...
 @10.15

@@ -1,25 +1,25 @@
 @0.0
-Since the Ōnin War, from the 10th shōgun,\nLord Yoshitane, on, the shōgun has been used\nas a tool of politics, his authority in the dust.
+Since the Ōnin War, from the 10th shōgun, Lord Yoshitane, on, the shōgun has been used as a tool of politics, his authority in the dust.
 @0.1
-My father, the 12th shōgun, Lord Yoshiharu,\nwas caught up in the daimyō's quarrels\nand died a wanderer...
+My father, the 12th shōgun, Lord Yoshiharu, was caught up in the daimyō's quarrels and died a wanderer...
 @0.2
-And already 15 years have passed\nsince I, \#4DE,\ninherited the office of shōgun...
+And already 15 years have passed since I, \#4DE, inherited the office of shōgun...
 @0.3
-I have made peace with \#87D, my rival,\nand returned to Kyōto, but the shogunate\nhas none of its former power.
+I have made peace with the \#87D, my old enemies, and returned to Kyōto, but the shogunate has none of its former power.
 @0.4
-While I still live, I must rebuild the\nshogunate, curb the daimyō's quarrels and\nrestore the authority of the shōgun!
+While I still live, I must rebuild the shogunate, curb the daimyō's quarrels and restore the authority of the shōgun!
 @0.5
-Holding council with \40FB as my base\nand expanding my power further\nis the first step toward my great ambition.
+Holding council with \40FB as my base and expanding my power further is the first step toward my great ambition.
 @0.6
-Since the Ōnin War, the shōgun's authority\nhas fallen, and the shogunate has become\nthe plaything of powerful vassals.
+Since the Ōnin War, the shōgun's authority has fallen, and the shogunate has become the plaything of powerful vassals.
 @0.7
-But my lord, the 13th shōgun,\nLord \#3F0, is a wise man!\nHe will surely restore the shogunate.
+But my lord, the 13th shōgun, Lord \#3F0, is a wise man!\nHe will surely restore the shogunate.
 @0.8
-I must serve \%03 as his hands and feet,\nand give my all to restore the shogunate.
+I must serve \%03 as his hands and feet, and give my all to restore the shogunate.
 @1.0
-Th-this is terrible!\nThe \#88F and \#87D armies\nhave come storming in!
+Th-this is terrible!\nThe \#88F and \#87D armies have come storming in!
 @1.1
-His Highness is surrounded by the enemy!\nA dozen of his attendants are fighting,\nbut they are far outnumbered! Help him, quick!
+His Highness is surrounded by the enemy!\nA dozen of his attendants are fighting, but they are far outnumbered! Help him, quick!
 @1.2
 What! That is grave!\nI am coming at once!
 @1.3
@@ -27,21 +27,21 @@ What! That is grave!\nI am coming at once!
 @1.4
 Ah, \%043FE!\n\%00 am here!!
 @1.5
-\#4DE, called a master swordsman though\nhe was shōgun, cut down enemy soldiers\nwith his own sword, but his strength was failing...
+\#4DE, called a master swordsman though he was shōgun, cut down enemy soldiers with his own sword, but his strength was failing...
 @1.6
 What are you doing!\nKill \#4DE, quickly!!
 @1.7
 He is the Swordsman Shōgun indeed.\nFighting him blade to blade gets us nowhere.
 @1.8
-Push the sliding doors down on him\nso he cannot move,\nthen run him through with spears!
+Push the sliding doors down on him so he cannot move, then run him through with spears!
 @1.9
 Huff... huff...\n\%043FE, I am at my limit.\nHear my death poem well.
 @1.10
-"Summer rain... is it dew or tears?\nO cuckoo, carry my name\nabove the clouds!"
+"Summer rain... is it dew or tears?\nO cuckoo, carry my name above the clouds!"
 @1.11
-\%03,\nI am coming to save you!
+\%03, I am coming to save you!
 @1.12
-You will not!\nI will take your head for my glory!\nKyaaah!!
+You will not!\nI will take your head for my glory!\nKieeei!!
 @1.13
 Huff, huff...
 @1.14
@@ -51,7 +51,7 @@ Huff, huff...
 @1.17
 !!\nUrgh!
 @1.18
-Pinned under sliding doors by the ashigaru of the\n\#88F and \#87D armies, \#4DE was pierced by countless\nblades and spears, and even the great \#4DE died... aged \1006.
+Pinned under sliding doors by the ashigaru of the \#88F and \#87D armies, \#4DE was pierced by countless blades and spears, and even the great \#4DE died... aged \1006.
 @1.19
 \%03!!
 @1.20
@@ -59,12 +59,12 @@ Pinned under sliding doors by the ashigaru of the\n\#88F and \#87D armies, \#4DE
 @1.21
 Curses!\nThere is nothing to do but flee for now.
 @1.22
-Now,\nwhat should I do...
+Now, what should I do...
 @1.23
 Serve the \#87D clan
 @1.24
 Leave
 @1.25
-It cannot be helped.\nI have no choice but to follow \#87D.
+There is no help for it.\nI can only submit to the \#87D.
 @1.26
-I cannot take as my master one\nwho attacked the shōgun of the realm.
+I cannot take as my master one who attacked the shōgun of the realm.

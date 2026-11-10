@@ -1,67 +1,67 @@
 @0.0
-Rising from a humble oil peddler\nto become lord of all Mino:\n\#258, the ruthless lord of the Warring States...
+Rising from a humble oil peddler to become lord of all Mino:\n\#258, the ruthless lord of the Warring States...
 @0.1
-But on his way to seizing the province\nthere were many victims...\nHis former lord, Toki Yoriaki, was one of them.
+But on his way to seizing the province there were many victims...\nHis former lord, Toki Yoriaki, was one of them.
 @0.2
-Dōsan took a concubine from that lord,\nand soon his eldest son \#659 was born.\nBut Dōsan then drove that lord out as well.
+Dōsan took a concubine from that lord, and soon his eldest son \#659 was born.\nBut Dōsan then drove that lord out as well.
 @0.3
-Even then, rumours ran\nthat \#659 was really\nToki Yoriaki's son...
+Even then, rumours ran that \#659 was really Toki Yoriaki's son...
 @0.4
-\#658 denied the rumours,\nbut he showed \#659 little love\nand was reluctant to hand him the headship.
+\#658 denied the rumours, but he showed \#659 little love and was reluctant to hand him the headship.
 @0.5
-\#659, for his part, harboured doubts\nabout \#658, who might not be his true father,\nand things between father and son only grew worse...
+\#659, for his part, harboured doubts about \#658, who might not be his true father, and things between father and son only grew worse...
 @0.6
-That rumours even spread that \#659\nis not my son is an outrage...\nAnd yet \#659 suspects me too...
+That rumours even spread that \#659 is not my son is an outrage...\nAnd yet \#659 suspects me too...
 @0.7
-If only \#2AC, who married \#094,\nhad been born a boy...\nI would have no fears for the future...
+If only \#2AC, who married \#094, had been born a boy...\nI would have no fears for the future...
 @0.8
-Whether Father is my true father or not\nmakes no difference to me...
+Whether Father is my true father or not makes no difference to me...
 @0.9
-The problem is that Father\nkeeps me at a distance...
+The problem is that Father keeps me at a distance...
 @0.10
-Father seems to like \#094, whom my sister\n\#2AC married, better than me...\nAs if I, his eldest son, didn't exist...
+Father seems to like \#094, whom my sister \#2AC married, better than me...\nAs if I, his eldest son, didn't exist...
 @0.11
-Surely he doesn't mean to hand\nthis province of Mino to \#494\ninstead of me...
+Surely he doesn't mean to hand this province of Mino to \#494 instead of me...
 @0.12
-With father and son on such bad terms...\nwe're all but giving other provinces\nan excuse to attack.
+With father and son on such bad terms...\nwe're all but giving other provinces an excuse to attack.
 @0.13
-He may be the old lord's son-in-law, but rumour\nsays \#094 of Owari has his eye on Mino too...\nWhat on earth will become of Mino...
+He may be the old lord's son-in-law, but rumour says \#094 of Owari has his eye on Mino too...\nWhat on earth will become of Mino...
 @1.0
-My lord, I have a letter\nfrom Lady \#2AC.
+My lord, I have a letter from Lady \#2AC.
 @1.1
 What, from \#2AC?
 @1.2
-\#258's daughter \#2AC\nhad married \#094 of Owari...
+\#258's daughter \#2AC had married \#094 of Owari...
 @1.3
-"Father, are you well...\n I am getting on\n without trouble here..."
+"Father, are you well...\nI am keeping well here..."
 @1.4
-\&01, what does the letter say?
+My lord, what does the letter say?
 @1.5
-Well... my son-in-law \#494\nwould like to meet me.
+Well... my son-in-law \#494 would like to meet me.
 @1.6
-I too would like a look at this son-in-law\nthey call the Fool of Owari.
+I too would like a look at this son-in-law they call the Fool of Owari.
 @1.7
 Then why not meet him?\nAs for the place... Shōtoku-ji would do, I think.\nLeave the arrangements to me.
 @1.9
-Yes... before we meet, I'd like to see\nhow my son-in-law usually behaves...\nIs there somewhere I could spy on him?
+Yes... before we meet, I'd like to see how my son-in-law usually behaves...\nIs there somewhere I could spy on him?
 @1.10
-There's a shabby hut over here.\nNo one would ever guess\nyou were hiding in such a place, my lord.
+There's a shabby hut over here.\nNo one would ever guess you were hiding in such a place, my lord.
 @1.11
-Good... then I'll watch\nmy son-in-law's procession from there.
+Good... then I'll watch my son-in-law's procession from there.
 @1.12
-Oh! \%04094's column\nis coming!
+Oh! \%04094's column is coming!
 @1.13
 Wh-what! What is that!?
 @1.14
-...He's even more of a fool\nthan they say.
+...He's even more of a fool than they say.
 @1.15
-But look... those guns and long spears.\nNo house anywhere has an army\nwith so many guns and long spears...
+But look... those guns and long spears.\nNo house anywhere has an army with so many guns and long spears...
 @1.17
-Still, if my son-in-law dresses like that,\nthere's no need for me to stand on ceremony...\nI'll meet him in plain clothes.
+Still, if my son-in-law dresses like that, there's no need for me to stand on ceremony...\nI'll meet him in plain clothes.
 @1.18
 Phew...
 @1.19
-Lord \#094\nhas arrived.
+Lord \#094 has arrived.
 @1.20
 (What... look how he's dressed!)
 @1.24
@@ -73,33 +73,33 @@ How was he, my lord?\nJust the fool the rumours said, wasn't he?
 @1.27
 No, not at all...
 @1.29
-Before long... after my death,\nmy descendants will likely be serving\nthat "fool"...
+Before long... after my death, my descendants will likely be serving that "fool"...
 @1.30
 Surely not...
 @1.31
-If only he were my own son,\nof my own blood...
+If only he were my own son, of my own blood...
 @1.32
-Lord \#3FE!\nThey say \#094 came\nto meet the old lord.
+Lord \#3FE!\nThey say \#094 came to meet the old lord.
 @1.33
 What, \#494?
 @1.35
-Then I suppose I ought to greet\nmy sister's husband...
+Then I suppose I ought to greet my sister's husband...
 @1.36
-No, they say Lord \#494\nhas already gone home.
+No, they say Lord \#494 has already gone home.
 @1.37
 What! Ignoring me...\nAnd did Father say anything?
 @1.38
-The old lord said, "One day my descendants\nwill surely be my son-in-law's vassals"...
+The old lord said, "One day my descendants will surely be my son-in-law's vassals"...
 @1.39
-Nonsense! Is he saying\nI'll bow down to \#094!?\nFather's gone senile!
+Nonsense! Is he saying I'll bow down to \#094!?\nFather's gone senile!
 @1.40
 Y-you go too far!\nIf the old lord should hear...
 @1.41
-Hmph! What do I care!\nFather seems fonder of his son-in-law\nthan of me, his eldest son.
+Hmph! What do I care!\nFather seems fonder of his son-in-law than of me, his eldest son.
 @1.43
 At this rate, even my life is in danger...
 @1.44
-Lord \#3FE,\nthe old lord is calling for you.
+Lord \#3FE, the old lord is calling for you.
 @1.45
 What, the old lord...\nVery well, I'll go at once.
 @1.46
@@ -107,15 +107,15 @@ Ah, \#7FE.\nGood of you to come.
 @1.47
 My lord, such a sudden summons...\nWhat is the matter?
 @1.48
-Well... I'd like to meet\nmy son-in-law \#494...
+Well... I'd like to meet my son-in-law \#494...
 @1.50
-I'd like a look at this son-in-law\nthey call the Fool of Owari.\nWould you make the arrangements?
+I'd like a look at this son-in-law they call the Fool of Owari.\nWould you make the arrangements?
 @1.51
 That's easily done.\nAs for the place... Shōtoku-ji would do, I think.\nLeave the arrangements to me.
 @1.59
-But look at that... those guns and long spears.\nNo house anywhere has an army\nwith so many guns and long spears...
+But look at that... those guns and long spears.\nNo house anywhere has an army with so many guns and long spears...
 @1.66
-Is that so... I am honoured that my father-in-law,\nthey call "the Viper of Mino",\ntreats me so warmly.
+Is that so... I am honoured that my father-in-law, whom they call "the Viper of Mino", treats me so warmly.
 @1.74
 If only he were my real son...
 @1.77
@@ -123,19 +123,19 @@ What, \%04094?
 @1.79
 And did the old lord say anything?
 @1.80
-The old lord said, "One day my descendants\nwill surely be my son-in-law's vassals"...\nThose were his words.
+The old lord said, "One day my descendants will surely be my son-in-law's vassals"...\nThose were his words.
 @1.81
-What! The Saitō house bowing\nto \#094!?\nThat's not like the old lord...
+What! The Saitō house bowing to \#094!?\nThat's not like the old lord...
 @1.82
-So the old lord truly does not\nthink well of the young lord...
+So the old lord truly does not think well of the young lord...
 @2.0
-My lord! Terrible news!\nLord \#659 has declared he will strike you\nand has raised an army!
+My lord! Terrible news!\nLord \#659 has declared he will strike you and has raised an army!
 @2.1
 What! \#659!\nBah, what is he thinking!
 @2.2
-\#259, suspecting rumours that \#658 would give\nthe headship to \#659's younger brother Magoshirō,\nhad at last raised troops to strike his father...
+\#259, alarmed by rumours that \#658 would give the headship to \#659's younger brother Magoshirō, had at last raised troops to strike his father...
 @2.3
-That idiot son!\nCan't he see it's a spy's scheme\nto split father and son!?
+That idiot son!\nCan't he see it's a spy's scheme to split father and son!?
 @2.4
 My lord! Please, just flee!
 @2.5
@@ -147,23 +147,23 @@ Huff, huff, huff...
 @2.9
 My lord... are you all right?\nAre you hurt...?
 @2.10
-I'm... finished.\nHowever far I run, the lords of Mino\nare already on \#659's side... I can't escape.
+I'm... finished.\nHowever far I run, the lords of Mino are already on \#659's side... I can't escape.
 @2.11
-Don't lose heart!\nIf we make for Lord \#494 in Owari,\nyou can rise again!
+Don't lose heart!\nIf we make for Lord \#494 in Owari, you can rise again!
 @2.12
-No, son-in-law or not... \#659's attack\nwas so swift that reinforcements\nwill likely never arrive in time...
+No, son-in-law or not... \#659's attack was so swift that reinforcements will likely never arrive in time...
 @2.14
-More to the point, \&03, I have a request.
+Never mind that, \&03. I have a favour to ask.
 @2.15
 Anything!
 @2.16
-I'll cut my belly here... Be my second.
+I will commit seppuku here... Be my second.
 @2.18
-I can't be saved... and so,\nit would be a waste to give my head\nto that idiot son... You must hide it.
+I can't be saved... and so, it would be a waste to give my head to that idiot son... You must hide it.
 @2.19
 My lord!!
 @2.20
-And one more thing... take this letter\nto my son-in-law.
+And one more thing... take this letter to my son-in-law.
 @2.21
 ...This letter, to Lord \#494?
 @2.22
@@ -171,11 +171,11 @@ The province of Mino, which took me a lifetime to win...\nit would be a waste on
 @2.23
 I give all of Mino to my son-in-law...\nTake it all as you will... that is what I wrote.\nMake sure this reaches him.
 @2.24
-Yes, sir!\nEven at the cost of my life, \#66A's!
+Yes, my lord!\nI, \#66A, will see it done, even at the cost of my life!
 @2.25
-Good... and to \#2AC,\ngive my love...\nTell her... be happy with Lord \#494, always...
+Good... and to \#2AC, give my love...\nTell her... be happy with Lord \#494, always...
 @2.26
-Yes, sir!\nI understand!
+Yes, my lord!\nI will!
 @2.27
 Good... then, farewell!
 @2.28
@@ -189,73 +189,73 @@ My son-in-law... \#094.\nThat man, surely...
 @2.38
 What is it!!
 @2.39
-Sir! According to news just in,\nLord \#094 of Owari heard of the old lord's danger\nand has marched on \40F6 at once!
+Sir! According to news just in, Lord \#094 of Owari heard of the old lord's danger and has marched on \40F6 at once!
 @2.40
 Oh!! Lord \#494!\nMy lord! We're saved!
 @2.41
 Y... yes...
 @2.42
-To save his father-in-law \#258,\n\#094 made a swift attack on \40F6...
+To save his father-in-law \#258, \#094 made a swift attack on \40F6...
 @2.43
-\#259, who had not foreseen such a swift move,\ntried to flee but fell from his horse\nand met a miserable end at the hands of foot soldiers...
+\#259, who had not foreseen such a swift move, tried to flee but fell from his horse and met a miserable end at the hands of foot soldiers...
 @2.44
-Father-in-law! Are you safe!
+Father-in-law! Are you safe!?
 @2.45
 Ah, Lord \#494!\nThank you for coming...\nMy son-in-law has as good as saved my life!
 @2.46
-It was to save you, Father-in-law,\nbut I have killed my brother-in-law...\nI am truly sorry.
+It was to save you, Father-in-law, but I have killed my brother-in-law...\nI am truly sorry.
 @2.47
-Not at all... rather than that idiot son,\nI have you, my son-in-law!
+Not at all... rather than that idiot son, I have you, my son-in-law!
 @2.48
 Father!! Are you safe!?
 @2.49
 Ah, \#2AC!!\nYou came too...
 @2.50
-When I heard my brother meant to kill you...\nI couldn't bear it, and came\nwith Lord \#494.
+When I heard my brother meant to kill you...\nI couldn't bear it, and came with Lord \#494.
 @2.51
-\#2AC... you have truly\nfound yourself a good husband...
+\#2AC... you have truly found yourself a good husband...
 @2.53
-Then we'll take our leave...\nFather-in-law, should anything happen,\ncall on us any time!
+Then we'll take our leave...\nFather-in-law, should anything happen, call on us any time!
 @2.54
-And so \#259's rebellion... the Battle of Nagara River\ncame to an end...
+And so \#259's rebellion... the Battle of Nagara River came to an end...
 @2.55
-With this rebellion, the bond between\nthe \#A58 and \#894 clans\ngrew all the stronger...
+With this rebellion, the bond between the \#A58 and \#894 clans grew all the stronger...
 @2.56
-My lord!! Lord \#094\nwas no fool after all,\njust as you said!
+My lord!! Lord \#094 was no fool after all, just as you said!
 @2.57
 Of course.\nHe's the Viper's son-in-law, after all...!\nHa ha ha ha!
 @2.58
-Lord \#3FE,\nI've heard a disturbing rumour!
+Lord \#3FE, I've heard a disturbing rumour!
 @2.60
-They say the old lord is going to\nhand the headship to Lord Magoshirō!
+They say the old lord is going to hand the headship to Lord Magoshirō!
 @2.61
 What! To Magoshirō?
 @2.62
-Saitō Magoshirō was the son of Dōsan's wife,\nand the younger brother of \#659.
+Saitō Magoshirō was the son of Dōsan's wife, and the younger brother of \#659.
 @2.63
-So Father never meant\nto give me the headship after all...!
+So Father never meant to give me the headship after all...!
 @2.64
 Then I'll strike first!\nKill Magoshirō!
 @2.65
 But... the old lord!
 @2.66
-No matter! If it comes to that, I'll bring down Father too!\nGive the order to the generals! I now raise\nan army to punish \#258!
+No matter! If it comes to that, I'll bring down Father too!\nGive the order to the generals! I now raise an army to punish \#258!
 @2.68
-In \@001/\@002, \#259 at last\nrose up to strike his father \#258...
+In \@001/\@002, \#259 at last rose up to strike his father \#258...
 @2.69
-The lords of Mino, with an eye on the future,\nsided with \#659, and \#658 was left isolated.
+The lords of Mino, with an eye on the future, sided with \#659, and \#658 was left isolated.
 @2.70
 I'll take this Mino from my father by force!\nAll of you, rise up!
 @2.71
 Ohhh!!
 @2.98
-My lord! It seems\nLord \#258 has fallen!
+My lord! It seems Lord \#258 has fallen!
 @2.99
 Good! Well done!
 @2.100
-I must report!\n\#094 of Owari was trying\nto invade our lands...
+I must report!\n\#094 of Owari was trying to invade our lands...
 @2.101
-but when he learned Lord \#658 was dead,\nhe withdrew!
+but when he learned Lord \#658 was dead, he withdrew!
 @2.102
 Ha ha ha...\nThe \#894 turn out to have little backbone.
 @2.103
@@ -263,37 +263,37 @@ Yes...! Listen, all of you!\nFrom now on, I, \#659, am lord of Mino.\nI count on
 @2.104
 Ei, ei, ohhh!!
 @2.107
-Lord \#3FE! Terrible news!\nLord \#659 has declared he will strike the old lord\nand has raised an army!
+Lord \#3FE! Terrible news!\nLord \#659 has declared he will strike the old lord and has raised an army!
 @2.108
 What! The young lord!?\nBah, what is he thinking!
 @2.110
 How rash!\nFather and son at war with each other!\nIn any case, we must protect the old lord!
 @2.111
-My lord! You're safe!\nP-please, you must flee!
+My lord! Are you unharmed!?\nP-please, you must flee!
 @2.137
 Yes, sir! Forgive me!
 @2.141
-I must hide the old lord's head...\nand deliver the letter of bequest\nto Lord \#894, as his last will said...
+I must hide the old lord's head...\nand deliver the letter of bequest to Lord \#894, as his last will said...
 @2.171
 Lord \#3FE!\nIt seems Lord \#258 has fallen!
 @2.172
-Now the young lord... no, the new lord\nwill carry the stain\nof "father-killer"...
+Now the young lord... no, the new lord will carry the stain of "father-killer"...
 @2.173
-I wonder... what future\nlies ahead for the \#A58 clan...?
+I wonder... what future lies ahead for the \#A58 clan...?
 @3.3
 It seems Lord \#258 has fallen!
 @4.0
-...Huff, huff.\nI-I beg an audience\nwith Lord \#094...
+...Huff, huff.\nI-I beg an audience with Lord \#094...
 @4.1
 Hm, who are you!
 @4.2
-I am \#3FE,\na retainer of \#258...\nI bring an important letter for Lord \#894...
+I am \#3FE, a retainer of \#258...\nI bring an important letter for Lord \#894...
 @4.3
 F-forgive me, sir.\nI'll announce you at once.
 @4.4
-Why, isn't it \#3FE!\nWhat has happened!
+Why, if it isn't \#3FE!\nWhat has happened?
 @4.5
-I bring my lord's last will,\naddressed to Lord \#894!
+I bring my lord's last will, addressed to Lord \#894!
 @4.8
 \#7FE!\nIs that true!?
 @4.9
@@ -301,72 +301,72 @@ My lady...!\nSadly, it is true...\nYour father has passed away.
 @4.10
 How can it be...\nSo it was my brother...?
 @4.11
-No, my lord took his own life\nrather than fall into Lord \#659's hands...\nI acted as his second...
+No, my lord took his own life rather than fall into Lord \#659's hands...\nI acted as his second...
 @4.14
-To Lady \#2AC... he said,\n"Be happy with Lord \#494, always."
+To Lady \#2AC... he said, "Be happy with Lord \#494, always."
 @4.15
 Ohh... Father...
 @4.18
-Is it true... this!\nMy father-in-law writes that he\ngives Mino to me!
+Can this be...!\nMy father-in-law writes that he gives Mino to me!
 @4.21
-I beg you, carry on\nthe late Lord \#658's wishes\nand rule Mino!
+I beg you, carry on the late Lord \#658's wishes and rule Mino!
 @4.22
-...\#2AC,\nwill you let me strike down your brother?
+...\#2AC, will you let me strike down your brother?
 @4.26
-Wait! \#7FE!\nYou don't mean to follow your old lord\nand cut your belly, do you!
+Wait! \#7FE!\nYou don't mean to follow your old lord in death, do you!?
 @4.28
-I forbid it! It is your duty\nto see with your own eyes that\nyour old lord's last will is carried out...!
+I forbid it! It is your duty to see with your own eyes that your old lord's last will is carried out...!
 @4.30
-\#7FE, serve me!\nIt cannot happen right away,\nbut I will keep my father-in-law's last will!
+\#7FE, serve me!\nIt cannot happen right away, but I will keep my father-in-law's last will!
 @4.33
-And so \#3FE lived on\nas a retainer\nof \#094...
+And so \#3FE lived on as a retainer of \#094...
 @5.0
-Before the council, there is something\nI wish to tell you all.
+Before the council, there is something I wish to tell you all.
 @5.1
 What might that be?
 @5.2
-I am thinking of retiring and handing\nthe headship to \#659. What do you all think?
+I am thinking of retiring and handing the headship to \#659. What do you all think?
 @5.3
 The headship, to me...?\nFather, are you serious?
 @5.5
-(If I hand over the headship and retire,\n there will be no fighting with \#659...\n I must head off needless strife.)
+(If I hand over the headship and retire, there will be no fighting with \#659...\nI must head off needless strife.)
 @5.6
 (What is Father up to...?)
 @5.7
-(Could it be that he'll pretend to give me\n the headship, then, free of duty, bring in\n \#494 and hand Mino over to him?)
+(Could it be that he'll pretend to give me the headship, then, free of duty, bring in \#494 and hand Mino over to him?)
 @5.8
 (I will never allow that...)
 @5.9
 (What is our lord up to...?)
 @5.10
-(If our lord hands over the headship and retires,\n there will be no fighting with \%04259...\n Is he heading off needless strife?)
+(If our lord hands over the headship and retires, there will be no fighting with \%04259...\nIs he heading off needless strife?)
 @5.11
 Kind as that is, Father...\nI still have much to learn.\nIt is not yet time for me to succeed you.
 @5.12
 What are you saying, \#659?\nYou're already \1007...\nIt's hardly too early.
 @5.13
-It is you, Father, who are still young.\nThere's no need for you\nto hurry into retirement...
+It is you, Father, who are still young.\nThere's no need for you to hurry into retirement...
 @5.16
 ...\#659, do you distrust your father so?
 @5.17
-Is it not you, Father,\nwho dislikes me?
+Is it not you, Father, who dislikes me?
 @5.18
 ...Very well, enough.\nAll of you, forget what I said.
 @5.20
 For now I will continue to govern.\nIs that all right, \#659?
 @5.22
-(\#659... is everything not to his liking?\n What... am I to do?)
+(\#659... must he find fault with everything?\nWhat... am I to do?)
 @5.23
-(Do I mend things with \#659...\n or entrust the future to\n my son-in-law \#094...?)
+(Do I mend things with \#659...\nor entrust the future to my son-in-law \#094...?)
 @5.24
-(Either way, I must work closely\n with one of them, son-in-law or son...)
+(Either way, I must work closely with one of them, son-in-law or son...)
 @5.25
 (So Father doesn't trust me after all.)
 @5.26
-(If he truly meant to give me the headship,\n he would never take it back\n just because I refused once.)
+(If he truly meant to give me the headship, he would never take it back just because I refused once.)
 @5.27
-(The headship... I'll have to take it\n from Father by force...)
+(The headship... I'll have to take it from Father by force...)
 @5.28
-(On the surface they offer each other the headship,\n but deep down neither trusts the other...)
+(On the surface they offer each other the headship, but deep down neither trusts the other...)
 @5.29
-(I only hope the quarrel between\n father and son doesn't come to war...)
+(I only hope the quarrel between father and son doesn't come to war...)

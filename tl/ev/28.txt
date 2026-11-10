@@ -7,7 +7,7 @@ But the warriors of the Chūgoku and northern Kyūshū who had long followed the
 @0.3
 The fall of a great house had begun...
 @0.4
-Adopted into the \#A64 clan, fine, but my men are all deserting me...
+Being adopted into the \#A64 clan was all very well, but my men are all deserting me...
 @0.5
 What on earth have I done... Could it be the fault of \#25E...?
 @0.6
@@ -19,9 +19,9 @@ Why am I called wicked for removing such a lord by force...
 @0.9
 I have no intention of taking the \#A64's place. As proof, I serve Lord \#664, brought in from the Ōtomo clan, as my lord.
 @0.10
-I have done nothing to be called a cruel traitor... And yet the \#A64 warriors...
+I have done nothing to be called a wicked traitor... And yet the \#A64's warriors...
 @0.11
-abandon the \#A64 and run to the \#A07... Do they not understand the way of heaven?
+...forsake the \#A64 and run to the \#A07. Do they not understand the way of heaven?
 @0.12
 It is certain that Lord \#25E brought on the decline of the \#A64 clan...
 @0.13
@@ -51,11 +51,11 @@ Well... His true aim is unknown, but our scouts report that the purpose of the c
 @1.12
 So it is a castle of great importance... Indeed, Itsukushima may be a key stepping stone for an attack on Yamaguchi...
 @1.13
-If possible, I would like to crush it before it is finished... Shall I propose it to our lord at the next council...
+If possible, I would like to crush it before it is finished... Shall I propose it to our lord at the next council...?
 @1.14
 But to attack Itsukushima we will surely need naval power. And the man who leads the Inland Sea navies is... \#042.
 @1.15
-But would \#042 really side with the \#A64...
+But would \#042 really side with the \#A64...?
 @1.16
 Lord \#3FE, \#207 is about to build a new castle near Itsukushima!
 @1.19
@@ -63,11 +63,11 @@ Hmm... What is \#207 up to...
 @2.0
 It has been a long time... Lord \#042.
 @2.1
-...Well, well, Lord \#A5E, who rules the \#A64 roost. What brings you here?
+...Well, well, if it isn't Lord \#A5E, who holds the reins of the \#A64. What brings you here?
 @2.2
 In truth, I wish to apologise for what happened some years ago...
 @2.3
-... What has blown you this way?
+... What has brought about this change of heart?
 @2.4
 Some time ago, \#25E, as chief retainer of the \#A64 clan, sought to unite the navies of the Inland Sea and joined hands with the \#842 navy...
 @2.5
@@ -87,7 +87,7 @@ They mean to make war on us before long, I'd wager... That is why I have come.
 @2.14
 In short, I am laying the groundwork for war.
 @2.15
-Heh heh... You are honest.
+Heh heh... How candid of you.
 @2.16
 So, will you not side with us? Name your reward.
 @2.17
@@ -95,7 +95,7 @@ In truth, Lord \#A5E... the very same request has come from the \#A07.
 @2.18
 What!? I knew it. \#207 is quick, as ever... And the \#842 navy's answer?
 @2.19
-I have not answered yet... It is a decision that will decide the fate of the \#842 navy... To tell the truth, I was undecided myself.
+I have not answered yet... The fate of the \#842 navy rests on this decision... To tell the truth, I was undecided myself.
 @2.20
 I beg you, Lord \#442! Even if you will not side with the \#A64, at least do not aid the \#A07!
 @2.23
@@ -111,7 +111,7 @@ I thank you! I am in your debt!
 @2.28
 Well, the \#A64 and the \#A07... fight it out as you please. We shall sit back and watch.
 @2.29
-Let us see who becomes master of the Chūgoku.
+I shall watch and see who becomes master of the Chūgoku.
 @3.0
 My lord, Lord \#25E has returned.
 @3.1
@@ -121,13 +121,13 @@ Ah, you are back. Well done! You are truly the guardian of the \#A64.
 @3.3
 You are too kind... I, \#65E, am resolved to serve the \#A64 clan with every ounce of my strength from now on!
 @3.4
-Yes, reassuring words! Well done!
+Mm, heartening words! You have done well!
 @3.5
 Once hailed as the mightiest in the west, the great \#A64 house that had even marched on the capital with the Shōgun... was about to rise again...
 @3.6
 Ah, Lord \#25E! Welcome back! My lord! My lord!
 @3.10
-Yes, reassuring words! You fought well!
+Mm, heartening words! You fought well!
 @4.0
 Lord \#3FE! At Itsukushima our army has clashed with the \#A07 army.
 @4.2
@@ -143,7 +143,7 @@ Ugh...! So the \#842 navy sided with the \#A07 after all.
 @5.3
 Then we are at a great disadvantage.
 @5.4
-Bah, stop whining! Scatter the \#A07 rabble without a word!
+Bah, stop whining! Scatter the \#A07 rabble and give them no quarter!
 @5.6
 It seems we outnumber the \#A07.
 @5.7
@@ -165,7 +165,7 @@ My fate ends here, it seems... There is nothing left but to take my own life... 
 @6.6
 ...As you wish.
 @6.7
-...Even in the next world, I could not face the late Lord Yoshitaka...
+...Even in the next world, I shall not be able to face the late Lord Yoshitaka...
 @6.12
 News! Lord \#25E's army has been defeated by \#207 at Itsukushima!
 @6.13
@@ -219,7 +219,7 @@ What do you propose?
 @8.6
 Give me an army. Before it is finished it will have few defenders. I will scatter them for you.
 @8.7
-Are you sure it will be all right...?
+Are you certain of this...?
 @8.8
 My lord! Do you not trust me?
 @8.9
@@ -231,7 +231,7 @@ Refuse
 @8.12
 ...Very well. Then march out and defeat \#207!
 @8.15
-No, I will not! It must be a trap. Otherwise he would not build a castle so openly.
+No, it will not do! It must be a trap. Otherwise he would not build a castle so openly.
 @8.16
 ... As you wish.
 @8.18

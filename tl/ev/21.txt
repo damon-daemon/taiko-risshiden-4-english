@@ -13,15 +13,15 @@ In time... I will defeat \#25E, then the \#A64, and then strike down the \#A67, 
 @0.6
 Can we truly bring down the mighty \#A64...?
 @0.7
-Do not worry, brother... Since \#25E's treason, the warriors of Suō and Nagato have turned their backs on the \#A64 house.
+Do not worry, Brother... Since \#25E's treason, the warriors of Suō and Nagato have turned their backs on the \#A64 house.
 @0.8
-Just so... The time of heaven and the harmony of men favour our \#A07. All that remains is the advantage of ground...
+Just so... Heaven's timing and the unity of men are with our \#A07. All that remains is the advantage of terrain...
 @0.9
-And troop strength... that too.
+And numbers... there is that too.
 @0.10
 We served Lord Ōuchi Yoshioki and Lord Yoshitaka... until that \#25E rose in treason, that is.
 @0.11
-But I will never follow that heir \#65E fetched from the \#8E0 house, that adopted \#664!
+But I will never follow a deathbed adoptee like \#664, whom \#65E fetched from the \#8E0 house!
 @0.12
 Now the tide is flowing from the \#A64 to the \#A07...
 @0.13
@@ -35,13 +35,13 @@ Attacking \50F9 with so small a force gives us little chance... Somehow I must l
 @1.2
 The question is how to drag them out...
 @1.3
-\&01, is something troubling you?
+My lord, is something troubling you?
 @1.4
 Hmm... I was thinking of some bait to lure \#25E out into open battle.
 @1.5
 Open battle... Indeed, if they shut themselves up in \50F9 Castle, it would be rather troublesome.
 @1.6
-Hmm... I have it! What if we build a decoy castle on Itsukushima!
+Hmm... I have it! We will build a decoy castle on Itsukushima!
 @1.7
 Pardon? A decoy castle...?
 @1.8
@@ -73,7 +73,7 @@ Our old lord is as shrewd as ever... In cunning, even \#65E is no match for him.
 @1.24
 Father is as shrewd as ever... In cunning, even \#65E is no match for him.
 @2.0
-\%03, next at last we attack \50F9 Castle, held by the Amago, sworn enemies of our Mōri.
+\%03, so next at last we attack \50F9 Castle, held by the Amago, sworn enemies of our Mōri?
 @2.1
 Yes... but that castle is strong. Guarded by the river in front and the cliffs behind, it could truly be called impregnable.
 @2.2
@@ -87,7 +87,7 @@ Why not starve out \50F9 Castle?
 @2.6
 We buy up \50F9 Castle's provisions and burn its rice stores, and leave the enemy short of food.
 @2.7
-I see, that is good. Carry it out at once.
+I see. A good plan. Carry it out at once.
 @3.0
 My sons have been behaving in a way that troubles me...
 @3.1
@@ -117,13 +117,13 @@ Snap!
 @3.18
 Good. Now bind three of the same arrows together and break them.
 @3.19
-Yes! Here goes.
+Yes, my lord! Now then.
 @3.21
-Oh, they will not break!
+Ngh... they will not break!
 @3.22
 \#5F3, you try too.
 @3.25
-It seems it cannot be done.
+It is no use, I'm afraid.
 @3.26
 To think I cannot break a mere bundle of arrows... I still have far to go. I must train harder.
 @3.27
@@ -135,7 +135,7 @@ Is it to teach us the value of standing together?
 @3.31
 Just so. As you saw just now, a single arrow breaks easily.
 @3.32
-But three arrows bound together will not break so easily. This is an old teaching handed down from Ming.
+But three arrows bound together will not break so easily. This is an old teaching handed down from Ming China.
 @3.33
 It is the same with generals... One general is easily defeated, but three together are hard to defeat.
 @3.34
@@ -145,7 +145,7 @@ But if the three of you join forces, you can protect our \#A07 house from enemie
 @3.36
 Put the main house of \#A07 first. That is the best way to survive this age of war.
 @3.37
-That is unexpected, Father... We have not the slightest wish to turn against the Mōri.
+These are words I never expected, Father... We have not the slightest wish to turn against the Mōri.
 @3.38
 It is as my brother says.
 @3.39
@@ -157,7 +157,7 @@ By showing all, at home and abroad, that you put the main house of \#A07 first, 
 @3.42
 You three are brothers by blood. Help one another and protect the main house of \#A07.
 @3.45
-I shall engrave it on my heart.
+I shall take it to heart.
 @3.47
 I hear the old lord has summoned his second son, Lord \#5F4, and his third son, Lord \#5F3.
 @3.48
@@ -167,11 +167,11 @@ Three arrows?
 @3.50
 And then he ordered them to break them.
 @3.52
-An arrow that breaks alone would not break when three were bound.
+Arrows that break easily one at a time would not break when three were bound together.
 @3.53
 From this, they say, he taught the three to work together to protect the main house of \#A07.
 @3.54
-Hmm... the old lord does do interesting things.
+Hmm... the old lord does come up with intriguing things.
 @3.55
 At any rate, this will surely bind the \#A07 house closer together.
 @4.0
@@ -207,25 +207,25 @@ Good! Now is the time to cut down the \#A64 host!
 @6.2
 Lord \#A07, in this battle we of the Murakami navy shall lend our aid as well!
 @6.3
-Oh, I am grateful.
+Ah, I am grateful to you.
 @6.4
 Not at all... \#25E of the \#A64 house is a nuisance who tramples on our waters too.
 @6.5
 If we can bring down \#A5E with you, Lord \#A07, so much the better for us.
 @6.6
-Then let us vie for glory together! Forward! Our target is \#25E's head!
+Then let us vie for glory together! Forward! We take \#25E's head!
 @7.1
 Yes! Well fought, all of you! At last we have beaten the mighty \#A64 host!
 @7.2
 \#25E fell in battle and the \#A64 host fled. This battle showed all the land that mastery of the Chūgoku had passed from Ōuchi to Mōri.
 @7.3
-Good! Now, a triumphal return!
+Good! Now we return in triumph!
 @7.4
 Our army is routed!
 @7.5
 Grr! So \#25E is a seasoned general after all... He will not be beaten so easily...
 @7.6
-In any case, retreat!
+We must retreat, now!
 @7.7
 \#207's all-or-nothing gamble failed... The battle instead showed off \#25E's skill in turning a bad position around...
 @7.8
@@ -233,9 +233,9 @@ And so the struggle between the \#A64 and the \#A07 for mastery of the Chūgoku 
 @7.12
 \#207's all-or-nothing gamble came to nothing... The battle instead showed off \#25E's skill in turning a bad position around...
 @8.0
-At last we have brought down the \#984... It was my long-held wish. Now none remain who would harm the Mōri.
+At last we have brought down the \#984... How long I have wished for this. Now none remain who would harm the Mōri.
 @9.0
-Ugh... What have I done? Why does \#207 treat me as his enemy?
+Ahh... What have I done? Why does \#207 treat me as his enemy?
 @9.2
 Come to think of it... what was my life? After \#25E killed Lord Ōuchi Yoshitaka, he brought me from the \#8E0 house and set me up as the heir...
 @9.3
@@ -247,13 +247,13 @@ And after \#25E died, now \#A07 attacks me... though I never did \#A07 any harm.
 @9.7
 What grudge does \#607 hold against me!
 @9.8
-My lord... it cannot be helped. It is the way of this warring age... the fate of one who inherits a daimyō's house...
+My lord... so it must be. It is the way of this warring age... the fate of one who inherits a daimyō's house...
 @9.9
 However great a house's glory once was, when it loses its strength it must give way to new powers...
 @9.10
 Then I am a man the new age has no use for...
 @9.12
-In that case, I have no more ties to this world... At the last, at least, I will die like a samurai, by seppuku...
+In that case, nothing more holds me to this world... At the last, at least, I will die like a samurai, by seppuku...
 @9.13
 My lord...! I shall go with you!
 @9.14
@@ -261,7 +261,7 @@ You will act as my second... Understood?
 @9.15
 ...Yes, my lord!
 @9.16
-"Lured, what grudge could one hold? When the time comes, the flowers too must fall, if only to the storm"...
+"Why bear a grudge against the wind that lures them? When their time comes, blossoms fall even without a storm"...
 @9.19
 Born the son of Ōtomo Yoshiaki, later adopted by Ōuchi Yoshitaka...
 @9.21
@@ -297,7 +297,7 @@ The army of \#25E of the \#A64 house has set out from \50F9 Castle! It seems to 
 @12.5
 He took the bait, the fool... Pretending to build a decoy castle was worth it.
 @12.6
-Good, we march out too. If only we drag them into open battle, the chance of victory is ours!
+Good, we march out too. Once we drag them into open battle, the chance of victory is ours!
 @12.7
 But the \#A64 army must be very large, I fear.
 @12.8

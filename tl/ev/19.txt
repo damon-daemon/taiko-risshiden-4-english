@@ -1,67 +1,67 @@
 @0.0
-Lord \#3FE,\n\#119, who had marched into Kantō,\nseems to have returned to \40F5.
+Lord \#3FE, \#119, who had marched into the Kantō, seems to have returned to \40F5.
 @0.1
-What!? When did this happen...\nAnd how did it turn out?\nTell me everything.
+What!? So soon...\nAnd how did it turn out?\nTell me everything.
 @0.4
-Sweeping across the Kantō plain,\nthe \#919 army marched south and closed\nin on \40F7, seat of \#1D4.
+Sweeping across the Kantō plain, the \#919 army marched south and closed in on \40F7, seat of \#1D4.
 @0.17
-I see. With \#519 made Kantō deputy,\nhe will send troops into Kantō more often.\nWe must strengthen our defences all the more...
+I see. With \#519 made Kantō deputy, he will send troops into the Kantō more often.\nWe must strengthen our defences all the more...
 @1.0
-(If I go wandering about at a time\nlike this, I may not make it back when\nit counts. Better to stay in the castle.)
+(If I go wandering about at a time like this, I may not make it back when it counts. Better to stay in the castle.)
 @2.0
-The Kantō lords rallied to \#119,\nwho crossed the mountains in support of\nKantō deputy \#29D: 100,000 men in all...
+The Kantō lords rallied to \#119, who crossed the mountains in support of Kantō deputy \#29D: 100,000 men in all...
 @2.1
-Sweeping across the Kantō plain,\nthe \#919 army marched south and laid\nsiege to \40F5 with its great host...
+Sweeping across the Kantō plain, the \#919 army marched south and laid siege to \40F5 with its great host...
 @2.2
-This attack is only \#519 lashing out\nin impatience! The Kantō lords\nare surely resolved to sit and watch.
+This attack is only \#519 lashing out in impatience! The Kantō lords are surely resolved to sit and watch.
 @2.3
-But if we lose this first clash,\nthere is no future for our \#9D4!\nMen, drive off \#519's army with all your might!
+But if we lose this first clash, there is no future for our \#9D4!\nMen, drive off \#519's army with all your might!
 @3.1
-Ugh!\n\#119... a hero, just as they say.\nTo think this \40F5 would fall...
+Grr!\n\#119... a hero, just as they say.\nTo think this \40F5 would fall...
 @3.2
-It has come to this. We must\nescape for now and plan\nto rise again.
+There is nothing for it now but to escape and rebuild our strength.
 @3.3
-Spurred by \#519's great victory, the\nKantō lords fought hard; before \#119's valour\nand 100,000 men, impregnable \40F5 fell...
+Spurred by \#519's great victory, the Kantō lords fought hard; before \#119's valour and 100,000 men, impregnable \40F5 fell...
 @3.4
-But \#519, seeing that he could campaign\nno further, led his army back to Kamakura\nand became Kantō deputy at Tsurugaoka Hachiman.
+But \#519, seeing that he could campaign no further, led his army back to Kamakura and became Kantō deputy at Tsurugaoka Hachiman-gū.
 @3.6
-Indeed! Well done, all of you!\nIf we beat \#519, the Kantō lords'\nspirits are bound to sink!
+Good! Well done, all of you!\nWith \#519 beaten, the Kantō lords are bound to lose heart!
 @3.7
 The battle was not decided!
 @3.8
-Indeed! Well done, all.\nEven without a win, not losing\nmeans victory for us in the end.
+Good! Well done, all.\nWe need not win: so long as we do not lose, it comes to the same as victory for us.
 @3.9
-Even \#119's valour and 100,000 men\ncould not take \40F5,\nthe famous impregnable castle.
+Even \#119's valour and 100,000 men could not take \40F5, the famous impregnable castle.
 @3.10
-The Kantō lords lost heart, and \#519, seeing\na long siege was against him, led his army to\nKamakura and became Kantō deputy at Tsurugaoka.
+The Kantō lords lost heart, and \#519, seeing a long siege was against him, led his army to Kamakura and became Kantō deputy at Tsurugaoka Hachiman-gū.
 @3.23
-Now that \#519 has withdrawn,\nit is our \#9D4's turn.\nWhat was taken must be taken back.
+Now that \#519 has withdrawn, it is our \#9D4's turn.\nWhat was taken must be taken back.
 @4.0
-Lord \#3FE,\n\#119 is about to march into Kantō in support of\nKantō deputy \#29D, now in exile in Echigo!
+Lord \#3FE, \#119 is about to march into the Kantō in support of Kantō deputy \#29D, now in exile in Echigo!
 @4.1
-What!?\n\#119 is crossing the mountains into Kantō!?\nWe must strengthen our defences...
+What!?\n\#119 is crossing the mountains into the Kantō!?\nWe must strengthen our defences...
 @4.3
-A grave matter!\n\#119 is about to march into Kantō in support of\nKantō deputy \#29D, now in exile in Echigo!
+Grave news!\n\#119 is about to march into the Kantō in support of Kantō deputy \#29D, now in exile in Echigo!
 @4.4
-What!?\n\#119 is crossing the mountains into Kantō!?
+What!?\n\#119 is crossing the mountains into the Kantō!?
 @4.5
-Yes, my lord!\nIt seems he is calling on the Kantō lords\nto join him in striking down the \#9D4!
+Yes, my lord!\nIt seems he is calling on the Kantō lords to join him in striking down the \#9D4!
 @4.6
-\%023F0, as long as we hold\nthis \40F6, our \#9D4 cannot be beaten!\nWhat is \#119 to us?
+\%023F0, as long as we hold this \40F6, our \#9D4 cannot be beaten!\nWhat is \#119 to us?
 @4.7
-\#519 took over his house young and\nbrought all Echigo under him in no time.\nA brave general... we must not underrate him!
+\#519 took over his house young and brought all Echigo under him in no time.\nA brave general... we must not underrate him!
 @4.9
-But \#7F3 has a point. \#519 is brave,\nhot-blooded and short-tempered, but with time\nhis ardour will cool and he will grow cautious.
+But \#7F3 has a point. \#519 is brave, hot-blooded and short-tempered, but with time his ardour will cool and he will grow cautious.
 @4.10
-That is, we hold firm and do not strike.\nLet him wrestle with himself as long as he likes,\nand in time he will go home.
+That is, we hold firm and do not strike.\nLet him wear himself out against thin air as long as he likes, and in time he will go home.
 @4.11
-And \#519 values honour over gain,\nbut men are moved by gain...\nThose who follow him now will soon desert him.
+And \#519 values honour over gain, but men are moved by gain...\nThey follow him now, but they will desert him one after another.
 @4.12
-As expected of \%023F0,\na keen analysis.\nAnd how shall we deal with it?
+A keen reading, worthy of \%023F0.\nAnd how shall we deal with it?
 @4.13
-Indeed. Have every castle strengthen its\ndefences, never strike even if \#519 attacks, and\nfall back to \50F9 if in danger. Make that a strict order.
+Indeed. Have every castle strengthen its defences, never strike even if \#519 attacks, and fall back to \50F9 if in danger. Make that a strict order.
 @4.15
-And call up every warrior around \50F9.\nTell them to stay in \40F6\nuntil I say otherwise!
+And call up every warrior around \50F9.\nTell them to stay in \40F6 until I say otherwise!
 @4.17
 All of you, rest well and be ready for battle.\nThat is all for today.
 @5.0

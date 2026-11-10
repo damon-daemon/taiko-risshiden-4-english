@@ -19,7 +19,7 @@ Heaven, grant me seven hardships and eight sufferings! I will overcome them. Tes
 @1.0
 Lord \#BFE, I am sorry. Our lord will see no one... Please leave for today.
 @1.1
-...Is that so. Then I will take my leave.
+...I see. Then I will take my leave.
 @2.0
 Hm? Oh, it's \%03.
 @2.1
@@ -53,9 +53,9 @@ But I was at a loss, for this was beyond my power.
 @2.16
 Yet thanks to your efforts, \%03, that worry is gone. Now we are fully prepared.
 @2.17
-Yes. When the fighting comes, it will be up to young men like you and \#585 to do your best.
+Yes. When the fighting comes, it will be up to young men like you and \#585 to give your all.
 @2.18
-Leave it to us! We will smash the Mōri for you to see!
+Leave it to us! We will crush the Mōri before your eyes!
 @2.19
 Most reassuring. Now I must prepare the alms. I take my leave.
 @3.0
@@ -69,7 +69,7 @@ Hmm... Sadly, our lord no longer seems to have the will to lead the Amago again.
 @3.4
 He seems minded to take holy orders, and I cannot hold him back any longer.
 @3.5
-...Is that so.
+...I see.
 @3.6
 In truth, I hesitated whether to tell you this, but I thought you, who care so much for the Amago, had to know.
 @3.7
@@ -389,7 +389,7 @@ Above all, at my rank I have far too few men to lead. Is there no way...
 @16.0
 So the battle is about to begin. This too must be a hardship sent by heaven. But I will not lose!
 @16.1
-You are \#181.
+So you are \#181.
 @16.2
 Hm, you're no Amago man. Who are you!
 @16.3
@@ -399,7 +399,7 @@ Hah, a joke of a name. But why me?
 @16.5
 A man about to die needs no reasons. Prepare yourself!
 @16.6
-A-as expected of Shikanosuke... Well done...
+Y-you are all they say, Shikanosuke... Well fought...
 @16.7
 Who sent you... No, I need not ask. But why me?
 @16.8
@@ -449,7 +449,7 @@ Thus \#181 withstood the fierce Mōri onslaught and took the first step toward r
 @17.8
 What history held after this, no one knows...
 @18.0
-The shame of it, we lost... I could not restore the Amago. My strength is still not enough, it seems.
+Curse it, we lost... I could not restore the Amago. My strength is still not enough, it seems.
 @18.1
 Shikanosuke!
 @18.2
@@ -639,7 +639,7 @@ What!
 @22.23
 What's more, our promotion was my own request. If that is a crime, the fault is mine.
 @22.24
-I too will cut my belly along with \%04189 to prove our innocence.
+I too will commit seppuku alongside \%04189 to prove our innocence.
 @22.26
 \%03, what are you saying! You must not!
 @22.27

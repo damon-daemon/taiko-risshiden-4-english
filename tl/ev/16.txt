@@ -1,75 +1,75 @@
 @1.1
 Father.
 @1.3
-What is the matter?\nYou are sighing.
+Is something the matter? You were sighing.
 @1.4
-Oh,\n\#5AA and \#595.\nNo, I was just thinking a little.
+Oh, \#5AA and \#595.\nIt is nothing. I was only lost in thought.
 @1.5
-About what?
+What do you mean?
 @1.6
-Since Lord \#5AD died,\nthe \#99F clan has grown sadly weak.
+Since Lord \#5AD died, the \#99F clan has grown sadly weak.
 @1.7
-Looking back, perhaps the defeat at Nagashino\nwas where our luck began to turn.
+Looking back, perhaps the defeat at Nagashino was where our luck began to turn.
 @1.8
-Uncles \#5B3 and \#5B2\nlost their lives there too...
+Uncles \#5B3 and \#5B2 lost their lives there too...
 @1.9
-In any case, for Lord \#59F's sake,\nand for the survival of our \#9A3 clan,\nwe must work harder than ever.
+In any case, for Lord \#59F's sake, and for the survival of our \#9A3 clan, we must work harder than ever.
 @1.10
 I am counting on you both.
 @2.0
-\#158!\nNext time we settle this!
+Curse you, \#158!\nNext time we settle this!
 @2.1
-The \#894 army has answered\nthe \#958's call for help\nand seems to have reached \50FB.
+The \#894 army has answered the \#958 clan's call for aid and seems to have reached \50FB.
 @2.4
-\#494!\nNext time we settle this!
+Curse you, \#494!\nNext time we settle this!
 @2.5
 So the \#894 army has arrived.
 @2.6
-The spy we sent into the \#894 army\nshould be back soon...
+The spy we sent into the \#894 army should be back soon...
 @2.9
 My lord, I have returned.
 @2.10
-Good!\nHow did the \#894 army look?
+Ah!\nWhat news of the \#894 army?
 @2.11
-Sir.\nThe \#894 army is armed\nwith a great many guns!
+Sir.\nThe \#894 army is armed with a great many guns!
 @2.12
-I believe they number\nsome \1006.
+They have some \1006 guns, I believe.
 @2.13
 \1006 guns, you say!?
 @2.14
-And the enemy seems to be preparing\nto meet our army\nnear \50FB.
+And the enemy seems to be preparing to meet our army near \50FB.
 @2.15
-My lord, why not withdraw for now\nand march again once we have joined\nwith the anti-\#894 powers...
+My lord, should we not withdraw for now, and march again in concert with the anti-\#894 powers...
 @2.16
 There is no need to worry about guns.
 @2.17
-Once a gun is fired,\nit takes time before it can fire again.
+Once a gun is fired, it takes time before it can fire again.
 @2.18
-The range of the guns,\nthe time to reload them,\nand the speed of our advance...
+The range of the guns, the time to reload them, and the speed of our advance...
 @2.19
-Even taking all this into account,\nif our army charges,\nwe will surely trample the enemy.
+Even taking all this into account, if our army charges, we will surely trample the enemy.
 @2.20
-(I cannot retreat now.\n If I pull back without a fight,\n my senior retainers will doubt my strength...)
+(I cannot retreat now.\nIf I pull back without a fight, my senior retainers will doubt my strength...)
 @2.21
-(Then, as head of the house,\n I will no longer be able\n to hold the \#99F clan together...)
+(Then, as head of the house, I will no longer be able to hold the \#99F clan together...)
 @2.22
 Listen well, all of you!
 @2.23
-Even if we fall back now,\nthe enemy will surely pursue us,\nand our losses will be heavy.
+Even if we fall back now, the enemy will surely pursue us, and our losses will be heavy.
 @2.24
-Rather than fall back,\nwe fight here\nand give the enemy the shock of their lives!
+Rather than fall back, we fight here and give the enemy the shock of their lives!
 @2.25
 ...Understood.\nWe offer our lives to you, my lord.
 @2.26
 Well said!\nWe attack at once!\nVictory is in our hands!
 @2.28
-Our army seems to be heading\nfor the battlefield too.
+Our army seems to be heading for the battlefield too.
 @2.29
-Our army seems to have\nbegun to withdraw.
+Our army seems to have begun to withdraw.
 @3.0
 \#094 is no longer a daimyō?\nThen the campaign is off for now. We return home.
 @3.1
-The \#894 army has answered\nthe \#958's call for help\nand marched out.
+The \#894 army has answered the \#958 clan's call for aid and marched out.
 @3.2
 But it seems they withdrew at once.
 @3.3
@@ -79,136 +79,136 @@ Perhaps we had better wait and see.\nWe call off the campaign and return home.
 @3.6
 What!? The \#894 army!
 @3.7
-Let us send spies\nto find out about the enemy.
+Let us send spies to find out about the enemy.
 @3.8
 Yes!\nThen we will camp here for a while.
 @3.11
 \#094 turned back halfway?\nThat man... what is he thinking?
 @3.13
-The \#894 army seems to have\nalready taken up its positions.
+The \#894 army seems to have already taken up its positions.
 @3.14
-Let us send spies into the \#894 army\nto find out about the enemy.
+Let us send spies into the \#894 army to find out about the enemy.
 @3.35
-Now that \#094 is no longer a daimyō,\nhe is wary of revolts in his lands\nand seems to have called off the campaign.
+Now that \#094 is no longer a daimyō, he is wary of revolts in his lands and seems to have called off the campaign.
 @3.36
-Wary of the \#894 army's suspicious moves,\nhe seems to have called off the campaign.
+Wary of the \#894 army's suspicious moves, he seems to have called off the campaign.
 @4.0
 \%0419F!\nThe enemy is right before us!
 @4.3
-Do not flinch!\nOnce the guns are fired,\nit takes time before they can fire again.
+Do not flinch!\nOnce the guns are fired, it takes time before they can fire again.
 @4.4
-The moment they next fire,\nwe all charge together.
+The moment they next fire, we all charge together.
 @4.7
 Now!\nAll forces, charge!
 @5.0
 A report!\nOur army has defeated the \#894 army.
 @5.1
-Yes, now we have shown the realm\nthat the \#99F\nare as strong as ever.
+Yes, now we have shown the realm that the \#99F are as strong as ever.
 @5.2
 We have gained enough.\nWe withdraw!
 @5.3
-A report!\nBefore \#094's army\nour army is all but destroyed.
+A report!\nOur army has been all but destroyed by \#094's forces.
 @5.4
-There is no help for it.\nWe must retreat and plan to rise again.
+We have no choice.\nWe must retreat and rebuild our strength.
 @5.5
 Retreat!
 @5.6
-It was not decided,\nbut we have shown that\nthe \#99F are as strong as ever.
+So it was not settled. Still, we have shown that the \#99F are as strong as ever.
 @5.7
 We withdraw!
 @6.0
 I have lost...
 @6.1
-Since Father's death,\nI could not hold my retainers together...\nHow worthless I am...
+After Father's death, I could not hold our retainers together...\nHow wretched I am...
 @6.2
-Father...\nI have stained the glorious name\nof the \#99F clan. Forgive me!
+Father...\nI have stained the glorious name of the \#99F clan. Forgive me!
 @6.3
-Yet I have no intention\nof surrendering to \#494.
+Yet I have no intention of surrendering to \#494.
 @6.4
-With the pride of the \#99F,\nthe main line of the Genji,\nI shall fall bravely!
+With the pride of the \#99F, the main line of the Genji, I shall meet my end with honour!
 @6.6
 Ugh!!
 @6.7
-Ah, how can this be...\nThat the end should come\nfor the noble Genji house of \#99F...
+Ah, how can this be...\nThat the end should come for the noble Genji house of \#99F...
 @6.8
 Lord \#3FE, grave news!
 @6.9
-\%0419F was attacked\nby the \#894 and seems to have fallen!
+It seems \%0419F was attacked by the \#894 and fell in battle!
 @8.0
-Lately the powers near the Mikawa border\nhave begun to doubt the strength of our \#99F\nand to lean toward the \#958.
+Lately the lords near the Mikawa border have begun to doubt the strength of the \#99F and to lean toward the \#958.
 @8.1
-To break out of this,\nwe must once more show the realm\nthe might of the \#99F clan!
+To break out of this, we must once more show the realm the might of the \#99F clan!
 @8.2
-Now is the time to invade Mikawa\nand make our neighbours submit to us.
+Now is the time to invade Mikawa and make our neighbours submit to us.
 @8.5
-Since the late Lord \#5AD died,\nthe strength of the \#99F clan\nhas declined.
+Since the late Lord \#5AD died, the strength of the \#99F clan has declined.
 @8.6
-Should we not build up our strength\nfor now and put our own lands\nin order first?
+Should we not build up our strength for now and put our own lands in order first?
 @8.7
-This is no time\nfor such leisurely talk!
+This is no time for such leisurely talk!
 @8.8
-Unless we show the might of our \#99F clan,\nthose who back the \#958\nwill surely grow in number.
+Unless we show the might of our \#99F clan, those who back the \#958 will surely grow in number.
 @8.9
-We will make \#558 food for our blades\nand make the daimyō tremble once more!
+We will feed \#558 to our blades and set the daimyō trembling once more!
 @8.10
-That too is what my late father\nwould have wished.
+That too is what my late father would have wished.
 @8.11
-Lord \#5AD's...
+Lord \#5AD's wishes...
 @8.13
-Arguing here any longer\nwill get us nowhere!
+Arguing here any longer will get us nowhere!
 @8.14
 Good! We march!
 @8.15
-(To make my senior retainers\n recognise my strength,\n I cannot lose this battle!)
+(To make my senior retainers recognise my strength, I cannot lose this battle!)
 @8.16
 A bold decision, my lord.\nI, \#7FE, will go with you.
 @8.19
-Lord \#3FE,\nour lord has marched out for Mikawa!
+Lord \#3FE, our lord has marched out for Mikawa!
 @8.20
-And the \#894 army seems to have\nalready marched out\nto meet our lord's army!
+And the \#894 army seems to have already marched out to meet our lord's army!
 @8.23
-Lord \#5AD may be gone,\nbut the \#99F are still strong.
+Lord \#5AD may be gone, but the \#99F are still strong.
 @8.24
-For the \#99F to win the realm,\nwe cannot lose this battle.
+For the \#99F to win the realm, we cannot lose this battle.
 @9.0
 \#5AA!
 @9.2
 \#595!
 @9.4
-I called you here for one reason only:\nthe survival of our \#9A3 clan.
+I called you here for one reason only: the survival of our \#9A3 clan.
 @9.6
-If we stay under Lord \#59F,\nour \#9A3 clan has no hope of prospering.
+If we stay under Lord \#59F, our \#9A3 clan has no hope of prospering.
 @9.7
 Surely not, \&01...
 @9.8
-I am thinking of breaking with\nthe \#99F clan and making our own\nbid for power here at \50F9.
+I am thinking of breaking with the \#99F clan and making our own bid for power here at \50F9.
 @9.9
 You mean rebellion?
 @9.10
-But we of the \#995 clan have received\nour stipend from the \#99F clan\nsince Lord \#5AD was alive.
+But we of the \#995 clan have received our stipend from the \#99F clan since the days of Lord \#5AD.
 @9.11
-If we leave the \#99F clan now,\nwe will surely be condemned\nfor going against our duty.
+If we leave the \#99F clan now, we are sure to be reviled for betraying our duty.
 @9.12
-What is more, though they have lost their old power,\nthe \#99F clan still has\nmany fine generals.
+What is more, though they have lost their old power, the \#99F clan still has many fine generals.
 @9.13
-Even if we won our independence,\nthe \#9A3 clan would be\nin danger of destruction.
+Even if we won our independence, the \#9A3 clan would be in danger of destruction.
 @9.14
-Please decide, \&01.\nIf you still mean to rebel,\nwe will follow you, \&01.
+Please decide, \&01.\nIf you still mean to rebel, we will follow you, \&01.
 @9.15
 Rebel
 @9.16
 Do not rebel
 @9.17
-If your mind is so firmly made up, \&01,\nthere is no help for it.\nLet us plant the Sanada banner on the map of this age.
+If your mind is so firmly made up, \&01, so be it.\nLet us plant the Sanada banner on the map of this age.
 @9.18
-Oh! We must also take back\n\50FA Castle,\nonce ruled by our ancestors!
+Good! And we must take back \50FA Castle, once ruled by our ancestors!
 @9.19
-In that case, for the present\nit is vital to join hands\nwith the powerful daimyō nearby.
+In that case, for the present it is vital to join hands with the powerful daimyō nearby.
 @9.20
 I know.\nYou will both be busy from now on.
 @9.23
-Having won its independence,\nthe \#9A3 clan at once set about diplomacy\nwith other houses to survive...
+Having won its independence, the \#9A3 clan at once set about diplomacy with other houses to survive...
 @9.24
-It first secured an alliance\nwith the \#958 clan\nand steadily firmed up its footing.
+It first secured an alliance with the \#958 clan and steadily firmed up its footing.
 @9.25
 It is as you say.\n\&00 was wrong.\nFrom now on we serve Lord \#59F more loyally than ever.

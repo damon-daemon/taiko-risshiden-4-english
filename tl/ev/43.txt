@@ -1,41 +1,41 @@
 @0.0
-My lord, a letter has come\nfrom Lord \#000.
+My lord, a letter has come from Lord \#000.
 @0.1
 Hoh... From the Monkey?\nShow me!
 @0.3
 The letter was a request for reinforcements...
 @0.4
-For his campaign in the west, he wrote,\nhis own troops were not enough,\nand he wished to borrow his lord's strength...
+For his campaign in the west, he wrote, his own troops were not enough, and he wished to borrow his lord's strength...
 @0.5
-Ha ha ha! That \#400\nhas gone out of his way\nto ask for my help!
+Ha ha ha! That \#400 has gone out of his way to ask for my help!
 @0.6
-For a man of his ability,\nthe western campaign can't be all that hard...
+For a man of his ability, the western campaign can't be all that hard...
 @0.7
-So his game is to have me take the field,\nhand me the glory\nand avoid the other generals' envy...
+So his game is to have me take the field, hand me the glory and avoid the other generals' envy...
 @0.8
 Send reinforcements
 @0.9
 Send none
 @0.10
-Well, fine! Tell \#400\nI'll come to his aid at once.
+Well, fine! Tell \#400 I'll come to his aid at once.
 @0.12
 Tell \#0F5 to send reinforcements too.\nHe can't be all that busy right now.
 @0.13
-Sire... But Lord \#8F5 is a proud man.\nHe may resent being sent\nto reinforce Lord \#800...
+Yes, my lord... But Lord \#8F5 is a proud man.\nHe may resent being sent to reinforce Lord \#800...
 @0.14
-I don't care! I've given \#4F5\na fief worthy of him.\nAs a senior retainer, he must play his part.
+I don't care! I've given \#4F5 a fief worthy of him.\nAs a senior retainer, he must play his part.
 @0.15
 Tell him to go to his aid at once!
 @0.17
-Yes, and tell \#4AA as well\nto bring his army to Kyōto.
+Yes, and tell \#4AA as well to bring his army to Kyōto.
 @0.19
-\#4AA's army will be the main force of this relief.\nWe'll meet in the city of Kyōto.
+\#4AA's army will be the main body of the reinforcements.\nWe'll meet in the city of Kyōto.
 @0.20
-Sire!\nUnderstood!
+Yes, my lord!\nUnderstood!
 @0.21
-Good. Then I'll go up\nto the capital first...
+Good. Then I'll go up to the capital first...
 @0.22
-But simply doing what the Monkey says\nis no fun.\nLet him sweat a little...
+But simply doing what the Monkey says is no fun.\nLet him sweat a little...
 @0.23
 Tell the Monkey there'll be no reinforcements!
 @1.0
@@ -49,15 +49,15 @@ Father, I have just arrived.
 @1.5
 Oh, \#4AA, you've come.
 @1.6
-Let us march at once\nto reinforce \#800!
+Let us march at once to reinforce \#800!
 @1.7
 No, there's no need for such haste.\nTonight we'll hold a tea gathering and rest.\nWe can set out tomorrow morning.
 @1.9
 You can lodge at Myōkaku-ji.\nRest your troops there too.
 @1.10
-But it seems to me there are\nrather few men to guard you, Father...
+But it seems to me there are rather few men to guard you, Father...
 @1.11
-Bah.\nThere's no fool who'd dare raise a blade\nagainst me now, not around Kyōto at least.
+Bah.\nThere's no fool who'd dare raise a blade against me now, not around Kyōto at least.
 @1.13
 That's settled, then: on to the tea gathering.\nWe'll invite the famous tea masters from round about...
 @1.14
@@ -65,11 +65,11 @@ Thank you for inviting us today...
 @1.15
 Not at all. Today I am the host.\nYou guests need only relax.
 @1.16
-We shall have the honour of seeing\nthe famed tea ceremony of Lord \#894.
+We shall have the honour of seeing the famed tea ceremony of Lord \#894.
 @1.17
-After all, Lord \#894's love of tea\nis well known even at court.
+After all, Lord \#894's love of tea is well known even at court.
 @1.18
-His love of tea is so great\nthat even I am at a loss.
+He is so fond of tea that it gives even me trouble.
 @1.19
 Ha ha ha...
 @1.20
@@ -81,9 +81,9 @@ My lord!\nTerrible news!
 @1.23
 What is it!\nAt this early hour!
 @1.24
-A rebellion!\nThe enemy has already surrounded the temple!
+Treason!\nThe enemy has already surrounded the temple!
 @1.25
-What!? A rebellion!\nNonsense!\nWho on earth would rebel!
+What!? Treason!\nImpossible!\nWho is behind it!?
 @1.26
 Their banner is the pale blue bellflower!
 @1.27
@@ -95,7 +95,7 @@ Hyaaah!
 @1.34
 Bah, this is tiresome!\nWe'll fight our way out!
 @2.0
-Well, well, that was a close call.
+Good grief, what an ordeal that was.
 @2.1
 Curse \#4F5! I'll never forgive him!\nI'll capture him and have him crucified!
 @2.2
@@ -103,31 +103,31 @@ My lord!\nYou are safe!
 @2.3
 What, Monkey!\nWhat have you come for?\nYou're supposed to be busy in the west.
 @2.4
-When I heard of the treachery at Honnō-ji,\nI couldn't wait. I came at full speed\nto see that you were safe, my lord!
+When I heard of the treachery at Honnō-ji, I couldn't wait. I came at full speed to see that you were safe, my lord!
 @2.5
 I too came with all haste!
 @2.6
-You fools!\nIf you truly worry about me,\nhurry up and crush my enemies everywhere!
+You fools!\nIf you truly worry about me, hurry up and crush my enemies everywhere!
 @2.8
 Quite right, my lord!
 @2.9
-But \#4F5 I shall never forgive!\nMy one wish is to see \#4F5's head\nput on display right here!
+But \#4F5 I shall never forgive!\nMy one wish is to see \#4F5's head put on display right here!
 @2.11
-Then an order went out to every Oda general\nto subdue \#0F5...
+Then an order went out to every Oda general to subdue \#0F5...
 @2.12
-Outmatched, the \#8F5 forces fought well,\nbut they were no match for the \#094 army...
+Though they fought well, the outmatched \#8F5 forces could not stand against the \#094 army...
 @2.13
-\#0F5 fled desperately\ntoward Fushimi and Ogurusu village...
+\#0F5 fled desperately toward Fushimi and Ogurusu village...
 @2.20
 S-so turning against \#494...\nwas a mistake after all...
 @2.21
-\#0F5 met a cruel end\nat Ogurusu village as he fled...\nHe was \1009 years old...
+\#0F5 met a cruel end at Ogurusu village as he fled...\nHe was \1009 years old...
 @2.22
-Thus ended "\#0F5's Rebellion",\nwhich had shaken the Oda clan...
+Thus ended "\#0F5's Rebellion", which had shaken the Oda clan...
 @3.0
 Our side has won!
 @3.1
-Hm, \#4F5!\nNow you know!
+Ha, \#4F5!\nThat will teach you!
 @3.2
 Father!\nYou are safe!
 @3.3
@@ -135,13 +135,13 @@ Oh, \#4AA!\nYou're safe too!
 @3.4
 We have scattered \#4F5's detached force too!\nRest assured.
 @3.5
-Hm, but there's no knowing\nwhen they'll attack again.\nThe relief is off for now.
+Hm, but there's no knowing when they'll attack again.\nThe reinforcements are called off for now.
 @3.7
-We return to \40F5!\n\#4AA, lead your army\nback to your castle!
+We return to \40F5!\n\#4AA, lead your army back to your castle!
 @3.8
-Sire!\nUnderstood!
+Yes, Father!\nUnderstood!
 @3.9
-My lord! Our men fought hard,\nbut we are badly outnumbered...\nThere is nowhere left to run...!
+My lord! Our men fought hard, but we are badly outnumbered...\nThere is nowhere left to run...!
 @3.10
 ...My bowstring has snapped too.\nThis is the end.
 @3.15
@@ -149,8 +149,8 @@ Heh...\nLooking back, it was an amusing life...
 @3.19
 Death comes to us all...!
 @3.22
-My lord, the battle was not decided!
+My lord, the battle ended without a victor!
 @3.23
 ...My bowstring has snapped too.\nThis is the end.
 @3.34
-And so \#094, the stormy hero of the Sengoku age,\nperished amid the crimson flames of Honnō-ji...\nHe was \1009 years old...
+And so \#094, the stormy hero of the Warring States, perished amid the crimson flames of Honnō-ji...\nHe was \1009 years old...

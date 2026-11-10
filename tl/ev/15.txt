@@ -1,45 +1,45 @@
 @2.21
-What is more, if you abolish the \#896 clan,\nthe daimyō of the \#896 camp will not stay quiet...
+What is more, if you abolish the \#896 clan, the daimyō of the \#896 camp will not stay quiet...
 @5.6
 I have an idea.\n\&00 will meet \#3F1 in person.
 @5.8
-But \#3F0 shall not see \&00;\nhave one of my attendants meet him.
+But as for \#3F0, \&00 will not receive him; have one of my attendants meet him.
 @0.0
-My lord, an envoy has come\nfrom Lord \#800.
+My lord, an envoy has come from Lord \#800.
 @0.1
 What, from Lord \#800?\nShow him in, then.
 @0.3
-Lord \#958, I trust\nyou are in good health.
+Lord \#958, I trust you are in good health.
 @0.4
 Thank you for your trouble, envoy.\nAnd what brings you here today?
 @0.5
-My lord wishes to make peace\nwith Lord \#958.
+My lord wishes to make peace with Lord \#958.
 @0.6
 I never had any wish to fight Lord \#800.\nI merely came to the aid of Lord \#0A9.
 @0.7
-Gracious words... However,\nmy lord says he would like\nsome pledge of that peace...
+Gracious words... However, my lord says he would like some pledge of that peace...
 @0.8
 A pledge of peace...?
 @0.9
-That Lord \#958 come to \40F5...\nor else that my lord adopt\nLord \#958's son...
+That Lord \#958 come to \40F5... or else that my lord adopt Lord \#958's son...
 @0.10
-In other words...\neither I go to \40F5 and submit,\nor I hand over a hostage.
+In other words...\neither I go to \40F5 and submit, or I hand over a hostage.
 @0.11
-I would not go\nso far as to say that...
+I would not go so far as to say that...
 @0.12
 My lord, what do you intend to do?
 @0.13
-What, \#7FB! Are you here?\nThis is rude before the envoy!
+What, \#7FB! You were here?\nYou forget yourself before the envoy!
 @0.14
-I know full well it is rude.
+I am well aware that I am being rude.
 @0.16
-My lord, if you go to \40F5,\nit is the same as submitting to Lord \#800.\nYou must not sell yourself so cheaply.
+My lord, if you go to \40F5, it is the same as submitting to Lord \#800.\nYou must not sell yourself so cheaply.
 @0.18
-Given his present might, it is unwise\nto make an enemy of Lord \#800.\nBut submit at once, and we will be scorned.
+Given his present might, it is unwise to make an enemy of Lord \#800.\nBut submit at once, and we will be scorned.
 @0.20
-If we must make peace in any case,\nwe should first make him feel\nthe strength of the \#958 clan.
+If we must make peace in any case, we should first make him feel the strength of the \#958 clan.
 @0.21
-You must not go to \40F5\nin person, my lord.
+You must not go to \40F5 in person, my lord.
 @0.22
 Then what would you have me do?
 @0.23
@@ -47,11 +47,11 @@ We should accept the other condition.
 @0.24
 You mean I should give up my son as a hostage?
 @0.25
-Yes.\nAnd you yourself, my lord,\nmust on no account go...
+Yes.\nAnd you yourself, my lord, must on no account go...
 @0.26
 I understand what you are saying.\nYou may withdraw.
 @0.28
-Lord \#958, what is your answer?\nWill you come to \40F5,\nor send your son to be adopted...?
+Lord \#958, what is your answer?\nWill you come to \40F5, or send your son to be adopted...?
 @0.30
 Go to \40F5
 @0.31
@@ -65,41 +65,41 @@ You must not, my lord!
 @0.35
 \#7FB!\nI told you to withdraw!
 @0.36
-The young lord has already\nagreed to be the hostage.
+The young lord has already agreed to be the hostage.
 @0.38
-Father, for the sake of peace\nbetween the \#958 and the \#800,\nI will go to \40F5!
+Father, for the sake of peace between the \#958 and \#800 clans, I will go to \40F5!
 @0.39
 Do not speak out of turn!
 @0.40
-But as things stand, the \#958 clan\nwill not only earn Lord \#800's ill will,\nbut be left alone, without allies, in dire straits...
+But as things stand, the \#958 clan will not only earn Lord \#800's ill will, but be left alone, without allies, in dire straits...
 @0.43
-...Very well.\nIf \#573 is so determined,\nit cannot be helped.
+...Very well.\nIf \#573 is so determined, so be it.
 @0.45
 Ah, a fine decision.\nMy lord will be delighted.
 @0.46
-Lord \#BF0,\nI entrust \#573 to you.
+Lord \#BF0, I entrust \#573 to you.
 @0.47
-My lord has no children of his own,\nso his adopted son will be treasured.\nLord \#958, Lord \#573, have no fear.
+My lord has no children of his own, so his adopted son will be treasured.\nLord \#958, Lord \#573, have no fear.
 @0.48
 Farewell then, Father.\nStay well...
 @0.49
 Yes. Take care of yourself.
 @0.50
-In \@001/\@002, \#173, second son of \#158,\nwas adopted by \#000\nand took the name Hashiba Hideyasu.
+In \@001/\@002, \#173, second son of \#158, was adopted by \#000 and took the name Hashiba Hideyasu.
 @0.51
-But \#000 was deeply displeased\nthat \#158 had not\ncome to \40F5...
+But \#000 was deeply displeased that \#158 had not come to \40F5...
 @0.52
-\#158, too, steeled himself anew,\nknowing that this would\nnot be the end of it...
+\#158, too, steeled himself anew, knowing that this would not be the end of it...
 @0.57
-Very well.\nThen I will send my son \#573\nto be adopted...
+Very well.\nThen I will send my son \#573 to be adopted...
 @0.58
 Father...
 @0.59
 Forgive me, \#573.\nThis too is for the \#958 clan...
 @0.60
-Father, for the sake of peace\nbetween the \#958 and the \#800,\nI will go to \40F5...
+Father, for the sake of peace between the \#958 and \#800 clans, I will go to \40F5...
 @0.73
-I refuse both!\nTell Lord \#800\nI will face him any time he likes!
+I refuse both!\nTell Lord \#800 I will face him any time he likes!
 @0.74
 Someone!\nLord \#BF0 is leaving!
 @0.75
@@ -107,15 +107,15 @@ Lord \#958...\nYou will regret this.
 @0.76
 Hmph...\nAs if I would regret anything!
 @0.77
-But \#000, angered by \#158's\ndefiance, made an unexpected move.
+But \#000, angered by \#158's defiance, made an unexpected move.
 @0.78
-He drew the surrounding daimyō in\nand closed a ring around the \#958 clan.
+He drew the surrounding daimyō in and closed a ring around the \#958 clan.
 @0.79
-Even daimyō who had been friendly\nwere swayed by \#000's schemes\nand turned against the \#958 clan...
+Even daimyō who had been friendly were swayed by \#000's schemes and turned against the \#958 clan...
 @0.80
 Curse you... \#000!
 @0.81
-Lord \#3FE,\nthe old lord summons you on urgent business.
+Lord \#3FE, the old lord summons you on urgent business.
 @0.82
 Urgent business?\nWhat could it be...
 @0.83
@@ -129,11 +129,11 @@ Yes.\nIt concerns your future.
 @0.87
 ?
 @0.88
-The truth is, our house\nhas agreed to make peace with Lord \#800.
+The truth is, our house has agreed to make peace with Lord \#800.
 @0.89
 That is wonderful news, Father.
 @0.90
-That is just it.\nAs a pledge of the peace, Lord \#800\nhas asked to adopt you.
+Now, to the point.\nAs a pledge of the peace, Lord \#800 has asked to adopt you.
 @0.91
 Me? Adopted by Lord \#800!?
 @0.92
@@ -141,9 +141,9 @@ That means... I would be a hostage, would it not?
 @0.93
 Well, it comes to that.
 @0.94
-But listen, \#573.\nYour father, too, was a hostage\nof the Imagawa until the age of 19.
+But listen, \#573.\nYour father, too, was a hostage of the Imagawa until the age of 19.
 @0.96
-Fortunately Lord Imagawa Yoshimoto treated\nme well, hostage though I was...\nLord \#800 will not treat you poorly either...
+Fortunately Lord Imagawa Yoshimoto treated me well, hostage though I was...\nLord \#800 will not treat you poorly either...
 @0.97
 What do you say?\nWill you go to \40F5?
 @0.98
@@ -157,47 +157,47 @@ Yes.\nStay well, Father...
 @0.103
 Yes.\nFare you well...
 @0.109
-From now on, \#3FE's base\nwill be \40F5.
+From now on, \#3FE's base will be \40F5.
 @0.110
 I must refuse.
 @0.112
-I do not wish to leave\nyour side, Father.
+I do not wish to leave your side, Father.
 @0.113
 \#573...
 @0.114
-But then \#400\nwill not stay quiet...
+But then \#400 will not stay quiet...
 @0.115
-I believe you can withstand\neven Lord \#800's pressure, Father.
+I believe you can withstand even Lord \#800's pressure, Father.
 @0.118
 You may withdraw...
 @0.120
-(But...\n was this really the right thing...?)
+(But... was this really the right thing to do...?)
 @0.121
-\#3FE's fears proved true.\nAngered by the \#958 clan's response,\n\#000 made an unexpected move.
+\#3FE's fears proved true.\nAngered by the \#958 clan's response, \#000 made an unexpected move.
 @0.127
-It seems everyone is here.
+Everyone is here, I see.
 @0.128
-My lord... what is this\nurgent business?
+My lord... what is this urgent business?
 @0.129
-Yes.\nThe truth is, I have decided\nto make peace with Lord \#000.
+Yes.\nThe truth is, I have decided to make peace with Lord \#000.
 @0.131
-But he is a shrewd one...\nHe demands a pledge\nof that peace.
+But he is a shrewd one...\nHe demands a pledge of that peace.
 @0.132
 A pledge of peace?
 @0.133
-Either I go to \40F5,\nor he adopts \#573...
+Either I go to \40F5, or he adopts \#573...
 @0.134
-...And what answer\ndid you give, my lord?
+...And what answer did you give, my lord?
 @0.135
-If I go to \40F5, it means\nfull surrender to Lord \#800.\nYet I cannot let the peace fall through.
+If I go to \40F5, it means full surrender to Lord \#800.\nYet I cannot let the peace fall through.
 @0.136
 Then... the young lord?
 @0.137
-Yes.\nI have decided that \#573\nwill be adopted by Lord \#800.
+Yes.\nI have decided that \#573 will be adopted by Lord \#800.
 @0.138
-Adopted, you say...\nbut is he not a hostage!
+Adoption, you call it...\nbut that makes him a hostage!
 @0.139
-What is wrong with a hostage!\nWas I not myself a hostage\nof the Imagawa until 19!
+And what is wrong with being a hostage!?\nWas I not a hostage of the Imagawa myself until I was 19?
 @0.141
 I hear Lord \#800 has no children.\nHe will surely not treat \#573 poorly...
 @0.142
@@ -205,17 +205,17 @@ The young lord... poor boy.
 @0.143
 That is all for today.
 @0.145
-I pity the young lord...\nBut given the gap in strength\nbetween the two houses, it cannot be helped.
+I pity the young lord...\nBut given the gap in strength between the two houses, there is no other way...
 @0.148
-\#158, and \#3FE too,\nsteeled themselves anew, knowing\nthis would not be the end of it...
+\#158, and \#3FE too, steeled themselves anew, knowing this would not be the end of it...
 @1.4
-Lord \#89B was the only one who could\nrestrain the officers loyal to the Toyotomi.\nWith him dead, who knows what may happen...
+Lord \#89B was the only one who could restrain the officers loyal to the Toyotomi.\nWith him dead, who knows what may happen...
 @1.5
-My lord, why not go up to the capital\nfor now, to learn what\nthe other daimyō are doing?
+My lord, why not go up to the capital for now, to learn what the other daimyō are doing?
 @1.6
-Yes... the Kamigata worries me.\nPerhaps I should go to Nijō Castle...
+Yes... the situation in the Kamigata worries me.\nPerhaps I should go to Nijō Castle...
 @2.0
-Now, first we must decide\nwhat to do with the defeated.
+Now, first we must decide what to do with the defeated.
 @2.1
 First, \#22C.\nHe led the revolt that threw the realm into turmoil...\nHe must be beheaded.
 @2.2
@@ -223,23 +223,23 @@ Yes, my lord!\nHe will be executed at once!
 @2.12
 I see...
 @2.13
-...Lord Taikō,\nSakichi will soon be at your side...!
+...Lord Taikō, Sakichi will soon be at your side...!
 @2.16
-Now, next we deal with\nthe daimyō of the Western Army...
+Now, next we deal with the daimyō of the Western Army...
 @2.17
-Do you intend to\nabolish them all?
+Do you intend to abolish them all?
 @2.18
-It cannot be helped.\nIt is for the good of the realm.
+There is no choice.\nIt is for the good of the realm.
 @2.19
-But \#11A and \#1F6\nare great daimyō...\nThere may be another uprising.
+But \#11A and \#1F6 are great daimyō...\nThere may be another uprising.
 @2.22
 A difficult matter...
 @2.23
-But that is just where\nyou can show your skill, my lord.
+But that is just where you can show your skill, my lord.
 @2.24
-In the end, \#158 weakened the\npower of the great daimyō\nwho had sided with the West...
+In the end, \#158 weakened the power of the great daimyō who had sided with the West...
 @2.27
-For \#558, the only obstacle\nthat remained\nwas the \#896 clan...
+For \#558, the only obstacle that remained was the \#896 clan...
 @3.0
 Th-this is terrible!
 @3.1
@@ -249,75 +249,75 @@ Have you not heard yet?\nAbout the battle that decided the realm...
 @3.3
 The battle that decided the realm...?
 @3.4
-The old lord at last\nfought the \#896 army\nled by \#22C!
+The old lord at last fought the \#896 army led by \#22C!
 @3.6
-The result: a great victory for our side!\n\#22C was executed, and the daimyō\nof the Western Army were punished...
+The result: a great victory for our side!\n\#22C was executed, and the daimyō of the Western Army were punished...
 @3.7
 Hmm...\nSuch a great event, and I never knew...
 @3.8
-In \@001/\@002, \#158 and \#22C\nat last clashed at Sekigahara\nin a great battle.
+In \@001/\@002, \#158 and \#22C at last clashed at Sekigahara in a great battle.
 @3.9
-The battle that decided the realm\nended in a crushing victory for the \#958;\nthe defeated \#62C was beheaded...
+The battle that decided the realm ended in a crushing victory for the \#958; the defeated \#62C was beheaded...
 @3.10
-The daimyō who had sided with him\nwere stripped of their lands\nor had them reduced.
+The daimyō who had sided with him were stripped of their lands or had them reduced.
 @3.11
-And so the map of Japan's daimyō\nwas changed completely...
+And so the map of Japan's daimyō was changed completely...
 @3.12
-And for \#558, the only obstacle\nthat remained was the \#896 clan...
+And for \#558, the only obstacle that remained was the \#896 clan...
 @4.0
-My lord!\n\#1AD has died of illness, it seems!
+My lord!\nI hear \#1AD has died of illness!
 @4.1
 Truly!?\nI can hardly believe it...
 @4.2
-\%03!\n\#1AD has died of illness, it seems!
+\%03!\nI hear \#1AD has died of illness!
 @4.4
-In \@001/\@002, \#1AD fell ill\non his march to the capital\nand never returned.
+In \@001/\@002, \#1AD fell ill on his march to the capital and never returned.
 @4.5
-Even the man feared as "the Tiger of Kai",\ncalled the strongest of the Warring States,\ncould not defeat illness...
+Even the man feared as "the Tiger of Kai", called the strongest of the Warring States, could not defeat illness...
 @4.6
-And so \#1AD ended his life\nwithout ever ruling the realm.
+And so \#1AD ended his life without ever ruling the realm.
 @4.7
 \#1AD...\nEnemy though he was, I learned much from him.
 @4.8
-\#158 never forgot \#5AD's might, and to keep\nthe defeat at Mikatagahara as a lesson forever,\nhe had a portrait painted of himself in defeat...
+\#158 never forgot \#5AD's might, and to keep the defeat at Mikatagahara as a lesson forever, he had a portrait painted of himself in defeat...
 @5.0
 Lord \#7FE.
 @5.1
-The \#896 have sent\nenvoys toward \50F8 Castle,\nit seems.
+It seems the \#896 have sent envoys to \50F8 Castle.
 @5.2
-Hoho...\nThis may turn into something big.\nI must go to the old lord at once.
+Oho...\nThis may turn into something big.\nI must go to the old lord at once.
 @5.3
-Lord \#558,\n\#3F1 and \#3F0 of the \#896\nhave come as envoys.
+Lord \#558, \#3F1 and \#3F0 of the \#896 have come as envoys.
 @5.4
-Hoho, they have come.\nSooner than I thought.\nAnd two of them...
+Oho, so they have come.\nSooner than I thought.\nAnd two of them, at that...
 @5.5
 What shall we do?
 @5.7
-I will receive him politely,\nas gently as soothing a baby.
+I will receive him courteously, as gently as one soothes a baby.
 @5.9
 \#7FE, I leave this task to you.\nI have written here how to deal with him.\nDo exactly as it says.
 @5.10
 Yes, my lord. I understand.
 @5.11
-Good. Show \#3F1\ninto the Council Chamber.
+Good. Show \#3F1 into the Council Chamber.
 @5.13
 Thank you for coming so far.\nYou must be tired.
 @5.14
-Regarding the inscription\non the temple bell...
+Regarding the inscription on the temple bell...
 @5.15
 No, that matter is settled.\nIt seems there was a misunderstanding.\nPlease give my regards to Lord \#496.
 @5.17
-Well, that is all.\nA residence has been prepared for you,\nso rest a while before you return.
+Well, that is all.\nA residence has been prepared for you, so rest a while before you return.
 @5.18
 Yes, my lord. I am most grateful.
 @5.19
-(...Lord \#958 is a more reasonable\n man than I expected.)
+(...Lord \#958 is a more reasonable man than I expected.)
 @5.20
 Meanwhile, in the castle town...
 @5.21
-Is there no way I may\nhave an audience with Lord \#958?
+Is there no way I may have an audience with Lord \#958?
 @5.22
-I regret to say, my lord's\nanger is no ordinary thing.
+I regret to say my lord's anger is beyond the ordinary.
 @24.0
 It seems the enemy is moving its camp too.\nPerhaps we shall face each other here at Mount Komaki for a while...
 @24.2
@@ -329,9 +329,9 @@ Hm! Then we shall turn the tables and strike them first!\nWho leads the enemy?
 @24.5
 Their commander is Lord \#0AB!\nWith him are Lord \#0B1, Lord \#0BE and others!
 @24.6
-Very well! A worthy foe!\nAll of you! Do not spare your lives! Spare only your names from shame!
+Very well! A worthy foe!\nAll of you! Do not cling to your lives! Guard your honour!
 @25.0
-Now then, \#51A...\nwhere shall we attack you from, I wonder?
+Now then...\nfrom where shall we strike at \#51A?
 @25.1
 Lord \#958, forgive my lateness.
 @25.2
@@ -339,9 +339,9 @@ Ah, Lord \#BF1.\nThank you for your trouble.
 @25.3
 Father, the generals are ready.
 @25.4
-Lord \#01C has already arranged\nto strike the \#91A army from behind.
+Lord \#01C has already arranged to strike the \#91A army from behind.
 @25.5
-Let us march out at once.\nIf we all attack together,\n\40F9 will be nothing to us.
+Let us march out at once.\nIf we all attack together, \40F9 will be nothing to us.
 @25.9
 \#22C has raised an army in the Kamigata!\nThey say Lord Mōri, Lord Ukita and many others follow Mitsunari!
 @25.11
@@ -357,43 +357,43 @@ We leave only the troops we must and turn back!\nThe attack on \#91A we leave to
 @25.17
 Gentlemen! You have heard the news.\nI shall march on the Kamigata at once to attack \#62C!
 @25.18
-But some among you have left hostages with the Toyotomi,\nand some cannot forget what they owe the late Taikō...
+But some among you have left hostages with the Toyotomi, and some cannot forget what they owe the late Taikō...
 @25.19
-I, \#558, shall bear no grudge.\nAny of you who wish to side with \#22C,\nplease return to your provinces.
+I, \#558, shall bear no grudge.\nAny of you who wish to side with \#22C, please return to your provinces.
 @25.21
 What are you saying, Lord \#958!
 @25.22
-We will not stand for \#62C's outrages either!\nHe hides behind the late Lord Taikō's glory and does as he pleases, the traitor!
+We will not stand for \#62C's outrages either!\nIt is he who hides behind the late Lord Taikō's glory and does as he pleases, the disloyal wretch!
 @25.23
 Indeed!\nWe too will join the campaign against \#62C!
 @25.24
-Ah, I am grateful! ...Then I shall return to \40F8 for now\nand muster my forces.
+Ah, I am grateful! ...Then I shall return to \40F8 for now and muster my forces.
 @25.25
-You too, lead your own troops\nand march on the Kamigata!
+You too, lead your own troops and march on the Kamigata!
 @25.26
 Understood!
 @25.27
 \#62C will likely march out from his seat at \40F9...\nThen the main battle will be somewhere near Sekigahara...
 @25.28
-Then, gentlemen,\nwe shall meet again at Sekigahara!
+Then, gentlemen, we shall meet again at Sekigahara!
 @26.0
 My lord, Sekigahara lies just ahead!\nThe daimyō have already pitched their camps!
 @26.1
 And the enemy?
 @26.2
-Sir... \#22C's unit at the head,\nthen the units of \#221 and \#030...\nThe armies of \#22D and \#1EF can be seen too.
+Sir... \#22C's unit at the head, then the units of \#221 and \#030...\nThe armies of \#22D and \#1EF can be seen too.
 @26.3
-Besides those... the units of \#0E4, \#149,\n\#101 and others...
+Besides those... the units of \#0E4, \#149, \#101 and others...
 @26.4
 Hmm... so even \#A2D betrayed us.\nI do not see \#1F6.
 @26.5
-The \#1F6 army seems to be\nheld in reserve at Ōsaka Castle!
+The \#1F6 army seems to be held in reserve at Ōsaka Castle!
 @26.6
 Hmph, \#9F6's usual wait-and-see.\n...And \#09C?
 @26.7
-Sir... the \#89C unit has camped on Mount Matsuo\nand seems to be watching how things go!
+Sir... the \#89C unit has camped on Mount Matsuo and seems to be watching how things go!
 @26.8
-\#89C will not attack\nunless we lay a hand on him...\nRather, he will side with whoever is winning.
+\#89C will not attack unless we lay a hand on him...\nRather, he will side with whoever is winning.
 @26.9
 And what of Hidetada's army?
 @26.10
@@ -405,17 +405,17 @@ Hidetada, that fool!\nAfter I told him so firmly not to be late...
 @26.13
 But we have no time to wait for Hidetada!\nBegin the attack!
 @26.14
-My lord, the main force of the Western Army\nwill surely be \#22C's unit.
+My lord, the main force of the Western Army will surely be \#22C's unit.
 @26.15
-Leave the other enemies to our allied daimyō.\nThe \#958 main army should concentrate\non crushing \#22C!
+Leave the other enemies to our allied daimyō.\nThe \#958 main army should concentrate on crushing \#22C!
 @26.16
 Yes.\nOur target is \#22C's head!\nAll of you, at them!
 @27.8
 Lord \#958.
 @27.13
-We too shall fight to the death!
+We too shall spare no effort!
 @27.16
-Then I accept your kind words.\nI pray for your fortune in battle!
+Then I shall gladly accept your kindness.\nI pray for your fortune in battle!
 @27.18
 Good!\nWe cannot leave it all to Lord \#894!
 @27.19
@@ -423,37 +423,37 @@ We must make our own plans!\nShow me a map of this area.
 @29.0
 \#5AD, you old monk!\nNext time we settle this!
 @29.1
-The \#9AD army seems to have\nreached \50FB.
+The \#9AD army seems to have reached \50FB.
 @29.2
 Yes.\nWe must hurry too!
 @29.4
-The enemy scouts seem to be busy\nsurveying the edge of Mikatagahara.
+The enemy scouts seem to be busy surveying the edge of Mikatagahara.
 @29.5
 He means to look as though he will attack \40F9...
 @29.6
-...but he will cross the edge of Mikatagahara\nand head for \40F5.
+...but he will cross the edge of Mikatagahara and head for \40F5.
 @29.7
 Yet this may be a trap.
 @29.8
 A trap?
 @29.9
-That land is narrow paddy country.\nCamping there would be\nextremely dangerous.
+That land is narrow paddy country.\nCamping there would be extremely dangerous.
 @29.10
-It is as if he were\nasking us to attack him.
+It is as if he were asking us to attack him.
 @29.11
-I expect he means to turn about\nand fall on us the moment we leave the castle.
+I expect he means to turn about and fall on us the moment we leave the castle.
 @29.13
-But we might also\nturn this against him.
+But we might also turn this against him.
 @29.14
-We strike first,\nbefore the enemy can return to Mikatagahara.
+We strike first, before the enemy can return to Mikatagahara.
 @29.15
-If it goes well,\nI believe we can destroy them.
+If it goes well, I believe we can destroy them.
 @29.16
-But \#5AD is a genius of war.\nIf this is a ruse, our army\nwill suffer a crushing blow.
+But \#5AD is a genius of war.\nIf this is a ruse, our army will suffer a crushing blow.
 @29.18
 A report!\nThe \#9AD army is on the move!
 @29.20
-They appear to be making camp\nat the edge of Mikatagahara!
+They appear to be making camp at the edge of Mikatagahara!
 @29.21
 Good!\nMy mind is made up.\nWe strike the \#9AD army!
 @29.22
@@ -463,7 +463,7 @@ The \#9AD clan has fallen?\nThen the campaign is off.\nWe return home.
 @30.1
 \#5AD, curse him!\nHe turned tail and ran!
 @30.3
-\#5AD does not seem\nto have arrived yet.
+\#5AD does not seem to have arrived yet.
 @31.0
 What, the \#8F6 army is gone?\nThen Lord \#894 has already destroyed them...\nWe came too late.
 @31.1
@@ -475,17 +475,17 @@ What is this commotion!\nYou are before Lord \#958!
 @31.9
 Impossible!\nMy own brother-in-law \#4D0, a traitor?\nI cannot believe it!
 @31.12
-Well...\nhe sent this bag, saying it was a gift...
+Well...\nthis bag, my lord. Something to be delivered to you, they said...
 @31.13
 What is this bag?\nIt is tied at both ends, with something packed inside...
 @31.14
 It seems to be adzuki beans, my lord.
 @31.16
-Lord \#894, this is grave.\nIt seems \#8D0's betrayal\nis real.
+Lord \#894, this is grave.\nIt seems \#8D0's betrayal is real.
 @31.21
-We must leave this place\nwithout a moment's delay.
+We must leave this place without a moment's delay.
 @31.23
-I will take the rear guard\nand hold back the \#8F6 army.\nMeanwhile, please escape.
+I will take the rear guard and hold back the \#8F6 army.\nMake your escape while I do.
 @31.24
 Yes! \#400!\nWell said!
 @31.25
@@ -493,41 +493,41 @@ Then leave \#400's troops behind!\nAll others, retreat!
 @31.26
 Lord \#800... will you be all right?\nThe \#958 army will lend you a hand!
 @31.27
-Lord \#958, there is no need to worry.\nI, \#400, will see our allies\nsafely away!
+Lord \#958, there is no need to worry.\nI, \#400, will see our allies safely away!
 @31.28
-I see...\nThen, Lord \#800,\nI pray for your fortune in battle!
+I see...\nThen, Lord \#800, I pray for your fortune in battle!
 @32.0
 Ah, Lord \#958.\nI trouble you once again.
 @32.1
-Not at all.\n\#0D0 betrayed us,\nand he must be taught a lesson.
+Not at all.\n\#0D0 betrayed us, and he must be taught a lesson.
 @32.2
-Yes, just so.\nBut \#4D0 will surely have\nasked \#8F6 for help.
+Yes, just so.\nBut \#4D0 will surely have asked \#8F6 for help.
 @32.3
-Fighting both \#8F6 and \#8D0 at once\nputs us at a disadvantage...
+Fighting both \#8F6 and \#8D0 at once puts us at a disadvantage...
 @32.4
-Then, Lord \#894,\nwe will defeat the \#8F6 army.\nLord \#894, you defeat \#0D0!
+Then, Lord \#894, we will defeat the \#8F6 army.\nLord \#894, you defeat \#0D0!
 @32.5
 Ah, you would do that for me?\nI am grateful.\nThen we shall strike down that hateful \#4D0!
 @32.6
-A report!\nThe allied \#8D0 and \#8F6 armies\nhave marched out of \50F9!
+A report!\nThe allied \#8D0 and \#8F6 armies have marched out of \50F9!
 @32.7
 Good, we go to meet them!
 @33.0
 Hmm...\nso the \#896 side means to hold out in the castle.
 @33.1
-The \#896 side has\nquite a clever man too, it seems.
+The \#896 side has quite a clever man too, it seems.
 @33.2
 What do you mean, sir?
 @33.3
-The weak point of \50F9 Castle\nis its south side, where the plain opens out.
+The weak point of \50F9 Castle is its south side, where the plain opens out.
 @33.4
-Look, the \#896 side\nhas built an outwork on that south side\nto hold it.
+Look, the \#896 side has built an outwork on that south side to hold it.
 @33.5
 I see...
 @33.6
-But however strong it is,\nI shall teach them that no castle,\nnow or ever, cannot fall.
+But however strong it is, I shall teach them that there has never been a castle that cannot fall.
 @33.7
-Old lord,\nLord \#578 and the other daimyō\nare arriving one after another.
+My lord, Lord \#578 and the other daimyō are arriving one after another.
 @33.8
 What? They are here already!?
 @33.9
@@ -537,51 +537,51 @@ You fool!
 @33.11
 Eh!?
 @33.12
-Why did you arrive\nso early!
+Why did you arrive so early!
 @33.13
-\&00 hurried the march\nso as not to be late, but...
+\&00 only hurried the march so as not to be late...
 @33.14
 That is why I call you a fool!
 @33.16
-Rushing ahead so fast the ranks fall apart,\nwearing out men and horses for nothing...\nwhat were you thinking!
+Rushing ahead so fast the ranks fall apart, wearing out men and horses for nothing...\nwhat were you thinking!
 @33.17
-This battle is not one to be won by racing!\nCould you not see it might\nturn into a long siege!?
+This is no battle to gallop to!\nCould you not see it was always going to be a long siege!?
 @33.18
 Enough, withdraw!
 @33.19
 ...Yes, sir.\nI am truly sorry...
 @33.20
-(Ah...\n I've done it again...)
+(Ah... I've done it again...)
 @33.21
-Old lord...
+My lord...
 @33.22
-Sadly, \#578 is not a vessel\nthat will ever surpass \&00.
+Sadly, \&00 fear \#578 has not the calibre to outdo his father.
 @33.23
-While \&00 still draw breath,\nthe foundations of the realm must be made firm...
+While \&00 still draw breath, the foundations of the realm must be made firm...
 @33.24
-Lord \#958,\nit has been a long time.
+Lord \#958, it has been a long time.
 @33.25
-Lord \#958,\nI came ahead and have been waiting for you.
+Lord \#958, I came ahead and have been waiting for you.
 @33.26
-Ah, you have come a long way\nthis time. Well done.
+Ah, you have both come a long way. I thank you for your trouble.
 @33.27
-I will give you orders later,\nso do not leave your posts.
+I will give you orders later, so do not leave your posts.
 @33.31
-Old lord,\nwe of the Eastern Army\nhave already surrounded \50F9 Castle.
+My lord, we of the Eastern Army have already surrounded \50F9 Castle.
 @33.32
-At your command,\nwe can begin the attack at any time.
+At your command, we can begin the attack at any time.
 @33.33
 Yes, a splendid sight, splendid...
 @33.34
-Even in a siege,\nif we do not strike first,\nit will tell on morale later.
+Even in a siege, if we do not strike first, it will tell on morale later.
 @33.35
-I think we should fight\na light skirmish here...
+I think a light skirmish is in order here...
 @33.36
 As you wish, sir.
 @33.37
 Good, begin the attack!
 @33.39
-Lord \#558,\n\50F9 Castle has already\nbeen taken by \#3F3.
+Lord \#558, \50F9 Castle has already been taken by \#3F3.
 @33.40
 What!?\nWell done, \#3F3.\nIn any case, we return home for now.
 @33.41
@@ -589,127 +589,127 @@ What!?\nI cannot pull back after coming this far.
 @34.0
 At last, we enter the castle...
 @34.1
-When I think of it...\nit has been one hardship and endurance after another...
+When I think of it...\nit has been a long road of hardship and forbearance...
 @34.2
-Lord \#096\nand the lady mother, sir.
+Lord \#096 and his lady mother, sir.
 @34.5
 Lord \#496...
 @34.6
-You stirred up war for nothing\nand brought suffering not only on the \#958 clan\nbut on the common folk. Your crime is grave.
+You stirred up war for nothing and brought suffering not only on the \#958 clan but on the common folk. Your crime is grave.
 @34.7
-By rights I would order your head cut off, but\n\&00 too owe a great debt to the late Taikō.
+By rights I would order your head cut off, but \&00 too owe a great debt to the late Taikō.
 @34.8
-And so, Lord \#496,\nI shall permit you to commit seppuku.\n...You have no objection, I trust.
+And so, Lord \#496, I shall permit you to commit seppuku.\n...You have no objection, I trust.
 @34.9
 ...Lord \#558!\nHow can you say such a thing!\nWhat has \#496 done!
 @34.10
 Starting the war, breaking the promises...\nthat was all you!
 @34.12
-Neither I nor \#496\nhave any reason to be bound\nlike this!
+Neither \#496 nor I deserve to be bound like this!
 @34.14
-\#496! Do not just sit there in silence,\nreproach Lord \#558 for his wrongs!\n\#496!!
+\#496! Do not just sit there in silence, reproach Lord \#558 for his wrongs!\n\#496!!
 @34.16
-...Lord \#496?\nThe lady mother says this,\nbut what do you think, Lord \#496?
+...Lord \#496?\nYour lady mother says this, but what do you think, Lord \#496?
 @34.17
 I...
 @34.19
-I... shall obey\nLord \#958's decision...
+I... shall obey Lord \#958's decision...
 @34.21
-Mother... if my being alive\nwould disturb the peace of the world,\n\#496 will die gladly...
+Mother... if my being alive would disturb the peace of the world, I, \#496, will gladly die...
 @34.22
-If I begged Lord \#958 for mercy now\nand lived on, someone would surely\nappear to rally behind me again...
+If I begged Lord \#958 for mercy now and lived on, someone would surely appear to rally behind me again...
 @34.23
-Well spoken... You are truly\nthe son of Lord Taikō...\n\#558 is deeply moved.
+Well spoken... You are truly the son of Lord Taikō...\nI, \#558, am deeply impressed.
 @34.24
 You wretch... how dare you say that!\n\#558!!
 @34.25
 You there! Someone!\nTake the lady mother to another room!\nI cannot bear the noise...
 @34.27
-Kyaa!!\nWhat are you doing! Let go of me, you knave!
+Aah!!\nWhat are you doing! Let go of me, you knave!
 @34.28
 Lord \#958...!\nPlease, do not be rough with my mother...
 @34.29
 I understand...\nBut Lady Yodo cannot go unpunished either.
 @34.30
-The one who brought on this war\nis \#29C... At least let her die\nproudly, as a woman of a samurai house...
+The one who brought on this war is \#29C... At least let her die proudly, as a woman of a samurai house...
 @34.31
 ...So you cannot spare her life?
 @34.32
-Though it is your wish, Lord \#496,\nthis alone I cannot...
+Though it is your wish, Lord \#496, this alone I cannot...
 @34.33
-...When I think of it, my mother is a pitiable woman.\nBorn the daughter of \#0D0,\ntossed about by the age of war...
+...When I think of it, my mother is a pitiable woman.\nBorn the daughter of \#0D0, tossed about by the age of war...
 @34.34
-She bore me to the late Lord Taikō...\nyet I, an unworthy son,\ncould not protect my mother...
+She bore me to the late Lord Taikō...\nyet I, an unworthy son, could not protect my mother...
 @34.36
-...Please take care of my mother.\nLet her at least take her own life\nas a woman of a samurai house...
+...I leave my mother in your hands.\nLet her at least take her own life as a woman of a samurai house...
 @34.37
 I understand...
 @34.38
 ...I am grateful.
 @34.39
-Give my regards\nto Lord Taikō...
+Give my regards to Lord Taikō...
 @34.41
 \#496...\nYour mother will soon be at your side.
 @34.42
-With the suicides of \#096 and \#29C,\nthe Toyotomi lost their rallying point\nand their unity melted away.
+With the suicides of \#096 and \#29C, the Toyotomi lost their rallying point and their unity melted away.
 @34.43
-Declining ever since the Taikō's death,\nthe \#896 clan\nthus came to an end.
+Declining ever since the Taikō's death, the \#896 clan thus came to an end.
 @34.44
-The realm the Taikō had built passed,\nironically, not to his son \#496\nbut to his vassal \#158.
+The realm the Taikō had built passed, ironically, not to his son \#496 but to his vassal \#158.
 @35.0
 My lord!\nThe enemy is right before us!
 @35.5
-It seems our army has at last\nengaged \#19F.
+It seems our army has at last engaged \#19F.
 @36.0
 The enemy seems to have noticed us.
 @36.1
-Hurry!\nWe must reach Mikatagahara\nbefore the enemy does!
+Hurry!\nWe must reach Mikatagahara before the enemy does!
 @36.2
-The \#9AD army raced back\nto Mikatagahara at full speed.
+The \#9AD army raced back to Mikatagahara at full speed.
 @36.3
-Too late!\nThe whole \#9AD army is\ngathered at Mikatagahara!
+Too late!\nThe whole \#9AD army is gathered at Mikatagahara!
 @36.4
-There is no help for it.\nPitch camp here too\nand prepare for the enemy attack!
+There is no help for it.\nTake up positions here and prepare for the enemy attack!
 @36.5
 \%03!\nThe enemy seems to have noticed us!
 @36.8
-My lord!\nThe whole \#9AD army\nhas already gathered at Mikatagahara!
+My lord!\nThe whole \#9AD army has already gathered at Mikatagahara!
 @36.10
 Ha ha ha!\nThe enemy is in a panic!
 @36.11
 Now!\nAll forces, charge straight for \#558!
 @37.0
-Lord \#800 and the \#8F6 army\nseem to have clashed.
+Lord \#800 and the \#8F6 army seem to have clashed.
 @37.1
-Good, while they are busy,\nwe return home!
+Good, while they are busy, we return home!
 @38.0
-\#0AB is doing\nrather well, it seems.
+\#0AB fights rather well, I see.
 @38.2
 What is it?
 @38.3
-Lord \#0A9 has made peace\nwith Lord \#000!
+Lord \#0A9 has made peace with Lord \#000!
 @38.4
-What!\nThen all our fighting\nwas for nothing!
+What!\nThen all our fighting was for nothing!
 @38.5
-In any case, Lord \#4A9 asks\nthat Lord \#958\nwithdraw his troops.
+In any case, Lord \#4A9 asks that Lord \#958 withdraw his troops.
 @38.6
 Honestly...\nwhat is Lord \#4A9 thinking?
 @38.7
 Ha ha ha!\nThe likes of \#0AB are no match for me.
 @38.8
-The enemy generals \#0B1 and \#0BE\nhave fallen in battle, sir!
+The enemy generals \#0B1 and \#0BE have fallen in battle, sir!
 @38.9
-Well, the first clash is a great victory.\nLord \#800 must now know\nwhat I am capable of.
+Well, the first clash is a great victory.\nLord \#800 must now know what I am capable of.
 @39.0
-The Eastern Army is collapsing!\nThe \#09C unit, which was watching,\nhas sided with the Western Army!
+The Eastern Army is collapsing!\nThe \#09C unit, which was watching, has sided with the Western Army!
 @39.1
 Our allied generals are wounded too...\nPlease withdraw for now!
 @39.2
 There is no help for it!\nRetreat!
 @39.4
-The Battle of Sekigahara ended\nin victory for the Western Army\nwith the rout of \#158's army...
+The Battle of Sekigahara ended in victory for the Western Army with the rout of \#158's army...
 @39.5
-The daimyō who sided with the \#958\nfled back to their own lands,\nand unrest hung over the provinces.
+The daimyō who sided with the \#958 fled back to their own lands, and unrest hung over the provinces.
 @39.6
 Victory is ours, sir!\nThe \#22C army is in full flight.
 @39.7
@@ -719,31 +719,31 @@ Yes, sir!\nOur allied generals seem to have the upper hand too...
 @39.9
 What is \#89C doing?
 @39.10
-He still seems determined\nto sit and watch...
+He still seems determined to sit and watch...
 @39.11
-That waverer!\nRight, fire guns at him!
+That ditherer!\nVery well, fire a volley at him!
 @39.12
-If we do that,\nmight he not go over to the enemy instead?
+If we do that, might he not go over to the enemy instead?
 @39.13
-No matter.\nWithout that much, the fellow will never move.
+No matter.\nNothing less will make that fellow move.
 @39.15
-Bang bang bang!
+*Bang-bang-bang!*
 @39.16
 Oh!\nThe \#89C unit is moving!\nIt is charging the Western Army's \#22D unit!
 @39.17
 So he has finally made up his mind!
 @39.18
-With the \#89C unit's betrayal the battle turned,\nand Sekigahara ended in\nan overwhelming Eastern victory.
+With the \#89C unit's betrayal the battle turned, and Sekigahara ended in an overwhelming Eastern victory.
 @39.19
-\#22C was captured and\nthe commander \#1F6 went home,\nso the Western daimyō were all but crushed.
+With \#22C, who led the Western Army, captured and its commander-in-chief \#1F6 withdrawn to his own lands, the Western daimyō were all but crushed...
 @39.21
-Good, first a victory march.\nWe will be busy with the aftermath...
+Good, first we return in triumph.\nThere will be much to settle afterwards...
 @39.23
-Grr... this is all\nbecause \#89C could not make up his mind!
+Grr... this is all because \#89C could not make up his mind!
 @40.0
 \#158!\nPrepare to die!!
 @40.2
-Guhh!\nI... have failed...
+Guhh!\nTo fall... here...
 @40.3
 My lord!\nCurse you, \#62C!
 @40.4
@@ -751,53 +751,53 @@ Hmph.\nFollow your master!
 @40.6
 Guhh...!
 @40.7
-After two defeats,\nthe \#958 army\ncrumbled away all too easily...
+After two defeats, the \#958 army crumbled away all too easily...
 @40.8
-In time \40F5 fell too,\nand the \#958 clan\nwas stripped of its lands...
+In time \40F5 fell too, and the \#958 clan was stripped of its lands...
 @40.9
 And so the rule of the Toyotomi went on...
 @40.11
 Yes, this time we won!
 @40.12
-The enemy general \#22C\nhas fallen in battle, sir!
+The enemy general \#22C has fallen in battle, sir!
 @40.13
-Well, a great victory, one could say.
+Well, we may call it a great victory.
 @40.14
-But... had we won at Sekigahara,\nwe would have been spared all this trouble...
+But... had we won at Sekigahara, we would have been spared all this trouble...
 @40.16
-Still, with \#62C dead,\nthe recent plan to punish the \#958 clan\nnow means nothing.
+Still, with \#62C dead, the recent plan to punish the \#958 clan now means nothing.
 @40.17
-We may rest easy\nfor the moment, sir.
+We may rest easy for the moment, sir.
 @40.18
-The \#958 army won this battle,\nand \#22C\nmet his end in defeat...
+The \#958 army won this battle, and \#22C met his end in defeat...
 @40.19
-But having failed to defeat the daimyō\nloyal to the Toyotomi at Sekigahara,\n\#558 was left in a weak position.
+But having failed to defeat the daimyō loyal to the Toyotomi at Sekigahara, \#558 was left in a weak position.
 @40.20
-The road to a realm ruled\nby the \#958 clan\nwas still a long one...
+The road to a realm ruled by the \#958 clan was still a long one...
 @40.21
-It was not decisive,\nbut we managed to hold them off.
+It was not decisive, but we managed to hold them off.
 @40.22
 Yes...\nThe immediate danger has passed.
 @40.23
 But our losses are heavy too...\nWe must go home and rebuild our forces...
 @41.1
-Yes.\nThis is the end of the \#99F too.
+Yes.\nThat is the end of the \#99F.
 @41.3
 There is no help for it.\nRetreat!
 @41.8
-What is this...\nThe Takeda cavalry is all they say...
+How can this be...\nThe Takeda cavalry is all they say it is...
 @42.0
 A report!\nOur army has defeated the \#9AD army.
 @42.1
-Good!\nWe are safe for a while now.\n\#5AD! You won't get greedy again!
+Good!\nWe are safe for a while now.\nThat will curb your ambitions, \#5AD!
 @42.2
-A report!\nBefore the fierce \#9AD attack\nour army is all but destroyed!
+A report!\nBefore the fierce \#9AD attack our army is all but destroyed!
 @42.3
 My lord!\nRetreat for now!
 @42.4
 Nonsense!\nMy retainers are fighting for their lives!\nHow can I run away alone!
 @42.5
-What are you saying!\nIf you fall, my lord, what do you think\nwill become of the \#958 clan!
+What are you saying!\nIf you fall, my lord, what do you think will become of the \#958 clan!
 @42.6
 Silence!\nI will have \#5AD's head!\nI will not fall back like this!
 @42.7
@@ -805,11 +805,11 @@ What a stubborn general!\nGive me that war fan!
 @42.8
 Ah!\nWhat are you doing to my horse!\nInsolent wretch!
 @42.9
-Whack!
+*Whack!*
 @42.11
 What are you doing!\nBah, the horse won't obey me!\nHey! Don't run off on your own!
 @42.12
-...Now he should\nescape safely.\nRight!
+...Now he should escape safely.\nRight!
 @42.13
 Hear me! I am \#158!\nIf you want a general's head, come and take it!
 @42.14
@@ -819,7 +819,7 @@ Get him!
 @42.17
 Aaagh!
 @42.18
-What... this is\nnot \#158!\nWe've been tricked!
+What... this is not \#158!\nWe've been tricked!
 @42.19
 My lord... you are safe...\nUgh...
 @42.20
@@ -827,63 +827,63 @@ My lord... you are safe...\nUgh...
 @42.21
 \#5AD, curse him!\nHe is no ordinary foe...
 @42.37
-What... this is\nnot \#558!\nWe've been tricked!
+What... this is not \#558!\nWe've been tricked!
 @43.0
-Curse you, \#0F6...\nYou are good.
+Curse that \#0F6...\nHe fights well.
 @43.1
 But my lord!\nLord \#894 seems to have won a great victory...
 @43.2
 Oh, is that so!\nThen victory is as good as ours!
 @43.4
-Ha ha ha! \#0F6...\nHave you learned our strength now!
+Ha ha ha! \#0F6...\nNow do you see our strength!?
 @43.5
 My lord!\nLord \#894 seems to have won a great victory too...
 @43.6
 Oh, is that so!\nThen it is a crushing victory for us!
 @43.8
-In \@001/\@002 the \#894-\#958 allies\ncrushed the \#8D0-\#8F6 allies:\nthe famous Battle of Anegawa...
+In \@001/\@002, the \#894-\#958 allies crushed the \#8D0-\#8F6 allies: the famous Battle of the Anegawa...
 @43.9
-Lord \#958,\nI owe it all to you! My thanks.\nI hope I can count on you from now on.
+Lord \#958, I owe it all to you! My thanks.\nI hope I can count on you from now on.
 @43.10
-Not at all, I did little worth mentioning...\nIn any case, congratulations\non our great victory.
+Not at all, I did little worth mentioning...\nIn any case, congratulations on our great victory.
 @43.11
 You have all done well!
 @44.0
-In the first clash we easily\nrepulsed the \#896 army.
+In the first clash we easily repulsed the \#896 army.
 @44.1
 Do not pursue them too far.
 @44.2
 Our army is being pushed back.
 @44.3
-The \#896 army\nis putting up quite a fight.
+The \#896 army is putting up quite a fight.
 @44.4
 The \#896 army...\nis a tough foe indeed.
 @44.5
 A cornered rat will bite the cat.
 @44.6
-Good, enough of brute force.\nBring out the thing I mentioned.
+Very well, enough of brute force.\nBring out the thing we prepared.
 @44.7
 Yes, sir, at once...
 @44.8
 <\50F8 Castle, Lord's Chamber>
 @44.9
-\#558 has grown senile.\nIt seems he can do nothing\nagainst the great \50F8 Castle.
+\#558 has grown old and feeble.\nIt seems he can do nothing against \50F8 Castle, the greatest in the realm.
 @44.17
 Waaah!! Wh-what was that!?\nC-could it be...\na cannonball, reaching all the way here?
 @44.30
-The terms of the peace\nwere as follows.
+The terms of the peace were as follows.
 @44.33
-And so the great battle for the realm\ncame to an anticlimactic end.
+And so the great battle for the realm came to an anticlimactic end.
 @46.0
 Victory is ours, sir!\nThe \#896 army is in full rout.
 @46.1
-Our allied generals too\nare raising victory cries.
+Our allied generals too are raising victory cries.
 @46.2
-Bah, not good enough!\nNo matter how many soldiers we cut down,\nletting \#496 and \#29C escape means nothing!
+Bah, not good enough!\nNo matter how many soldiers we cut down, letting \#496 and \#29C escape means nothing!
 @46.3
 Do not let \#496 escape!\nThe lady mother too!\nMind you, take them alive!
 @46.8
-Our army is collapsing!\nOur allied generals\nare going over to the \#896 side!
+Our army is collapsing!\nOur allied generals are going over to the \#896 side!
 @46.9
 Wh-what!
 @46.10
@@ -891,101 +891,101 @@ The army can no longer be rallied.\nPlease withdraw for now!
 @46.11
 I almost have the realm in my hand.\nHow can I pull back now...
 @46.14
-O-old lord!
+M-my lord!
 @46.15
-Grr...
+Nngh...
 @46.16
 R-retreat! All forces, retreat!
 @46.17
-With the daimyō turning against him,\n\#158's army collapsed,\nand the \#896 side won a great victory.
+With the daimyō turning against him, \#158's army collapsed, and the \#896 side won a great victory.
 @5.23
-Then what must I do\nto calm Lord \#958's anger?
+Then what must I do to calm Lord \#958's anger?
 @5.24
-...In truth, \&00 have learned\nwhat my lord really wants.
+...In truth, \&00 have learned what my lord really wants.
 @5.25
 And what is it he wants?
 @5.26
-He would have you accept\none of the following\nthree conditions.
+He would have you accept one of the following three conditions.
 @5.27
-One...\nthat Lord \#496 go to \50F8 Castle\nand pay homage to \#958 as his vassal...
+One...\nthat Lord \#496 go to \50F8 Castle and pay homage to \#958 as his vassal...
 @5.28
-Two...\nthat Lord \#496's mother, Lady Yodo,\nbe sent to \50F8 Castle as a hostage...
+Two...\nthat Lord \#496's mother, Lady Yodo, be sent to \50F8 Castle as a hostage...
 @5.29
-Three...\nthat \50F9 Castle be ceded to the \#958 clan\nand Lord \#496 move to other lands...
+Three...\nthat \50F9 Castle be ceded to the \#958 clan and Lord \#496 move to other lands...
 @5.30
-(...Every one of them\n is impossible to accept.)
+(...Every one of them is impossible to accept.)
 @5.31
 That is all.\nPlease convey it to your lord.
 @5.32
 ...Understood.
 @5.33
-And so the two envoys of the \#896\nreturned home, each with a very\ndifferent impression of \#158.
+And so the two envoys of the \#896 returned home, each with a very different impression of \#158.
 @5.34
-That was precisely\nwhat \#158 had intended.
+That was precisely what \#158 had intended.
 @5.35
-\#3F1 and \#3F0 have come\nfrom the \#896 clan\nto \50F8 Castle as envoys, it seems.
+It seems \#3F1 and \#3F0 have come from the \#896 clan to \50F8 Castle as envoys.
 @5.36
-No doubt all is going\njust as the old lord planned.\nBut what will happen now...
+No doubt all is going just as the old lord planned.\nBut what will happen now...
 @6.0
-\#3F0 of the \#896 clan\nis in the castle town of \50F8,\nwishing to serve the \#958 clan.
+\#3F0 of the \#896 clan is in the castle town of \50F8, wishing to serve the \#958 clan.
 @6.1
-In a quarrel within the \#896 clan he was\nsuspected of double dealing, and fled\njust as they were about to murder him.
+In a quarrel within the \#896 clan he was suspected of double dealing, and fled just as they were about to murder him.
 @6.2
-Heh heh, \#7F0 has behaved\njust as \&00 expected.\nThe poor wretch.
+Heh heh, \#7F0 has behaved just as \&00 expected.\nThe poor wretch.
 @6.3
-Now we have just cause\nto destroy the \#896.
+Now we have just cause to destroy the \#896.
 @6.4
-Now we have just cause\nto destroy the \#896.
+Now we have just cause to destroy the \#896.
 @6.5
-After all, we stated our terms clearly\nthrough the \#896's own envoy,\nand they broke their word.
+After all, we stated our terms clearly through the \#896's own envoy, and they broke their word.
 @6.6
 You there!
 @6.8
-I will take \#3F0 into my service.\nIt would not be honourable\nto leave him to his fate.
+I will take \#3F0 into my service.\nIt would not be honourable to leave him to his fate.
 @6.9
-Then I will\nmake the arrangements.
+Then I will make the arrangements.
 @6.10
-\#3F0 has fled\nthe \#896 clan.\nThey say he was nearly murdered in a quarrel within the \#896.
+\#3F0 has fled the \#896 clan.\nThey say he was nearly murdered in a quarrel within the \#896.
 @6.11
-It seems the old lord\nhas taken \#3F0 into his service.
+It seems the old lord has taken \#3F0 into his service.
 @6.12
-To try to murder the envoy\nwho conveyed the \#958 clan's will...
+To try to murder the envoy who conveyed the \#958 clan's will...
 @6.13
-So now we have just cause\nto destroy the \#896.
+So now we have just cause to destroy the \#896.
 @7.0
 I have a report.
 @7.1
-\#096 is hiring\nrōnin in great numbers,\nit seems.
+It seems \#096 is hiring rōnin in great numbers.
 @7.2
-Hoho, now things get busy.\nAt last the time has come\nto finish off the \#896.
+Oho, now things grow lively.\nAt last the time has come to finish off the \#896.
 @7.4
-\#096 has lately been\nhiring rōnin in great numbers,\nit seems.
+It seems \#096 has lately been hiring rōnin in great numbers.
 @7.5
-...So at last the time has come\nto finish off the \#896.
+...So at last the time has come to finish off the \#896.
 @8.0
-Well, well.\nIt seems our \#958 clan was\nmerely toyed with by Lord \#0A9.
+Well, well.\nIt seems Lord \#0A9 has been playing us \#958 for fools.
 @8.1
-But... \#000 is a fearsome man.\nTo win over Lord \#4A9 so easily,\nwho hated \#000 so much...
+But... \#000 is a fearsome man.\nTo win over Lord \#4A9 so easily, who hated \#000 so much...
 @8.2
 What will you do now, my lord?\nAbout our relations with the \#800...
 @8.3
-Now that Lord \#4A9 has made peace,\nour house has no reason\nto be hostile to the \#800 clan...
+Now that Lord \#4A9 has made peace, our house has no reason to be hostile to the \#800 clan...
 @8.5
-First let us see what Lord \#000 does.\nLord \#800 surely knows it would not\nserve him to make me his enemy...
+First let us see what Lord \#000 does.\nLord \#800 surely knows it would not serve him to make me his enemy...
 @8.6
-Besides, for now our first task is to bring\norder to the lands we have newly gained.
+Besides, for now our first task is to bring order to the lands we have newly gained.
 @8.8
-(Well, well...\n \#000...\n what will your next move be...?)
+(Well, well... \#000... what will your next move be...?)
 @9.0
-My lord,\nan envoy has come\nfrom Lord \#800.
+My lord, an envoy has come from Lord \#800.
 @9.1
 What, again!
 @9.2
-This time it is different, though...\nIt seems a bride is being\nprepared to be sent...
+But this time it is different...\nThey speak of sending a bride, no less...
 @9.3
 What, a bride?\nFor whom?
 @9.4
-For you, my lord.\nSince Lady Tsukiyama passed away,\nyou have had no wife...
+For you, my lord.\nSince Lady Tsukiyama passed away, you have had no wife...
 @9.5
 A marriage for me!?\nW-who is the bride!?
 @9.6
@@ -993,167 +993,167 @@ Lord \#800's younger sister.\nHer name is... Asahi-hime, I believe.
 @9.7
 I will not accept such a marriage!
 @9.8
-But Lord \#800 says that if Lord \#958\nstill will not come after this marriage,\nhe will send his mother as a hostage...
+But Lord \#800 says that if Lord \#958 still will not come even after this marriage, he will send his own mother as a hostage...
 @9.9
 What...\nHe would go that far...
 @9.10
-My lord... now that it has come to this,\nI think there is no choice\nbut to go and greet him in \40F5...
+My lord... now that it has come to this, I think you have no choice but to go to \40F5 and pay your respects...
 @9.11
-\#7FB!\nWere you listening!
+\#7FB!\nYou were listening!?
 @9.12
-Lord \#800's devotion to his mother is well known...\nTo send her all the way to \40F6,\nLord \#800 must be in deadly earnest.
+Lord \#800's devotion to his mother is well known...\nTo send her all the way to \40F6, Lord \#800 must be in deadly earnest.
 @9.14
-I believe it would be wise\nfor you to go to \40F5 now.
+I believe it would be wise for you to go to \40F5 now.
 @9.15
-But would that not mean\nsubmitting to Lord \#800...
+But would that not mean submitting to Lord \#800...
 @9.16
-No. When you did not go to \40F5\nover Lord \#573's adoption,\nyour worth rose, my lord.
+No. When you did not go to \40F5 over Lord \#573's adoption, your worth rose, my lord.
 @9.17
 My... worth?
 @9.18
-While the whole realm bowed to the \#800,\nour house alone did not sell itself cheap,\nand showed Lord \#800 its strength.
+While the whole realm bowed to the \#800, our house alone did not sell itself cheap, and showed Lord \#800 its strength.
 @9.20
-Lord \#800 will never treat you lightly.\nIt will not be submission, but an\nalliance between near equals.
+Lord \#800 will never treat you lightly.\nIt will not be submission, but an alliance between near equals.
 @9.21
 Is that really so...
 @9.22
-My lord,\nnow is the time.\nPlease go to \40F5.
+My lord, now is the time.\nPlease go to \40F5.
 @9.23
-...I understand your reasoning.\nI too will make up my mind...
+...I understand your reasoning.\nThen I too shall steel myself...
 @9.24
-Lord \#BFE,\nsomething grave has happened.
+Lord \#BFE, something grave has happened.
 @9.25
 What is it?\nWhat has happened?
 @9.26
-The old lord has gone to \40F5\nto meet Lord \#800!
+The old lord has gone to \40F5 to meet Lord \#800!
 @9.27
-What!\nThen our house too\nwill submit to the \#800...
+What!\nThen our house too will submit to the \#800...
 @9.28
-No, not so.\nThe old lord was slow to move, and it\nseems Lord \#800 has recognised his strength...
+No, not so.\nThe old lord held out so long that Lord \#800 seems to have recognised his strength...
 @9.29
 ...?
 @9.30
-It means our house and the \#800\nhave made an alliance\nas equals.
+It means our house and the \#800 have made an alliance as equals.
 @9.31
-What!\nOur lord is truly great!\nTo make even \#000 recognise his strength...
+What!\nThat is our lord for you!\nTo make even \#000 recognise his strength...
 @9.32
-Be that as it may,\nfull peace with the \#800 is made.\nIt is cause for celebration.
+Be that as it may, full peace with the \#800 is made.\nIt is cause for celebration.
 @10.0
-So at last I have come\nall the way to \40F5...
+So at last I have come all the way to \40F5...
 @10.1
 Ah, Lord \#3FE.\nWe have been expecting you.\nMy lord is waiting!
 @10.2
 Lord \#7F0, thank you.\nAnd is Lord \#800 at the castle?
 @10.3
-W-well, this way...
+Please, please, this way.
 @10.5
 Come, come, this way.
 @10.6
-(Hm...??\n Why bring me to a place like this?)
+(Hm...?? Why bring me to a place like this?)
 @10.7
 My lord, I have brought him.
 @10.8
-Oh, oh!\nWelcome! Lord \#3FE!
+Oh, oh!\nWelcome, Lord \#3FE!
 @10.9
-Yes, I have come\nto pay my respects.
+Yes, I have come to pay my respects.
 @10.10
-No, no, no.\nI am truly delighted that\nLord \#958 has come.
+Ah, no, no!\nI am truly delighted that you have come, Lord \#958.
 @10.12
-To tell the truth,\nI was so anxious whether you would come\nthat I could not sleep at night.
+To tell the truth, I was so anxious whether you would come that I could not sleep at night.
 @10.14
-If Lord \#958 and I join hands,\nthe realm is as good as half united.
+If Lord \#958 and I join hands, the realm is as good as half united.
 @10.15
-And I know full well\nLord \#958's strength.\nI will never treat you poorly.
+And I know full well Lord \#958's strength.\nI will never treat you poorly.
 @10.16
 I am relieved to hear it.
 @10.17
-But... I have\njust one favour to ask.
+But... I have just one favour to ask.
 @10.18
 Yes?\nWhat might it be?
 @10.19
-The truth is... I would like you to\nbow your head to me before my retainers.
+The truth is... I would like you to bow your head to me before my retainers.
 @10.21
-If you bow your head to me,\nthe daimyō of every province\nwill no longer dare defy me.
+If you bow your head to me, the daimyō of every province will no longer dare defy me.
 @10.22
 I know full well it will offend you.\nBut it is for the good of the realm.\nCould you bear it and bow to me?
 @10.23
-...Is that all? An easy thing.\nI, \#158, will gladly bow\nmy head or anything else.
+...Is that all? An easy thing.\nI, \#158, will gladly bow my head or anything else.
 @10.24
 Oh!\nYou will do it?\nThank you! ...Then let us begin.
 @10.25
 Yes, my lord!\nI will gather the generals!
 @10.27
-And now, \#158,\nlord of \40F6,\nwill pay his respects.
+And now, \#158, lord of \40F6, will pay his respects.
 @10.28
-Yes, my lord.\nI trust Lord \#800 is in good health...
+Yes, my lord.\nLord \#800, I trust I find you in good health...
 @10.29
-Yes.\n\#158, well done!
+Mm.\n\#158, you have done well to come!
 @10.31
-(Oh...!\n The great \#158\n is bowing his head!)
+(Oh...! The great \#158 is bowing his head!)
 @10.32
-(Now there can be no doubt that\n our lord's authority is the greatest in the realm...)
+(Now there can be no doubt that our lord's authority is the greatest in the realm...)
 @10.33
-And now,\nI have one request to make!
+And now, I have one request to make!
 @10.34
-(!!\n What? We never\n agreed on anything like this...?)
+(!! What? We never agreed on anything like this...)
 @10.35
 W-what is it?\nSpeak...!
 @10.36
-Yes.\nI would like to receive my lord's battle surcoat!
+Yes.\nI beg the gift of your battle surcoat, my lord!
 @10.37
 What?\nMy battle surcoat?
 @10.38
-(To receive the battle surcoat...\n means Lord \#958 will lead the troops\n in the field in our lord's place.)
+(To receive the battle surcoat... means Lord \#958 will lead the troops in the field in our lord's place.)
 @10.39
-(In other words, our lord\n will no longer go to war...)
+(In other words, he means to spare our lord from ever going to war again...)
 @10.40
-Agreed!\nMy prized battle surcoat\nis yours!
+Agreed!\nMy prized battle surcoat is yours!
 @10.41
 I am most honoured.
 @10.42
-In \@001/\@002,\n\#158 and \#000 formed an alliance.
+In \@001/\@002, \#158 and \#000 formed an alliance.
 @10.43
-With this, the drive to unite the realm\ngathered ever more speed...
+With this, the drive to unite the realm gathered ever more speed...
 @10.44
-Lord \#958,\nthank you for your trouble.
+Lord \#958, thank you for your trouble.
 @10.45
-Not at all.\nIt is I who troubled you\nwith a sudden request.
+Not at all.\nIt is I who troubled you with a sudden request.
 @10.46
-Then I look forward\nto our future together.
+Then I look forward to our future together.
 @10.47
-And I ask you to take\ngood care of \#573.
+And I ask you to take good care of \#573.
 @10.48
 Yes... farewell, then.
 @11.1
 Hm, what is it?
 @11.2
-Yes, my lord!\nThere is talk of another adoption for Lord \#573,\nwho had become Lord \#000's adopted son...
+Yes, my lord!\nThere is talk of another adoption for Lord \#573, who had become Lord \#000's adopted son...
 @11.4
-It seems he is to be adopted\nby the Yūki, a noble house of Shimōsa.
+It seems he is to be adopted by the Yūki, a noble house of Shimōsa.
 @11.5
-Why...\nLord \#800 was supposed to treat\nhim well as his adopted son...
+Why...\nLord \#800 was supposed to treat him well as his adopted son...
 @11.6
-It seems Lord \#800 has had\na child of his own.\nThey say that is the reason for this adoption.
+It seems Lord \#800 has had a child of his own.\nThey say that is the reason for this adoption.
 @11.7
-...What is this...
+...How can this be...
 @11.8
-In \@001/\@002, \#173, second son of \#158,\nwas adopted by the Yūki, a noble house of\nShimōsa, and took the name Yūki Hideyasu.
+In \@001/\@002, \#173, second son of \#158, was adopted by the Yūki, a noble house of Shimōsa, and took the name Yūki Hideyasu.
 @12.1
-But the daimyō and officers who had\nsupported the Toyotomi government\nwere not pleased...
+But the daimyō and officers who had supported the Toyotomi government were not pleased...
 @12.2
-Above all \#22C, chief of the Five\nMagistrates, sought some way\nto curb the power of \#958.
+Above all \#22C, chief of the Five Magistrates, sought some way to curb the power of \#958.
 @12.9
-The officials led by \#62C\nand the warriors like \#09E and \#0A0\nnever got along to begin with.
+The officials led by \#62C and the warriors like \#09E and \#0A0 never got along to begin with.
 @12.10
 Before long there will be trouble...
 @13.5
-They say that since he is no match\nfor the seven generals with a sword,\nhe fled.
+He is no match for the seven generals with a sword, so they say he fled.
 @13.6
 Hm.\nWho would have thought it would come to this...
 @13.7
-In any case,\ntell the seven generals\nto call off their attack.
+In any case, tell the seven generals to call off their attack.
 @13.8
-A great battle now\nwould benefit no one.
+A great battle now would benefit no one.
 @13.10
 My lord, Lord \#22C has come!
 @13.11
@@ -1161,7 +1161,7 @@ What!?\nLord \#62C?
 @13.12
 Yes!\nHe asks you to shelter him...
 @13.13
-He has fled to me,\nwhom he hates as his enemy...?
+He has fled to me, of all people, whom he hates as his enemy?
 @13.14
 Yes!\nWhat shall we do?
 @13.15
@@ -1169,267 +1169,267 @@ Very well.\nI will take Lord \#62C into my keeping.
 @13.16
 Are you sure, my lord?
 @13.17
-If the seven kill \#62C,\nyou are rid of \#62C without dirtying your hands.\nKilling two birds with one stone, I would think...
+If the seven cut \#62C down, you would be rid of \#62C without dirtying your hands.\nTwo birds with one stone, I would think...
 @13.18
 No, not so.
 @13.20
-If \#62C dies now,\nthe daimyō loyal to the Toyotomi\nwill stop quarrelling and unite.
+If \#62C dies now, the daimyō loyal to the Toyotomi will stop quarrelling and unite.
 @13.22
-That would only work against us.\nStriking an enemy that stands\nas one is no easy matter.
+That would only work against us.\nStriking an enemy that stands as one is no easy matter.
 @13.23
-For me to take the realm, it is better\nthat the Toyotomi house have\nsome source of unrest.
+For me to take the realm, it is better that the Toyotomi house have some source of unrest.
 @13.24
-So rather than kill \#62C,\nit is wiser to put him\nin my debt here.
+So rather than kill \#62C, it is wiser to put him in my debt here.
 @13.25
 I see...
 @13.26
-(Yet if \#62C fled here\n knowing full well\n that I would not kill him...)
+(Yet if \#62C fled here knowing full well that I would not kill him...)
 @13.27
-(...he is a clever man indeed.\n One I must watch all the more...)
+(...he is a clever man indeed. One I must watch all the more...)
 @13.28
-My lord,\nI have brought Lord \#A2C.
+My lord, I have brought Lord \#A2C.
 @13.29
 I am \#22C.
 @13.30
-Lord \#A2C, you are welcome.\nNow that you are here,\nyou may rest easy.
+Lord \#A2C, you are welcome.\nNow that you are here, you may rest easy.
 @13.31
-But, Lord \#A2C...\nwhy not resign your post\nas magistrate for now?
+But, Lord \#A2C...\nwhy not resign your post as magistrate for now?
 @13.32
-What! Lord \#BFE,\ndo you say I am at fault!?
+What! Lord \#BFE, are you saying I was at fault!?
 @13.33
-I say no such thing...\nBut if you stay in your post,\nyou will be in danger.
+I say no such thing...\nBut if you stay in your post, you will be in danger.
 @13.34
-I think it best that you step\naside for a while and bide your time.
+I think it best that you step aside for a while and bide your time.
 @13.35
 Hmmm...
 @13.36
-...Very well.\nI will do as \#BFE says.
+...Very well.\nI will do as you say, Lord \#BFE.
 @13.37
 Good.\nFor today, rest well.
 @13.38
 I am grateful...\nThen I take my leave.
 @13.39
-(But to think such a great\n incident would happen in the Kamigata...\n I cannot afford to be careless.)
+(To think such a great incident would happen in the Kamigata... I cannot afford to be careless.)
 @13.40
-(I must return to \40F5\n at once and prepare for war...)
+(I must return to \40F5 at once and prepare for war...)
 @13.41
-And that is not all.\n\#62C, they say, fled\nto our lord's residence.
+And that is not all.\n\#62C, they say, fled to our lord's residence.
 @13.42
 What!?\nAnd our lord?\nDid he cut \#62C down?
 @13.44
-What... When it was a golden\nchance to be rid of \#62C...
+What... and it was the chance of a lifetime to be rid of \#62C...
 @13.45
-No. Our lord thinks that\nif \#62C were killed now, the Toyotomi\nwould only become more united...
+No. Our lord thinks that if \#62C were killed now, the Toyotomi would only become more united...
 @13.46
-Then it would only be\nharder for the \#958 clan\nto take the realm...
+Then it would only be harder for the \#958 clan to take the realm...
 @13.47
-So it is better to save \#62C\nand put him in our debt...
+So it is better to save \#62C and put him in our debt...
 @13.48
-Hmm... I see.\nBut it is frustrating.
+Hmm... I see.\nStill, it is galling.
 @13.49
-Still, to flee to our lord knowing\nfull well he would not be killed...\n\#62C is a clever man indeed...
+Still, to flee to our lord knowing full well he would not be killed...\n\#62C is a clever man indeed...
 @13.50
 Yes... a man to be wary of.
 @14.0
-My lord, why have you\nreturned to \50F8?
+My lord, why have you returned to \50F8?
 @14.1
-The time is not yet ripe...\nThere are still many daimyō\nwho resent \#62C.
+The time is not yet ripe...\nThere are still many daimyō who resent \#62C.
 @14.2
-Until enough of those daimyō\nwho oppose \#62C have gathered,\nI cannot march...
+Until enough of those daimyō who oppose \#62C have gathered, I cannot march...
 @14.3
-Besides, I must also\nbreak up the enemy's ranks.
+Besides, I must also break up the enemy's ranks.
 @46.18
-The daimyō allied with the \#958\nhad been cleverly won over by the \#896 side\nand had promised to turn on him...
+The daimyō allied with the \#958 had been cleverly won over by the \#896 side and had promised to turn on him...
 @46.19
-Hoho, the \#896 army\nhas some backbone.
+Oho, the \#896 army has some backbone.
 @46.20
-But, Lord \#558,\nthanks to our allied generals\nthe \#896 army is in full rout.
+But, Lord \#558, thanks to our allied generals the \#896 army is in full rout.
 @46.21
-Ah, splendid!\nBut no matter how many we cut down,\nletting \#496 and \#29C escape means nothing!
+Ah, splendid!\nBut no matter how many we cut down, letting \#496 and \#29C escape means nothing!
 @48.0
-My lord!\nAn urgent envoy has come from\nour ally, Lord \#0A9!
+My lord!\nAn urgent envoy has come from our ally, Lord \#0A9!
 @48.1
 Oh?\nAnd what does he say?
 @48.2
-Sir!\nHe says he has put to death\nhis three chief retainers, Okada, Tsugawa and Asai.
+Sir!\nHe says he has put to death his three chief retainers, Okada, Tsugawa and Asai.
 @48.4
-\#0A9's chief retainers Okada Shigetaka,\nAsai Tamiyamaru and Tsugawa Katsuharu\nwere said to be \#000's men.
+\#0A9's chief retainers Okada Shigetaka, Asai Tamiyamaru and Tsugawa Katsuharu were said to be \#000's men.
 @48.5
-\#4A9's killing of those three meant\nthat \#0A9 had openly declared\nhimself the enemy of \#000...
+\#4A9's killing of those three meant that \#0A9 had openly declared himself the enemy of \#000...
 @48.6
-Then it will be war.\nAs Lord \#0A9's ally,\nwe too must fight Lord \#800...
+Then it will be war.\nAs Lord \#0A9's ally, we too must fight Lord \#800...
 @48.7
 My lord... the \#800 army is all picked troops.\nWhy not wait and see for a while?
 @48.8
-No, that would betray our duty to Lord \#4A9.\nBesides, our house has many loyal men\nlike you! We will not lose!
+No, that would betray our duty to Lord \#4A9.\nBesides, our house has many loyal men like you! We will not lose!
 @48.9
-My lord!\nIf you are so resolved,\nwhy should we hesitate!
+My lord!\nIf you are so resolved, why should we hesitate!
 @48.10
 Good!\nThen we march!\nDo not fall behind Lord \#4A9's army!
 @49.0
 Good, everyone seems to be here.\nLet the council begin.
 @49.1
-My lord, a letter has come\nfrom Lord \#275.
+My lord, a letter has come from Lord \#275.
 @49.2
 Let me see it.\n...Hm, hm.
 @49.3
-Old lord,\nwhat does Lord \#A75 say?
+My lord, what does Lord \#A75 say?
 @49.4
-Hm... he writes that\n\#11A of \50F8\nis up to something.
+Hm... he writes that \#11A of \50F8 is up to something.
 @49.5
 Up to something...?
 @49.6
-Yes... it seems he is secretly gathering troops,\nlaying in arms and strengthening his castle.
+Yes... it seems he is secretly gathering troops, laying in arms and strengthening his castle.
 @49.7
-My lord, that plainly goes against\nthe late Lord Taikō's last wishes!
+My lord, that plainly goes against the late Lord Taikō's last wishes!
 @49.8
-Indeed! ...What the \#91A are doing\nis plainly preparing for war!
+Indeed! ...What the \#91A are doing is plainly preparing for war!
 @49.9
-By the Taikō's last wishes,\nprivate wars are forbidden!
+By the Taikō's last wishes, private wars are forbidden!
 @49.10
-Besides, the \#91A have defied\nyour orders before, my lord.
+Besides, the \#91A have defied your orders before, my lord.
 @49.11
 We must strike the \#91A!\nLet us ask the daimyō of every province to help!
 @49.12
-But if we attack the \#91A now,\n\#22C may seize the chance\nto raise an army...
+But if we attack the \#91A now, \#22C may seize the chance to raise an army...
 @49.13
-No, perhaps the \#91A's suspicious moves\nare themselves a trap set by Lord \#62C...
+No, perhaps the \#91A's suspicious moves are themselves a trap set by Lord \#62C...
 @49.14
 Then let us walk into his trap!
 @49.16
-Better still, let \#62C raise his army,\nand then we strike him down!\nIt is the perfect chance!
+Better still, let \#62C raise his army, and then we strike him down!\nIt is the perfect chance!
 @49.17
 Good, we march!\nI shall order a campaign against the Uesugi!
 @49.18
 Yes, sir!\nI shall send word to the daimyō at once!
 @50.0
-A report!\nAn urgent envoy has come from\nour ally, Lord \#094!
+A report!\nAn urgent envoy has come from our ally, Lord \#094!
 @50.1
 Hm!\nAnd what does he say?
 @50.2
-Sir!\nLord \#894 is going to strike \#0F6\nand asks us for reinforcements!
+Sir!\nLord \#894 is going to strike \#0F6 and asks us for reinforcements!
 @50.3
 Reinforcements, is it...\nWhat should we do?
 @50.4
-My lord!\nAs his ally, we cannot refuse\na request from Lord \#894.
+My lord!\nAs his ally, we cannot refuse a request from Lord \#894.
 @50.5
-But... surely Lord \#894's younger sister,\nLady Oichi, is married to \#0D0...
+But... surely Lord \#894's younger sister, Lady Oichi, is married to \#0D0...
 @50.7
-And the \#8D0 and the \#8F6\nare allies of long standing...\nWhich side will the \#8D0 take?
+And the \#8D0 and the \#8F6 are allies of long standing...\nWhich side will the \#8D0 take?
 @50.8
 Hmm... a delicate matter.\nHis old ally, or his brother-in-law...
 @50.9
-In any case, my lord!\nIf Lord \#894 asks it,\nlet us march.
+In any case, my lord!\nIf Lord \#894 asks it, let us march.
 @50.10
 Yes...\nThen we march!
 @51.0
-Old lord,\nI have a report on\nthe \#896 clan's doings.
+My lord, I have a report on the \#896 clan's doings.
 @51.1
-For the prosperity and peace of the \#896 clan,\nthey have sent out orders everywhere to honour\nthe Buddha and build and repair temples and shrines.
+For the prosperity and peace of the \#896 clan, they have sent out orders everywhere to honour the Buddha and build and repair temples and shrines.
 @51.2
-Hmph, praying to the gods in hard times.
+Oh? Turning to the gods in their hour of need, are they?
 @51.3
-But there are still many\nloyal to the \#896 clan.
+But there are still many loyal to the \#896 clan.
 @51.4
-This temple building...\nmay also be meant to remind the daimyō\nof what they owe the late Taikō.
+This temple building...\nmay also be meant to remind the daimyō of what they owe the late Taikō.
 @51.5
-...Then we cannot ignore it.\nAnd from now on, temples and shrines too\nmust be managed in the \#958 name.
+...Then we cannot ignore it.\nAnd from now on, temples and shrines too must be managed in the \#958 name.
 @51.6
-There is public opinion to think of.\nTo crush the \#896\nwe need a proper pretext.
+There is public opinion to think of.\nTo crush the \#896 we need a proper pretext.
 @51.7
-...Whatever it takes,\nI must take hold of the realm\nwhile \&00 still draw breath.
+...Whatever it takes, I must take hold of the realm while \&00 still draw breath.
 @51.8
-Mind you, do not overlook\nanything the \#896 clan does.
+Mind you, do not overlook anything the \#896 clan does.
 @51.10
-I have a report\non the \#896 clan.
+I have a report on the \#896 clan.
 @51.11
-For the prosperity and peace of the \#896 clan,\nthey have ordered every domain to honour\nthe Buddha and build and repair temples and shrines.
+For the prosperity and peace of the \#896 clan, they have ordered every domain to honour the Buddha and build and repair temples and shrines.
 @51.12
-Praying to the gods in hard times...
+Turning to the gods in their hour of need...
 @52.0
-Old lord! I have good news.\nWe have found a just cause\nfor making war on the \#896 clan.
+My lord! I have good news.\nWe have found a just cause for making war on the \#896 clan.
 @52.1
 \#7FB, is it?\nWhat is it? Speak.
 @52.2
-The \#896 clan has cast\na new temple bell for Hōkō-ji...
+The \#896 clan has cast a new temple bell for Hōkō-ji...
 @52.3
-On this bell is the inscription\n"Kokka Ankō, kunshin hōraku"\n("peace to the land, joy to lord and vassal").
+On this bell is the inscription "Kokka Ankō, kunshin hōraku"\n("peace to the land, joy to lord and vassal").
 @52.4
 The land at peace, lord and vassal rejoicing together...\nI see nothing wrong with that.
 @52.5
-But according to the Confucian scholar Hayashi Dōshun,\nit can also be read\nanother way...
+But according to the Confucian scholar Hayashi Dōshun, it can also be read another way...
 @52.6
-"Kokka Ankō" cuts your name,\n"\#558", in two,\nthus cursing the \#958...
+"Kokka Ankō" cuts your name, "\#558", in two, thus cursing the \#958...
 @52.7
-And "kunshin hōraku" means\nthey hope to enjoy themselves for ever\nwith the \#896 clan as their lords...
+And "kunshin hōraku" means they hope to enjoy themselves for ever with the \#896 clan as their lords...
 @52.8
-So the inscription curses\nthe \#958 clan and prays for the \#896 to prosper.\nIt is outrageous, he says...
+So the inscription curses the \#958 clan and prays for the \#896 to prosper.\nIt is outrageous, he says...
 @52.10
 ...
 @52.11
 Ha ha ha ha!\nWhat a twisted reading!\nDōshun must be a very crooked fellow.
 @52.12
-But that crookedness\nis not bad at all...
+But that crookedness is not bad at all...
 @52.13
-Write to the \#896 side and\nthreaten them: do they mean\nto curse the \#958?
+Write to the \#896 side and threaten them: do they mean to curse the \#958?
 @52.14
 As you wish.
 @52.15
-Heh heh... \#496 aside,\nthe lady mother will be furious...
+Heh heh... \#496 aside, the lady mother will be furious...
 @52.16
 You mean Lady Yodo...
 @52.17
-Sure enough, \#29C, mother of \#096,\nflew into a rage\nat \#558's charge...
+Sure enough, \#29C, mother of \#096, flew into a rage at \#558's charge...
 @52.18
-For to \#29C, the \#958 clan\nwere still nothing but\nretainers of the \#896 clan...
+For to \#29C, the \#958 clan were still nothing but retainers of the \#896 clan...
 @52.19
-The old lord has voiced his displeasure\nat the inscription on the bell of Hōkō-ji,\nwhich \#496 rebuilt.
+The old lord has voiced his displeasure at the inscription on the bell of Hōkō-ji, which \#496 rebuilt.
 @52.20
 Oh...?
 @52.21
-The words "Kokka Ankō, kunshin hōraku"...\nThey say it cuts the name "Ieyasu" in two\nand seeks only the Toyotomi's prosperity...
+The words "Kokka Ankō, kunshin hōraku"...\nThey say it cuts the name "Ieyasu" in two and seeks only the Toyotomi's prosperity...
 @52.22
-Hmm... So the old lord has finally\nset about crushing the \#896 clan.
+Hmm... So the old lord has finally set about crushing the \#896 clan.
 @53.0
-It seems the \#896 clan\nis taking on rōnin from all over\nand plotting to raise an army.
+It seems the \#896 clan is taking on rōnin from all over and plotting to raise an army.
 @53.1
-Putting words that curse our \#958 clan\non the Hōkō-ji bell too...\nSuch madness can no longer be overlooked.
+Putting words that curse our \#958 clan on the Hōkō-ji bell too...\nSuch madness can no longer be overlooked.
 @53.2
-Therefore, from now on\nwe shall make war on the \#896 clan!
+Therefore we shall now march to subdue the \#896 clan!
 @53.3
-Send word to the daimyō\nto send their troops\ntoward \50F9 Castle.
+Order the daimyō to send their troops toward \50F9 Castle.
 @53.5
-However, daimyō like \#0A0 and \#0C9,\nwho owe much to the \#896 clan,\nmay go over to the \#896 side at any time.
+However, daimyō like \#0A0 and \#0C9, who owe much to the \#896 clan, may go over to the \#896 side at any time.
 @53.6
-However, daimyō who have long\nowed much to the \#896 clan\nmay go over to the \#896 side at any time.
+However, daimyō who have long owed much to the \#896 clan may go over to the \#896 side at any time.
 @53.7
-To be safe, I will have them\nguard \50F8 Castle.\nArrange it so.
+To be safe, I will have them guard \50F8 Castle.\nArrange it so.
 @53.8
 Yes, sir! It will be done.
 @53.9
-\&00 shall lead the first army in person\nand advance while keeping an eye\non what the daimyō do.
+\&00 shall lead the first army in person and advance while keeping an eye on what the daimyō do.
 @53.10
 \#578, I entrust an army to you too.\nNo blunders like Sekigahara.\nUnderstood!
 @53.11
-Y-yes, sir!\nI shall hurry to make sure\nI arrive in time for the battle!
+Y-yes, sir!\nI shall hurry to make sure I arrive in time for the battle!
 @53.12
 The second army I entrust to \#578.\nDo not be late!
 @53.13
-Yes, sir! Never!
+Yes, sir! I will not!
 @53.14
 Then, we march!
 @54.0
-Old lord,\nthe \#896 side has begun to\ndig out the moats of \50F8 again.
+My lord, the \#896 side has begun to dig out the moats of \50F8 again.
 @54.1
-What!\nSo they did it!\nExcellent!
+What!\nSo they have done it!\nNow we have them!
 @54.2
-If the \#896 side have broken\nthe peace terms themselves,\nwe need hold back no longer!
+If the \#896 side have broken the peace terms themselves, we need hold back no longer!
 @54.3
-Now no one can blame\nthe \#958 for\ntaking up arms again.
+Now no one can blame the \#958 for taking up arms again.
 @54.4
 Heh, \#29C...
 @54.5
-She must have reckoned that, next to young \#496,\nI had few years left,\nbut things will not go so easily...
+She must have reckoned that, next to young \#496, I had few years left, but things will not go so easily...
 @54.6
 \#7F1!
 @54.7
@@ -1443,123 +1443,123 @@ At once, sir!
 @54.12
 Send an envoy to the \#896 side!
 @54.13
-Tell them: dismiss all the rōnin they have hired,\nor if \#496 will not accept a new domain,\nwe will ask his intentions with an army.
+Tell them: either they dismiss every rōnin they have hired, or \#496 accepts a change of domain. If not, our army will come to ask his intentions.
 @54.14
 Yes, sir!\nI will see to it at once!
 @54.15
 (This will be the last great battle...)
 @54.16
-The terms \#158 set\nwere so harsh that the \#896 side\ncould not possibly accept them.
+The terms \#158 set were so harsh that the \#896 side could not possibly accept them.
 @54.17
-The \#896 side was furious that even\nthe inner moat of \50F8 Castle had been filled,\nand calls for war grew day by day.
+The \#896 side was furious that even the inner moat of \50F8 Castle had been filled, and calls for war grew day by day.
 @54.18
-The anger of Lady Yodo,\n\#496's mother,\nwas especially fierce...
+The anger of Lady Yodo, \#496's mother, was especially fierce...
 @54.19
-In the end the \#896 side ignored\nthe \#958 terms\nand made ready for war.
+In the end the \#896 side ignored the \#958 terms and made ready for war.
 @54.20
 All went just as \#558 had planned.
 @55.0
 I have something to tell you all!
 @55.1
-In fact, Lord \#094 has offered\nto make an alliance\nwith our \#958 clan.
+In fact, Lord \#094 has offered to make an alliance with our \#958 clan.
 @55.2
 \&00 intend to accept.
 @55.3
-...But the Imagawa clan\nwill not stand for that.
+...But the Imagawa clan will not stand for that.
 @55.4
-\#44F, who succeeded Imagawa Yoshimoto,\nis a true dullard...\nThere is nothing to fear.
+\#44F, who succeeded Imagawa Yoshimoto, is a true dullard...\nThere is nothing to fear.
 @55.5
-Rather, the one we must not\nmake an enemy of\nis Lord \#094.
+Rather, the one we must not make an enemy of is Lord \#094.
 @55.6
-Indeed, we should have the \#894 clan on our side.\nBut \#094\nis not a man to be trusted lightly.
+Indeed, we should have the \#894 clan on our side.\nBut \#094 is not a man to be trusted lightly.
 @55.7
-I know that well... That is why,\nas a pledge, \#094 will give his daughter\nToku as bride to my heir Takechiyo.
+I know that well... That is why, as a pledge, \#094 will give his daughter Toku as bride to my heir Takechiyo.
 @55.8
-I see... At least the \#894 clan\ndoes not seem to think of us\nas a mere lapdog.
+I see... At least the \#894 clan does not seem to think of us as a mere sacrificial pawn.
 @55.9
-Yes... and when Takechiyo comes of age,\nhe will receive a character of Lord \#894's name\nand be called "Nobuyasu".
+Yes... and when Takechiyo comes of age, he will receive a character of Lord \#894's name and be called "Nobuyasu".
 @55.10
-Lord Takechiyo will be\na strong bridge between\nour house and the \#894 clan...
+Lord Takechiyo will be a strong bridge between our house and the \#894 clan...
 @55.13
-It seems the old lord has made\nan alliance with \%04094.
+It seems the old lord has made an alliance with \%04094.
 @55.14
-As a pledge, \#094's daughter,\nPrincess Toku, is to marry\nthe old lord's son, Lord Takechiyo.
+As a pledge, \#094's daughter, Princess Toku, is to marry the old lord's son, Lord Takechiyo.
 @55.15
 \#094 is not a man to make an enemy of...\nThat is good news.
 @55.16
-In \@001,\n\#158 and \#094\nformed an alliance.
+In \@001, \#158 and \#094 formed an alliance.
 @55.18
-In the ever-shifting age of war,\nthis alliance proved\nan exceptionally strong bond...
+In the ever-shifting age of war, this alliance proved an exceptionally strong bond...
 @14.4
 Break up their ranks?
 @14.5
-The enemy's ringleader is \#22C,\nbut he will surely not be\ntheir commander-in-chief.
+The enemy's ringleader is \#22C, but he will surely not be their commander-in-chief.
 @14.6
-By rank, the commander must be one of\nthe Five Regents, my equals...\n\#1F6, or \#030...
+By rank, the commander must be one of the Five Regents, my equals...\n\#1F6, or \#030...
 @14.7
-Ukita aside, \#9F6\ncannot be all that eager.
+Ukita aside, \#9F6 cannot be all that eager.
 @14.8
-If we win over the \#9F6 side,\n\#62C will be isolated...
+If we win over the \#9F6 side, \#62C will be isolated...
 @14.9
-To that end, we will persuade\n\#9F6's kinsmen, Kikkawa\nand Kobayakawa, by letter.
+To that end, we will persuade \#9F6's kinsmen, Kikkawa and Kobayakawa, by letter.
 @14.10
 I see...\nI will make the arrangements at once!
 @14.11
-Old lord!\n\40F9 has fallen\nto \#22C's army!
+My lord!\n\40F9 has fallen to \#22C's army!
 @14.13
-Lord \#162, the castle commander, and all\nhis men fought to the last soldier, but\nbefore the great army, all died at the castle...
+Lord \#162, the castle commander, and his men fought to the last soldier, but against so great an army every one of them fell with the castle...
 @14.14
 What! Lord \#962...
 @14.15
-...I was prepared\nfor something like this!
+...I was prepared for something like this!
 @14.17
-I was prepared for it from the moment\nI left \#562 in the Kamigata...
+I was prepared for it from the moment I left \#562 in the Kamigata...
 @14.18
 Forgive me, \#562.\nThis is a task I can entrust to no one else...
 @14.19
-Ha ha ha... What are you saying?\nJust being made castle lord\nmakes me a fortunate man.
+Ha ha ha... Do not say such things, my lord.\nTo be named castle lord is fortune enough for me.
 @14.20
-But this castle, \40F9,\nstands alone, cut off from our house...
+But this castle, \40F9, stands alone, cut off from our house...
 @14.21
-If \#22C raises an army\nagainst our house,\nthis castle will not last a moment...
+If \#22C raises an army against our house, this castle will not last a moment...
 @14.22
-That is exactly why\nI volunteered\nto be its lord.
+That is exactly why I volunteered to be its lord.
 @14.24
-My lord, take as many men as you can\nback to \50F8.\nI will hold this castle with the fewest needed.
+My lord, take as many men as you can back to \50F8.\nI will hold this castle with the bare minimum.
 @14.25
 \#562...
 @14.26
-This is the last service\nI can render you, my lord...
+This is the last service I can render you, my lord...
 @14.27
-When I think of it, you and I\nhave shared hardships together\nfor a very long time...
+When I think of it, you and I have shared hardships for a very long time...
 @14.29
-Back when I was still a hostage\nof Lord Imagawa Yoshimoto,\nyou were already helping me...
+Back when I was still a hostage of Lord Imagawa Yoshimoto, you were already helping me...
 @14.31
-I have relied on you\nlike an elder brother...
+I have relied on you like an elder brother...
 @14.32
-Such words are too kind...\n\#562 will never forget them\nas long as he lives.
+Such words are too kind...\nI, \#562, will never forget them as long as I live.
 @14.33
-To have so loyal a man\nas you among my retainers...\nI have been fortunate...
+To have so loyal a man as you among my retainers...\nI have been fortunate...
 @14.34
-My lord... I pray for your fortune in war.\nBe sure to make the realm\nthe realm of the \#958...
+My lord... I pray for your fortune in war.\nMake the realm the \#958 clan's, without fail...
 @14.35
-\#562, do not rush to your death!\nIf you truly cannot hold,\nabandon the castle and flee...
+\#562, do not rush to your death!\nIf you truly cannot hold, abandon the castle and flee...
 @14.36
-No...\nTo die defending one's lord\nis the pride of a Mikawa warrior.
+No...\nTo die defending one's lord is the pride of a Mikawa warrior.
 @14.38
-And so, my lord,\nfarewell...
+And so, my lord, farewell...
 @14.39
 \#562... forgive me.
 @14.41
-But, my lord...\nif you delay your march too long,\nthe daimyō of the vanguard will grow suspicious.
+But, my lord...\nif you delay your march too long, the daimyō of the vanguard will grow suspicious.
 @14.42
 Yes... that is true.\nThen it is time we marched!
 @14.43
-Is \#578 here!
+Where is \#578!?
 @14.44
 I am here.
 @14.45
-In case of need, I give you part of the army!\nTake the Nakasendō, and head for\nSekigahara by another road!
+In case of need, I give you part of the army!\nTake the Nakasendō, and head for Sekigahara by another road!
 @14.46
 On no account be late!
 @14.47
@@ -1569,17 +1569,17 @@ Then we march at once.\nMake haste!
 @15.0
 But...\nto think our army would be defeated...
 @15.1
-It is a bitter thing.\nOne by one, our allied daimyō\nhave been destroyed...
+It is a bitter thing.\nOne by one, our allied daimyō have been destroyed...
 @15.11
-Our lands outside the Kantō\nhave most likely fallen as well...
+Our lands outside the Kantō have most likely fallen as well...
 @15.12
-Old lord, a letter has come\nfrom Lord \#22C...
+My lord, a letter has come from Lord \#22C...
 @15.13
 ...Let me see it.
 @15.14
-The letter held astonishing terms\nfor the punishment of the \#958 clan...
+The letter held astonishing terms for the punishment of the \#958 clan...
 @15.15
-One:\n\#158 and his son \#578\nshall commit seppuku.
+One:\n\#158 and his son \#578 shall commit seppuku.
 @15.16
 Hideyasu
 @15.17
@@ -1587,63 +1587,63 @@ Tadayoshi
 @15.18
 Tadateru
 @15.19
-One:\nthe \#958 clan shall be\nsucceeded by his son \N001.
+One:\nthe headship of the \#958 clan shall pass to his son \N001.
 @15.20
-One:\nthe \#958 clan's lands shall\nbe reduced to one fifth.
+One:\nthe \#958 clan's lands shall be reduced to one fifth.
 @15.21
-It was a scheme of \#22C's,\nsigned by \#1F6 and \#11A as well...
+It was a scheme of \#22C's, signed by \#1F6 and \#11A as well...
 @15.22
-How could I accept\nsuch terms!
+How could I accept such terms!
 @15.23
-Old lord,\nour army still has strength to spare!
+My lord, our army still has strength to spare!
 @15.24
-If \#62C forces such outrages\nupon us, let us meet him in battle!
+If \#62C forces such outrages upon us, let us meet him in battle!
 @15.27
 What is it?
 @15.28
-\#22C's army has taken\nKiyosu, Sunpu and the rest,\nand is closing in on the Kantō!
+\#22C's army has taken Kiyosu, Sunpu and the rest, and is closing in on the Kantō!
 @15.29
 This is no time for hesitation.
 @15.30
-My lord,\ngive the order to march!
+My lord, give the order to march!
 @15.31
 Yes, we march!
 @16.2
-What!\nAsk Lord \#094 for\nreinforcements at once!
+What!\nAsk Lord \#094 for reinforcements at once!
 @16.4
 And gather the generals at once!
 @16.9
-Lord \#558\nis calling for you.
+Lord \#558 is calling for you.
 @16.11
-Word has just come in!\n\#99F's army seems to be\nheading for our castles.
+Word has just come in!\n\#99F's army seems to be heading for our castles.
 @16.12
-I have already sent an envoy to our ally\nLord \#894, asking for reinforcements.
+I have already sent an envoy to our ally Lord \#894, asking for reinforcements.
 @16.13
-But if Lord \#494 does not come,\nwe will have to fight alone.
+But if Lord \#494 does not come, we will have to fight alone.
 @16.14
-At this rate, \#99F and our army\nwill clash head on...
+At this rate, \#99F and our army will clash head on...
 @16.18
-I have news.\nLord \#094 has agreed\nto send reinforcements.
+I have news.\nLord \#094 has agreed to send reinforcements.
 @16.19
-Oh! That is a fine answer!
+Oh! That is welcome news!
 @16.20
-I have brought 4,000 guns on loan,\nto stand against \#99F's cavalry!
+I have brought 4,000 guns on loan, to stand against \#99F's cavalry!
 @16.21
 Guns against cavalry?
 @16.22
-I see...\nSo we are to fire \1006 guns without pause\nand wipe out their cavalry.
+I see...\nSo we are to fire \1006 guns without pause and wipe out their cavalry.
 @16.23
 Good!\nEntrust your lives to me, all of you!\nWe will annihilate \#99F's army!
 @16.26
-\#19F marched on Mikawa, and\nthe old lord, with Lord \#094's reinforcements,\ndrove him back!
+\#19F marched on Mikawa, and the old lord, with Lord \#094's reinforcements, drove him back!
 @16.28
-Lord \#894 spread no fewer than 4,000 guns\namong his positions and had them\nall fire at once.
+Lord \#894 spread no fewer than 4,000 guns among his positions and had them all fire at once.
 @16.30
 Lord \#894 is truly remarkable...\nWe did well to ally with him.
 @16.31
-Still, perhaps now \#99F\nwill be a little quieter...
+Well, this should keep \#99F a little quieter...
 @17.0
-My lord!\n\#1AD has raised an army to march on the capital\nand is heading for our lands!
+My lord!\n\#1AD has raised an army to march on the capital and is heading for our lands!
 @17.1
 What!\nSummon my retainers at once!
 @17.3
@@ -1651,7 +1651,7 @@ What!\nSummon my retainers at once!
 @17.4
 What is it?
 @17.5
-\#1AD has raised an army to march on the capital\nand is heading for our lands!
+\#1AD has raised an army to march on the capital and is heading for our lands!
 @17.6
 What!\n\#1AD...!
 @17.7
@@ -1659,29 +1659,29 @@ Our lord is calling for you.\nPlease come to the Council Chamber at once.
 @17.8
 Good, I will come at once!
 @17.9
-You have all heard by now.\n\#1AD has raised an army\nto march on the capital.
+You have all heard by now.\n\#1AD has raised an army to march on the capital.
 @17.10
-I asked Lord \#894 for reinforcements,\nbut there has been no reply.
+I asked Lord \#894 for reinforcements, but there has been no reply.
 @17.11
 So we must fight alone.
 @17.12
-The enemy will march west\nfrom around \40F8.
+The enemy will march west from around \40F8.
 @17.13
-First we gather at \40F9,\nand meet the enemy with\nthe castle as our shield.
+First we gather at \40F9, and meet the enemy with the castle as our shield.
 @17.14
 My lord, if I may...
 @17.15
 What is it, \#7FC?
 @17.16
-Might that not be\na trap of \#5AD's?
+Might that not be a trap of \#5AD's?
 @17.17
-If we hold out in the castle, we are a nuisance...\nIt seems to me he is trying\nto lure us out.
+If we hold out in the castle, we are a nuisance...\nIt seems to me he is trying to lure us out.
 @17.18
 Even if we hold out, no help will come!\nI will leave the castle and fight!
 @17.19
-Entrust your lives to \%00.\nWe must stop the \#9AD army\nwhatever the cost!
+Entrust your lives to me.\nWe must stop the \#9AD army whatever the cost!
 @18.0
-My lord!\nYou have returned safely!
+My lord!\nThank heaven you are back safely!
 @18.2
 Ho, our lord is back!\nSecure every gate of the castle!
 @18.3
@@ -1693,39 +1693,39 @@ What are you saying!\nIf we do that, the enemy...!
 @18.7
 Never mind!\nSome of our men may still be fleeing back.\nKeep them open for their sake too!
 @18.9
-And light plenty of watch fires,\nand sound the conch shells!\n\#7F2, are you there!
+And light plenty of watch fires, and sound the conch shells!\n\#7F2, are you there!
 @18.11
-You beat the drums!\nLoud enough to make the enemy flinch!
+You, beat the drums!\nLoud enough to make the enemy flinch!
 @18.12
 Y-yes...
 @18.13
-(What on earth\n is our lord thinking...?)
+(What on earth is our lord thinking...?)
 @18.14
-So \#158 has fled\ninto \40F5.
+So \#158 has fled into \40F5.
 @18.15
-He must have realised he is\nno match for our \#9AD army...
+He must have realised he is no match for our \#9AD army...
 @18.16
-Then shall we deal\nthe \#958 army the final blow?
+Then shall we deal the \#958 army the final blow?
 @18.17
 Wait, Lord \#BF0!
 @18.19
 The castle is too lightly guarded...\nAnd look!\nEvery gate stands wide open...
 @18.20
-It is true...\nIt is as if they were\ninviting us to attack.
+It is true...\nIt is as if they were inviting us to attack.
 @18.21
-No, that is not it.\nThough no match for our lord \#5AD,\nthey say \#558 is a skilled general.
+No, that is not it.\nThough no match for our lord \#5AD, they say \#558 is a skilled general.
 @18.22
 Could this be... a trap?
 @18.23
-Indeed... lighting the place up like that,\nsounding conch shells and drums...\nIt is eerie.
+Indeed... lighting the place up like that, sounding conch shells and drums...\nIt is eerie.
 @18.24
-Lord \#BF0,\nbest not to pursue too far!\nLet us withdraw.
+Lord \#BF0, best not to pursue too far!\nLet us withdraw.
 @18.25
 What!\nTurn back after coming this far!?
 @18.26
-The \#958 army has been hurt enough.\nThey will no longer dare\nto defy our \#9AD.
+The \#958 army has been hurt enough.\nThey will no longer dare to defy our \#9AD.
 @18.27
-Besides,\nwasting time on a petty castle like this\nwould only delay our march on the capital.
+Besides, wasting time on a petty castle like this would only delay our march on the capital.
 @18.29
 "The wise man keeps away from danger."\nCome, let us return to camp!
 @18.30
@@ -1735,89 +1735,89 @@ Oh!\nThe \#9AD army is pulling back!
 @18.32
 Ha ha ha!\nThe schemer drowns in his own schemes.\nThey fell prey to their own suspicions.
 @18.34
-Be that as it may,\nwe must recover from this defeat\nas quickly as we can...
+Be that as it may, we must recover from this defeat as quickly as we can...
 @18.35
-Ah, Lord \#BFE,\nyou have returned!
+Ah, Lord \#BFE, you have returned!
 @18.36
-Yes.\nIt seems our lord, too, reached\nthe castle safely.
+Yes.\nIt seems our lord, too, reached the castle safely.
 @18.54
 The castle is too quiet...\nAnd look!\nEvery gate stands wide open...
 @18.68
-Our lord is truly great!\nHe may lose a battle,\nbut never a battle of wits!
+That is our lord for you!\nHe may lose a battle, but never a battle of wits!
 @19.0
-My lord, a letter has come\nfrom Lord \#894.
+My lord, a letter has come from Lord \#894.
 @19.1
 Oh... from Lord \#894?\nLet me see it.\nAnother request for reinforcements, perhaps...
 @19.2
-But that letter contained\na terrible order\nfor \#7FE.
+But that letter contained a terrible order for \#7FE.
 @19.3
-Its contents...\nThat \#177 and his mother,\n\#2AD, both be put to death...
+It said...\nthat \#177 and his mother, \#2AD, were both to be put to death...
 @19.4
-Wh-what is this! This letter!\nWhy would Lord \#894 order me\nto execute my wife and son...!?
+Wh-what is this! This letter!\nWhy would Lord \#894 order me to execute my wife and son...!?
 @19.5
-...There is one thing that\ncomes to mind.
+...There is one thing that comes to mind.
 @19.6
-What! Have \#577 or my wife\nsomehow offended Lord \#894!
+What is it! Have \#577 or my wife somehow offended Lord \#894!?
 @19.7
-No.\nIt is a rumour concerning the young\nlord's wife, Princess Toku.
+No.\nIt is a rumour concerning the young lord's wife, Princess Toku.
 @19.8
 Princess Toku?\nWhat has happened!
 @19.9
-It is the old quarrel between a wife\nand her mother-in-law. Lady Tsukiyama and\nPrincess Toku have long been at odds...
+It is the old quarrel between a wife and her mother-in-law. Lady Tsukiyama and Princess Toku have long been at odds...
 @19.11
-They say Princess Toku has been writing\nto her father, Lord \#894, slandering her\nhusband the young lord and Lady Tsukiyama...
+They say Princess Toku has been writing to her father, Lord \#894, slandering her husband the young lord and Lady Tsukiyama...
 @19.12
-Lord \#894 believed the slander,\nand is convinced that the young lord\nis in league with \#99F...
+Lord \#894 believed the slander, and is convinced that the young lord is in league with \#99F...
 @19.13
 Nonsense! \#99F is my enemy!\n\#577 could not be in league with him!
 @19.14
-Just so...\nBut Lord \#894 seems to have\nbelieved his beloved daughter.
+Just so...\nBut Lord \#894 seems to have believed his beloved daughter.
 @19.15
-Curse it...\nWhat a thing...!
+Curse it...\nThat it should come to this...!
 @19.16
-If I ignore the order, Lord \#894\nwill surely break our alliance\nand attack us at once.
+If I ignore the order, Lord \#894 will surely break our alliance and attack us at once.
 @19.17
-And yet I cannot let \#577 be dragged\ninto an ugly quarrel between\nwife and mother-in-law...
+And yet I cannot let \#577 be dragged into an ugly quarrel between wife and mother-in-law...
 @19.18
-My lord, go to the castle in any case!\nThe retainers have already heard the\nrumour and come to the castle!
+My lord, to the castle, in any case!\nThe retainers have already heard the rumour and gathered there!
 @19.20
 \%03!\nSomething terrible has happened!
 @19.21
-Lord \#094 has ordered the young lord,\nLord \#577, to commit seppuku!
+Lord \#094 has ordered the young lord, Lord \#577, to commit seppuku!
 @19.22
 What!?\nWhat does this mean!
 @19.23
-An envoy of the \#894 clan came just now.\nLord \#894 says the young lord\nis in league with \#99F...
+An envoy of the \#894 clan came just now.\nLord \#894 says the young lord is in league with \#99F...
 @19.24
-Nonsense!\nThe young lord, of all people,\nwould never do such a thing!
+Nonsense!\nThe young lord, of all people, would never do such a thing!
 @19.25
-But \#894's fury is terrible.\nHe will not hear a word\nof our side at all...
+But \#894's fury is terrible.\nHe will not hear a word of our side...
 @19.26
-It is a false charge.\nLord \#494 must have made it up\nto test us.
+It is a false charge.\nLord \#494 must have made it up to test us.
 @19.27
-It seems the cause is the young lord's\nwife, Lord \#894's own daughter,\nPrincess Toku.
+It seems the cause is the young lord's wife, Lord \#894's own daughter, Princess Toku.
 @19.28
 What do you mean!?
 @19.29
-Princess Toku has been at odds with her\nmother-in-law Lady Tsukiyama...\nthat is, the old lord's wife...
+Princess Toku has been at odds with her mother-in-law Lady Tsukiyama...\nthat is, the old lord's wife...
 @19.30
-They say she has long been writing to\nher father, Lord \#894, slandering\nthe lady and the young lord.
+They say she has long been writing to her father, Lord \#894, slandering the lady and the young lord.
 @19.31
-The rumour is that Lord \#894 has ordered\nthe death not only of the young lord but\nof Lady Tsukiyama too, so it must be so...
+Word has it that Lord \#894 has now ordered the death not only of the young lord but of Lady Tsukiyama too, so there is little doubt...
 @19.32
-Truly... a war between wife and\nmother-in-law is an ugly thing...
+Truly... a war between wife and mother-in-law is an ugly thing...
 @19.33
-The young lord must not be sacrificed\nto such an ugly war!\nI must advise our lord!
+The young lord must not be sacrificed to such an ugly war!\nI must advise our lord!
 @19.34
-My lord!\nWe cannot stay silent when such\nterms are thrust upon us!
+My lord!\nWe cannot stay silent when such terms are thrust upon us!
 @19.35
-Indeed.\nThis being so, we should rather ally\nwith \#99F and stand against \#094!
+Indeed.\nThis being so, we should rather ally with \#99F and stand against \#094!
 @19.36
-But with our house's present strength,\nmaking an enemy of \#894\nis far too dangerous...
+But with our house's present strength, making an enemy of \#894 is far too dangerous...
 @19.37
 Why so faint-hearted!\nMy lord, we are behind you!\nIgnore such an outrageous order!
 @19.39
-Our lord is suffering too.\nThere is no use in all\nthis clamour around him.
+Our lord is suffering too.\nClamouring around him will not help.
 @19.40
 But, my lord!\nWe are not \#894's retainers!\nSuch an order is beyond all reason!
 @19.41
@@ -1825,29 +1825,29 @@ Yes! Yes!\nWe are not \#894's vassals!\nJust ignore such nonsense!
 @19.43
 My lord!\nI have brought the lady and the young lord...
 @19.46
-\#577, I ask you once more.\nThe rumour that you are in league\nwith \#19F... is it true?
+\#577, I ask you once more.\nThe rumour that you are in league with \#19F... is it true?
 @19.47
-There is no such thing!
+That cannot possibly be true!
 @19.48
 And you, Tsukiyama?
 @19.49
-I have nothing to say.\nIt is for you, my lord, to decide\nwhether you believe me...
+I have nothing to say.\nIt is for you, my lord, to decide whether you believe me...
 @19.50
-...or whether, like Nobunaga,\nyou believe that little girl.\nOne or the other.
+...or whether, like Nobunaga, you believe that little girl.\nOne or the other.
 @19.52
-Father!\nMother has done\nnothing wrong!
+Father!\nMother has done nothing wrong!
 @19.53
-Then it is all Princess Toku's slander,\nis it? Then bring Princess Toku here!
+So it is all Princess Toku's slander, is it?\nThen bring Princess Toku here!
 @19.54
 But she...
 @19.56
-Toku has... gone back to\nher family home in \50FB...
+Toku has... gone back to her family home in \50FB...
 @19.58
-My lord!\nThis is no longer\na time for debate!
+My lord!\nThis is no longer a time for debate!
 @19.59
 Keep the alliance with \#894...\nor save the lady and the young lord...\nIt is one or the other.
 @19.60
-If you refuse Lord \#894's order,\nour house will be in dire straits...
+If you refuse Lord \#894's order, our house will be in dire straits...
 @19.61
 Order both to die
 @19.62
@@ -1855,23 +1855,23 @@ Save only \#577
 @19.63
 Refuse \#494's order
 @19.64
-\#577, it seems you did not understand\nhow important our alliance with\nLord \#894 is.
+\#577, it seems you did not understand how important our alliance with Lord \#894 is.
 @19.65
 Father!?
 @19.66
-To keep the alliance, you should have\ncounselled your wife and made peace\nbetween her and your mother...
+To keep the alliance, you should have counselled your wife and made peace between her and your mother...
 @19.67
-That Princess Toku slandered us\nis your fault.\nCommit seppuku...
+That Princess Toku slandered us is your fault.\nCommit seppuku...
 @19.69
 Young lord...\nThis too is for the \#958 clan.
 @19.70
-I will not accept this!\nWill you too, my lord, believe the\nslander of that little girl!?
+I will not accept this!\nWill you too, my lord, believe the slander of that little girl!?
 @19.71
-Silence! What do you mean by quarrelling\nwith Princess Toku, daughter of our\nprecious ally! Are you \#577's mother!
+Silence! What do you mean by quarrelling with Princess Toku, daughter of our precious ally! And you call yourself \#577's mother!
 @19.72
 My lord! Those words...\nthey are too cruel!
 @19.73
-Mother!\n\#577 has already\nmade up his mind...
+Mother!\nI, \#577, am already resolved...
 @19.74
 You must not, Nobuyasu!\nYour mother will not allow it!
 @19.75
@@ -1881,13 +1881,13 @@ What!\nWhat did you just say!?
 @19.77
 Father!\n\#577 will commit seppuku!\nBut please spare Mother!
 @19.78
-No! The mother shares the guilt.\nAnd Lord \#894 demands\nthe death of both...
+No! The mother shares the guilt.\nAnd Lord \#894 demands the death of both...
 @19.79
-How pitiful!\nHave you not even the courage\nto stand up to \#494!
+For shame!\nHave you not even the courage to stand up to \#494!?
 @19.80
 Silence!
 @19.81
-No, I will not be silent!\n\#094, who killed my father-in-law and\nwould kill my son... I will never forgive him!
+No, I will not be silent!\n\#094, who killed my father-in-law and would kill my son... I will never forgive him!
 @19.82
 I told you to be silent!\nEnough... Someone!\nTake them both into the next room!
 @19.83
@@ -1895,27 +1895,27 @@ Yes, my lord!\nMy lady, forgive me!
 @19.84
 What are you doing, insolent wretch!\nLet go of me!\nAaah!
 @19.85
-Father... stay well.\nFrom the world beyond, I will watch\nover the prosperity of the \#958 clan...
+Father... stay well.\nFrom the world beyond, I will watch over the prosperity of the \#958 clan...
 @19.86
-Forgive me... \#577.\nYour father was not strong enough\nto save you... forgive me.
+Forgive me... \#577.\nYour father was not strong enough to save you... forgive me.
 @19.87
 Father...\nfarewell...!
 @19.88
-In \@001/\@002, at \#094's demand,\n\#158 ordered the death of his wife,\nLady Tsukiyama, and his heir \#177...
+In \@001/\@002, at \#094's demand, \#158 ordered the death of his wife, Lady Tsukiyama, and his heir \#177...
 @19.89
-\#577 was only \1008...\nIt was a death far too young...
+\#577 was only \1008...\nHe died far too young...
 @19.90
-\#577 was still in his teens...\nIt was a death far too young...
+\#577 was still in his teens...\nHe died far too young...
 @19.91
-My lord... so that such a thing never\nhappens again, our house must have the\nstrength to stand up to \#894...
+My lord... so that such a thing never happens again, our house must have the strength to stand up to \#894...
 @19.92
-The young lord's death is a sorrow,\nbut we must destroy \#99F, the cause\nof the suspicion, as soon as we can...
+The young lord's death is a grievous thing, but we must lose no time in destroying \#99F, the root of the suspicion...
 @19.93
 I know...\nYou may all withdraw now.
 @19.103
 Tsukiyama...!\nI order your death.
 @19.106
-No! This affair was caused\nby the quarrel between you and Princess Toku.\nThat crime deserves death!
+No! This affair was caused by the quarrel between you and Princess Toku.\nThat crime deserves death!
 @19.110
 I told you to be silent!\nEnough... Someone!\nTake Tsukiyama into the next room!
 @19.112
@@ -1923,129 +1923,129 @@ What are you doing, insolent wretch!\nLet go of me!
 @19.113
 Argh!
 @19.114
-Very well...\nBecoming the wife of \#158 was\nthe great mistake of my life!
+Very well...\nBecoming the wife of \#158 was the great mistake of my life!
 @19.115
 Farewell, \#158!\nI will be waiting for you in hell!
 @19.116
 Mother!!
 @19.117
-In \@001/\@002, \#158 ordered\nthe death of his wife, Lady Tsukiyama...
+In \@001/\@002, \#158 ordered the death of his wife, Lady Tsukiyama...
 @19.118
-...for the crime of inciting his heir\n\#577 to ally with \#99F.
+...for the crime of inciting his heir \#577 to ally with \#99F.
 @19.119
-\#2AD, born Lady Sena,\nended her turbulent life\nat the age of \1008...
+\#2AD, known as Lady Sena, ended her turbulent life at the age of \1008...
 @19.120
-Father...\nthis is too cruel\nto Mother...
+Father...\nthis is too cruel to Mother...
 @19.121
 Say no more, \#577.\nThis too was to save you.\nYour mother died in your place...
 @19.123
 But, my lord...\nyou have defied Lord \#894's order.\nI fear what may come of it...
 @19.124
-It cannot be helped.\nI cannot lose my heir for\nthe sake of an alliance...
+There was no other way.\nI cannot lose my heir for the sake of an alliance...
 @19.125
-As expected, \#494, enraged at the\ndefiance of his order, ended his\nalliance with the \#958 clan.
+Sure enough, \#494, enraged at the defiance of his order, ended his alliance with the \#958 clan.
 @19.126
-But though the \#894 and the \#958\nbecame enemies,\n\#177's life was saved...
+But though the \#894 and the \#958 became enemies, \#177's life was saved...
 @19.127
-I cannot lose my wife and son after all...\nIt is a pity, but I must part\nways with Lord \#894!
+I cannot lose my wife and son after all...\nIt is a pity, but I must part ways with Lord \#894!
 @19.130
-Well said, my lord!\nThat is our lord!
+Well said, my lord!\nNow that is our lord!
 @19.131
-Indeed!\nThe likes of \#894 - we will\nscatter them for you, just watch!
+Indeed!\nWe will scatter the likes of \#894 before your very eyes!
 @19.132
-That is my husband!\n\#494 was my enemy from the start!\nYou were right to cut the alliance!
+Now that is my husband!\n\#494 was my enemy from the start!\nYou were right to break the alliance!
 @19.133
-Father...\nForgive me for driving the \#958\ninto dire straits because of me...
+Father...\nForgive me. Because of me, the \#958 clan is in dire straits...
 @19.134
-\#577, there is no need to grieve.\nIt is all the fault of that little girl\nand \#494...!
+\#577, there is no need to grieve.\nIt is all the fault of that little girl and \#494...!
 @19.136
 Do not worry, \#577.
 @19.137
-Had I not refused this time,\nLord \#894 would have come\nwith still more impossible demands...
+Had I not refused this time, Lord \#894 would have come with still more impossible demands...
 @19.138
-Then we \#958 would have\nhad to stand ever further\nbeneath \#894...
+Then we \#958 would have had to bow ever lower to \#894...
 @19.139
-One day we would have had\nto part ways anyway.\nIt is not your fault...
+One day we would have had to part ways anyway.\nIt is not your fault...
 @19.141
-But, my lord!\nThis puts our house in\ndire straits.
+But, my lord!\nThis puts our house in dire straits.
 @19.143
-Lord \#894 will surely\nmarch his army\nagainst our house.
+Lord \#894 will surely march his army against our house.
 @19.144
-Then we will hold him off!\nMy lord, there is nothing\nto worry about!
+Then we will hold him off!\nMy lord, there is nothing to worry about!
 @19.147
-And he issued an order to\nall his generals to strike\nthe \#958 clan...
+And he issued an order to all his generals to strike the \#958 clan...
 @19.164
-How pitiful!\nHave you not even the courage\nto stand up to \#494!
+For shame!\nHave you not even the courage to stand up to \#494!?
 @19.182
 What!?\nWhat does this mean!
 @19.193
-They say the old lord, to keep the alliance\nwith \#894, wept as he ordered\nthe death of the two of them...
+They say the old lord, to keep the alliance with \#894, wept as he ordered the death of the two of them...
 @19.194
-Truly!\nIt must have been hard\nfor our lord too...
+Truly!\nIt must have been hard for our lord too...
 @19.195
-From now on, \#3FE's base\nwill be \40F9.
+From now on, \#3FE's base will be \40F9.
 @20.0
-Phew.\nThanks to Lord \#800, it seems\nwe are out of danger.
+Phew.\nThanks to Lord \#800, it seems we are out of danger.
 @20.1
-But it will not end here...\nLord \#894 will surely want to fight\n\#8F6 and \#8D0 again...
+But it will not end here...\nLord \#894 will surely want to fight \#8F6 and \#8D0 again...
 @20.2
-Yes... knowing Lord \#894,\nthere is no doubt of it.
+Yes... knowing Lord \#894, there is no doubt of it.
 @20.5
-My lord!\nAn urgent envoy from Lord \#894,\nasking for reinforcements again!
+My lord!\nAn urgent envoy from Lord \#894, asking for reinforcements again!
 @20.6
-So it has come.\nSooner than I thought...\nLord \#894 is quick once he decides.
+So it has come, as I thought.\nSooner than I expected, though...\nOnce Lord \#894 decides, he moves fast.
 @20.7
-This time we are ready.\nWe will scatter the likes of\n\#8F6 and \#8D0.
+This time we are ready.\nWe will scatter the likes of \#8F6 and \#8D0.
 @20.8
 Yes. Then we march!
 @21.0
-Old lord,\nan envoy has come from the \#896 clan.
+My lord, an envoy has come from the \#896 clan.
 @21.1
 Oh?\nAnd what does he want?
 @21.2
-He says the \#958 troops are\nfilling in even the inner moat of\n\50F8 Castle, against the agreement...
+He says the \#958 troops are filling in even the inner moat of \50F8 Castle, against the agreement...
 @21.3
-Ignore him, ignore him.\nTell him that \&00 have a lung complaint\nand can see no one.
+Ignore him, ignore him.\nTell him that \&00 have a lung complaint and can see no one.
 @21.5
-...Ha ha ha ha ha! All as planned.\nI can just picture how\nthe lady mother must be fuming.
+...Ha ha ha ha ha! All as planned.\nI can just picture that mother of his fuming.
 @22.0
 Listen well, all of you!
 @22.2
 We now attack \50F8!
 @22.3
-We will destroy the \#896,\nand make the realm the \#958 clan's\nin name and in fact.
+We will destroy the \#896, and make the realm the \#958 clan's in name and in fact.
 @22.4
 \#7F0!
 @22.6
 What are the daimyō doing?
 @22.7
-\#01C, \#0DC and the others\nare marching one after another\ntoward \50F8.
+\#01C, \#0DC and the others are marching one after another toward \50F8.
 @22.8
-They are marching one after\nanother toward \50F8.
+They are marching one after another toward \50F8.
 @22.9
-What is more, the \#896 side is losing heart,\nand there are even deserters...\nThey are a mere rabble after all.
+What is more, the \#896 side is losing heart, and there are even deserters...\nThey are a mere rabble after all.
 @22.10
-Good, good... we stand firm as a rock.\nThere is not one chance\nin a thousand of defeat.
+Good, good... we stand firm as a rock.\nThere is not one chance in a thousand of defeat.
 @22.11
 Listen.\nWe need no supply train.\nMarch with rations at your belts.
 @22.12
-It will surely be settled\nwithin a few days.
+It will surely be settled within a few days.
 @22.13
 Yes, my lord. As you command.
 @22.14
-Listen, all of you!\nKnow that this battle is the battle\nthat will bring peace to the realm!
+Listen, all of you!\nKnow that this is the battle that will bring peace to the realm!
 @22.16
 Now, we march!
 @23.0
-Old lord! This is \40FB!\nHold on!
+My lord! We are at \40FB!\nStay with us!
 @23.2
-Is \#7F1...\nhere...
+\#7F1...\nis he here...?
 @23.3
-\&01!\nI am here!
+My lord!\nI am here!
 @23.5
 I thought...\nI would give you...\nthe realm...
 @23.6
-I regret to say,\nLord \#7F1 is not here...
+I regret to say, Lord \#7F1 is not here...
 @23.8
 Listen...
 @23.9
@@ -2053,8 +2053,12 @@ This is...\nmy last will...
 @23.11
 I leave the headship...\nto \#7F1...\nAll of you, support him...
 @23.12
-Old lord!
+My lord!
 @23.13
-\#158, hero of the Warring States,\nhere fell into eternal sleep...
+Here \#158, hero of the Warring States, passed into his eternal sleep...
 @23.14
-He was \1006 years old...
+He died at the age of \1006...
+@18.10
+Yes!\nHere I am!
+@18.45
+Yes!\nHere I am!

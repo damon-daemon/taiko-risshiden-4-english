@@ -15,7 +15,7 @@ I hope that is so...
 @0.7
 Is something troubling you?
 @0.8
-No, nothing... I shall show Lord \#958 a welcome such as I, \#0F5, give but once in a lifetime.
+No, nothing... I, \#0F5, shall give Lord \#958 the finest welcome of my life.
 @0.9
 \#3FE had rare delicacies gathered from every province, and ordered the best cook in Kyōto to be found...
 @0.10
@@ -45,11 +45,11 @@ Ah, Lord \#BFE. Thank you for your trouble as my host.
 @2.1
 Lord \#958, welcome. Please enjoy your stay in \50F9 at your leisure.
 @2.2
-Then I shall not hold back.
+Then I shall gladly do so.
 @2.3
-How was it? That is a brief look around...
+How did you find it? That was only a brief tour, but...
 @2.4
-Beyond all my expectations. Just what I would expect of Lord Oda's castle: there is nothing to match its grandeur...
+Beyond all my expectations. Lord Oda's castle indeed: its grandeur has no equal...
 @2.5
 You are too kind.
 @2.6
@@ -69,7 +69,7 @@ Yes! Of course not. I have seen to everything...
 @2.13
 Good. Now, Lord \#958, let us go up to the keep at once!
 @2.15
-Ah... The view from the keep is something else. I am truly impressed.
+Ah... The view from the keep is finer still. I am truly impressed.
 @2.16
 Hahaha, I am glad you like it, Lord \#958! ...\#7FE!
 @2.18
@@ -77,7 +77,7 @@ Is the food and drink not ready yet!? With Lord \#958 so taken with this view, h
 @2.19
 Yes, my lord. It is ready.
 @2.20
-Lord \#BFE, so attentive... I thank you.
+You think of everything, Lord \#BFE... I thank you.
 @2.21
 Come, Lord \#958, first a cup...
 @2.22
@@ -87,7 +87,7 @@ No ceremony here! Drink up, drink up! And the fish here is delicious, too.
 @2.24
 Let me try some... Indeed, it is very good.
 @2.25
-Is it not? Let me have some too... ...Hm?
+Is it not? Let me have some too... Hm?
 @2.26
 Lord \#894, is something wrong?
 @2.28
@@ -95,7 +95,7 @@ Yes, my lord! I am here.
 @2.29
 What is this fish!?
 @2.30
-My lord... It was caught only this morning, fresh, and...
+My lord... That fish was caught only this morning and prepared fresh...
 @2.31
 Do not lie to me! This fish is rotten!
 @2.32
@@ -105,11 +105,11 @@ How dare you talk back to your lord!
 @2.34
 ...F-forgive me.
 @2.35
-To serve such fish to Lord \#958, our precious ally... This is your failure!
+To serve such fish to Lord \#958, our valued ally... The fault is yours!
 @2.37
-Enough... Leave!
+Enough... Leave us!
 @2.39
-Did you not hear me!? I said leave!
+Did you not hear me!? I said leave us!
 @2.41
 Why... I prepared perfectly fresh fish... Is there something wrong with the old lord's nose?
 @2.42
@@ -169,7 +169,7 @@ Ah, my lord! You are back early... Did you carry out your duty as Lord \#958's h
 @3.1
 No, I was dismissed...
 @3.3
-Far from it. We must prepare for war...
+Worse than that: we are to prepare for war...
 @3.4
 What do you mean!?
 @3.5
@@ -193,7 +193,7 @@ Refuse such an unreasonable order!
 @3.17
 (But if I rebel... can I really win...?)
 @3.18
-My lord! What will you do? A letter to the old lord refusing...
+My lord! What will you do? Shall we send the old lord a letter of refusal...
 @3.19
 ...I have decided!
 @3.21
@@ -219,9 +219,9 @@ I think that is wise...
 @3.43
 \#3FE's lands were taken from him, and he was demoted to Chief Retainer...
 @3.44
-It cannot be helped...
+So be it...
 @3.47
-Merit fell to 3000. \#3FE's seat moved to \40F8.
+Merit fell to 3,000. \#3FE's seat moved to \40F8.
 @5.0
 \#3FE, my lord! \#18A has rejected our demands and is preparing to fight!
 @5.1
@@ -241,7 +241,7 @@ An honour to meet you. I am \#18A.
 @6.5
 Welcome... Then we may proceed with the peace, I take it?
 @6.6
-Yes, I ask for your good offices.
+Yes, I leave it in your hands.
 @6.7
 Lord \#4F5, about the hostage...
 @6.8
@@ -279,7 +279,7 @@ You... fool!!
 @7.10
 Peace with \#98A, you say? Who gave you leave to do that!?
 @7.11
-B-but... \&03 told me to deal with \#98A quickly...
+B-but... \&03, you told me to deal with \#98A quickly...
 @7.12
 I told you to attack \#98A quickly! Who told you to make peace!?
 @7.13
@@ -295,15 +295,15 @@ Seize \#18A.
 @7.21
 P-please wait! What do you mean to do with \#58A!?
 @7.22
-...Kill him!
+...Have him cut down!
 @7.23
 \&03!! For this peace, I gave my own mother to the \#98A as a hostage!
 @7.24
 If anything happens to \#18A, my mother's life is forfeit! I beg you, spare \#58A's life!
 @7.25
-...No! \#98A is a two-faced man who does not know a samurai's duty. I cannot forgive him.
+...No! \#98A is a two-faced man who does not know a samurai's duty. I cannot pardon him.
 @7.26
-Making peace on your own without knowing your place is outrageous... \#4F5... you have brought this on yourself!
+To forget your place and make peace on your own is an outrage... \#4F5... you have brought this on yourself!
 @7.28
 If you want to save your mother, take \40F8 with all your might before the \#98A learn of \#58A's execution!
 @7.30
@@ -317,25 +317,25 @@ Ah, what a terrible thing... At any rate, I must hurry back to \50F8!
 @7.34
 As \#4F5 returned to his castle in despair, a black resentment began to settle in his heart...
 @8.0
-Pay for betraying our lord, \#4F5!
+Now pay for our lord, murdered by your treachery, \#4F5!
 @8.1
 Ngh! At a time like this...
 @8.2
 Y-you were lucky, \#4F5... But Lord \#58D will avenge us... Heh heh heh... Urgh...
 @8.3
-Wahahaha! I have slain \#0F5, our lord's enemy! How do you like that, Mitsuhide!
+Wahahaha! I have slain \#0F5, our lord's enemy! Take that, Mitsuhide!
 @8.4
 Ugh...
 @8.5
 M-Mother... Forgive... me! Ah... to end like this...
 @9.0
-Phew, phew... At last I am back in \50F8... I must save Mother at once!
+Hah, hah... At last I am back in \50F8... I must save Mother at once!
 @9.1
 Lord \#0F5... I have sad news...
 @9.2
 When \#18D learned of his brother \#58A's execution, he flew into a rage... and in revenge, your mother... was crucified...
 @9.3
-What...!? M-Mother... Tell me it is a lie!?
+What...!? M-Mother... Tell me it is not true!
 @9.4
 ... I am sorry... It is the truth.
 @9.5
@@ -343,7 +343,7 @@ Aaargh...!! Forgive me... Mother!!
 @9.6
 All because I, Mitsuhide... did not think it through! Forgive me!!
 @9.7
-What is more... all Tanba feels betrayed by you, Lord \#8F5, and is rising against \#894 and \#8F5!
+What is more... all of Tanba feels betrayed by Lord \#8F5, and anger against the \#894 and the \#8F5 is rising!
 @9.8
 Ngh... *sob*... Curse you, \#98D! I will make you pay!!
 @9.9
@@ -353,11 +353,11 @@ Why, if it isn't \&03! It has been a long time. Lovely weather lately...
 @10.1
 \&03... Forgive me, but I am in a hurry.
 @10.2
-Now, now, don't say that... It has been a long time\&05...
+Now, now, don't say that... It has been a long time...
 @10.3
 I said I have no time to talk with \&01 right now! Excuse me!!
 @10.4
-What is that about... He went pale as a ghost...
+What was that about... The look on his face...
 @10.5
 Ngh, I must hurry!!
 @11.7
@@ -425,7 +425,7 @@ Lord \#58A, head of the \#98A clan, must come to \50FA to pay his respects. Is t
 @13.25
 It is. But for \#58A to go to \50FA, there is one more condition.
 @13.26
-As a guarantee of \#58A's life, we ask the \#8F5 side for a hostage... Your mother, Lord \#8F5...
+As a guarantee of \#58A's life, we ask the \#8F5 for a hostage... Your mother, Lord \#8F5...
 @13.27
 Wh-what did you say! My mother as a hostage!?
 @13.28
@@ -435,17 +435,17 @@ Accept the peace
 @13.31
 Refuse to listen
 @13.32
-...I accept the matter of the hostage.
+...Very well. You shall have your hostage.
 @13.33
 Truly!? Lord \#8F5, I am grateful!
 @13.34
-Then some day soon, come to my castle, \40F5, with Lord \#58A. I, \#4F5, will take you to \50FA.
+Then, in a few days, come to my castle, \40F5, with Lord \#58A. I, \#4F5, will take you to \50FA.
 @13.35
 Understood. Then, by your leave!
 @13.36
-\&03! Is it right to give your mother as a hostage? There is no need to rush the conquest of Tanba so...
+\&03! Must you give your mother as a hostage? There is no need to hurry the conquest of Tanba so...
 @13.37
-It is right, \&03. No blood will be shed in vain... and Lord \#494 will be pleased too.
+It is for the best, \&03. No blood will be shed in vain... and Lord \#494 will be pleased too.
 @13.38
 Now, back to \40F5!
 @13.40
@@ -465,7 +465,7 @@ After his defeat, the heartbroken \#3FE passed through the village of Ogurusu in
 @14.30
 \#0F5 met a wretched end in the village of Ogurusu on his way home... He was \1009 years old...
 @15.4
-The battle between \#3FE and \#000 ended in an overwhelming victory for \#400... It is known as the Battle of Yamazaki / Mount Tennō.
+The battle between \#3FE and \#000 ended in an overwhelming victory for \#400... It is known as the Battle of Yamazaki, or of Mount Tennō.
 @15.20
 But not only \#400: many former Oda commanders also bore a strong grudge against \#7FE for killing his lord...
 @15.21
@@ -473,7 +473,7 @@ For \#7FE, the days of constant vigilance went on...
 @15.22
 It was not decided, but we somehow drove off the \#800 army.
 @16.0
-\&01, a letter has come from the old lord at \50FA.
+My lord, \&01 have a letter from the old lord at \50FA.
 @16.1
 Hm? From the old lord? What can it be... Let me see...
 @16.4
@@ -497,9 +497,9 @@ Make them vassals
 @16.14
 Take them by force
 @16.15
-I cannot throw away men for nothing after all. Shall I send an envoy to \#98A...
+I cannot throw away men for nothing after all. Let us try sending an envoy to \#98A...
 @16.16
-If they give a hostage, their lives and lands will be confirmed... Negotiate on those terms.
+If they give a hostage, we guarantee their lives and lands... Negotiate on those terms.
 @16.17
 Yes! I will see to it at once.
 @16.18

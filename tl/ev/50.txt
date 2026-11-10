@@ -1,5 +1,5 @@
 @0.13
-...But then again,\n\#4F5 may well attack this castle...
+...But then again, \#4F5 may well attack this castle...
 @0.14
 I must flee at once...!\nIt's not safe here!
 @2.1

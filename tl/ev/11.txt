@@ -1,7 +1,7 @@
 @0.0
-Phew... now I need no longer obey\nthat \#494's unreasonable orders...
+Phew... now I need no longer obey that \#494's unreasonable orders...
 @0.1
-But, my lord,\nwhat do you intend to do now?
+But, my lord, what do you intend to do now?
 @0.3
 Grave news!
 @0.4
@@ -11,17 +11,17 @@ The \#000 army is closing in!\nIt seems to be making for our castle!
 @0.6
 Impossible!\n\#000, you say!?
 @0.7
-\#400 should be busy with the Chūgoku campaign.\nHe cannot get back so soon...
+\#400 should be tied up in the Chūgoku campaign.\nHe should not be able to return so soon...
 @0.8
-But there is no mistake!\nA large army, closing in\nat a frightening speed!
+But there is no mistake!\nA large army, closing in at a frightening speed!
 @0.9
 Grr...\nMy lord! Prepare to meet them at once!
 @1.0
 Right! Halt!
 @1.1
-Eh? Why are we stopping here?\nWeren't we going to reinforce\nLord \#800's army...?
+Eh? Why are we stopping here?\nWeren't we going to reinforce Lord \#800's army...?
 @1.3
-Listen, men!\nThis army is not marching\nto reinforce the \#800 unit!
+Listen, men!\nThis army is not marching to reinforce the \#800 unit!
 @1.5
 Our enemy is \#094!
 @1.6
@@ -31,15 +31,15 @@ Th-then...\nr-rebellion!?
 @1.8
 My lord!!\nDo you truly mean it!?\nYou intend... to rebel!
 @1.9
-My Akechi clan is of the noble Toki Genji line...\nI can no longer bear to obey the lawless orders\nof such an upstart!
+My Akechi clan is of the noble Toki Genji line...\nI can no longer bear to obey the lawless orders of such an upstart!
 @1.10
-Now, while he is at Honnō-ji,\nis the perfect chance!
+Now, while he is at Honnō-ji, is the perfect chance!
 @1.11
 My lord...\nyour mind is made up, then.
 @1.12
 It is!\nI will bring down \#094!
 @1.13
-...I understand.\nIf you are so resolved, my lord,\nhow could we stop you?
+...I understand.\nIf you are so resolved, my lord, how could we stop you?
 @1.15
 I am with you!
 @1.16
@@ -65,15 +65,15 @@ Aaagh!
 @1.27
 Bah, what is taking so long!\nAttack all at once!
 @2.0
-My lord, the \#800 army\nseems to be in high spirits.
+My lord, the \#800 army seems to be in high spirits.
 @2.3
-Other generals seem to have\njoined his side as well...
+Other generals seem to have joined his side as well...
 @2.4
-Yes, sir!\nIt seems the old Oda senior retainers are helping him.
+Yes, my lord!\nIt seems the old Oda senior retainers are helping him.
 @2.5
 ...Why?\nWhy does no one come to my side?
 @2.7
-It was I who brought down \#094, the Demon King\nof the Sixth Heaven, and restored order to the world!\nSo why!?
+It was I who brought down \#094, the Demon King of the Sixth Heaven, and restored order to the world!\nSo why!?
 @2.8
 My lord! You have us!\nPlease, take heart...!
 @2.9
@@ -87,11 +87,11 @@ My lord!
 @3.2
 \#4F5...\nyou will never rule the realm.\nNot you.
 @3.3
-Set fire to the temple.\nUntil it burns, let no one\nenter the main hall!
+I shall set fire to the temple.\nUntil then, let no one into the main hall!
 @3.5
 Heh...\nlooking back, it was an amusing life...
 @3.7
-"Of all who are given life,\nis there one who shall not perish~"
+"Of all who are given life, is there one who shall not perish..."
 @3.8
 My lord! It is the end!\nI go before you!
 @3.9
@@ -99,15 +99,15 @@ Death comes to all...
 @3.10
 Ugh!
 @3.11
-So \#094, the stormy hero of the Warring States,\nperished amid the crimson flames of Honnō-ji...\nat the age of \1009...
+So \#094, the stormy hero of the Warring States, perished amid the crimson flames of Honnō-ji...\nat the age of \1009...
 @3.12
 My lord!\nWe have won!
 @3.13
 Good! Well done.\nAnd \#494 and his son?
 @3.14
-\#094 seems to have died!
+It seems \#094 is dead!
 @3.16
-And his eldest son \#4AA\nwas struck down by our detached force!
+And his eldest son \#4AA was struck down by our detached force!
 @3.17
 Good! A great success so far!\nWe go back to the castle for now!
 @3.19
@@ -115,11 +115,11 @@ Ugh...!\nCurse you, \#494!
 @3.20
 My lord! Please withdraw!
 @3.21
-Bah, damnable!\nHas Heaven forsaken me!
+Damnation!\nHas Heaven forsaken me!
 @3.22
-After his defeat, \#0F5,\nheartbroken, passed through\nthe village of Ogurusu in Fushimi...
+After his defeat, \#0F5, heartbroken, passed through the village of Ogurusu in Fushimi...
 @3.23
-Grr... \#494...\nremember this...!
+Grr... \#494...\nyou will pay for this...!
 @3.25
 Gwaah!
 @3.26
@@ -137,7 +137,7 @@ My lord!!\nCurse you, you dogs!!
 @3.32
 Whoa...\nThis samurai looks high-born too.\nGet him!!
 @3.35
-On the way home, at Ogurusu village,\n\#4F5 and his men met a cruel end...\nA truly pitiful finish...
+On the way home, at Ogurusu village, \#4F5 and his men met a cruel end...\nIt was all over so suddenly...
 @4.0
 Our army is collapsing!
 @4.1
@@ -147,9 +147,9 @@ P-please, escape!
 @4.3
 Curse it...
 @4.4
-The battle between \#0F5 and \#000\nended in overwhelming victory for \#400:\nthe Battle of Yamazaki at Mount Tennō.
+The battle between \#0F5 and \#000 ended in overwhelming victory for \#400:\nthe Battle of Yamazaki at Mount Tennō.
 @4.5
-Hmm...\nIn any case, I must return to the castle\nand plan how to rise again...
+Hmm...\nIn any case, I must return to the castle and plan how to rise again...
 @4.9
 Wh-who goes there!\n...The enemy?
 @4.11
@@ -157,22 +157,22 @@ St-straggler hunters...\nTo be killed by the likes of these...
 @4.12
 W-was it a mistake after all...\nto strike down \#494...
 @4.17
-And so \#0F5 and his men,\nwho caused the Honnō-ji Incident and threw\nthe Oda and all Japan into chaos...
+And so \#0F5 and his men, who caused the Honnō-ji Incident and threw the Oda and all Japan into chaos...
 @4.19
 We have won!\nA great victory!
 @4.20
 Yes!\nYou all fought well!
 @4.21
-With this victory,\nmore of the old Oda retainers\nmay follow me...
+With this victory, more of the old Oda retainers may follow me...
 @4.22
 Good, back to the castle!
 @4.24
-Having driven off his rival \#000,\n\#0F5 reigned as a powerful daimyō\nholding key ground among the old Oda vassals...
+Having driven off his rival \#000, \#0F5 reigned as a powerful daimyō holding key ground among the old Oda vassals...
 @4.25
-But not only \#400:\nmany of the old Oda generals hated\n\#4F5 for killing his lord...
+But not only \#400:\nmany of the old Oda generals hated \#4F5 for killing his lord...
 @4.26
-For \#4F5,\nthere would be no letting his guard down...
+For \#4F5, there would be no letting his guard down...
 @4.27
-It was not decided,\nbut we managed to drive off the \#800 army.
+It was not decided, but we managed to drive off the \#800 army.
 @4.29
 Right...\nFor now, back to the castle!

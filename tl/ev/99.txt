@@ -21,13 +21,13 @@ Thump...\nthump...\nthmp...
 @5.6
 I have to finish this in one stroke...\nRight, here I go.
 @5.8
-What the hell are you!?\nIf you want to die, we'll be happy to oblige!
+Who the devil are you!?\nIf you want to die, we'll gladly oblige!
 @5.9
 He's strong!\nYou lot are no match for him!\nI'll cut him down myself!
 @5.10
 Hah, hah, hah...
 @5.11
-This guy...!\nIs he some kind of demon!?
+This one...!\nI-is he some kind of demon!?
 @5.12
 Raaah!
 @5.13
@@ -35,7 +35,7 @@ Gahh!
 @5.14
 Ugh!
 @5.15
-Did I get them all...
+Is that all of them...?
 @5.16
 Hm?\nWhen did I take a sword in each hand...?
 @5.17
@@ -53,7 +53,7 @@ Whsst!
 @6.0
 I've been waiting for you, \#7FE.
 @6.1
-Are you ready?
+You are prepared, I take it.
 @6.4
 None of you are to interfere!
 @6.5
@@ -63,13 +63,13 @@ Y-yes, sir!
 @6.7
 Master!
 @6.8
-(A fatal wound.\nHe won't survive.)
+(A mortal wound. He will not live.)
 @6.9
-Ugh...\nYou're good, \#7FE...\nMy brother will be no match for you either...
+Ugh...\nWell fought, \#7FE...\nMy brother will be no match for you either...
 @6.10
-Tell Denshichirō...\nto hold up the dojo... in my place...
+Tell Denshichirō... to carry on the dojo... in my place...
 @6.11
-And tell him... never to think...\nof avenging me...\nBe sure to tell him...
+And tell him... never to think... of avenging me...\nBe sure to tell him...
 @6.12
 Ugh...
 @7.0
@@ -77,11 +77,11 @@ Kindly leave.
 @8.1
 My name is Miyamoto Musashi.\nI request a match with Lord \#1EC.
 @8.2
-(A country bumpkin with a lot of nerve...\nLet's teach him a lesson.)
+(The gall of this country samurai...\nI'll rough him up a little.)
 @8.3
 Unfortunately, Master Yoshioka is away.\nIf you'll settle for me, I'll take you on.
 @8.4
-The instructor, eh.\nWhat shall I do?
+The assistant instructor, eh.\nWhat shall I do?
 @8.5
 Fight
 @8.6
@@ -95,7 +95,7 @@ Then let us begin.
 @8.10
 Hm? Isn't that \#7FE...
 @8.11
-Ugh! I can't believe I lost to a country bumpkin like this!
+Ugh! To think I'd lose to a country samurai like this!
 @8.12
 What are you doing!
 @8.13
@@ -113,7 +113,7 @@ It seems you are a man worth crossing swords with.\nI formally accept.
 @8.21
 I must see to this man's wounds, so please leave for now.\nI will face you properly another day.
 @8.22
-Very well.\nThen I'll take my leave.
+So be it.\nThen I shall take my leave.
 @8.23
 Interesting...
 @8.24
@@ -125,7 +125,7 @@ It's \#7FE!\n\#7FE is here!
 @9.2
 ...So you've finally shown up.
 @9.6
-\#7FE...\nyou win...
+\#7FE...\nThe victory is yours...
 @10.0
 You're \#3FE, aren't you!
 @10.1
@@ -133,7 +133,7 @@ Master \#103 is away, so I can't act on my own, but by rights I'd cut you down!
 @10.2
 Get out of here at once!
 @10.3
-Master \#103 is away.\nI have been appointed instructor in his place.
+Master \#103 is away.\nI have been charged with instructing in his place.
 @11.0
 Why, Lord \#7FE.\nYou've come at just the right time...
 @11.1
@@ -145,9 +145,9 @@ The pleasure quarter... you mean where the courtesans are?
 @11.4
 Yes. A friend of mine sent me an invitation.\nWon't you come along?
 @11.5
-I'll pass.\nIt would get in the way of my training.
+I had better not.\nIt would hinder my training.
 @11.6
-Now, now, don't say that...\nA man who knows nothing of love can hardly be called truly strong...
+Now, now, don't say that...\nA man who has never learned to cherish beauty can hardly be called truly strong...
 @11.7
 L-Lord \#693...
 @11.8
@@ -161,7 +161,7 @@ My, what strong arms you have, sir...\nAnd you're not bad-looking either...\nHow
 @11.12
 Wh-what... how many...?
 @11.13
-Do you like me, sir?\nOr is there someone else on your mind?
+Don't you care for me, sir?\nOr is there someone else on your mind?
 @11.14
 Someone on my mind?\nI-I...
 @11.15
@@ -169,11 +169,11 @@ There's someone I love
 @11.16
 There's no one
 @11.17
-Th-there's a woman named \#3F0\nwho has my heart!
+Th-there's a woman named \#3F0 who has my heart!
 @11.18
 Then it wouldn't do for me to steal you away, would it...
 @11.19
-Sorry!\nI've embarrassed you...
+Forgive me!\nI have shamed you...
 @11.20
 It's all right...
 @11.21
@@ -207,7 +207,7 @@ But the way of the sword has no end...
 @13.5
 What matters is whether there's anything I've left undone.
 @13.6
-Have I really...
+And what of me...?
 @13.10
 After that, \#7FE wandered the provinces, seeking service.
 @13.11
@@ -223,7 +223,7 @@ I still know little of the world.\nI can lose myself in thoughts any time.\nFor 
 @13.16
 I still know little of the world...\nI can lose myself in memories any time.\nFor now I'll just do what I've left undone.
 @14.0
-Well, a samurai.\nYou out to make a name with the sword too?
+Well now, sir.\nYou out to make a name with the sword too?
 @14.1
 Yes
 @14.2
@@ -251,7 +251,7 @@ Nijō and Sakamoto, then.\nThank you.
 @14.14
 So you're out to beat the Yoshioka and make a name for yourself too?
 @14.15
-Hm? Yes,\nthat's my plan, actually.\nAre you planning the same?
+Hm? Yes, that's my plan, actually.\nAre you planning the same?
 @14.16
 Something like that...\nWhat's your name?
 @14.17
@@ -261,7 +261,7 @@ Something like that...\nWhat's your name?
 @14.19
 What!? At the Yoshioka dojo!
 @14.20
-Heh...\nI'll do things my own way.\nSee you, \#7FE.
+Heh...\nI'll do things my own way.\nUntil next time, \#7FE.
 @14.21
 No, not especially.\nWhy?
 @14.22
@@ -275,7 +275,7 @@ Its head, Yoshioka Seijūrō, teaches at Nijō Castle, and his brother Denshichi
 @14.26
 Beat either one of them, and your name would ring all over Kyōto.
 @14.27
-They're that strong...
+Are they that strong...?
 @14.28
 (Then if I beat them both, would my name ring across the land?)
 @14.29
@@ -283,13 +283,13 @@ Mind you, they won't take on just anybody off the street.\nWell, good luck to yo
 @14.31
 Hm?\nAre you planning the same?
 @15.0
-Hm?\nWhat's that crowd?\nLet's go and see.
+Hm?\nWhat's that crowd?\nI'll go and take a look.
 @15.1
 What's going on?
 @15.2
-A duel, a duel!
+A fight, a fight!
 @15.5
-Kieee! Toh!
+Kiyaaah, hyaaah!
 @15.6
 Honestly, the weaker the dog, the louder it barks...\nWhy don't you hurry up and come at me?
 @15.7
@@ -307,7 +307,7 @@ Did you see it, \#63D?\nMy "Swallow Cut"!
 @15.16
 A killing stroke that can cut down even a swallow in flight.
 @15.19
-My sword... a monkey's imitation...
+My sword... aping others...
 @16.0
 Something seems wrong here...\nHey, has something happened?
 @16.1
@@ -315,7 +315,7 @@ You'd best run too, sir.\nThose men are coming again.
 @16.2
 Those men?
 @16.3
-Bandits!\nStarving rōnin who've banded together!\nThere must be dozens of them.
+Bandits!\nRōnin down on their luck who've banded together!\nThere must be dozens of them.
 @16.4
 Hey, you!\nThis is no time to be chatting!
 @16.5
@@ -339,7 +339,7 @@ That's right, \#63D.\nI've decided it's time to formally challenge you to a duel
 @17.5
 I knew this day would come.\nI accept gladly.
 @17.6
-I've found a place fit for you and me to die.\nGanryujima.
+I've found a place fit for you and me to die.\nGanryūjima.
 @17.7
 Ganryūjima...
 @17.8
@@ -349,7 +349,7 @@ Akamagaseki, then.\nVery well, I'll be there.
 @18.0
 (Kojirō...)
 @18.1
-Sir,\nmight you be \#3FE?
+Sir, might you be Lord \#3FE?
 @18.3
 Ah, I thought so...\nThen you're looking for \#23C?
 @18.4
@@ -361,7 +361,7 @@ he fell ill... and passed away...
 @18.7
 What! Kojirō!?
 @18.8
-(\#63C...\nYou went and died on your own...)
+(\#63C...\nGoing off and dying without a word to me...)
 @18.9
 You must be Lord \#63D.\nI've been waiting for you.\nLord \#63C has already left for Ganryūjima.
 @18.10
@@ -371,7 +371,7 @@ So as not to draw attention, a boat is ready at the edge of town.\nPlease leave 
 @19.2
 \#103 asked me to give you this.
 @19.3
-A challenge...
+A letter of challenge...
 @19.4
 "I await you at the dojo in Sakamoto Castle..."
 @19.5
@@ -385,13 +385,13 @@ You're \#3FE, aren't you?\nI have a message for you from Lord \#103.
 @19.9
 "I await you at the dojo in Sakamoto Castle."\nHe said you'd understand.
 @19.10
-Sakamoto Castle...\nVery well,\nI'll be there.
+Sakamoto Castle...\nVery well, I'll be there.
 @20.0
-Might you be \#3FE, who beat the Yoshioka brothers?
+Might you be Lord \#3FE, who beat the Yoshioka brothers?
 @20.1
 Yes, I am \#3FE.
 @20.2
-So \#3FE has joined the ranks of first-rate martial artists.
+So now you too have joined the ranks of the first-rate martial artists, Lord \#3FE.
 @20.3
 I'm hardly first-rate.\nI'm still travelling for training, as you see.
 @20.4
@@ -423,7 +423,7 @@ Oh yes, I almost forgot.\nA while ago I happened to witness a duel...
 @20.17
 How strong that man was!\nHe's sure to become a famous martial artist one day.
 @20.18
-His name was... Something \#A3C, I think.
+His name was... \#A3C something-or-other, I believe.
 @20.19
 \#A3C, you say!
 @20.20
@@ -435,13 +435,13 @@ No doubt about it.\nIt's \#23C!
 @20.23
 That's about all I know.
 @20.24
-Thank you for the lesson.\nI'll keep it in mind.
+I am grateful for the knowledge.\nI will bear it in mind.
 @21.0
 Phew.\nThat was close...\nI wonder if things have cooled down yet.
 @22.0
 I've broken my word as a samurai...\nForgive me, \#63C...
 @22.1
-Lord \#63D,\nI'll take you there.
+Lord \#63D, I'll take you there.
 @22.4
 \#3F1...\nI'll win and come back, I swear.
 @22.5
@@ -457,7 +457,7 @@ Lord \#63D, who is this?
 @22.11
 She is my...
 @22.12
-Wife
+My wife
 @22.13
 An acquaintance
 @22.14
@@ -481,7 +481,7 @@ Eh? Are you sure?
 @22.23
 There's no hurry...
 @22.25
-He's late... late, \#63D!\nDidn't the coward run away in fear?
+Late... \#63D is late!\nHas the man lost his nerve and fled?
 @22.26
 He'll come.\nYou just stand by and keep quiet.
 @22.27
@@ -489,16 +489,16 @@ Hmph...
 @22.28
 Look, here he comes.
 @22.30
-However late you come,\nyou won't catch me off guard.
+However late you come, you won't catch me off guard.
 @22.31
-Hm, \#63C, you are defeated!
+Hm! \#63C, you have already lost!
 @22.33
 Just now you threw away your scabbard...\nSword and scabbard are one.\nIn casting away your scabbard, you cast away your fate!
 @22.34
 What!\nYou talk nonsense in the middle of a duel!\nHere I come, \#63D!
 @22.36
-\#63D...\nyou win...\nDon't let... my spirit go to waste...
+\#63D...\nThe victory is yours...\nDon't let... my spirit go to waste...
 @22.37
 I thank you, \#63C...\nWithout you, I could never have grown strong...
 @22.38
-\#63C...\nyou win...
+\#63C...\nThe victory is yours...

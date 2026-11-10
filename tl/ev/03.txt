@@ -1,5 +1,5 @@
 @0.0
-At last our \#81C house has come far enough to aim for the realm.
+At last the \#81C house is strong enough to make a bid for the realm.
 @0.1
 Just as you say. But that does not mean our enemies are gone.
 @0.2
@@ -27,7 +27,7 @@ This is all thanks to your efforts. Today, drink your fill!
 @2.5
 Ha ha ha. \#7F2, do not overdo it.
 @2.6
-Be that as it may... My lord, my congratulations.
+In any case, my lord, congratulations.
 @2.7
 Mm... You too have served me well. I thank you.
 @2.8
@@ -35,17 +35,17 @@ You are too kind, my lord...
 @2.9
 But the real test begins now...
 @2.10
-...So, at last you aim for the realm...
+...So, at last, we set our sights on the realm?
 @2.11
-Yes. We will advance on the capital soon and seize the realm with these hands!
+Yes. We will soon push into the heartland and seize the realm with these hands!
 @2.12
 \#41C... You have done well... I thank you...
 @2.13
 Father... No, it is all thanks to you.
 @2.14
-Please go on supporting me, \#41C, from now on.
+Please continue to support your \#41C, Father.
 @2.15
-\#41C... Let us keep joining our strength and aim for a \#81C realm!
+\#41C... Let us go on joining forces and win the realm for the \#81C!
 @3.0
 \%03, \#251 has come to see you.
 @3.1
@@ -53,7 +53,7 @@ Oh, \#251... is he not under the \#A50?
 @3.2
 Yes. He betrayed the \#81C house once before.
 @3.3
-I see... So he means to sound out my worth, and turn coat again if the tide goes against me.
+I see... So he means to take my measure, and change sides again if things go badly for me.
 @3.4
 The sly old fox. He had better not take me lightly.
 @3.5
@@ -73,7 +73,7 @@ I am \#251.
 @3.14
 I heard that you, Lord \#41C, have become head of the house, and came to offer my humble congratulations.
 @3.15
-Yes, thank you for coming. By the way, \#651... is the pine of Nihonmatsu a forked pine?
+Mm, good of you to come. By the way, \#651... is the pine of Nihonmatsu a forked pine?
 @3.16
 ...What do you mean by that?
 @3.17
@@ -81,9 +81,9 @@ How slow you are. You straddle the \#A50 and the \#81C and wonder which way to f
 @3.18
 What a strange thing to say... I have no such intention...
 @3.19
-I see. Then all is well. But I, \#41C, am not so soft.
+I see. Then all is well. But I, \#41C, am no easy mark.
 @3.20
-If you turn against us, be ready to die first.
+If you turn against us, be prepared to die.
 @3.21
 Ngh...! To be insulted so at a celebration... I take my leave!
 @3.22
@@ -101,7 +101,7 @@ That is why I gave him a little scare.
 @3.28
 I see... So \#651 has no intention of submitting to us?
 @3.29
-Yes, just so. And the \#A51 cannot be trusted.
+Yes, just so. And \#A51 is not to be trusted.
 @3.30
 Even if he joined us, he would switch back to the \#A50 the moment the tide turned.
 @3.31
@@ -209,7 +209,7 @@ Lord \#41A, Lord \#251 has come to see you.
 @5.1
 What, \#651?
 @5.2
-Yes, but he seems in an ugly mood... It might be best to send him home...
+Yes, but there is something menacing about him... It may be best to send him away...
 @5.3
 Hmm, what to do...
 @5.4
@@ -217,9 +217,9 @@ Meet him
 @5.5
 Send him away
 @5.6
-Well, it cannot be helped. I will see him.
+Hmm, very well. I will see him.
 @5.7
-Very well.
+Yes, my lord.
 @5.8
 Ah, sorry to keep you waiting. Now, what brings you here today?
 @5.9
@@ -229,7 +229,7 @@ Hmm, speak.
 @5.11
 Yes... I asked Lord \#41C to take us into his service, and he confiscated all the lands we have held for generations...
 @5.12
-At this rate my clan will starve. I beg you, retired lord, put in a word for us so that our lands may be confirmed.
+At this rate my clan will starve. I beg you, as the retired lord, put in a word for us so that our lands may be confirmed.
 @5.13
 Hmm... But the head of the \#81C house is \#41C.
 @5.14
@@ -241,7 +241,7 @@ Hm!? Did you say something?
 @5.17
 Then this is what I will do!
 @5.18
-Wh-what are you doing! Have you lost your mind!
+Wh-what are you doing!? Have you lost your mind!?
 @5.19
 I have not lost my mind! With you as hostage I will lure out that hateful brat and kill him!
 @5.20
@@ -257,7 +257,7 @@ Silence! \#41A!
 @5.25
 Y-you cur! Villain!
 @5.26
-Ah-ah! Come any closer and \#41A dies! Now, make way!
+Not so fast! Come any closer and \#41A dies! Now, make way!
 @5.27
 D-damn it...
 @5.29
@@ -271,7 +271,7 @@ He has surely come to ask for my help. If I see him, I may not be able to refuse
 @5.37
 \%03, here you are.
 @5.38
-Ah, \#41C. \#251 came to see me, you know. I pretended to be out and sent him away.
+Ah, \#41C. The truth is, \#251 came to see me. I pretended to be out and sent him away.
 @5.39
 Ha ha ha. I see.
 @5.40
@@ -297,7 +297,7 @@ We tried to rescue Lord \#41A, but...
 @5.50
 \#651's men surround Lord \#41A, and we cannot even get close.
 @5.51
-Curse you, \#651! Would you go that far to defy me, \#7FE!
+Curse you, \#651! Would you go so far as to defy me, \#7FE!?
 @5.52
 He cannot have got far yet. If we send pursuers at once, we may catch him.
 @5.53
@@ -343,7 +343,7 @@ My lord, the might of our \#81C house now surpasses every other daimyō.
 @7.1
 Yes, at last we have come this far... It has been a long road.
 @7.2
-Now the \#81C realm cannot be shaken.
+Now nothing can shake the \#81C hold on the realm.
 @7.3
 Just so. But it is not over yet. We must stay on our guard.
 @7.4
@@ -375,7 +375,7 @@ For \#62C, who had risen as an official, had earned the resentment of warrior da
 @8.7
 It seems Lord \#09E, Lord \#0A0 and others are voicing all sorts of grievances against Lord \#22C...
 @8.8
-They were all once retainers of the same Toyotomi... The old unity can no longer be had.
+They were all retainers of the same Toyotomi once... They will never be united as they were.
 @8.9
 How will Lord \#558 deal with \#62C... That will be worth watching.
 @8.10
@@ -383,11 +383,11 @@ If there is an upheaval now, the realm may fall into our hands.
 @9.0
 Have you heard already? There is word that Lord \#22C has been attacked!
 @9.1
-What! Things have moved already!
+What! It has started already!
 @9.2
 Seven men took part in the attack: \#09E, \#0B2, \#0B0, \#0DC, \#0A0, \#0C9 and \#09F!
 @9.3
-The warrior faction, it seems, could no longer stomach \#62C's high-handedness and resorted to an attack.
+It seems the warrior faction could no longer stomach \#62C's high-handedness and took up arms against him.
 @9.4
 ...And \#62C?
 @9.5
@@ -397,7 +397,7 @@ What! And Lord \#958? He handed \#62C over, I suppose?
 @9.7
 No, he rebuked the seven generals who pressed him and sent them away...
 @9.8
-Hmm... Lord \#958 is shrewd indeed... A deep thinker.
+Hmm... That is Lord \#958 for you... A shrewd man.
 @9.9
 Still, word is that this affair has all but ended Lord \#A2C's career.
 @9.10
@@ -411,7 +411,7 @@ So \#62C was beaten after all.
 @10.2
 \#22C was captured and executed! The daimyō who sided with \#62C have also been punished.
 @10.3
-Well, no judgement should fall on our house. But \#958's power will only grow...
+Well, our house should face no punishment. But \#958's power will only grow...
 @10.4
 But I have not given up hope of taking the realm. Another chance will come in time.
 @10.5
@@ -419,7 +419,7 @@ Some day I will bring down \#558!
 @10.6
 The real contest starts now. \%03, all of you, be ready!
 @10.7
-Yes, my lord! We understand.
+Yes, my lord! We are prepared.
 @10.8
 The battle that decided the realm was over all too quickly...
 @10.9
@@ -457,7 +457,7 @@ So you have come, \#41C.
 @11.4
 When you became head of your house, you shamed me at the celebration.
 @11.5
-And when I bowed low before you, you treated me as if to mock me!
+And when I humbled myself before you, you all but laughed in my face!
 @11.6
 I am not a man to bow to the whims of a whelp like you.
 @11.7
@@ -473,7 +473,7 @@ If he gets away into other lands with me, it will be no simple matter.
 @11.12
 \#41C! Shoot! Shoot, I say!!
 @11.13
-...Guns... Shoot him!
+...Bring the guns... Shoot him!
 @11.14
 Stop! Have you lost your mind, \#41C! Do you not care what becomes of your own father!?
 @11.15
@@ -503,7 +503,7 @@ Father! Fatheeer!
 @11.27
 Father... forgive me.
 @11.28
-Because I, \#41C, was not good enough... this is what became of you!
+Because I, \#41C, failed you... you have come to this!
 @11.29
 \#3FE met a cruel death through \#251's treachery.
 @11.30
@@ -511,23 +511,23 @@ But this event would give strength to \#01C's rise...
 @11.31
 \#651, you wretch! I will not forgive this!
 @11.33
-Put \#651 on display below the castle!! Crucify him!
+Expose \#651 in the castle town!! Crucify him!
 @11.34
 ...Yes, my lord.
 @11.35
-\#651, you wretch! Learn your lesson in hell!
+\#651, you wretch! Repent in hell!
 @11.36
-\#251 was then put on display below the castle in a gruesome state.
+\#251 was then exposed in the castle town, a gruesome sight.
 @11.37
-The deed of \#41C, enraged by his father's death, became known in every neighbouring province.
+News of what \#41C did in his rage over his father's death spread to every neighbouring province.
 @11.38
 As a result, he made enemies on every side.
 @11.39
-Father... please watch over me, \#41C, from now on...
+Father... please watch over your \#41C from now on...
 @11.47
-As a result, he turned every side against him.
+As a result, he made enemies on every side.
 @12.0
-Now then, \#51A... what will you do...
+Now then, \#51A... what will he do...
 @12.1
 I bring word! In the Kamigata, Lord \#22C has gathered the daimyō against \#958 and raised an army!
 @12.2
@@ -549,7 +549,7 @@ Yet if we do nothing, the \#91A can throw their full strength at the \#958 force
 @12.10
 Then the odds would be about even... But if Lord \#558 wins, from then on we will have Lord \#558 as our enemy...
 @12.11
-Indeed. Thinking of what is to come, we cannot stay out of it altogether.
+Indeed. With the future in mind, we cannot stay out of it altogether.
 @12.12
 Then the question is whether to attack \50F9, which will not affect the war, or \50FA, held by \#12B's picked troops...
 @12.13
@@ -567,21 +567,21 @@ We will take \50FA and hold the \#91A in check!
 @12.19
 Good! We attack \50F9!
 @12.20
-Pay no heed to \#51A and his men, strike at the \#958...
+\#51A, pay us no heed and strike at the \#958...
 @13.0
 I bring word! The enemy has left the castle and is charging toward us!
 @13.1
 And with reinforcements from the \#859, they are in great numbers.
 @13.2
-Ngh... Then we will hit them as if we were ready to die.
+Ngh... Then we must throw ourselves at them, ready to die.
 @13.3
-Push forward too! Not one step back!
+Advance to meet them! Not one step back!
 @14.0
 We did it! Somehow we have driven them back!
 @14.1
 I bring word. The enemy has withdrawn to the rear.
 @14.2
-Good. We too will pull back here and regroup.
+Good. We too will pull back for now and regroup.
 @14.3
 My lord! Fresh enemy troops are pouring in! W-we cannot hold out much longer!
 @14.4
@@ -613,7 +613,7 @@ My lord! I will hold them here! Please fall back!
 @14.19
 Do not worry! I will deal with them and be right back!
 @14.20
-Thank you, \#7FE... I leave this to you!
+Forgive me, \#7FE... I leave this to you!
 @14.21
 Aye! Leave it to me!
 @14.22
@@ -629,7 +629,7 @@ Hmph... G-guns, open fire!
 @14.27
 Aye!
 @14.28
-Ugh! Not yet! It is only a scratch!
+Ugh! I am not finished yet! It is only a scratch!
 @14.29
 Now, take his head!
 @14.30
@@ -643,13 +643,13 @@ Now, I must get back to the castle quickly...
 @14.34
 We got him! Finish him off!
 @14.35
-Ngh... How bitter...
+Ngh... To fall here...
 @14.36
 In \@001, \#3FE fought to save his lord in his hour of peril, and so ended his eventful life...
 @15.0
 I bring word! The \#BF0 army is fleeing in rout.
 @15.1
-Good! We will level the enemy castle in one blow!
+Good! We will take the enemy castle in one sweep!
 @15.2
 I bring word.
 @15.3
@@ -689,9 +689,9 @@ Yes, we have settled our long years of strife.
 @16.3
 Now Ōshū will be at peace.
 @16.4
-\%01, at last \50F9 has fallen!
+At last we have taken \50F9!
 @16.5
-Yes, the time has come for \#466 to pay his dues.
+Yes, \#466's day of reckoning has come.
 @16.6
 Yes... Our long years of conflict are over at last.
 @16.7
@@ -735,7 +735,7 @@ Now at last we can advance on the heartland.
 @17.12
 Good, \50F9 has fallen!
 @17.13
-This is the end of those pesky \#859.
+This is the end of those tiresome \#859.
 @17.14
 Yes, now at last we can advance on the heartland.
 @17.15
@@ -779,7 +779,7 @@ Yes, \%03!
 @21.0
 At this rate the castle will not fall! Let us withdraw!
 @21.1
-Yes, it is a pity we could not take the castle, but it cannot be helped.
+Yes, it is a pity we could not take the castle, but so be it.
 @21.2
 Well, we managed to hold the \#91A in check. We return home!
 @21.3
@@ -789,7 +789,7 @@ Yes, well done! Now, which side will win...
 @21.5
 Good, we withdraw for now.
 @21.6
-The battle was not decided.
+The battle ended without a victor.
 @22.2
 I bring word! Lord \#958's army has returned safely.
 @22.3
@@ -799,7 +799,7 @@ Yes! They came under attack from the \#866 army and seem to have had their hands
 @22.5
 Hmm... Curse the \#866 for meddling...
 @22.6
-Well, it cannot be helped. We withdraw.
+Well, no matter. We withdraw.
 @22.7
 Victory for our army!
 @22.8
@@ -819,7 +819,7 @@ But unless we unite Ōshū before then, we cannot speak to him as equals.
 @23.5
 If the \#81C are to claim mastery of the realm, we must settle things with the \#BF0.
 @23.6
-I know the risks. If we do not raise our army now, we will end forever as a mere country daimyō.
+I know the risks. If we do not raise our army now, we will remain a mere provincial daimyō forever.
 @23.7
 All of you, prepare to march.
 @24.0
@@ -833,9 +833,9 @@ The realm...
 @24.4
 Yes. To that end we must quickly subdue Ōu and advance on the heartland.
 @24.5
-Oh! We aim for a \#81C realm!
+Oh! So we aim for a realm ruled by the \#81C!?
 @24.6
-Yes, a \#81C realm. I ask all of you for ever more loyal service.
+Yes, a realm ruled by the \#81C. I count on all of you to serve more loyally than ever.
 @25.0
 Now, let us begin the council.
 @25.1
@@ -855,11 +855,11 @@ He says that ignoring the late Taikō's last wishes, arming himself and rebuildi
 @25.8
 This is a mere pretext... It is all a trap to lure out \#62C.
 @25.9
-A trap..., my lord?
+A trap... my lord?
 @25.10
 If he strikes the \#91A, who stand behind \#62C, \#62C will have no choice but to raise an army.
 @25.11
-If Lord \#558 turns his army on the \#91A, the Kamigata will be poorly guarded, the perfect chance to raise an army.
+If Lord \#558 turns his army on the \#91A, the Kamigata will be poorly guarded: the perfect chance to raise an army.
 @25.12
 I see... And joining with the \#91A, he could catch the enemy in a pincer...
 @25.13
@@ -873,25 +873,25 @@ Lord \#558 means to crush all his enemies and take the realm...
 @25.18
 Well, \#62C has no hope of winning.
 @25.19
-Then you will side with the \#958.
+Then you will side with the \#958?
 @25.20
 No, not that either. I have no intention of joining either side.
 @25.21
 Think about it. If both sides ruin each other, no one can say where the realm will go.
 @25.22
-The road to the realm that had slipped away is opening up again.
+The road to the realm, once so far off, is drawing near again.
 @25.23
 My lord...
 @25.24
 Good, then we march. First we watch what the \#91A do.
 @26.0
-Now we attack \50FA! That place is bound up with our fate. We will avenge my father!
+Now we attack \50FA! We have a score to settle there. We will avenge my father!
 @26.1
 Forgive me, my lord, but I must speak!
 @26.2
 Hm! \#7F0, do you object?
 @26.3
-At present the \#A50 and the \#859 are making a common front against the \#81C.
+At present the \#A50 and the \#859 are presenting a united front against the \#81C.
 @26.4
 If we attack \50FA, the \#859 will surely send troops too.
 @26.5
@@ -899,11 +899,11 @@ Rather than attack rashly, I think it best to find a way not to face so many at 
 @26.6
 Ngh! \#7F0, this battle is a matter of vengeance!
 @26.7
-Unless we take \50FA, my father's death will go unavenged! Why can you not see that!
+Unless we take \50FA, my father's death will go unavenged! Why can you not see that!?
 @26.8
 \%03, please calm yourself!
 @26.9
-We have enemies on every side because we put \#251's corpse on display and needlessly provoked them.
+We have enemies on every side because we exposed \#251's corpse and needlessly provoked them.
 @26.10
 Ngh... That is...
 @26.11
@@ -917,15 +917,15 @@ Press on
 @26.15
 This battle is called off.
 @26.16
-\%03... Well decided... well decided indeed.
+\%03... A wise decision... a wise decision indeed.
 @26.17
 Yes. But I cannot sit still forever.
 @26.18
 \50FA must fall soon... Is there no good way...
 @26.19
-If so, there is a way. Join hands with the \#9C0.
+Then there is a way. Ally with the \#9C0.
 @26.20
-The \#9C0? I see, so they hold the \#859 in check from behind.
+The \#9C0? I see, so we have them hold the \#859 in check from behind.
 @26.21
 Just so. Then the \#859 will not dare move their troops.
 @26.22
@@ -933,7 +933,7 @@ Good, send an envoy at once. Tell them we will strike the \#859, and ask for the
 @26.23
 Yes, my lord. At once.
 @26.24
-\#7F0, your opinion is reasonable.
+\#7F0, what you say is right.
 @26.25
 But this one battle I must fight.
 @26.26
