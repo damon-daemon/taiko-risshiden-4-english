@@ -1329,7 +1329,7 @@
 416c80	Nod in silence
 416c90	Gaze ardently
 416ca8	Scratch your head
-416cb8	days
+416cb8	nights
 416cc0	How many nights will you stay?
 416e08	Person Info
 416e18	Treatment
@@ -2185,7 +2185,7 @@
 423c50	Is "%sya" all right?
 423c70	No shop name entered.
 423c90	Stop entering the name?
-423cb0	"%s %s (%s %s)"\nIs this all right?
+423cb0	"%s %s"\nIs this all right?
 423ce0	, 
 423ce8	Family name
 423cf0	, 
@@ -2196,7 +2196,7 @@
 423d20	Given reading
 423d30	 not entered.
 423d50	Enter the new officer's name.
-423d70	Switch Input
+423d70	Switch Field
 423ef0	Job Info
 423f00	Mission Info
 423f10	Help

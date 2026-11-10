@@ -57,7 +57,7 @@ look for another.
 @28
 forget about it.
 @29
-"If it won't sing, %s, cuckoo."\nIs that all right?
+"If the cuckoo won't sing: %s"\nIs that all right?
 @30
 Then let the game begin.
 @31

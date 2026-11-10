@@ -48,8 +48,18 @@ def export_messages(img):
 def main():
     path = sys.argv[1] if len(sys.argv) > 1 else disc.CLEAN
     check_clean(path)
-    n = export_messages(cdimage.Image(path))
+    img = cdimage.Image(path)
+    recs = img.records()
+    for name in (disc.ELF, disc.DATA):          # the tools read these two files from extract/
+        os.makedirs(os.path.dirname(disc.extract(name)), exist_ok=True)
+        with open(disc.extract(name), 'wb') as f:
+            f.write(img.read_file(name, recs))
+    n = export_messages(img)
     print('script/msg: %d message blocks' % n)
+    import tl
+    bad = [k for k in range(n) if os.path.exists(os.path.join(TL, 'msg%02d.txt' % k)) and not tl.apply(k)]
+    if bad:
+        sys.exit('tl/: errors in message blocks %s' % bad)
     print('script/ ready; now run tools/build.py')
 
 if __name__ == '__main__':

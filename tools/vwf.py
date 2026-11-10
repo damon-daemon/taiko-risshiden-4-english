@@ -191,8 +191,10 @@ def text_wrap(org, w):
     the line there). Word wrap: a space never breaks (it may hang past the edge); the
     first character after a space returns the width of the whole word (up to a space,
     newline, end or kanji; ESC x y skipped; + positive area spacing per character), so a
-    word that does not fit moves to the next line. A word wider than the area, and any
-    other character, returns its own advance (as before: mid-word breaks)."""
+    word that does not fit moves to the next line. A word that starts with a digit takes
+    the following lower-case word with it (number + unit: "9.4 kan", "15 days"). A word
+    wider than the area, and any other character, returns its own advance (as before:
+    mid-word breaks)."""
     return assemble(org, [
         ('addu', 't9', 'ra', 'zero'),
         ('lbu', 'a0', 0, 's4'),
@@ -205,12 +207,15 @@ def text_wrap(org, w):
         ('lbu', 't8', -1, 's4'),
         ('bne', 't8', 'at', 'own'),            # not the start of a word
         ('addu', 't7', 's4', 'zero'),
+        ('lbu', 't8', 0, 's4'),                # t8 = 1: the word is a number, glue the
+        ('addiu', 't8', 't8', -0x30),          # next word if it is lower case ("9.4 kan")
+        ('sltiu', 't8', 't8', 10),
         ('addu', 't6', 'zero', 'zero'),
         'loop:',
         ('lbu', 'a0', 0, 't7'),
         ('beqz', 'a0', 'done'),
         ('addiu', 'at', 'zero', 0x20),
-        ('beq', 'a0', 'at', 'done'),
+        ('beq', 'a0', 'at', 'sp'),
         ('addiu', 'at', 'zero', 0x0A),
         ('beq', 'a0', 'at', 'done'),
         ('addiu', 'at', 'zero', 0x1B),
@@ -232,6 +237,15 @@ def text_wrap(org, w):
         ('addu', 't6', 't6', 'at'),
         ('b', 'loop'),
         ('addiu', 't7', 't7', 1),
+        'sp:',
+        ('beqz', 't8', 'done'),
+        ('lbu', 'at', 1, 't7'),
+        ('addiu', 'at', 'at', -0x61),
+        ('sltiu', 'at', 'at', 26),
+        ('beqz', 'at', 'done'),
+        ('addu', 't8', 'zero', 'zero'),        # once
+        ('b', 'char'),
+        ('nop',),
         'done:',
         ('lw', 'at', 8, 's5'),                 # area width
         ('slt', 'at', 'at', 't6'),
@@ -421,6 +435,173 @@ def nameplate_x(org, px, slot):
         ('movn', 'v0', 'v1', 'at'),
     ])
 
+CARD_PUTS = 0x191068    # CCardSprList::Create: jal bPuts (card name, list mode 6: +1 px/glyph)
+PUTS = 0x382FD0
+CARD_W, CARD_NAME_Y = 0x405210, 0x405254   # SIZE_CARD_GRP.w, POS_CARD_NAME.y (set at runtime)
+
+def card_name(org, px):
+    """Card name under the picture (card album, card lists): bPuts(a0 list, a1 name, a2 pt)
+    replaced. The game centred strlen x size/2 (size 20, 16 from 11 bytes). Now: one line
+    at size 20 if it fits the card width - 4; else two lines split at the most balanced
+    space (family / given name) at size min(14, fit), centred on the old line; no space:
+    one line shrunk to fit. Width = pixels at half 12 x size / 12 + 1 per byte (mode 6)."""
+    def width(p_slot, n_slot, out):          # out = p * s4 / 12 + n
+        return [('lw', out, p_slot, 'sp'), ('mult', out, out, 's4'), ('addiu', 'at', 'zero', 12),
+                ('div', out, 'at'), ('mflo', out), ('lw', 't0', n_slot, 'sp'), ('addu', out, out, 't0')]
+    def fit(p_slot, n_slot):                 # s4 = min(s4, (W - 4 - n) * 12 / p)
+        return [('lw', 't0', n_slot, 'sp'), ('addiu', 't2', 's3', -4), ('subu', 't2', 't2', 't0'),
+                ('addiu', 'at', 'zero', 12), ('mult', 't2', 't2', 'at'), ('lw', 't4', p_slot, 'sp'),
+                ('div', 't2', 't4'), ('mflo', 't2'), ('slt', 'at', 't2', 's4'), ('movn', 's4', 't2', 'at')]
+    def centre(reg):                         # pt.x = (W - reg) / 2
+        return [('subu', reg, 's3', reg), ('sra', reg, reg, 1), ('sw', reg, 0, 's2')]
+    def puts(name):
+        return [('sw', 's4', 0x34, 's0'), ('sw', 's4', 0x38, 's0'), ('addu', 'a0', 's0', 'zero'),
+                name, ('jal', PUTS), ('addu', 'a2', 's2', 'zero')]
+    return assemble(org, [
+        ('addiu', 'sp', 'sp', -0x80),
+        ('sq', 'ra', 0x50, 'sp'), ('sq', 's0', 0, 'sp'), ('sq', 's1', 0x10, 'sp'),
+        ('sq', 's2', 0x20, 'sp'), ('sq', 's3', 0x30, 'sp'), ('sq', 's4', 0x40, 'sp'),
+        ('addu', 's0', 'a0', 'zero'), ('addu', 's1', 'a1', 'zero'), ('addu', 's2', 'a2', 'zero'),
+        ('jal', STRLEN), ('addu', 'a0', 's1', 'zero'),
+        ('sw', 'v0', 0x60, 'sp'),                                    # n
+        ('jal', px), ('addu', 'a0', 's1', 'zero'),
+        ('sw', 'v0', 0x68, 'sp'),                                    # p
+        ('lui', 'at', 0x40), ('lw', 's3', CARD_W & 0xFFFF, 'at'),     # W
+        ('addiu', 's4', 'zero', 20)]
+        + width(0x68, 0x60, 't1') + [
+        ('addiu', 't2', 's3', -4),
+        ('slt', 'at', 't2', 't1'),
+        ('bnez', 'at', 'long'),
+        ('nop',)]
+        + centre('t1') + [
+        ('lui', 'at', 0x40), ('lw', 't1', CARD_NAME_Y & 0xFFFF, 'at'), ('sw', 't1', 4, 's2')]
+        + puts(('addu', 'a1', 's1', 'zero')) + [
+        ('b', 'out'),
+        ('nop',),
+        'long:',                                                     # most balanced space
+        ('lw', 'v0', 0x60, 'sp'),
+        ('addiu', 't5', 'zero', 0x7FFF),
+        ('addu', 't3', 'zero', 'zero'),
+        ('addu', 't7', 's1', 'zero'),
+        'scan:',
+        ('lbu', 't6', 0, 't7'),
+        ('beqz', 't6', 'scanned'),
+        ('addiu', 'at', 'zero', 0x20),
+        ('bne', 't6', 'at', 'next'),
+        ('subu', 't8', 't7', 's1'),                                  # |2 i - (n - 1)|
+        ('sll', 't8', 't8', 1),
+        ('subu', 't8', 't8', 'v0'),
+        ('addiu', 't8', 't8', 1),
+        ('bgez', 't8', 'abs'),
+        ('nop',),
+        ('subu', 't8', 'zero', 't8'),
+        'abs:',
+        ('slt', 'at', 't8', 't5'),
+        ('beqz', 'at', 'next'),
+        ('nop',),
+        ('addu', 't5', 't8', 'zero'),
+        ('addu', 't3', 't7', 'zero'),
+        'next:',
+        ('b', 'scan'),
+        ('addiu', 't7', 't7', 1),
+        'scanned:',
+        ('bnez', 't3', 'split'),
+        ('sw', 't3', 0x64, 'sp')]
+        + fit(0x68, 0x60) + width(0x68, 0x60, 't1') + centre('t1') + [   # one word: shrink
+        ('lui', 'at', 0x40), ('lw', 't1', CARD_NAME_Y & 0xFFFF, 'at'),
+        ('addiu', 't2', 'zero', 20), ('subu', 't2', 't2', 's4'), ('sra', 't2', 't2', 1),
+        ('addu', 't1', 't1', 't2'), ('sw', 't1', 4, 's2')]
+        + puts(('addu', 'a1', 's1', 'zero')) + [
+        ('b', 'out'),
+        ('nop',),
+        'split:',
+        ('sb', 'zero', 0, 't3'),
+        ('jal', px), ('addu', 'a0', 's1', 'zero'),
+        ('sw', 'v0', 0x6C, 'sp'),                                    # p1
+        ('lw', 'a0', 0x64, 'sp'),
+        ('jal', px), ('addiu', 'a0', 'a0', 1),
+        ('sw', 'v0', 0x70, 'sp'),                                    # p2
+        ('lw', 't3', 0x64, 'sp'), ('subu', 't0', 't3', 's1'), ('sw', 't0', 0x74, 'sp'),   # n1
+        ('lw', 't1', 0x60, 'sp'), ('subu', 't1', 't1', 't0'), ('addiu', 't1', 't1', -1),
+        ('sw', 't1', 0x78, 'sp'),                                    # n2
+        ('addiu', 's4', 'zero', 14)]
+        + fit(0x6C, 0x74) + fit(0x70, 0x78)
+        + width(0x6C, 0x74, 't1') + centre('t1') + [
+        ('lui', 'at', 0x40), ('lw', 't1', CARD_NAME_Y & 0xFFFF, 'at'),
+        ('addiu', 't1', 't1', 10), ('subu', 't1', 't1', 's4'), ('sw', 't1', 4, 's2')]
+        + puts(('addu', 'a1', 's1', 'zero'))
+        + width(0x70, 0x78, 't1') + centre('t1') + [
+        ('lw', 't1', 4, 's2'), ('addu', 't1', 't1', 's4'), ('sw', 't1', 4, 's2'),
+        ('lw', 'a1', 0x64, 'sp')]
+        + puts(('addiu', 'a1', 'a1', 1)) + [
+        ('lw', 't3', 0x64, 'sp'), ('addiu', 'at', 'zero', 0x20), ('sb', 'at', 0, 't3'),
+        'out:',
+        ('lq', 'ra', 0x50, 'sp'), ('lq', 's0', 0, 'sp'), ('lq', 's1', 0x10, 'sp'),
+        ('lq', 's2', 0x20, 'sp'), ('lq', 's3', 0x30, 'sp'), ('lq', 's4', 0x40, 'sp'),
+        ('jr', 'ra'),
+        ('addiu', 'sp', 'sp', 0x80),
+    ])
+
+# save/load file list (CFileButtonSpr::DrawView): the hero's name box drew "%s%s" of the save
+# header's family[12] (+0x28) and given[8] (+0x34) at x = (14 - strlen) x 6 + 24 (unsigned:
+# English names over 14 bytes went off-screen; the given name also overflowed into the lord
+# name at +0x3C). SetScenarioData now writes "Family Given" into the zeroed header reserve
+# at +0x60 (no given copy at +0x34); DrawView centres that by pixels (older saves: family).
+SAVE_GIVEN = 0x1EBB4C          # addiu a0,s1,0x34; jal szStrCpy (a1 = person record + 18)
+SAVE_DRAW = 0x1EB69C           # lw v0,8(s0) .. x for DrawFormatTextXY 0x1EB700
+SAVE_NAME = 0x60
+
+def save_name(org):
+    """a0 = save header, a1 = given name (person record + 18): header+0x60 = family + ' ' + given."""
+    return assemble(org, [
+        ('addiu', 'a0', 'a0', SAVE_NAME),
+        ('addiu', 't0', 'a1', -18),
+        'fam:',
+        ('lbu', 'at', 0, 't0'),
+        ('beqz', 'at', 'sep'),
+        ('addiu', 't0', 't0', 1),
+        ('sb', 'at', 0, 'a0'),
+        ('b', 'fam'),
+        ('addiu', 'a0', 'a0', 1),
+        'sep:',
+        ('addiu', 'at', 'zero', 0x20),
+        ('sb', 'at', 0, 'a0'),
+        ('addiu', 'a0', 'a0', 1),
+        'giv:',
+        ('lbu', 'at', 0, 'a1'),
+        ('sb', 'at', 0, 'a0'),
+        ('addiu', 'a1', 'a1', 1),
+        ('bnez', 'at', 'giv'),
+        ('addiu', 'a0', 'a0', 1),
+        ('jr', 'ra'),
+        ('nop',),
+    ])
+
+def save_name_x(org, px):
+    """a0 = save header: v1 = name (+0x60, or family +0x28 in older saves), v0 = x centred
+    in the 168-px box at 24."""
+    return assemble(org, [
+        ('addiu', 'sp', 'sp', -0x20),
+        ('sw', 'ra', 0x10, 'sp'),
+        ('addiu', 't8', 'a0', SAVE_NAME),
+        ('lbu', 'at', 0, 't8'),
+        ('bnez', 'at', 'ok'),
+        ('nop',),
+        ('addiu', 't8', 'a0', 0x28),
+        'ok:',
+        ('sw', 't8', 0x14, 'sp'),
+        ('jal', px),
+        ('addu', 'a0', 't8', 'zero'),
+        ('addiu', 'at', 'zero', 168),
+        ('subu', 'v0', 'at', 'v0'),
+        ('sra', 'v0', 'v0', 1),
+        ('addiu', 'v0', 'v0', 24),
+        ('lw', 'v1', 0x14, 'sp'),
+        ('lw', 'ra', 0x10, 'sp'),
+        ('jr', 'ra'),
+        ('addiu', 'sp', 'sp', 0x20),
+    ])
+
 def slot_adv(org, w, ptr, half, slot):
     """x at slot(sp) of the caller += WIDTH(ptr[-1], half)."""
     return assemble(org, [
@@ -482,6 +663,18 @@ def apply_vwf(elf, seg):
                                + [('nop',)] * 6))
         assert _word(elf, size) == 0x24020014
         _put(elf, size, assemble(size, [('lw', 'v0', slot, 'sp')]))
+    assert _word(elf, CARD_PUTS) == 0x0C000000 | PUTS >> 2
+    _put(elf, CARD_PUTS, assemble(CARD_PUTS, [('jal', _fn(seg, card_name, px))]))
+    assert _word(elf, SAVE_GIVEN) == 0x26240034 and _word(elf, SAVE_GIVEN + 4) == 0x0C000000 | 0x385EF0 >> 2
+    _put(elf, SAVE_GIVEN, assemble(SAVE_GIVEN, [('addu', 'a0', 's1', 'zero'), ('jal', _fn(seg, save_name))]))
+    assert _word(elf, SAVE_DRAW) == 0x8E020008 and _word(elf, SAVE_DRAW + 0x4C) == 0x27A40050
+    assert _word(elf, SAVE_DRAW + 0x5C) == 0x25080028 and _word(elf, SAVE_DRAW + 0x60) == 0x24690034
+    _put(elf, SAVE_DRAW, assemble(SAVE_DRAW, [
+        ('lw', 'a0', 8, 's0'), ('jal', _fn(seg, save_name_x, px)), ('nop',),
+        ('addu', 'a1', 'v0', 'zero'), ('addu', 't0', 'v1', 'zero'),
+        ('lw', 't1', 8, 's0'), ('addiu', 't1', 't1', 0x9F)]          # a zero byte: "%s%s" second %s
+        + [('nop',)] * 12))
+    _put(elf, SAVE_DRAW + 0x5C, assemble(SAVE_DRAW + 0x5C, [('nop',), ('nop',)]))
     assert _word(elf, NAMEPLATE_GLYPHS) == 0x2405000F
     _put(elf, NAMEPLATE_GLYPHS, assemble(NAMEPLATE_GLYPHS, [('addiu', 'a1', 'zero', 24)]))
     assert _word(elf, HELP_ADV) == 0x26100001 and _word(elf, HELP_ADV + 8) == 0x2463000C

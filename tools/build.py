@@ -5,10 +5,10 @@ usage: .venv/bin/python tools/build.py [clean.bin] [out.bin]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import cdimage, datafile, disc, elfseg, elfstr, elftables, evtl, meswin, msgbuf, msgfile, names, printfnum, scenhdr, scriptbuf, sentcase, setup, skillnames, statusbar, text, vwf
+import cdimage, datafile, disc, elfseg, gfx, elfstr, elftables, evtl, meswin, msgbuf, msgfile, nameentry, names, printfnum, scenhdr, scriptbuf, sentcase, setup, skillnames, statusbar, text, vwf
 
 ROOT = disc.ROOT
-SKIP = set(filter(None, os.environ.get('TR4_SKIP', '').split(',')))   # bisecting: names,tables,elfstr,events
+SKIP = set(filter(None, os.environ.get('TR4_SKIP', '').split(',')))   # bisecting: names,tables,elfstr,events,gfx
 
 def build_messages(data, elf):
     blocks = msgfile.blocks(datafile.entry(data, elf, setup.MSG_ENTRY), elf)
@@ -38,6 +38,7 @@ def main():
     scriptbuf.apply(elf, seg)
     printfnum.apply(elf, seg)
     skillnames.apply(elf, seg)
+    nameentry.apply(elf, seg)
     offs = msgfile.offsets(elf)
     msgbuf.apply(elf, seg, max(b - a for a, b in zip(offs[1:], offs[2:])))
     vwf.apply_vwf(elf, seg)
@@ -52,6 +53,10 @@ def main():
         if ev is not None:
             changes[61] = ev
         print('event scripts: %d files changed' % n)
+    if 'gfx' not in SKIP:
+        g = gfx.apply(lambda i: datafile.entry(data, elf, i))
+        changes.update(g)
+        print('graphics: %d entries' % len(g))
     clean_elf = img.read_file(disc.ELF, recs)
     if 'tables' not in SKIP:
         print('tables:', elftables.apply(elf, clean_elf, seg))

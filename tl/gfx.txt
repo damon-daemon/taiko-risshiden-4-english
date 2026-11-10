@@ -1,0 +1,172 @@
+# Graphics: entry.image<TAB>English (| between spots). See tools/gfx.py ITEMS.
+0.42	Loading...
+0.27	HP|Sick
+0.47	Basic
+0.48	Ability
+0.49	Bio
+3.7	New Game
+3.8	Continue
+3.9	Card Album
+3.10	Extras
+3.3	Press START Button
+0.1027	Spr|Sum|Aut|Win
+0.29	Max|Min
+0.25	Yes
+0.26	No
+0.41	HQ
+29.0	Go Home
+29.1	Castle
+29.2	Samurai Home
+29.3	Dojo
+29.4	Drill Ground
+29.5	Ninja House
+29.6	Training 1
+29.7	Training 2
+29.8	Training 3
+29.9	Training 4
+29.10	Inn
+29.11	Tavern
+29.12	Rice Shop
+29.13	Stable
+29.14	House
+29.15	Nanban House
+29.16	Nanban Temple
+29.17	Tea Master
+29.18	Smithy
+29.19	Physician
+29.20	Noble's House
+29.21	Palace
+29.22	Craftsman
+29.23	Merchant
+29.24	Temple
+29.25	Guild
+29.26	Develop
+29.27	Schemes
+26.1	Scenario 1|Storm of Owari|1560
+26.2	Scenario 2|Road to Paradise|1577
+26.3	Scenario 3|Dream in a Dream|1598
+26.4	Scenario 4|Warlord in Peril|1570
+26.5	Scenario 5|Monkey & Tanuki|1584
+26.6	Scenario 0|Embers of Chaos|1555
+26.8	If it won't sing,
+26.9	the cuckoo
+27.1	Family|~
+27.2	Given|~
+27.3	-ya
+20.2	Show|Castle|Town|Village
+28.1	Policy|Strategy|Focus
+28.2	Officer|Mission|Rating
+35.17	End|End
+35.19	Goal|kan
+50.7	Dealer|Roller
+50.16	Pinkoro
+50.17	Chinchirorin
+50.18	Oicho-Kabu
+32.0	Card Album|Hero|Titles|Duel|Battle|Places|Skills|Other
+32.2	Hero
+32.3	Titles
+32.4	Duel
+32.5	Battle
+32.6	Places
+32.7	Skills
+32.8	Other
+32.16	Hero Cards|Title Cards|Duel Cards|Battle Cards|Place Cards|Skill Cards|Other Cards|Collected|Collected|Collected|Collected|Collected|Collected|Collected
+32.1	Collected
+32.1001	-
+32.1016	-
+12.36	Draw
+12.37	Roar!!
+12.38	Mat Flip
+12.39	Cancel!
+12.40	Heal
+12.41	Musashi
+12.42	Kojirō
+12.43	Storm
+12.44	Hell
+12.45	Namusan!
+12.46	Desperation
+12.47	Assault
+12.48	Sword Saint
+12.49	No-Mind Cut
+12.50	Floating Boat
+12.51	Goban Cut
+12.52	Leaf Clash
+12.53	Two Swords
+12.54	Swallow Cut
+12.55	Victory
+12.56	Defeat
+12.57	Total Victory
+12.58	Total Defeat
+12.59	One Sword
+12.60	Demon Gale
+12.19	Tengu Scroll
+12.20	Iron Wall
+12.21	Vajra Might
+12.22	Great Might
+12.23	Remedy
+12.24	Dried Rice
+12.25	Dragon Haze
+12.26	Spring Bloom
+12.27	Ninja Monkey
+12.28	Ninja Dog
+12.29	Shadow Pin
+12.30	Body Blow
+12.31	Mutō-dori
+12.32	Pot Lid
+12.33	Clone
+12.34	Win Streak|W|L
+12.35	Attack|Defend
+12.1035	1|2|3|4|5|6|7|8|9
+12.2035	HP|VAL
+23.12	Triple|Straight|Rally|See Through|Special|Special
+23.1012	Attack|Swap|Turn|Plan
+23.2012	1|2|3|4|5|6|7|8|9
+23.16	Fall Back
+23.17	Hold
+23.18	Lure Ambush
+23.19	Rockfall
+23.20	Flooding
+23.21	Tunnelling
+23.22	Starve Out
+23.23	Tenfold Trap
+23.24	Woodpecker
+23.25	Pitfall
+23.26	Ambush
+23.27	Pursuit
+23.28	LDR:|Merit:||Foot:|Cav.:|Men:|Bow:|Navy:|Train:|Guns:|Strat:|Morale:
+23.29	LDR:|Merit:||Foot:|Cav.:|Men:|Bow:|Navy:|Train:|Guns:|Strat:|Morale:
+22.0	Sortie Army|Rice|Troops|Horses|Guns|Cannon|Training|Morale
+22.1	Army Leader|Total|Unassigned|Troops|Horses|Guns|Cannon|Rice|Unit 2|Unit 3|Unit 4|Unit 5
+22.152	Rice|Army Leader|LDR:|Men:|Morale:|Train:|Merit:|Unit 2|LDR:|Men:|Morale:|Train:|Merit:|Unit 3|LDR:|Men:|Morale:|Train:|Merit:|Unit 4|LDR:|Men:|Morale:|Train:|Merit:|Unit 5|LDR:|Men:|Morale:|Train:|Merit:
+22.153	Rice|Army Leader|LDR:|Men:|Morale:|Train:|Merit:|Unit 2|LDR:|Men:|Morale:|Train:|Merit:|Unit 3|LDR:|Men:|Morale:|Train:|Merit:|Unit 4|LDR:|Men:|Morale:|Train:|Merit:|Unit 5|LDR:|Men:|Morale:|Train:|Merit:
+22.142	L|2|3|4|5|L|2|3|4|5|L|2|3|4|5
+22.143	Men:|Morale:
+22.144	Men:|Morale:
+22.145	Merit:|Train:|Men:|Morale:|Stance:
+22.146	Merit:|Train:|Men:|Morale:|Stance:
+22.148	Top Merit|2nd Merit|3rd Merit
+22.149	Officer|Battle Merit -> Merit
+22.151	Castle Def.:|Men|Rice|Morale
+22.1151	vs|Leader:|Unit 2:|Unit 3:|Unit 4:|Unit 5:
+22.2151	Fair|Cldy|Rain|Snow
+33.0	Subject|Plays|Score|Grade|Report Card
+33.2	A
+33.3	B
+33.4	C
+33.5	F
+40.1	Finish
+43.1	Peach Pit|Peach Pit
+43.2	Citrus Peel|Citrus Peel
+43.3	Rhubarb|Rhubarb
+43.4	Licorice|Licorice
+43.5	Kudzu|Kudzu
+43.6	Mint|Mint
+43.7	Gentian|Gentian
+43.8	Bupleurum|Bupleurum
+45.15	Fast
+45.16	Rand
+45.19	End
+47.6	GO
+47.7	END|END
+50.19	Buta|Naki|Inketsu|Oicho|Nitako|Kabu|Santa|Shippin|Shini|Kuppin|Goke|Arashi|Roppō
+52.0	No.|Title|Volume

@@ -39,6 +39,7 @@ ASCII_LITERALS = {
 # strings whose conversions change with a code patch (elftl skips the conversion check)
 CODE_FORMATS = {
     0x40F418: '%6d.%d kan',   # statusbar.MONEY: printed instead of "%6d kan" when mon != 0
+    0x423CB0: '"%s %s"\nIs this all right?',   # nameentry: readings dropped (extra arguments ignored)
 }
 FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?[a-zA-Z]')
 
