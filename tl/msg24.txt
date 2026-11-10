@@ -367,11 +367,11 @@ I see through it all. As punishment, your property is confiscated. Be careful fr
 @65.2
 You scoundrel! I see through it all. As punishment, your property is confiscated! I'll spare your life, but watch yourself from now on!
 @67
-{01}C*{00}, what have you been doing! The deadline for %s is long past!
+{01}C*{00}, what have you been doing! The time for %s is long past!
 @67.1
-{01}C*{00}, what have you been doing! The deadline for %s is long past!
+{01}C*{00}, what have you been doing! The time for %s is long past!
 @67.2
-Too late! {01}C*{00}, what have you been doing! The deadline for %s is long past!
+Too late! {01}C*{00}, what have you been doing! The time for %s is long past!
 @68
 If this were the battlefield, {01}C!{00} would be executed on the spot! Take care from now on!
 @68.1
@@ -621,7 +621,7 @@ Gracious words! Then please give the order to your men!
 @115.2
 Good! Then give the order to your men!
 @116
-Yes, sir!
+Yes, my lord!
 @117
 {02}{01}g is now a vassal of the {02}{06}e.
 @118
@@ -641,7 +641,7 @@ Not at all. For your sake, it was only natural.
 @122.1
 Not at all. For your sake, it was only natural.
 @122.2
-Yes, sir! I'm honoured by your praise!
+Yes, my lord! I'm honoured by your praise!
 @123
 In praise of your deeds, I shall recommend you to the court for the post of "%s". Please continue to support me.
 @123.1
@@ -653,7 +653,7 @@ Oh! Thank you! Leave it to me!
 @124.1
 Oh! Thank you! Leave it to me!
 @124.2
-Y-yes, sir! An honour beyond my station!
+Y-yes, my lord! An honour beyond my station!
 @125
 In praise of your deeds, I grant you my {02}{15}d. Please continue to support me.
 @125.1
@@ -813,7 +813,7 @@ Raise training by {02}%d
 @173.11
 Add {02}%d troops
 @173.12
-Raise defense by {02}%d
+Raise defence by {02}%d
 @173.13
 Expand the castle
 @173.14
@@ -821,7 +821,7 @@ Look into one rōnin
 @173.15
 Gather some information
 @173.16
-Lower defense by {02}%d
+Lower defence by {02}%d
 @173.17
 Lower popular support by {02}%d
 @173.18

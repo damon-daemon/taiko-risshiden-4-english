@@ -385,11 +385,11 @@ Now, the target for the %s. Which castle will it be?
 @76.2
 Now, the target for the %s. Which castle is it?
 @77
-The defense of {02}{0D}d castle is already low. There's no need to lower it.
+The defence of {02}{0D}d castle is already low. There's no need to lower it.
 @77.1
-The defense of {02}{0D}d castle is already low. There's no need to lower it.
+The defence of {02}{0D}d castle is already low. There's no need to lower it.
 @77.2
-The defense of {02}{0D}d castle is already low. No need to lower it further.
+The defence of {02}{0D}d castle is already low. No need to lower it further.
 @78
 The target of the %s is {02}{0D}d, correct?
 @78.1

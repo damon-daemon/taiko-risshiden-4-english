@@ -8,7 +8,7 @@
 D=$(cd "$(dirname "$0")" && pwd); P="$D/hpress.sh"
 "$D/headless.sh" stop; timeout 2 tail -f /dev/null
 "$D/headless.sh" "$1" || exit 1; timeout 15 tail -f /dev/null
-"$P" /dev/null w w w w Return w w w w Return w w w w X w w w w w
+"$P" /dev/null w w w w Return w w w w Return w w w w Return w w w X w w w w w
 for k in $2; do "$P" /dev/null "$k" w; done
 "$P" /dev/null X w w X w w w w X w w w
 [ "$3" = /dev/null ] || "$D/hshot.sh" "$3"

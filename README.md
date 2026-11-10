@@ -28,6 +28,8 @@ your own copy of the game.
 | Title menu | Dialogue | Castle menu |
 | ![Abilities](docs/screenshots/04_abilities.png) | ![Biography](docs/screenshots/05_biography.png) | ![Event](docs/screenshots/06_event.png) |
 | Abilities | Officer biography | Event scene |
+| ![Name entry](docs/screenshots/07_name_entry.png) | ![Siege](docs/screenshots/08_siege.png) | ![Battle cards](docs/screenshots/09_battle_cards.png) |
+| Name entry | Siege | Battle cards |
 
 ## What's translated
 
@@ -124,9 +126,11 @@ README.txt. The disc image itself is never packaged.
 
 ## Known issues
 
-- **Most of the game is not play-tested.** Checked in play: the opening, castle town
-  and its shops, the first councils and missions, duels, a mock battle, several
-  mini-games, the lists and help pages. Reports with a screenshot are welcome.
+- **Most of the game is not play-tested.** Checked in play: the opening of scenario 1,
+  the castle town and its shops, the first councils and missions, duels, a mock battle
+  and a siege, several mini-games, the lists and help pages, and a small sample of the
+  story events. The later scenarios, field battles and most events have not been seen
+  on screen. Reports with a screenshot are welcome.
 - Long names are squeezed in narrow list columns and on small plates; they stay readable.
 - A few labels are abbreviated to fit ("Cav.", "S. General"), and court titles use a
   short form ("Owari-kami").
@@ -135,6 +139,8 @@ README.txt. The disc image itself is never packaged.
 - A sentence that starts after a quotation is sometimes capitalised wrongly.
 - Creating a new officer is only lightly tested. Its name entry has no space, apostrophe
   or macron keys, and the reading fields are gone (readings are not shown in English).
+- One mini-game, a quiz on kanji and proverbs, keeps its Japanese answer words: it
+  cannot be translated as it is.
 - Saves made before patching keep their Japanese officer names.
 
 Tested in PCSX2 only. Bug reports with a screenshot and where it happened are welcome.

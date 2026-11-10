@@ -239,9 +239,9 @@ I'll be glad if my knowledge is of use to you.
 @119
 How do I win a battle?
 @120
-The army that meets one of these conditions wins:\n- Destroy the enemy army commander's unit.\n- Make the enemy army commander's unit retreat.\n- In a siege, bring the castle's defense to 0. (attackers only)\n- In a siege, hold out for 30 days. (defenders only)\n- In a siege, the enemy accepts your peace offer. (defenders only)
+The army that meets one of these conditions wins:\n- Destroy the enemy army commander's unit.\n- Make the enemy army commander's unit retreat.\n- In a siege, bring the castle's defence to 0. (attackers only)\n- In a siege, hold out for 30 days. (defenders only)\n- In a siege, the enemy accepts your peace offer. (defenders only)
 @121
-When battle begins, judge which condition is easiest to meet. In field battles, aim for 0 troops in the enemy commander's unit if you're stronger, or for 0 morale if you're weaker.\nIn a siege of a castle with low defense, use special cards to bring defense to 0. Defenders, conversely, must fight with an eye on their defense.
+When battle begins, judge which condition is easiest to meet. In field battles, aim for 0 troops in the enemy commander's unit if you're stronger, or for 0 morale if you're weaker.\nIn a siege of a castle with low defence, use special cards to bring defence to 0. Defenders, conversely, must fight with an eye on their defence.
 @122
 I don't know how to form an army
 @123
@@ -275,7 +275,7 @@ Attack, Charge and Fire?
 @137
 Attack, Charge and Fire are together called normal attacks, but each has its own traits. Use them as the situation demands.\n"Attack" is for infantry, gunner and cannon units. It strikes the enemy directly, and your unit takes damage too.\n"Charge" is the cavalry's direct attack. Much like Attack, but stronger, and it may throw the enemy into confusion.
 @138
-Lastly, "Fire". Any troop type can use it: infantry and cavalry shoot bows, gunners guns, and cannon units cannon. "Fire" is an indirect attack, so your unit takes no damage when attacking. But Fire from infantry and cavalry is weak, so it's best for defense.
+Lastly, "Fire". Any troop type can use it: infantry and cavalry shoot bows, gunners guns, and cannon units cannon. "Fire" is an indirect attack, so your unit takes no damage when attacking. But Fire from infantry and cavalry is weak, so it's best for defence.
 @139
 "Fire" from gunner and cannon units is strong and may confuse the enemy. But it weakens in rain and snow, so take care.
 @140

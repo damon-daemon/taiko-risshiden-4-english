@@ -73,11 +73,11 @@ I
 @28.*
 I
 @29
-My liege
+my liege
 @29.1
-My lord
+my lord
 @29.2
-My lord
+my lord
 @30
 our liege
 @30.1
@@ -85,11 +85,11 @@ our lord
 @30.2
 our lord
 @31
-My liege
+my liege
 @31.1
-My lord
+my lord
 @31.2
-My lord
+my lord
 @32
 our liege
 @32.1

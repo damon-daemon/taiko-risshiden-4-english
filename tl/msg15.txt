@@ -167,7 +167,7 @@ You are that determined... Very well. Then I will share my fate with you, {01}C*
 @25.1
 You are that determined... Very well. Then I will share my fate with you, {01}C*{00}!
 @25.2
-...Yes, sir!
+...Yes, my lord!
 @26
 From this moment on, I proclaim myself a daimyō before the realm! This is a new beginning.
 @27
@@ -611,7 +611,7 @@ Right!
 @106.1
 Right!
 @106.2
-Yes, sir!
+Yes, my lord!
 @107
 Then first, let me see how your last mission went.
 @107.1
@@ -647,7 +647,7 @@ Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid.
 @110.3
 Last time, {01}C*{00}'s work stood out. {01}C*{00}, splendid.
 @111
-Yes, sir! I'm most grateful!
+Yes, my lord! I'm most grateful!
 @112
 Last time, {01}C*{00} did the best work. The rest of you, follow that example.
 @112.1
@@ -679,7 +679,7 @@ Right!
 @118.1
 Right!
 @118.2
-Yes, sir!
+Yes, my lord!
 @119
 I entrust {02}{0B}d to you. Please set out at once and govern the castle! Orders will follow.
 @119.1
@@ -691,7 +691,7 @@ Oh! Leave it to me!
 @120.1
 Oh! Leave it to me!
 @120.2
-Yes, sir! It's more than I deserve!
+Yes, my lord! It's more than I deserve!
 @121
 {01}C*{00}, I'm sending you as aide to {01}C+{00}. Please give {01}C+{00} good support.
 @121.1
@@ -699,13 +699,13 @@ Yes, sir! It's more than I deserve!
 @121.2
 {01}C*{00}! I appoint you aide to {01}C+{00}. Give {01}C+{00} good support!
 @122
-...Yes, sir!
+...Yes, my lord!
 @122.1
 Oh! Leave it to me!
 @122.2
 Oh! Leave it to me!
 @122.3
-Yes, sir! Leave it to me!
+Yes, my lord! Leave it to me!
 @123
 Then I'm counting on you.
 @123.1
@@ -717,13 +717,13 @@ Right!
 @124.1
 Right!
 @124.2
-Yes, sir!
+Yes, my lord!
 @125
 {01}C*{00}, congratulations on your promotion.
 @126
 Yes, I'm counting on you from now on too. You go ahead to the castle. I'll follow shortly.
 @127
-Yes, sir!
+Yes, my lord!
 @128
 {01}C*{00}, as you become a castle lord, please choose one aide.
 @128.1
@@ -745,7 +745,7 @@ Understood. Then I'll send {01}C+{00}. {01}C*{00}, I'm counting on you.
 @131.2
 Very well. Then I'll send {01}C+{00} as your aide. {01}C*{00}, I expect good work.
 @132
-Yes, sir!
+Yes, my lord!
 @133
 (Being made a castle lord is an honour, but... Shall I accept the order?)
 @134
@@ -801,11 +801,11 @@ I'm most grateful. I'll go on working for you.
 @143.1
 I'm most grateful. I'll go on working for you.
 @143.2
-Yes, sir, I'm most grateful. I'll show you even greater work.
+Yes, my lord, I'm most grateful. I'll show you even greater work.
 @144
-Now, about what comes next. As you know, our house's final goal is %s.
+Now, about what comes next. As you know, our house's final goal is "%s".
 @144.1
-Now, about what comes next. As you know, our house's final goal is %s.
+Now, about what comes next. As you know, our house's final goal is "%s".
 @145
 To expand our domain, this month our focus will be %s.
 @146
@@ -887,7 +887,7 @@ Right.
 @167.1
 Right.
 @167.2
-Yes, sir!
+Yes, my lord!
 @168
 ...{01}C*{00}'s view certainly has points worth hearing, but I think it's too soon.
 @168.1
@@ -975,7 +975,7 @@ Right.
 @196.1
 Right.
 @196.2
-Yes, sir!
+Yes, my lord!
 @197
 I ask you to take on the %s mission at {02}{0B}d.
 @197.1
@@ -1035,7 +1035,7 @@ Right, leave it to me.
 @205.1
 Right, leave it to me.
 @205.2
-Yes, sir! Leave it to me!
+Yes, my lord! Leave it to me!
 @206
 I'll give the others their missions too.
 @207
@@ -1115,11 +1115,11 @@ If you see this line, it's a bug.
 @208.36
 {01}C*{00}, raise the troops by at least {02}%d.
 @208.37
-{01}C*{00}, please raise defense by at least {02}%d.
+{01}C*{00}, please raise defence by at least {02}%d.
 @208.38
-{01}C*{00}, please raise defense by at least {02}%d.
+{01}C*{00}, please raise defence by at least {02}%d.
 @208.39
-{01}C*{00}, raise defense by at least {02}%d.
+{01}C*{00}, raise defence by at least {02}%d.
 @208.40
 If you see this line, it's a bug.
 @208.41
@@ -1137,11 +1137,11 @@ If you see this line, it's a bug.
 @208.47
 If you see this line, it's a bug.
 @208.48
-{01}C*{00}, I entrust 3,000 kan to you. Please lower their defense by at least {02}%d.
+{01}C*{00}, I entrust 3,000 kan to you. Please lower their defence by at least {02}%d.
 @208.49
-{01}C*{00}, I entrust 3,000 kan to you. Please lower their defense by at least {02}%d.
+{01}C*{00}, I entrust 3,000 kan to you. Please lower their defence by at least {02}%d.
 @208.50
-{01}C*{00}, I give you 3,000 kan. Lower their defense by at least {02}%d.
+{01}C*{00}, I give you 3,000 kan. Lower their defence by at least {02}%d.
 @208.51
 {01}C*{00}, I entrust 3,000 kan to you. Please lower their popular support by at least {02}%d.
 @208.52
@@ -1273,11 +1273,11 @@ Right, leave it to me.
 @211.1
 Right, leave it to me.
 @211.2
-Yes, sir!
+Yes, my lord!
 @211.3
 As you wish!
 @211.4
-Yes, sir!
+Yes, my lord!
 @211.5
 Understood!
 @211.6

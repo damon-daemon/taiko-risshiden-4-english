@@ -121,7 +121,7 @@
 23.12	Triple|Straight|Rally|See Through|Special|Special
 23.1012	Attack|Swap|Turn|Plan
 23.2012	1|2|3|4|5|6|7|8|9
-23.16	Fall Back
+23.16	Retire
 23.17	Hold
 23.18	Lure Ambush
 23.19	Rockfall
@@ -148,7 +148,7 @@
 22.149	Officer|Battle Merit -> Merit
 22.151	Castle Def.:|Men|Rice|Morale
 22.1151	vs|Leader:|Unit 2:|Unit 3:|Unit 4:|Unit 5:
-22.2151	Fair|Cldy|Rain|Snow
+22.2151	Fair|Cloud|Rain|Snow
 33.0	Subject|Plays|Score|Grade|Report Card
 33.2	A
 33.3	B

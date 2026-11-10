@@ -23,9 +23,9 @@ A unit can only attack the unit in front of it and the two beside that. In a sie
 @11
 ●Fire\nInfantry and cavalry shoot bows, gunners shoot guns, cannon fire cannon. No counter-attack. Gunner and cannon fire may confuse the enemy, but is weaker in rain or snow.\n●Wait\nWait and pass the turn to the next unit. Morale rises a little.
 @12
-●Orders\nArmy commander only. Tell your units which enemy to attack. Without orders, each unit acts as its commander sees fit.\n●Retreat\nRetreat and leave the field. If the army commander retreats, the battle is lost.\n●Ignore the army commander's orders?\nDisobey and you earn his anger. But win great merit, and that's another story.
+●Orders\nArmy commander only. Tell your units which enemy to attack. Without orders, each unit acts as its commander sees fit.\n●Flee\nRetreat and leave the field. If the army commander retreats, the battle is lost.\n●Ignore the army commander's orders?\nDisobey and you earn his anger. But win great merit, and that's another story.
 @13
-●Victory terms\nThe first army to meet any of these wins:\n◎Wipe out the enemy army commander's unit.\n◎The enemy army commander's unit retreats.\n◎In a siege, bring the castle's defense to 0. (attacker)\n◎In a siege, hold out for 30 days. (defender)\n◎In a siege, the enemy accepts your peace offer. (defender)
+●Victory terms\nThe first army to meet any of these wins:\n◎Wipe out the enemy army commander's unit.\n◎The enemy army commander's unit retreats.\n◎In a siege, bring the castle's defence to 0. (attacker)\n◎In a siege, hold out for 30 days. (defender)\n◎In a siege, the enemy accepts your peace offer. (defender)
 @14
 ●How a battle goes\n(1) Check the line-up before battle. As army commander you can change it.\n(2) In field battles, the army commander picks a formation.\n(3) The army commander gives orders to each unit.\n(4) On your turn, choose a command and an enemy unit as its target.\n(5) Attacking or being attacked opens the combat screen; after the fight you return to the battle map.\nRepeat (1)-(5) and aim for victory.
 @15
@@ -33,6 +33,6 @@ A unit can only attack the unit in front of it and the two beside that. In a sie
 @16
 ●How combat goes (cont.)\nAmong Straights, "1-2-3" is the strongest; otherwise higher numbers are stronger. Among Triples, "1-1-1" is the strongest; otherwise higher numbers are stronger.\nWith special cards, the type of card decides the result. Some take effect whether you win or lose.\nThis repeats until one unit is wiped out or falls back, or 5 turns pass; then you return to the battle map.
 @17
-●Wait\nYou take the enemy's attack without striking back, but suffer less damage than usual.\n●Secret Plan\nSwap a card in your hand for a special card. You can do this as many times as there are red war fans at the top right. Use the [Secret Plan] button or R2.\n●Fall Back\nFall back after taking the enemy's attack. Falling back lowers morale.
+●Wait\nYou take the enemy's attack without striking back, but suffer less damage than usual.\n●Secret Plan\nSwap a card in your hand for a special card. You can do this as many times as there are red war fans at the top right. Use the [Secret Plan] button or R2.\n●Retire\nFall back after taking the enemy's attack. Falling back lowers morale.
 @18
 ●Keys to victory\n[Secret Plan] swaps a card in your hand for a special card. How often you can use it depends on your Tactics level.\n[Attack] and [Charge] expose your unit to counter-attack, but hit harder than [Fire].\nIn rain or snow, gunner and cannon fire is weaker.

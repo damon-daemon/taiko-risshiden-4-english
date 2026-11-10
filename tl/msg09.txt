@@ -401,7 +401,7 @@ Why are you dawdling?!\nYou're an enemy now, get out!\nNever show your face to m
 @83.1
 ...Farewell!
 @83.2
-Yes, sir! I'll take my leave!
+Yes, my lord! I'll take my leave!
 @84
 {01}C*{00}!\nIs it true that you're becoming a rōnin?
 @85
@@ -843,7 +843,7 @@ You are too kind.\nI ask for your guidance from now on.
 @280
 We are working out our next strategy now.\nIt should be decided by the next council.\nWait until then.
 @281
-Our house's final goal is %s.
+Our house's final goal is "%s".
 @282
 So for the time being, to develop our lands, we are focusing on %s.
 @283
@@ -879,7 +879,7 @@ Oh!\nThat you would heed me is the greatest of honours!
 @298
 By the next council, we will work out a new strategy based on "%s".
 @299
-Yes, sir!
+Yes, my lord!
 @300
 ...There is certainly something worth hearing in {02}){B6}'s opinion, but I think it is too early.
 @301

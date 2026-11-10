@@ -33,7 +33,7 @@
 @16
 ●Ninja Search rules\nA ninja enters one of the castles, and they are shuffled.\nGuess which castle the ninja is in.
 @17
-●Mock Battle rules\nWin by bringing the enemy unit's troops or morale to 0, or making it retreat.\nYou can give up to 3 commands. If there is no winner after 3, it is a draw.\nIn mock battles other than [Train], you cannot use formations, [Secret Plan] or [Fall Back].
+●Mock Battle rules\nWin by bringing the enemy unit's troops or morale to 0, or making it retreat.\nYou can give up to 3 commands. If there is no winner after 3, it is a draw.\nIn mock battles other than [Train], you cannot use formations, [Secret Plan] or [Retire].
 @18
 ●Gun Target rules\nTargets drift in from left and right. When the sight appears, choose where to aim and fire with ○.\nBullets drift with the wind, so allow for it.\n[Tail] drops less\n[Head] drops more\n[Left] drifts left\n[Right] drifts right
 @19

@@ -277,7 +277,7 @@ The ultimate title, for a patron who backed artists and supported many works.
 @138
 The ultimate title, for a great judge of talent who found and promoted many overlooked men.
 @139
-Battle special card. Castle attackers only. A normal attack that also lowers the castle's defense.
+Battle special card. Castle attackers only. A normal attack that also lowers the castle's defence.
 @140
 Battle special card. Field battles only. Damage +50%.
 @141
@@ -289,9 +289,9 @@ Battle special card. Cavalry only. Charges twice in a row.
 @144
 Battle special card. Use when charging: fires guns, then charges twice.\nAllows mounted gunner units.
 @145
-Battle special card. Infantry only. Doubles damage and also lowers castle defense.
+Battle special card. Infantry only. Doubles damage and also lowers castle defence.
 @146
-Battle special card. For sieges and sea battles. Damage +50%, and lowers castle defense.
+Battle special card. For sieges and sea battles. Damage +50%, and lowers castle defence.
 @147
 Battle special card. Only when firing bows. Doubles damage.
 @148
@@ -301,7 +301,7 @@ Battle special card. Gun and cannon units defending a castle only. Fires 4 volle
 @150
 Battle special card. Gun and cannon units only. Fires 3 volleys in a row.
 @151
-Battle special card. For castle defense, field and sea battles. Snipes and wounds an enemy unit commander.
+Battle special card. For castle defence, field and sea battles. Snipes and wounds an enemy unit commander.
 @152
 Battle lasting card. Field battles only. Attack +50%.
 @153
@@ -311,15 +311,15 @@ Battle special card. Castle attackers only. Talks a defending unit commander int
 @155
 Battle special card. Castle defenders only. Makes the attacking army commander retreat, ending the battle.
 @156
-Battle lasting card. Castle attackers only. Lowers the enemy castle's defense every turn.
+Battle lasting card. Castle attackers only. Lowers the enemy castle's defence every turn.
 @157
-Battle special card. Castle attackers only. Greatly lowers castle defense.
+Battle special card. Castle attackers only. Greatly lowers castle defence.
 @158
 Battle lasting card. Castle attackers only. Cuts supply lines, lowering enemy morale every turn.
 @159
 Battle special card. Castle attackers only. Spreads ill rumours, greatly lowering enemy morale.
 @160
-Battle lasting card. Castle attackers only. Lowers castle defense and enemy morale every turn.
+Battle lasting card. Castle attackers only. Lowers castle defence and enemy morale every turn.
 @161
 Battle lasting card. Castle defenders only. Drops boulders every turn, killing many enemy troops.
 @162
@@ -329,17 +329,17 @@ Battle special card. A sure first strike, with no losses to your own unit.
 @164
 Battle lasting card. On a normal attack, even if the foe strikes first, you still strike after.
 @165
-Battle lasting card. Field battles only. Defense +20%.
+Battle lasting card. Field battles only. Defence +20%.
 @166
 Battle lasting card. Field battles only. Attack +20%.
 @167
-Battle lasting card. Field battles only. Defense +50%.
+Battle lasting card. Field battles only. Defence +50%.
 @168
-Battle lasting card. For castle defense and field battles. Cuts enemy troops when they attack directly. Works once.
+Battle lasting card. For castle defence and field battles. Cuts enemy troops when they attack directly. Works once.
 @169
 Battle special card. Restores one use of Secret Plan.
 @170
-Battle special card. For castle defenders. Restores castle defense.
+Battle special card. For castle defenders. Restores castle defence.
 @171
 Basic battle card. Makes a normal attack.
 @172
@@ -359,11 +359,11 @@ Formation card. Shaped like a flight of wild geese. For attack.\nAttack formatio
 @179
 Formation card. A dense mass, for a few to break through a larger army.\nAttack formation level 3
 @180
-Formation card. Spread like a crane's wings, to surround the foe.\nDefense formation level 1
+Formation card. Spread like a crane's wings, to surround the foe.\nDefence formation level 1
 @181
-Formation card. Units in a ring, facing foes on all sides.\nDefense formation level 2
+Formation card. Units in a ring, facing foes on all sides.\nDefence formation level 2
 @182
-Formation card. A crescent, best for defense; also called "backs to the water".\nDefense formation level 3
+Formation card. A crescent, best for defence; also called "backs to the water".\nDefence formation level 3
 @183
 Formation card. Moves like a snake, flexing to the foe's attack.\nMobile formation level 1
 @184

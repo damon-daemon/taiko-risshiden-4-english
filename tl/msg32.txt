@@ -43,11 +43,11 @@
 @21
 ◆Abilities that matter\nTactics, Speech: the higher, the bigger the crowd before the game starts. The higher skill counts.\nSword Hunt card: fewer "Revolt" cards in the mini-game.
 @22
-●Outline\nGo to the castle named and carry out Repair Castle. It takes 20 days.\nRepair Castle raises the castle's defense, so it is harder to take in battle.\n◆Procedure\nPlay the mini-game "Stone Hauling".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+●Outline\nGo to the castle named and carry out Repair Castle. It takes 20 days.\nRepair Castle raises the castle's defence, so it is harder to take in battle.\n◆Procedure\nPlay the mini-game "Stone Hauling".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
 @23
 ◆Abilities that matter\nBuilding: the higher, the more times you can use the chisel in the mini-game.\nSplit Works card: more uses of the chisel in the mini-game.
 @24
-●Outline\nGo to the castle named and carry out Expand Castle. It takes 20 days.\nExpand Castle raises the castle size, and with it the maximum defense, the maximum yield and unit commanders' troops.\n◆Procedure\nPlay the mini-game "Stone Hauling".\nA good enough result means the expansion succeeds.\nWhen done, return to the castle and report.
+●Outline\nGo to the castle named and carry out Expand Castle. It takes 20 days.\nExpand Castle raises the castle size, and with it the maximum defence, the maximum yield and unit commanders' troops.\n◆Procedure\nPlay the mini-game "Stone Hauling".\nA good enough result means the expansion succeeds.\nWhen done, return to the castle and report.
 @25
 ◆Abilities that matter\nBuilding: the higher, the more times you can use the chisel in the mini-game.\nTrade Network card: more uses of the chisel in the mini-game.
 @26
@@ -57,7 +57,7 @@
 @28
 ◆Abilities that matter\nNinjutsu: the higher, the harder you are to spot.\nTroops: the more, the easier you are to spot.\nSilent Step card: makes you harder to spot.
 @29
-●Outline\nGo to the castle named and carry out Sabotage (Castle). It takes 3 days.\nIt lowers the castle's defense, making it easier to take.\n◆Procedure\nPlay the mini-game "Ninja Search".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
+●Outline\nGo to the castle named and carry out Sabotage (Castle). It takes 3 days.\nIt lowers the castle's defence, making it easier to take.\n◆Procedure\nPlay the mini-game "Ninja Search".\nThe better the result, the more merit.\nWhen done, return to the castle and report.
 @30
 ◆Abilities that matter\nNinjutsu: the higher, the fewer castles in the mini-game.\nCastle size: the bigger, the faster the castles move.\nStone Pull card: better results.
 @31

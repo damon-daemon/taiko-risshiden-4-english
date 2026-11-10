@@ -43,7 +43,7 @@
 @21
 ●Main castle\nA main castle is marked "Main" ([M] in lists). It is the central castle of a province; ruling it raises the daimyō's power.\n●Affiliation (clan)\nThe clan that rules the castle.
 @22
-●Castle size\nFour levels: Small, Medium, Large and Giant. It affects the castle's maximum defense, troop growth and so on, and rises with Expand Castle. A mountain castle can only reach "Large".\n●Castle site\nThree kinds: flatland, mountain and harbour castles. The site affects the maximum castle size.
+●Castle size\nFour levels: Small, Medium, Large and Giant. It affects the castle's maximum defence, troop growth and so on, and rises with Expand Castle. A mountain castle can only reach "Large".\n●Castle site\nThree kinds: flatland, mountain and harbour castles. The site affects the maximum castle size.
 @23
 ●Castle lord\nThe officer appointed lord of the castle by the daimyō. The daimyō is lord of his own direct-rule castles, so direct-rule castles other than his residence have no lord.\n●Rice\nPaid by the people every September, used up by battles and the like. The higher the yield and popular support, the more is paid. (max 9999999)
 @24
@@ -51,7 +51,7 @@
 @25
 ●Yield\nCurrent yield / the most that can be farmed. The higher it is, the more war funds every month and rice every September, and the faster the population grows. It rises with New Fields. The maximum depends on castle size.\n●Mines\nCurrent mine output / the most that can be developed. The higher it is, the more war funds every month. It rises with Mine Work.
 @26
-●Popular support\nHow well you hold the people's hearts. The higher, the more war funds each month and rice in September. It rises with Win Hearts but falls naturally every September, and falls when other clans spread rumours. (max 100)\n●Defense\nHow strong the castle is. The higher, the harder it falls. It rises with Repair Castle; castle size sets the limit. (max: Small 50 to Giant 200)
+●Popular support\nHow well you hold the people's hearts. The higher, the more war funds each month and rice in September. It rises with Win Hearts but falls naturally every September, and falls when other clans spread rumours. (max 100)\n●Defence\nHow strong the castle is. The higher, the harder it falls. It rises with Repair Castle; castle size sets the limit. (max: Small 50 to Giant 200)
 @27
 ●Troops\nSoldiers in the castle. They grow with Separate Soldiers, and with population, yield, morale, castle size and so on. (max 50000)\n●Morale\nThe soldiers' fighting spirit. At 0 in battle a unit retreats. It rises with training at the drill ground. (max 100)\n●Training\nHow well drilled the soldiers are. The higher, the stronger their attacks in battle. It rises with Train. (max 100)
 @28

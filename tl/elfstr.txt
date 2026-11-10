@@ -463,7 +463,7 @@
 40d6d8	High
 40d6e0	Normal
 40d6e8	Low
-40d6f8	Defense
+40d6f8	Defence
 40d700	Unknown
 40d710	High
 40d718	Normal
@@ -533,7 +533,7 @@
 40db98	No results
 40dbb0	Learned everything in detail
 40dbd0	Learned some of the details
-40dbf0	Lowered defense by %y
+40dbf0	Lowered defence by %y
 40dc10	Lowered support by %y
 40dc30	Cut supplies at %s by %y percent
 40dc50	Raid on %s succeeded
@@ -570,7 +570,7 @@
 40df10	Bought %y cannon
 40df30	Raised training by %y
 40df50	Added %y troops
-40df70	Raised defense by %y
+40df70	Raised defence by %y
 40df90	Expanded the castle
 40dfa8	Surveyed %s
 40dfc0	Surveyed %y officers
@@ -578,7 +578,7 @@
 40dfe8	No results
 40e000	Learned everything in detail
 40e020	Learned some of the details
-40e040	Lowered defense by %y
+40e040	Lowered defence by %y
 40e060	Lowered support by %y
 40e080	Damaged military supplies
 40e0a0	Alliance talks succeeded
@@ -880,18 +880,18 @@
 410880	Mining
 410888	Training
 410890	Troops
-410898	Defense
+410898	Defence
 4108a8	Castle Size
-4108b0	Defense
+4108b0	Defence
 4108c0	Support
 4108d0	Supplies
-4108d8	Defense
+4108d8	Defence
 4108e0	Support
 4108f0	Yield
 4108f8	Mine
-410900	Defense
-410908	Defense
-410910	Defense
+410900	Defence
+410908	Defence
+410910	Defence
 410918	Support
 410928	Nothing special
 410938	None
@@ -1202,8 +1202,8 @@
 415d48	Defend
 415d50	Unite
 415d58	Defend
-415db8	Report
-415dc0	Council
+415db8	your report
+415dc0	the council
 415dc8	Support
 415dd8	Yield
 415de0	Mine cap
@@ -1217,8 +1217,8 @@
 415e28	cannon
 415e30	Training
 415e38	Troops
-415e40	Defense
-415e48	Defense
+415e40	Defence
+415e48	Defence
 415e50	Support
 415ee0	How much tribute will you pay?
 415ef8	kan
@@ -1503,7 +1503,7 @@
 418090	+%d
 418098	%s training
 4180a8	+%d
-4180b0	%s defense
+4180b0	%s defence
 4180c0	+%d
 4180c8	%s yield
 4180d8	+%d,000 koku
@@ -1558,11 +1558,11 @@
 418438	Arson
 418440	kan
 418450	How much will you invest?
-418468	Defense
+418468	Defence
 418470	Support
 4184a8	Talent
 4184b0	Search
-4184e0	Defense
+4184e0	Defence
 4184e8	Support
 418598	Market Prices
 4185a8	Work
@@ -1724,7 +1724,7 @@
 41d920	Yield
 41d928	Mine
 41d930	Support
-41d940	Defense
+41d940	Defence
 41d950	Castle
 41d958	Clan
 41d968	Troops
@@ -2124,20 +2124,20 @@
 420e10	OK
 420e18	Stop
 420e20	(%s)
-4216f0	Basic formation. Weak to all but Defense types.
-421720	Attack formation Lv.1  ◎Mobile  ×Defense
-421750	Attack formation Lv.2  ◎Mobile  ×Defense
-421780	Attack formation Lv.3  ◎Mobile  ×Defense
-4217b0	Defense formation Lv.1  ◎Attack  ×Mobile
-4217e0	Defense formation Lv.2  ◎Attack  ×Mobile
-421810	Defense formation Lv.3  ◎Attack  ×Mobile
-421840	Mobile formation Lv.1  ◎Defense  ×Attack
-421870	Mobile formation Lv.2  ◎Defense  ×Attack
-4218a0	Mobile formation Lv.3  ◎Defense  ×Attack
+4216f0	Basic formation. Weak to all but Defence types.
+421720	Attack formation Lv.1  ◎Mobile  ×Defence
+421750	Attack formation Lv.2  ◎Mobile  ×Defence
+421780	Attack formation Lv.3  ◎Mobile  ×Defence
+4217b0	Defence formation Lv.1  ◎Attack  ×Mobile
+4217e0	Defence formation Lv.2  ◎Attack  ×Mobile
+421810	Defence formation Lv.3  ◎Attack  ×Mobile
+421840	Mobile formation Lv.1  ◎Defence  ×Attack
+421870	Mobile formation Lv.2  ◎Defence  ×Attack
+4218a0	Mobile formation Lv.3  ◎Defence  ×Attack
 421948	Attack
 421950	Wait
 421958	Orders
-421960	Retreat
+421960	Flee
 421968	Attack
 421970	Charge
 421978	Fire
@@ -2149,21 +2149,21 @@
 421b38	OK
 421b40	Plan
 421b48	Wait
-421b50	Fall Back
+421b50	Retire
 421b58	Stop
 422180	Normal attack card
 422190	Normal attack card
 4221a0	Normal attack card
 4221b0	Cures confusion, raises morale
 4221d0	Removes enemy lasting cards
-4221f0	Priority 1/15. Normal attack, castle defense -3
+4221f0	Priority 1/15. Normal attack, castle defence -3
 422220	Priority 5/15. Damage +50%
 422240	Priority 3/15. Damage +50%
 422260	Priority 11/15. 3 charges in a row, confuses enemy
 422290	Priority 8/15. 2 charges in a row
 4222b0	Priority 14/15. Gun attack, then 2 charges
-4222e0	Priority 12/15. Double damage, castle defense -5
-422310	Priority 2/15. Damage +50%, castle defense -3
+4222e0	Priority 12/15. Double damage, castle defence -5
+422310	Priority 2/15. Damage +50%, castle defence -3
 422350	Priority 7/15. Double damage
 422370	Priority 9/15. 3 volleys in a row
 422390	Priority 13/15. 4 volleys in a row
@@ -2173,21 +2173,21 @@
 422410	Priority 6/15. 2 volleys in a row
 422430	If it works, enemy unit retreats
 422450	If it works, the siege is won
-422470	Castle defense -3 every turn
-422488	Castle defense -10
+422470	Castle defence -3 every turn
+422488	Castle defence -10
 4224a0	Enemy morale -3 every turn
 4224b8	Enemy morale -20
-4224d0	Enemy morale -5, castle defense -2 every turn
+4224d0	Enemy morale -5, castle defence -2 every turn
 422500	Enemy troops take losses every turn
 422518	Enemy morale -15
 422530	Priority 15/15. One-sided first strike
 422550	Can attack even if struck first
-422568	Defense +20%
+422568	Defence +20%
 422578	Attack +20%
-422588	Defense +50%
+422588	Defence +50%
 4225a0	Enemy takes losses when it attacks directly
 4225c0	Refills 1 secret plan
-4225d8	Restores castle defense
+4225d8	Restores castle defence
 423c50	Is "%sya" all right?
 423c70	No shop name entered.
 423c90	Stop entering the name?

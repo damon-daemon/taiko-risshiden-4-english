@@ -41,7 +41,7 @@ As you wish.
 @11.1
 Yes! I'm itching for a fight.
 @11.2
-Yes, sir.
+Yes, my lord.
 @11.3
 I'll surely live up to your hopes.
 @11.4
@@ -457,9 +457,9 @@ It can't be helped, we retreat!\nDon't let the enemy notice!!
 @135
 Hm... the enemy is pulling back...\nCould something so serious have happened that they must withdraw their army...?
 @136
-The army commander's unit of %s has been wiped out.
+The %s' army commander's unit has been wiped out.
 @137
-The castle's defense has fallen to 0.
+The castle's defence has fallen to 0.
 @138
 The {02}{06}e have held the castle.
 @139
@@ -497,11 +497,11 @@ Ha, leave it to me.\nI won't let you down!
 @145.4
 Ha, leave it to me.\nI won't let you down!
 @145.5
-Yes, sir!\nAs you say!
+Yes, my lord!\nAs you say!
 @145.6
 Yes!\nI will surely live up to your hopes!
 @145.7
-Yes, sir! I am most grateful!
+Yes, my lord! I am most grateful!
 @146
 Second in merit goes to {02}{02}g.\nKeep striving.
 @146.1
@@ -772,7 +772,7 @@ Good, we march!!
 @241
 {02}{02}f, I expect great deeds from you.
 @242
-Yes, sir!
+Yes, my lord!
 @243
 There is no base you can ask for reinforcements.
 @244
@@ -844,7 +844,7 @@ Conversely, if you put the enemy commander's unit out of action or take the cast
 @275
 A unit is out of action when it retreats, when its soldiers reach 0, or when its morale reaches 0.
 @276
-And a castle falls when its defense reaches 0.
+And a castle falls when its defence reaches 0.
 @277
 Have you understood so far?
 @278
@@ -932,9 +932,9 @@ Cards are also all replaced after a day.\nIf you hold "special tactic" cards, it
 @319
 Now... I'd rather not think about it, but there will be times you just can't win.\nAs they say, "victory and defeat are a soldier's lot".
 @320
-In that case choose "Fall Back".\n\n\n"Fall Back" acts second.\nIf it succeeds, you can break off the combat,\nbut it doesn't always succeed.
+In that case choose "Retire".\n\n\n"Retire" acts second.\nIf it succeeds, you can break off the combat,\nbut it doesn't always succeed.
 @321
-You can't "Fall Back" while confused.\nAnd don't forget that "Fall Back" lowers morale.
+You can't "Retire" while confused.\nAnd don't forget that "Retire" lowers morale.
 @322
 Also, sometimes every enemy unit\nwill be overwhelmingly strong\nand you won't stand a chance attacking.\nThen "Wait" for the next chance.\nIt not only saves your strength,\nit also raises morale slightly.\nThat's enough gloomy talk.\nWhen you go to battle,\nyou want to win great glory!
 @323
@@ -944,7 +944,7 @@ Come, come, you're a general now, with a unit to command.\nYou can't go on as yo
 @325
 Your job is to command your own unit and win the battle while raising your own "merit" as high as you can.
 @326
-"Merit" rises as you kill enemy soldiers\nand lower the castle's defense.\n\nYou can check your current merit\nwith the Info command.\nThe Info command is called up with the Triangle button.
+"Merit" rises as you kill enemy soldiers\nand lower the castle's defence.\n\nYou can check your current merit\nwith the Info command.\nThe Info command is called up with the Triangle button.
 @327
 Putting an enemy unit out of action raises merit a lot.\nAll the more if it's the enemy commander's!\nGo for it when you get the chance.\nAlso, when your unit attacks and\nputs an enemy unit out of action, it may now and then\nattack another enemy unit straight away.\nThis only seems to happen when your\nmorale is quite high, but if you beat them in a row\nyou can earn a lot of merit.
 @328

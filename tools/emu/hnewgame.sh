@@ -1,10 +1,11 @@
 #!/bin/bash
-# hnewgame.sh image.bin out.png : headless run from boot to msg21 #30 "ｿﾚﾃﾞﾊ、ｹﾞｰﾑｦ始ﾒﾏｽ"
+# hnewgame.sh image.bin out.png : headless run from boot through msg21 #30 "ｿﾚﾃﾞﾊ、ｹﾞｰﾑｦ始ﾒﾏｽ" to the
+# first line of the opening at Kiyosu castle (the title needs Start twice: intro skip, then menu)
 # (new game, scenario 1, first hero, default abilities and settings); screenshot of it
 D=$(cd "$(dirname "$0")" && pwd)
 "$D/headless.sh" stop; timeout 2 tail -f /dev/null
 "$D/headless.sh" "$1" || exit 1; timeout 15 tail -f /dev/null
-"$D/hpress.sh" /dev/null w w w w Return w w w w Up w X w w Return w w w X w w w   # title, はじめから (Up: the cursor starts on Continue once the card has saves), scenario 1
+"$D/hpress.sh" /dev/null w w w w Return w w w w Return w w w w Up w X w w Return w w w X w w w   # title, はじめから (Up: the cursor starts on Continue once the card has saves), scenario 1
 "$D/hpress.sh" /dev/null X w w X w w X w w w w X w w w              # intro, 可, hero list, details
 "$D/hpress.sh" /dev/null X w w X w w w w w X w w w         # abilities, confirm 可
 "$D/hpress.sh" /dev/null X w w w w X w w w X w w w w w w w w w w w w   # settings, OK, 可

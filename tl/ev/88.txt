@@ -1835,7 +1835,7 @@ Then I'll tell ye about expanding.
 @58.6
 Expanding means raising the "Size" of the target castle.
 @58.7
-When the castle gets bigger, its defense can go higher, and its yield limit goes up too.
+When the castle gets bigger, its defence can go higher, and its yield limit goes up too.
 @58.8
 As for how to do the mission, ye just enter the castle town of the castle ye took the expanding for.
 @58.9
@@ -1883,13 +1883,13 @@ Ah, there's something I'd like to ask you. What should I do to wreck a castle?
 @60.5
 Then let me tell you about wrecking a castle.
 @60.6
-Wrecking a castle means lowering the target castle's defense to help your side's attack.
+Wrecking a castle means lowering the target castle's defence to help your side's attack.
 @60.7
-A castle with high defense loses few of its soldiers even under attack.
+A castle with high defence loses few of its soldiers even under attack.
 @60.8
-So if you slip into the enemy castle before the battle and lower its defense, you will have the upper hand in the siege.
+So if you slip into the enemy castle before the battle and lower its defence, you will have the upper hand in the siege.
 @60.9
-With a high "Ninjutsu" skill, you can lower its defense more effectively.
+With a high "Ninjutsu" skill, you can lower its defence more effectively.
 @60.10
 As for how to carry out the mission, you simply enter the castle town of the castle you were assigned.
 @60.11
@@ -1911,13 +1911,13 @@ Ah, there's something I'd like to ask you. What should I do to repair a castle?
 @61.5
 Then let me tell you about repairs.
 @61.6
-Repairing means raising the target castle's defense to be ready for enemy attacks.
+Repairing means raising the target castle's defence to be ready for enemy attacks.
 @61.7
-A castle that sees a lot of fighting loses defense, and one day it falls.
+A castle that sees a lot of fighting loses defence, and one day it falls.
 @61.8
-The castle's "Size" sets the limit for defense, so a small castle's defense won't go up much.
+The castle's "Size" sets the limit for defence, so a small castle's defence won't go up much.
 @61.9
-And with a high "Building" skill, you can raise defense more effectively.
+And with a high "Building" skill, you can raise defence more effectively.
 @61.10
 As for how to do the mission... you just enter the castle town of the castle you took the repair for.
 @61.11
@@ -2411,9 +2411,9 @@ Don't ask
 @78.5
 Then let me tell you about wrecking a castle.
 @78.7
-A castle with high defense loses few of its soldiers even under attack.
+A castle with high defence loses few of its soldiers even under attack.
 @78.8
-So if you slip into the enemy castle before the battle and lower its defense, you will have the upper hand in the siege.
+So if you slip into the enemy castle before the battle and lower its defence, you will have the upper hand in the siege.
 @78.10
 As for the work, you simply enter the castle town of the castle you were assigned.
 @78.12
