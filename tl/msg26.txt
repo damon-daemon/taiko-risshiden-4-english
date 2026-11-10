@@ -3,7 +3,7 @@
 @1
 ●Leave this place\nPress ×.\n●About the passing of time\nEntering or leaving a building takes one period of time. The same goes for leaving a base for the outside.
 @2
-●[Return to base]\nTravel to your base automatically.\n●[Set destination]\nPick a destination from the map or a list.\n●[Wait here]\nWait where you are for the given number of days.\n●Shortcuts (yellow-green buttons, middle right)\nRegister up to 5 favourite destinations. To change one, press its button and choose [No] when asked whether to travel.
+●[Return Home]\nTravel to your base automatically.\n●[Destination]\nPick a destination from the map or a list.\n●[Wait Here]\nWait where you are for the given number of days.\n●Shortcuts (yellow-green buttons, middle right)\nRegister up to 5 favourite destinations. To change one, press its button and choose [No] when asked whether to travel.
 @3
 ●Go anywhere on the map\nPress × for cursor mode. Move the cursor to the place you want and press ○. You can also use L and R to jump the cursor to bases and people on the map.\n●Go somewhere you have been before\nPress □ to show up to 5 bases you have visited.
 @4

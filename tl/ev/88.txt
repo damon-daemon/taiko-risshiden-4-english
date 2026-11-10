@@ -2487,19 +2487,19 @@ When you travel far, sometimes you can't choose the place you want to go.
 @82.16
 I see... So to reach a faraway place I must go a little at a time?
 @82.17
-In such cases, [Set destination] is handy.
+In such cases, [Destination] is handy.
 @82.18
-Choose the [Set destination] card at the bottom right of the screen.
+Choose the [Destination] card at the bottom right of the screen.
 @82.19
 A map appears, and you choose your destination with the Circle button.
 @82.20
-To go home from a faraway town or castle, the [Return to base] card is handy.
+To go home from a faraway town or castle, the [Return Home] card is handy.
 @82.21
 But choosing places I go to again and again every single time is a bother.
 @82.22
 Never fear! For such times you can register the places you often go to.
 @82.23
-Above the [Return to base] card there is a card called [Unregistered].
+Above the [Return Home] card there is a card marked [Not Set].
 @82.24
 Press it with the Circle button and choose a place you often go to from the map.
 @82.25

@@ -41,6 +41,10 @@ CODE_FORMATS = {
     0x40F418: '%6d.%d kan',   # statusbar.MONEY: printed instead of "%6d kan" when mon != 0
     0x423CB0: '"%s %s"\nIs this all right?',   # nameentry: readings dropped (extra arguments ignored)
 }
+# named (non-literal) string symbols that hold text the game draws (found in the 2026-11 battle pass)
+NAMED = {'s_szBattlePlace', 's_szBattlePlaceSea', 's_strNotRegistered'}
+# elements of named char arrays (no symbol of their own: in place only): va -> element size
+FIXED = {0x411F00: 13, 0x411F0D: 13, 0x411F1A: 13}   # s_aachCommandButton[3][13]: world-map command cards
 FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?[a-zA-Z]')
 
 def _f(va):
@@ -73,11 +77,13 @@ class Elf:
         """[(symbol index, va, size, bytes)] of the string literals in the data."""
         out = []
         for i, (name, va, size) in enumerate(self.syms):
-            if name.startswith('@') and DATA_LO <= va < DATA_HI and size:
+            if (name.startswith('@') or name in NAMED) and DATA_LO <= va < DATA_HI and size:
                 b = self.data[_f(va):_f(va) + size]
                 s = b.split(b'\0')[0]
                 if _is_text(s) or va in ASCII_LITERALS:
                     out.append((i, va, size, s))
+        for va, size in FIXED.items():
+            out.append((-1, va, size, self.data[_f(va):_f(va) + size].split(b'\0')[0]))
         return out
 
 def _is_text(b):

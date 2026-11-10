@@ -980,6 +980,12 @@
 411ce0	Training 2
 411cf0	Training 3
 411d00	Training 4
+411f00	Return Home
+411f0d	Destination
+411f1a	Wait Here
+411f28	Battle of %s
+411f38	the Sea
+411f48	Not Set
 412580	Hand it over
 412590	Persuade with money
 4125a0	Call for help
