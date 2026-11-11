@@ -28,6 +28,9 @@ uses only v0/v1/at/a0, so callers can keep state in t registers. Sites:
   (STR_PX = pixel width at half cell 12, kanji 24: identical for Japanese text). Also
   patched the same way (other arithmetic, STRLEN12_OTHER): DrawCheckMessage 0x3D54D0,
   CEnvironmentWin 0x3E1730/0x3E1B78;
+- CHaikaJobStrButton::PutString / OnFocus (daimyō council, Give Missions list): the focused row is an
+  edged button copy drawn over the plain list text; its bPuts runs with mode 0 (HAIKA_PUTS)
+  so both copies get the same advances (the +1 px of edged text doubled the row);
 - CPersonButton::DrawName (castle-room nameplate, top right, font 20; the visible box is
   x 2-138 of its area): x was (14 - strlen) x 10 + 6 -> right-aligned at 138; names wider
   than 136 px (Hatakeyama Yoshitsugu...) get a narrower font width; the glyph array
@@ -435,6 +438,24 @@ def nameplate_x(org, px, slot):
         ('movn', 'v0', 'v1', 'at'),
     ])
 
+HAIKA_PUTS = (0x1FB6E0, 0x1FB81C)   # CHaikaJobStrButton::OnFocus / PutString: jal bPuts (focused
+                        # row of the retainer mission list; edged copy drawn over the plain list text)
+
+def haika_puts(org):
+    """bPuts with the list mode (a0+0x3C) cleared while the string is laid out, then set back
+    to 3 (edged): no +1 px per glyph, so the button text covers the list row's text."""
+    return assemble(org, [
+        ('addiu', 'sp', 'sp', -0x10),
+        ('sq', 'ra', 0, 'sp'),
+        ('jal', PUTS),
+        ('sw', 'zero', 0x3C, 'a0'),
+        ('addiu', 'at', 'zero', 3),
+        ('sw', 'at', 0x9C, 's0'),
+        ('lq', 'ra', 0, 'sp'),
+        ('jr', 'ra'),
+        ('addiu', 'sp', 'sp', 0x10),
+    ])
+
 CARD_PUTS = 0x191068    # CCardSprList::Create: jal bPuts (card name, list mode 6: +1 px/glyph)
 PUTS = 0x382FD0
 CARD_W, CARD_NAME_Y = 0x405210, 0x405254   # SIZE_CARD_GRP.w, POS_CARD_NAME.y (set at runtime)
@@ -665,6 +686,10 @@ def apply_vwf(elf, seg):
         _put(elf, size, assemble(size, [('lw', 'v0', slot, 'sp')]))
     assert _word(elf, CARD_PUTS) == 0x0C000000 | PUTS >> 2
     _put(elf, CARD_PUTS, assemble(CARD_PUTS, [('jal', _fn(seg, card_name, px))]))
+    haika = _fn(seg, haika_puts)
+    for va in HAIKA_PUTS:
+        assert _word(elf, va) == 0x0C000000 | PUTS >> 2 and _word(elf, va + 4) == 0
+        _put(elf, va, assemble(va, [('jal', haika)]))
     assert _word(elf, SAVE_GIVEN) == 0x26240034 and _word(elf, SAVE_GIVEN + 4) == 0x0C000000 | 0x385EF0 >> 2
     _put(elf, SAVE_GIVEN, assemble(SAVE_GIVEN, [('addu', 'a0', 's1', 'zero'), ('jal', _fn(seg, save_name))]))
     assert _word(elf, SAVE_DRAW) == 0x8E020008 and _word(elf, SAVE_DRAW + 0x4C) == 0x27A40050
