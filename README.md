@@ -82,6 +82,13 @@ The patched image has the same serial, so it uses the same memory card saves as 
 Japanese game. Officer names are stored in the save: a save made with the Japanese
 game keeps its Japanese names, so start a new game.
 
+## Cheat: all cards
+
+[docs/cheats.md](docs/cheats.md) has an optional cheat (PCSX2 `.pnach` and raw codes):
+**All cards** fills the Card Album (1,000 cards), which also makes every hero selectable
+in a new game and opens the extras tied to the number of cards. Save once in the game
+and the cards stay on the memory card.
+
 ## Building from source
 
 Requirements: Python 3.10+, `xdelta3` (for the patch file).
@@ -122,6 +129,7 @@ README.txt. The disc image itself is never packaged.
 | `tools/sentcase.py`, `printfnum.py` | Sentence capitals and plurals at run time; English numbers and money |
 | `tools/ftx.py`, `gfx.py` | Texture format and redrawn graphics |
 | `tools/package.py` | Makes the release zip (patch + README.txt with checksums) |
+| `tools/cheat.py`, `docs/cheats.md` | Unlock cheat (generator and the codes) |
 | `tools/dev/`, `tools/emu/` | Development helpers (disassembly, PCSX2 automation) |
 
 ## Known issues
