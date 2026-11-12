@@ -2371,7 +2371,7 @@
 425fb0	To War
 425fb8	The Capital
 425fc0	Foreign Winds
-425fd0	Assassin in the Dark
+425fd0	Shadow Assassin
 425fe0	Repose
 425ff0	Tenka Fubu
 426000	Prayer
@@ -2385,7 +2385,7 @@
 426058	Resolve
 426060	Backs to the Wall
 426070	Conqueror in Peril
-426080	The Road to Success
+426080	Road to Success
 426090	Dreams' End
 4260a0	Unite Realm
 4260b0	Though Wishes Fail
@@ -2433,7 +2433,7 @@
 426290	Duel: Peerless
 4262b0	Choose an officer.
 4262d0	Set the abilities.
-4262e8	Challenger
+4262e8	Player
 4262f0	Wins
 4262f8	Score
 426328	Challenger

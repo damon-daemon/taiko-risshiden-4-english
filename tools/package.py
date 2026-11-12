@@ -1,6 +1,6 @@
 """Package a release: release/<Name>_v<version>.zip with the xdelta patch and README.txt.
 
-usage: .venv/bin/python tools/package.py 0.9.1
+usage: .venv/bin/python tools/package.py 0.9.2
 
 Run tools/build.py first. README.txt is generated from README.md (the notice, the
 "What's translated", "Known issues" and "Credits" sections) plus patching

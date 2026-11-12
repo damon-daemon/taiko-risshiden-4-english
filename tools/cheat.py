@@ -114,7 +114,7 @@ anything inside a playthrough (money, stats, items, the cards your hero holds).
 3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick
    "All cards") and start it.
 
-Tested in PCSX2 2.4 with the English patch v{version}: the Card Album shows 1000 cards
+Tested in PCSX2 2.4 with the English patch v0.9.1 (the addresses are the same in every release): the Card Album shows 1000 cards
 (100%), and it still does after saving and starting again without the cheat.
 
 {pnach}
@@ -151,7 +151,7 @@ if __name__ == '__main__':
     built = os.path.join(ROOT, 'build', 'taiko_risshiden_4_en.bin')
     if cmd == 'doc':
         # doc [version] [image]: the release the example CRC is quoted for
-        version = sys.argv[2] if len(sys.argv) > 2 else '0.9.1'
+        version = sys.argv[2] if len(sys.argv) > 2 else '0.9.2'
         image = sys.argv[3] if len(sys.argv) > 3 else built
         path = os.path.join(ROOT, 'docs', 'cheats.md')
         with open(path, 'w') as f:

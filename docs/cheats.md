@@ -16,14 +16,14 @@ anything inside a playthrough (money, stats, items, the cards your hero holds).
 ## PCSX2
 
 1. Find the game's CRC: in PCSX2 it is shown in the game's Properties (Summary) and in
-   the log when the game starts. For the English patch v0.9.1 it is `68B6103D`; every
+   the log when the game starts. For the English patch v0.9.2 it is `E1C36BA8`; every
    release of the patch has a different CRC, the Japanese disc is `032DC710`.
 2. In PCSX2's `cheats` folder (Settings > Folders) create `SLPM-62105_<CRC>.pnach`
-   (e.g. `SLPM-62105_68B6103D.pnach`) and paste the block below into it.
+   (e.g. `SLPM-62105_E1C36BA8.pnach`) and paste the block below into it.
 3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick
    "All cards") and start it.
 
-Tested in PCSX2 2.4 with the English patch v0.9.1: the Card Album shows 1000 cards
+Tested in PCSX2 2.4 with the English patch v0.9.1 (the addresses are the same in every release): the Card Album shows 1000 cards
 (100%), and it still does after saving and starting again without the cheat.
 
 <details>
