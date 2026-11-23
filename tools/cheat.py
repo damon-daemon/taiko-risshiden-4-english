@@ -1,4 +1,4 @@
-"""PCSX2 cheat for the extras: every card collected (Card Album, playable heroes).
+"""PCSX2 cheats: every card collected (Card Album, playable heroes) and money.
 
 usage: .venv/bin/python tools/cheat.py doc                    -> docs/cheats.md
        .venv/bin/python tools/cheat.py pnach [image.bin] [dir]  -> <dir>/SLPM-62105_<CRC>.pnach
@@ -13,8 +13,13 @@ same in the Japanese and the English build; saved to the memory card's system fi
 - other cards 650-1005 (places, duel, titles, battle, formations, common, skills): bits
   at 0x4F305A. Six of them are not album cards (SCardBaseData.m_byAlbumType == 0, table
   0x402610) and are left alone; the album holds 1,000 cards.
+- money: the hero's money is a u32 at 0x557A60 in units of 100 mon (10 = 1 kan): +8 of
+  the user data at 0x557A58 (cGetUserData 0x37CC40, BSS, so a fixed address; read by
+  dwGetUserMoney 0x378770). AddUserMoney 0x378710 caps it at 1,000,000 (100,000 kan). The
+  cheat writes 999990 = 99,999 kan, as in the Taiko Risshiden V patch.
 The values are written continuously (patch=1), so the system data saved to the memory
-card keeps them: a player can save once and remove the cheat.
+card keeps them: a player can save once and remove the cheat. Money is per save: it
+stays at 99,999 kan while the cheat is on, and the last value is saved with the game.
 
 PCSX2 names a cheat file after the serial and the CRC of the main program, which changes
 with every build; the codes themselves do not, so docs/cheats.md lists them once.
@@ -28,9 +33,12 @@ ROOT = disc.ROOT
 SERIAL = disc.SERIAL
 HEROES, HERO_BASE = 650, 0x4F2DD0
 CARDS, CARD_BASE = 1006, 0x4F305A
+MONEY, MONEY_VALUE = 0x557A60, 999990    # 99,999 kan (units of 100 mon)
 CHEATS = [
     ('All cards', 'Collects every card of the Card Album (1000), which also makes every hero '
      'selectable in a new game. Save once in the game and it stays on the memory card.'),
+    ('Max money', 'Keeps the hero\'s money at 99,999 kan. Spending does not lower it while '
+     'the cheat is on; turn it off to play normally with what you have.'),
 ]
 
 def key(i):
@@ -51,7 +59,8 @@ def card_bits():
 def blocks():
     """(cheat index, base address, bytes)."""
     return [(0, HERO_BASE, bytes(key(i) for i in range(HEROES))),
-            (0, CARD_BASE, card_bits())]
+            (0, CARD_BASE, card_bits()),
+            (1, MONEY, struct.pack('<I', MONEY_VALUE))]
 
 def crc(elf):
     """PCSX2's game CRC: XOR of the ELF's 32-bit words."""
@@ -89,19 +98,22 @@ def pnach(elf_crc):
         lines += [''] + pnach_lines(c)
     return '\n'.join(lines) + '\n'
 
-DOC = """# Cheat: all cards
+DOC = """# Cheats: all cards, money
 
-An optional cheat for Taiko Risshiden IV ({serial}), English patch or Japanese disc:
+Two optional cheats for Taiko Risshiden IV ({serial}), English patch or Japanese disc:
 
 - **All cards**: collects every card of the Card Album (1,000: heroes, titles, duel,
   battle, skills, places, other). Hero cards are also what makes an officer selectable
   as the hero of a new game, so every hero becomes playable.
+- **Max money**: keeps the hero's money at 99,999 kan in any playthrough. Spending
+  doesn't lower it while the cheat is on. Turn it off to play normally with what you
+  have; the money you have is saved with the game.
 
-You only need it once: with the cheat on, load any save and **save again in the game**
+You only need All cards once: with the cheat on, load any save and **save again in the game**
 (or start a new game and save). The cards are then stored on the memory card and the
 cheat can be turned off. After that save the game congratulates you on each card
 milestone at once (300 cards, 700 cards, ...; with the extras they open, such as the mode
-for playing any mini-game): press through the messages. The cheat doesn't change
+for playing any mini-game): press through the messages. All cards doesn't change
 anything inside a playthrough (money, stats, items, the cards your hero holds).
 
 ## PCSX2
@@ -110,12 +122,14 @@ anything inside a playthrough (money, stats, items, the cards your hero holds).
    the log when the game starts. For the English patch v{version} it is `{crc_en}`; every
    release of the patch has a different CRC, the Japanese disc is `{crc_jp}`.
 2. In PCSX2's `cheats` folder (Settings > Folders) create `{serial}_<CRC>.pnach`
-   (e.g. `{serial}_{crc_en}.pnach`) and paste the block below into it.
-3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick
-   "All cards") and start it.
+   (e.g. `{serial}_{crc_en}.pnach`) and paste the blocks you want from below into it.
+3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick the ones
+   you want) and start it.
 
-Tested in PCSX2 2.4 with the English patch v0.9.1 (the addresses are the same in every release): the Card Album shows 1000 cards
-(100%), and it still does after saving and starting again without the cheat.
+Tested in PCSX2 2.4 with the English patch (the addresses are the same in every release):
+with All cards (v0.9.1) the Card Album shows 1000 cards (100%), and it still does after
+saving and starting again without the cheat; with Max money (v0.9.2) a loaded save shows
+99999 kan.
 
 {pnach}
 

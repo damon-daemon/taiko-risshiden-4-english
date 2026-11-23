@@ -1,16 +1,19 @@
-# Cheat: all cards
+# Cheats: all cards, money
 
-An optional cheat for Taiko Risshiden IV (SLPM-62105), English patch or Japanese disc:
+Two optional cheats for Taiko Risshiden IV (SLPM-62105), English patch or Japanese disc:
 
 - **All cards**: collects every card of the Card Album (1,000: heroes, titles, duel,
   battle, skills, places, other). Hero cards are also what makes an officer selectable
   as the hero of a new game, so every hero becomes playable.
+- **Max money**: keeps the hero's money at 99,999 kan in any playthrough. Spending
+  doesn't lower it while the cheat is on. Turn it off to play normally with what you
+  have; the money you have is saved with the game.
 
-You only need it once: with the cheat on, load any save and **save again in the game**
+You only need All cards once: with the cheat on, load any save and **save again in the game**
 (or start a new game and save). The cards are then stored on the memory card and the
 cheat can be turned off. After that save the game congratulates you on each card
 milestone at once (300 cards, 700 cards, ...; with the extras they open, such as the mode
-for playing any mini-game): press through the messages. The cheat doesn't change
+for playing any mini-game): press through the messages. All cards doesn't change
 anything inside a playthrough (money, stats, items, the cards your hero holds).
 
 ## PCSX2
@@ -19,12 +22,14 @@ anything inside a playthrough (money, stats, items, the cards your hero holds).
    the log when the game starts. For the English patch v0.9.2 it is `E1C36BA8`; every
    release of the patch has a different CRC, the Japanese disc is `032DC710`.
 2. In PCSX2's `cheats` folder (Settings > Folders) create `SLPM-62105_<CRC>.pnach`
-   (e.g. `SLPM-62105_E1C36BA8.pnach`) and paste the block below into it.
-3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick
-   "All cards") and start it.
+   (e.g. `SLPM-62105_E1C36BA8.pnach`) and paste the blocks you want from below into it.
+3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick the ones
+   you want) and start it.
 
-Tested in PCSX2 2.4 with the English patch v0.9.1 (the addresses are the same in every release): the Card Album shows 1000 cards
-(100%), and it still does after saving and starting again without the cheat.
+Tested in PCSX2 2.4 with the English patch (the addresses are the same in every release):
+with All cards (v0.9.1) the Card Album shows 1000 cards (100%), and it still does after
+saving and starting again without the cheat; with Max money (v0.9.2) a loaded save shows
+99999 kan.
 
 <details>
 <summary>.pnach: All cards (182 lines)</summary>
@@ -212,6 +217,17 @@ patch=1,EE,004F3080,word,FFFFFFFF
 patch=1,EE,004F3084,byte,FF
 patch=1,EE,004F3085,byte,FF
 patch=1,EE,004F3086,byte,0F
+```
+</details>
+
+<details>
+<summary>.pnach: Max money (4 lines)</summary>
+
+```
+[Max money]
+author=damon-daemon
+description=Keeps the hero's money at 99,999 kan. Spending does not lower it while the cheat is on; turn it off to play normally with what you have.
+patch=1,EE,00557A60,word,000F4236
 ```
 </details>
 
@@ -404,6 +420,14 @@ on a real PS2 may also need a master code for this game, which is not provided.
 004F3084 000000FF
 004F3085 000000FF
 004F3086 0000000F
+```
+</details>
+
+<details>
+<summary>Max money (1 lines)</summary>
+
+```
+20557A60 000F4236
 ```
 </details>
 
